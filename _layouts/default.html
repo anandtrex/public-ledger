@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-GB' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span class="wordmark-mark" aria-hidden="true">PL</span>
+          <span>{{ site.title }}</span>
+        </a>
+        <nav aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/politics/' | relative_url }}">Politics</a>
+          <a href="{{ '/economy/' | relative_url }}">Economy</a>
+          <a href="{{ '/society/' | relative_url }}">Society</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="site-main">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <span>{{ site.title }}</span>
+        <span>Evidence, explained.</span>
+      </div>
+    </footer>
+  </body>
+</html>

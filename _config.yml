@@ -1,0 +1,19 @@
+title: Public Ledger
+description: Visualisations and explainers on politics, the economy, and society.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - AGENTS.md
