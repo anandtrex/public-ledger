@@ -105,7 +105,7 @@
         hoverinfo: "none"
       };
     });
-    if (trendToggle.checked && points.length >= 2) {
+    if (points.length >= 2) {
       const xs = points.map((point) => Math.log10(point.gdp));
       const meanX = xs.reduce((a, b) => a + b, 0) / points.length;
       const meanY = points.reduce((sum, point) => sum + yValue(point), 0) / points.length;
@@ -116,7 +116,7 @@
         const residualSquares = points.reduce((sum, point, i) => sum + (yValue(point) - (meanY + slope * (xs[i] - meanX))) ** 2, 0);
         const rSquared = totalSquares > 0 ? Math.max(0, Math.min(1, 1 - residualSquares / totalSquares)) : null;
         const ends = [Math.min(...xs), Math.max(...xs)];
-        if (rSquared !== null && rSquared >= 0.5) traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared.toFixed(3)})`,
+        if (rSquared !== null && (rSquared >= 0.5 || trendToggle.checked)) traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared.toFixed(3)})`,
           x: ends.map((value) => 10 ** value), y: ends.map((value) => meanY + slope * (value - meanX)),
           line: { color: "#172321", width: 2, dash: "dot" }, hoverinfo: "skip" });
       }

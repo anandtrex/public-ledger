@@ -100,7 +100,7 @@
           x: group.map(x), y: group.map(y), customdata: group,
           marker: { symbol: "circle", size: group.map(row => row.gdp), sizemode: "area", sizeref: sizeRef, sizemin: 5, color: colors[region] || "#68756f", opacity: 0.8, line: {color:"#fffefa",width:1} }, hoverinfo:"none" };
       });
-      if (trend.checked && rows.length > 1) {
+      if (rows.length > 1) {
         const xs=rows.map(row=>absolute?Math.log10(x(row)):x(row));
         const ys=rows.map(row=>spec.log?Math.log10(y(row)):y(row));
         const mx=xs.reduce((a,b)=>a+b,0)/xs.length, my=ys.reduce((a,b)=>a+b,0)/ys.length;
@@ -111,7 +111,7 @@
           const residualSquares=ys.reduce((sum,v,i)=>sum+(v-(my+slope*(xs[i]-mx)))**2,0);
           const rSquared=totalSquares>0?Math.max(0,Math.min(1,1-residualSquares/totalSquares)):null;
           const ends=[Math.min(...xs),Math.max(...xs)];
-          if (rSquared !== null && rSquared >= 0.5) traces.push({ type:"scatter",mode:"lines",name:`Trend (R² = ${rSquared.toFixed(3)})`,x:ends.map(v=>absolute?10**v:v),y:ends.map(v=>spec.log?10**(my+slope*(v-mx)):my+slope*(v-mx)),line:{color:"#172321",dash:"dot",width:2},hoverinfo:"skip" });
+          if (rSquared !== null && (rSquared >= 0.5 || trend.checked)) traces.push({ type:"scatter",mode:"lines",name:`Trend (R² = ${rSquared.toFixed(3)})`,x:ends.map(v=>absolute?10**v:v),y:ends.map(v=>spec.log?10**(my+slope*(v-mx)):my+slope*(v-mx)),line:{color:"#172321",dash:"dot",width:2},hoverinfo:"skip" });
         }
       }
       await Plotly.react(chart,traces,{
