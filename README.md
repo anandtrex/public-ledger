@@ -20,3 +20,5 @@ In the repository’s **Settings → Pages**, select **Deploy from a branch**, t
 ## Adding content
 
 Add dated articles to `_posts/` using Jekyll’s `YYYY-MM-DD-title.md` naming pattern. Add standalone pages as Markdown with front matter. Keep datasets in `_data/` or beside the relevant visualisation, and document their source, units, date range, and limitations. Use `relative_url` for internal links and assets so the site works at both a domain root and a project subpath.
+
+The homepage lists all `_posts/` entries and standalone pages with `listed: true`, sorted newest first. Listed pages need `date`, `section`, `title`, and `description` front matter. The two existing visualisations use this metadata and keep their original URLs.
