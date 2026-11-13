@@ -96,7 +96,7 @@
     const traces = regions.map((region) => {
       const rows = points.filter((point) => point.region === region).sort((a, b) => Number(selectedCountries.has(a.code)) - Number(selectedCountries.has(b.code)));
       return {
-        type: "scatter", mode: "markers", name: region,
+        type: "scatter", mode: "markers", cliponaxis: false, name: region,
         x: rows.map((point) => point.gdp),
         y: rows.map(yValue),
         text: rows.map((point) => point.country),
@@ -114,9 +114,9 @@
         const slope = points.reduce((sum, point, i) => sum + (xs[i] - meanX) * (yValue(point) - meanY), 0) / variance;
         const totalSquares = points.reduce((sum, point) => sum + (yValue(point) - meanY) ** 2, 0);
         const residualSquares = points.reduce((sum, point, i) => sum + (yValue(point) - (meanY + slope * (xs[i] - meanX))) ** 2, 0);
-        const rSquared = totalSquares > 0 ? Math.max(0, Math.min(1, 1 - residualSquares / totalSquares)).toFixed(3) : "undefined";
+        const rSquared = totalSquares > 0 ? Math.max(0, Math.min(1, 1 - residualSquares / totalSquares)) : null;
         const ends = [Math.min(...xs), Math.max(...xs)];
-        traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared})`,
+        if (rSquared !== null && rSquared >= 0.5) traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared.toFixed(3)})`,
           x: ends.map((value) => 10 ** value), y: ends.map((value) => meanY + slope * (value - meanX)),
           line: { color: "#172321", width: 2, dash: "dot" }, hoverinfo: "skip" });
       }
@@ -128,8 +128,8 @@
       paper_bgcolor: "#fffefa", plot_bgcolor: "#fffefa",
       font: { family: "Arial, sans-serif", color: "#172321" },
       margin: { l: 65, r: 20, t: 25, b: 110 },
-      xaxis: { type: "log", autorange: false, range: axisRanges.nominal, title: { text: "Nominal GDP per capita (current US$ · log scale)", font: { size: 12 } }, gridcolor: "#e3e6df", tickprefix: "$", automargin: true },
-      yaxis: { autorange: false, range: absolute ? axisRanges.absolute : axisRanges.y, title: { text: absolute ? "R&D spending (current US$, billions)" : "R&D spending (% of GDP)", font: { size: 12 } }, rangemode: "tozero", ticksuffix: absolute ? "B" : "%", tickprefix: absolute ? "$" : "", gridcolor: "#e3e6df", automargin: true },
+      xaxis: { showline: true, linecolor: "#84918b", linewidth: 1, zeroline: false, side: "bottom", layer: "below traces", type: "log", autorange: false, range: axisRanges.nominal, title: { text: "Nominal GDP per capita (current US$ · log scale)", font: { size: 12 } }, gridcolor: "#e3e6df", tickprefix: "$", automargin: true },
+      yaxis: { type: "linear", showline: true, linecolor: "#84918b", linewidth: 1, zeroline: false, layer: "below traces", autorange: false, range: absolute ? axisRanges.absolute : axisRanges.y, title: { text: absolute ? "R&D spending (current US$, billions)" : "R&D spending (% of GDP)", font: { size: 12 } }, ticksuffix: absolute ? "B" : "%", tickprefix: absolute ? "$" : "", gridcolor: "#e3e6df", automargin: true },
       legend: { orientation: "h", y: -0.25, x: 0, font: { size: 11 } },
       hovermode: "closest", hoverdistance: 25,
       hoverlabel: { bgcolor: "#fffefa", bordercolor: "#172321", font: { color: "#172321", size: 13 } },
@@ -246,7 +246,7 @@
       return [minimum - padding, maximum + padding];
     };
     sizeReference = 2 * Math.max(...extents.total) / (55 ** 2);
-    axisRanges = { nominal: logRange(extents.nominal), y: [-Math.max(...extents.rd) * 0.07, Math.max(...extents.rd) * 1.05], absolute: [-Math.max(...extents.absolute) * 0.07, Math.max(...extents.absolute) * 1.05] };
+    axisRanges = { nominal: logRange(extents.nominal), y: [-Math.max(...extents.rd) * 0.10, Math.max(...extents.rd) * 1.10], absolute: [-Math.max(...extents.absolute) * 0.10, Math.max(...extents.absolute) * 1.10] };
 
     const years = [...new Set([...rdByCodeYear.keys()].filter((key) => gdpByCodeYear.has(key)).map((key) => key.split("-").pop()))]
       .map(Number).sort((a, b) => b - a);

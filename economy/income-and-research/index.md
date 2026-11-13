@@ -22,7 +22,7 @@ permalink: /economy/income-and-research/
         <h2 id="chart-heading">Income and research spending</h2>
       </div>
       <label class="year-control" for="spending-measure">R&amp;D measure <select id="spending-measure"><option value="absolute" selected>Absolute spending (US$)</option><option value="share">Share of GDP (%)</option></select></label>
-      <label class="year-control" for="chart-trend"><input type="checkbox" id="chart-trend" checked> Show trend</label>
+      <label class="year-control" for="chart-trend"><input type="checkbox" id="chart-trend" checked> Show trend (R² ≥ 0.5)</label>
       <label class="year-control" for="chart-year">Year <select id="chart-year" disabled><option>Loading…</option></select></label>
     </div>
     <details class="country-picker">
@@ -65,4 +65,4 @@ permalink: /economy/income-and-research/
 </article>
 
 <script src="{{ '/assets/vendor/plotly-basic-3.0.1.min.js' | relative_url }}" defer></script>
-<script src="{{ '/assets/js/income-rd-scatter.js' | relative_url }}" data-data-root="{{ '/data/income-and-research' | relative_url }}" defer onerror="document.getElementById('chart-status').textContent = 'Chart code failed to load. Check the script path in the browser network panel.'"></script>
+<script src="{{ '/assets/js/income-rd-scatter.js' | relative_url }}?v={{ site.time | date: '%s' }}" data-data-root="{{ '/data/income-and-research' | relative_url }}" defer onerror="document.getElementById('chart-status').textContent = 'Chart code failed to load. Check the script path in the browser network panel.'"></script>
