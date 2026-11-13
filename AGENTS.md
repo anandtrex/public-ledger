@@ -2,7 +2,7 @@
 
 ## Project Structure & Development
 
-Public Ledger is a Jekyll site for politics, economy, and society, hosted on GitHub Pages. Pages live under section directories, reusable markup under `_layouts/` and `_includes/`, and CSS, JavaScript, and vendored libraries under `assets/`. Store downloadable dataset snapshots and their provenance in `data/<visualisation>/`. Use `_data/` for Jekyll template data and `scripts/` for offline preparation. Never edit generated `_site/` files.
+Public Ledger is a Jekyll site for economy and society, hosted on GitHub Pages. Pages live under section directories, reusable markup under `_layouts/` and `_includes/`, and CSS, JavaScript, and vendored libraries under `assets/`. Store downloadable dataset snapshots and their provenance in `data/<visualisation>/`. Use `_data/` for Jekyll template data and `scripts/` for offline preparation. Never edit generated `_site/` files.
 
 Use `bundle install`, `bundle exec jekyll serve`, and `bundle exec jekyll build` for dependency installation, local preview, and production builds. Keep dependencies compatible with GitHub Pages. Use `relative_url` for local asset and page URLs so project subpaths work.
 
