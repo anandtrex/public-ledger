@@ -156,5 +156,18 @@ h1, h2, .topic-title { font-family: var(--serif); font-weight: 500; letter-spaci
 .home-posts .section-heading { margin-bottom: .65rem; align-items: center; }
 .home-posts .section-heading h2 { font-size: 1.45rem; }
 
+.output-spending-table { margin-top: 1.5rem; }
+.output-spending-table h2 { margin: 0 0 .6rem; font-size: clamp(1.5rem, 2.7vw, 2rem); }
+.output-spending-table > p { max-width: 900px; color: var(--muted); font-size: .85rem; line-height: 1.6; }
+.output-table-wrap { overflow-x: auto; }
+.output-table-wrap table { width: 100%; border-collapse: collapse; font-size: .85rem; font-variant-numeric: tabular-nums; }
+.output-table-wrap caption { padding: .5rem 0 .8rem; text-align: left; color: var(--muted); font-size: .8rem; }
+.output-table-wrap th, .output-table-wrap td { padding: .65rem .7rem; border-bottom: 1px solid var(--line); text-align: right; }
+.output-table-wrap th:first-child { text-align: left; }
+.output-table-wrap thead th { background: #e8ece5; }
+.output-table-wrap tbody th { font-weight: 500; }
 
-
+.output-table-wrap thead button { display: inline; padding: .2rem 0; border: 0; background: transparent; color: inherit; font: inherit; font-weight: 600; text-align: inherit; cursor: pointer; }
+.output-table-wrap thead button:hover { color: var(--green); }
+.output-table-wrap thead button:focus-visible { outline: 2px solid var(--green); outline-offset: 3px; }
+.sort-indicator { white-space: nowrap; }

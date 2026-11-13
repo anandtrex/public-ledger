@@ -21,7 +21,7 @@ permalink: /economy/research-spending-and-output/
       <label class="year-control" for="output-metric">Output <select id="output-metric" disabled><option value="top10">Top-10%-cited count</option><option value="top10share">Top-10%-cited share</option><option value="publications">Publication count</option><option value="impact">Normalized citation impact</option></select></label>
       <label class="year-control" for="output-field">Field <select id="output-field" disabled></select></label>
       <label class="year-control" for="output-year">Year <select id="output-year" disabled></select></label>
-      <label class="year-control" for="output-trend"><input type="checkbox" id="output-trend" checked disabled> Show trend</label>
+      <label class="year-control" for="output-trend"><input type="checkbox" id="output-trend" checked disabled> Show trend (R² ≥ 0.5)</label>
     </div>
     <p id="output-status" class="chart-status" role="status" aria-live="polite">Loading local research-output data…</p>
     <div class="chart-wrap">
@@ -29,6 +29,18 @@ permalink: /economy/research-spending-and-output/
       <div id="output-chart" class="income-rd-chart" role="img" aria-label="Scatter plot of national research spending and research output in the selected field"></div>
     </div>
     <p class="chart-hint">Hover for country details. Circle area represents total nominal GDP, with a minimum visible size. Scales stay fixed across years for the selected field and measures. Absolute spending and publication counts use logarithmic axes; percentages and normalized impact use linear axes. Drag to zoom or use the toolbar to export.</p>
+  </section>
+  <section class="output-spending-table" aria-labelledby="output-table-title">
+    <h2 id="output-table-title">Research output per US$1 billion spent</h2>
+    <p>All four metrics are shown for the selected year and research field, regardless of the chart’s output selector. Each column divides the reported metric by national R&amp;D spending in billions of current US dollars. The share and citation-impact columns therefore express percentage points and index points per US$1 billion, respectively.</p>
+    <div class="output-table-wrap">
+      <table>
+        <caption id="output-table-caption">Loading local data…</caption>
+        <thead><tr><th scope="col" aria-sort="none"><button type="button" data-output-sort="country">Country<span class="sort-indicator" aria-hidden="true"> ↕</span></button></th><th scope="col" aria-sort="none"><button type="button" data-output-sort="top10">Top-cited count / $1bn<span class="sort-indicator" aria-hidden="true"> ↕</span></button></th><th scope="col" aria-sort="none"><button type="button" data-output-sort="publications">Publication count / $1bn<span class="sort-indicator" aria-hidden="true"> ↕</span></button></th><th scope="col" aria-sort="none"><button type="button" data-output-sort="top10share">Top-cited share (pp) / $1bn<span class="sort-indicator" aria-hidden="true"> ↕</span></button></th><th scope="col" aria-sort="none"><button type="button" data-output-sort="impact">Citation impact (points) / $1bn<span class="sort-indicator" aria-hidden="true"> ↕</span></button></th></tr></thead>
+        <tbody id="output-spending-table-body"></tbody>
+      </table>
+    </div>
+    <p class="chart-hint">Only economies in the matched local snapshot are covered. Missing field-level metrics are shown as unavailable. Publication counts are fractional. This compares output in one field with spending across all research fields in the same year; it is not an estimate of the efficiency or causal return of that spending.</p>
   </section>
   <section class="analysis-notes">
     <div><p class="eyebrow">Read with context</p><h2>Investment and influence.</h2></div>
