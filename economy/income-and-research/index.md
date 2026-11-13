@@ -22,7 +22,7 @@ permalink: /economy/income-and-research/
         <h2 id="chart-heading">Income and research spending</h2>
       </div>
       <label class="year-control" for="spending-measure">R&amp;D measure <select id="spending-measure"><option value="absolute" selected>Absolute spending (US$)</option><option value="share">Share of GDP (%)</option></select></label>
-      <label class="year-control" for="chart-trend"><input type="checkbox" id="chart-trend"> Include trends with R² &lt; 0.5</label>
+      <label class="year-control" for="chart-trend"><input type="checkbox" id="chart-trend"> Show trend line</label>
       <label class="year-control" for="chart-year">Year <select id="chart-year" disabled><option>Loading…</option></select></label>
     </div>
     <details class="country-picker">
@@ -51,7 +51,7 @@ permalink: /economy/income-and-research/
     <div class="analysis-copy">
       <p>Each dot represents a country or territory for a year in which both measures are reported. GDP per capita is GDP divided by population. It describes average economic output per person, not the income received by a typical person or household.</p>
       <p>Nominal GDP per capita is expressed in current US dollars, converted at market exchange rates. It is not adjusted for inflation or differences in the cost of living, so exchange-rate movements can shift a country’s position. The logarithmic horizontal axis gives low and high values room to be compared.</p>
-      <p>Larger circles represent larger economies, measured by total nominal GDP. Countries missing total GDP are omitted. Absolute R&amp;D spending is calculated as total nominal GDP multiplied by the R&amp;D percentage divided by 100. It is shown in billions of current US dollars, without inflation adjustment. The dotted line is an unweighted ordinary least squares fit of the selected spending measure on log10 GDP per capita for the displayed countries. It appears by default only when R² is at least 0.5; use the checkbox to include weaker fits. The legend reports R². It describes association and does not establish causation.</p>
+      <p>Larger circles represent larger economies, measured by total nominal GDP. Countries missing total GDP are omitted. Absolute R&amp;D spending is calculated as total nominal GDP multiplied by the R&amp;D percentage divided by 100. It is shown in billions of current US dollars, without inflation adjustment. The dotted line is an unweighted ordinary least squares fit of the selected spending measure on log10 GDP per capita for the displayed countries. The checkbox defaults to showing the line when R² is above 0.5 and controls whether it appears. The legend reports R². It describes association and does not establish causation.</p>
       <p>R&amp;D spending includes basic research, applied research, and experimental development, as a share of GDP. Countries with missing data for either measure in the selected year are omitted. Regional and income-group aggregates are excluded.</p>
     </div>
   </section>

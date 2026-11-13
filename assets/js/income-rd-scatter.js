@@ -12,6 +12,7 @@
   let axisRanges;
   let sizeReference;
   let redraw;
+  let trendManuallySet = false;
   const svg = document.getElementById("income-rd-chart");
   const yearSelect = document.getElementById("chart-year");
   const status = document.getElementById("chart-status");
@@ -93,6 +94,7 @@
     const absolute = spendingMeasure.value === "absolute";
     const yValue = (point) => absolute ? point.total * point.rd / 100 / 1e9 : point.rd;
     const regions = [...new Set(points.map((point) => point.region))].sort();
+    if (!trendManuallySet) trendToggle.checked = false;
     const traces = regions.map((region) => {
       const rows = points.filter((point) => point.region === region).sort((a, b) => Number(selectedCountries.has(a.code)) - Number(selectedCountries.has(b.code)));
       return {
@@ -115,8 +117,9 @@
         const totalSquares = points.reduce((sum, point) => sum + (yValue(point) - meanY) ** 2, 0);
         const residualSquares = points.reduce((sum, point, i) => sum + (yValue(point) - (meanY + slope * (xs[i] - meanX))) ** 2, 0);
         const rSquared = totalSquares > 0 ? Math.max(0, Math.min(1, 1 - residualSquares / totalSquares)) : null;
+        if (!trendManuallySet) trendToggle.checked = rSquared !== null && rSquared > 0.5;
         const ends = [Math.min(...xs), Math.max(...xs)];
-        if (rSquared !== null && (rSquared >= 0.5 || trendToggle.checked)) traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared.toFixed(3)})`,
+        if (rSquared !== null && trendToggle.checked) traces.push({ type: "scatter", mode: "lines", name: `Trend (R² = ${rSquared.toFixed(3)})`,
           x: ends.map((value) => 10 ** value), y: ends.map((value) => meanY + slope * (value - meanX)),
           line: { color: "#172321", width: 2, dash: "dot" }, hoverinfo: "skip" });
       }
@@ -275,9 +278,9 @@
     };
     redraw = renderYear;
     yearSelect.value = String(years.includes(2020) ? 2020 : years[0]);
-    yearSelect.addEventListener("change", () => renderYear().catch(showError));
-    spendingMeasure.addEventListener("change", () => renderYear().catch(showError));
-    trendToggle.addEventListener("change", () => renderYear().catch(showError));
+    yearSelect.addEventListener("change", () => { trendManuallySet = false; renderYear().catch(showError); });
+    spendingMeasure.addEventListener("change", () => { trendManuallySet = false; renderYear().catch(showError); });
+    trendToggle.addEventListener("change", () => { trendManuallySet = true; renderYear().catch(showError); });
     const countryList = document.getElementById("country-options");
     const search = document.getElementById("country-search");
     const count = document.getElementById("country-selection-count");

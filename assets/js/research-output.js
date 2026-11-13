@@ -9,6 +9,7 @@
   const spending = document.getElementById("output-spending");
   const metric = document.getElementById("output-metric");
   const trend = document.getElementById("output-trend");
+  let trendManuallySet = false;
   const colors = { "East Asia & Pacific": "#c15c38", "Europe & Central Asia": "#2b7564", "Latin America & Caribbean": "#95662b", "Middle East & North Africa": "#8163a1", "North America": "#3473a0", "South Asia": "#b94a67", "Sub-Saharan Africa": "#74882d" };
   const metrics = {
     top10: { title: "Top-10%-cited publications (fractional count)", log: true },
@@ -87,6 +88,7 @@
     async function render() {
       tooltip.hidden = true;
       renderSpendingTable(data);
+      if (!trendManuallySet) trend.checked = false;
       const spec = metrics[metric.value];
       const absolute = spending.value === "absolute";
       const x = row => absolute ? row.spending / 1e9 : row.share;
@@ -110,8 +112,9 @@
           const totalSquares=ys.reduce((sum,v)=>sum+(v-my)**2,0);
           const residualSquares=ys.reduce((sum,v,i)=>sum+(v-(my+slope*(xs[i]-mx)))**2,0);
           const rSquared=totalSquares>0?Math.max(0,Math.min(1,1-residualSquares/totalSquares)):null;
+          if (!trendManuallySet) trend.checked = rSquared !== null && rSquared > 0.5;
           const ends=[Math.min(...xs),Math.max(...xs)];
-          if (rSquared !== null && (rSquared >= 0.5 || trend.checked)) traces.push({ type:"scatter",mode:"lines",name:`Trend (R² = ${rSquared.toFixed(3)})`,x:ends.map(v=>absolute?10**v:v),y:ends.map(v=>spec.log?10**(my+slope*(v-mx)):my+slope*(v-mx)),line:{color:"#172321",dash:"dot",width:2},hoverinfo:"skip" });
+          if (rSquared !== null && trend.checked) traces.push({ type:"scatter",mode:"lines",name:`Trend (R² = ${rSquared.toFixed(3)})`,x:ends.map(v=>absolute?10**v:v),y:ends.map(v=>spec.log?10**(my+slope*(v-mx)):my+slope*(v-mx)),line:{color:"#172321",dash:"dot",width:2},hoverinfo:"skip" });
         }
       }
       await Plotly.react(chart,traces,{
@@ -137,7 +140,9 @@
       chart.on("plotly_unhover",()=>{tooltip.hidden=true;});
       status.textContent=`${rows.length} countries and territories · ${year.value} · ${data.fields[field.value]}. Spending is national; output is for this research field.`;
     }
-    [year,field,spending,metric,trend].forEach(control=>{control.disabled=false;control.addEventListener("change",()=>render().catch(fail));});
+    [year,field,spending,metric].forEach(control=>{control.disabled=false;control.addEventListener("change",()=>{trendManuallySet=false;render().catch(fail);});});
+    trend.disabled=false;
+    trend.addEventListener("change",()=>{trendManuallySet=true;render().catch(fail);});
     document.querySelectorAll("[data-output-sort]").forEach(button => {
       button.addEventListener("click", () => {
         const key = button.dataset.outputSort;

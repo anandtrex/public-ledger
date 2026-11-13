@@ -22,7 +22,7 @@ Use circles whose area represents total nominal GDP, with a fixed size scale acr
 
 Use a single HTML tooltip for both text and background, with pointer events disabled and positioning constrained to the chart. Avoid duplicate markers and competing tooltip layers.
 
-Trend lines are dotted and toggleable. Show them only when the unrounded R² is at least 0.5; suppress weaker or undefined fits in every chart. Whenever shown, display R² to three decimals in the legend. Calculate it using the same observations and transformed coordinates as the fitted line; identify logarithmic fits and handle undefined statistics. Do not imply causation or same-year research efficiency.
+Trend lines are dotted and controlled by a “Show trend line” checkbox. For each current chart state, check it by default only when unrounded R² is greater than 0.5; otherwise leave it unchecked. The checkbox must show or hide the line immediately, including when users override the default. Whenever shown, display R² to three decimals in the legend. Calculate it using the same observations and transformed coordinates as the fitted line; identify logarithmic fits and handle undefined statistics. Do not imply causation or same-year research efficiency.
 
 The output chart uses field-specific OECD indicators across 27 disciplines, while spending is national. Explain this mismatch, fractional counting, citation limitations, and publication/funding lags. Do not sum overlapping fields into a national total.
 
