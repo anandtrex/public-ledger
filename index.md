@@ -5,7 +5,7 @@ description: Independent visualisations and explainers on public life.
 ---
 
 <header class="home-intro">
-  <h1>Economy &amp; society</h1>
+  <h1>Economy, society &amp; history</h1>
   <p>Visualisations and explainers on public life.</p>
 </header>
 
@@ -42,7 +42,7 @@ description: Independent visualisations and explainers on public life.
       <p class="eyebrow">Browse by subject</p>
       <h2 id="collection-title">The collection</h2>
     </div>
-    <span class="section-index">01 / 02</span>
+    <span class="section-index">01 / 03</span>
   </div>
   <div class="topic-grid">
     <a class="topic-card topic-economy" href="{{ '/economy/' | relative_url }}">
@@ -55,6 +55,12 @@ description: Independent visualisations and explainers on public life.
       <span class="topic-number">02</span>
       <span class="topic-label">People · Place · Opportunity</span>
       <span class="topic-title">Society</span>
+      <span class="topic-arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="topic-card topic-history" href="{{ '/history/' | relative_url }}" style="background: #dce7e1;">
+      <span class="topic-number">03</span>
+      <span class="topic-label">People · Power · Time</span>
+      <span class="topic-title">History</span>
       <span class="topic-arrow" aria-hidden="true">↗</span>
     </a>
   </div>

@@ -8,7 +8,7 @@ permalink: /about/
 <section class="page-intro">
   <p class="eyebrow">About this project</p>
   <h1>Evidence, with its working shown.</h1>
-  <p>Public Ledger is a home for visualisations and material about the economy and society.</p>
+  <p>Public Ledger is a home for visualisations and material about the economy, society, and history.</p>
   <div class="about-note">
     <h2>How we work</h2>
     <p>Each project should identify its data source, date range, units, and important limitations. Analysis and estimates should be labelled clearly, and charts should include enough context to be understood without relying on color alone.</p>

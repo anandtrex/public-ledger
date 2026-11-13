@@ -1,6 +1,6 @@
 # Public Ledger
 
-A Jekyll site for visualisations and explainers about the economy and society. It is configured to use the Jekyll and plugin versions supported by GitHub Pages.
+A Jekyll site for visualisations and explainers about the economy, society, and history. It is configured to use the Jekyll and plugin versions supported by GitHub Pages.
 
 ## Local development
 
