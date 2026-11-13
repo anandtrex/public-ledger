@@ -6,7 +6,7 @@ permalink: /economy/
 ---
 
 <section class="page-intro">
-  <p class="eyebrow">02 / Economy</p>
+  <p class="eyebrow">01 / Economy</p>
   <h1>What we make, earn, and share.</h1>
   <p>Visualisations and explainers about work, wealth, prices, and public finance.</p>
   <a class="economy-feature" href="{{ '/economy/research-spending-and-output/' | relative_url }}">

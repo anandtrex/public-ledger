@@ -21,7 +21,7 @@ permalink: /economy/research-spending-and-output/
       <label class="year-control" for="output-metric">Output <select id="output-metric" disabled><option value="top10">Top-10%-cited count</option><option value="top10share">Top-10%-cited share</option><option value="publications">Publication count</option><option value="impact">Normalized citation impact</option></select></label>
       <label class="year-control" for="output-field">Field <select id="output-field" disabled></select></label>
       <label class="year-control" for="output-year">Year <select id="output-year" disabled></select></label>
-      <label class="year-control" for="output-trend"><input type="checkbox" id="output-trend" checked disabled> Show trend (R² ≥ 0.5)</label>
+      <label class="year-control" for="output-trend"><input type="checkbox" id="output-trend" disabled> Include trends with R² &lt; 0.5</label>
     </div>
     <p id="output-status" class="chart-status" role="status" aria-live="polite">Loading local research-output data…</p>
     <div class="chart-wrap">
@@ -48,7 +48,7 @@ permalink: /economy/research-spending-and-output/
       <p>Spending covers the whole national R&amp;D system. Output covers only the selected research field. These comparisons describe associations across countries, not the return on spending in that discipline. The default is engineering, top-10%-cited publications, and 2020.</p>
       <p>Publication counts and top-cited counts use fractional counting to share credit between countries. Top-cited share is the percentage of a country's publications in the selected field among the world's 10% most cited. Normalized citation impact is expressed as a percentage of expected impact: 100 is the reference level. Citation measures reflect scholarly attention and do not capture every form of research value.</p>
       <p>Absolute spending is derived as nominal GDP × R&amp;D share ÷ 100. Both spending and publication year are matched exactly. Research can take years to produce publications, and citations accumulate afterward, so this same-year comparison should not be interpreted as research efficiency. Recent citation cohorts need particular care.</p>
-      <p>The dotted trend is an unweighted ordinary least squares fit in the displayed coordinates, using logarithms where the axes are logarithmic. The legend reports R² in those fitted coordinates, rather than the original units when a logarithm is used. Only countries with both spending and the selected output measure are included. Zero values cannot appear on logarithmic axes. Coverage varies by field and year.</p>
+      <p>The dotted trend is an unweighted ordinary least squares fit in the displayed coordinates, using logarithms where the axes are logarithmic. It appears by default only when R² is at least 0.5; use the checkbox to include weaker fits. The legend reports R² in those fitted coordinates, rather than the original units when a logarithm is used. Only countries with both spending and the selected output measure are included. Zero values cannot appear on logarithmic axes. Coverage varies by field and year.</p>
     </div>
   </section>
   <footer class="data-sources">
