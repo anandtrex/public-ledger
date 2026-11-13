@@ -1,0 +1,247 @@
+Venadu kingdom - Wikipedia (https://en.wikipedia.org/wiki/Venad)
+citeturn98view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Venad","lineno":null}); Total lines: 436
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 Administration】 Toggle Administration subsection
+L50:     * 【20†2.1 Residences】
+L51:     * 【21†2.2 Kur-vazhcha】
+L52:     * 【22†2.3 Swarupams】
+L53:     * 【23†2.4 Marriage alliances and adoptions】
+L54:   * 【24†3 Political history】 Toggle Political history subsection
+L55:     * 【25†3.1 Antecedents】
+L56:     * 【26†3.2 As Pandya tributaries】
+L57:     * 【27†3.3 Raids of Ravi Varma Kulasekhara】
+L58:     * 【28†3.4 Struggles with the Madurai sultans and the Vijayanagara】
+L59:     * 【29†3.5 In Colonial period】
+L60:   * 【30†4 Legacy】
+L61:   * 【31†5 Economy】
+L62:   * 【32†6 Rulers of Venadu (till 16th century)】 Toggle Rulers of Venadu (till 16th century) subsection
+L63:     * 【33†6.1 From 12th century onwards】
+L64:   * 【34†7 See also】
+L65:   * 【35†8 References】
+L66:   * 【36†9 Further reading】 Toggle Further reading subsection
+L67:     * 【37†9.1 Travancore government publications】
+L68:     * 【38†9.2 Modern publications】
+L69:     * 【39†9.3 Articles/research theses】
+L70: [Input] Toggle the table of contents
+L71: # Venadu kingdom
+L72: 
+L73: [Input] 8 languages
+L74: 
+L75:   * 【40†Français†fr.wikipedia.org】
+L76:   * 【41†עברית†he.wikipedia.org】
+L77:   * 【42†ಕನ್ನಡ†kn.wikipedia.org】
+L78:   * 【43†Lietuvių†lt.wikipedia.org】
+L79:   * 【44†മലയാളം†ml.wikipedia.org】
+L80:   * 【45†தமிழ்†ta.wikipedia.org】
+L81:   * 【46†తెలుగు†te.wikipedia.org】
+L82:   * 【47†اردو†ur.wikipedia.org】
+L83: 
+L84: 【48†Edit links†www.wikidata.org】
+L85: 
+L86:   * 【49†Article】
+L87:   * 【50†Talk】
+L88: 
+L89: [Input] English
+L90: 
+L91:   * 【49†Read】
+L92:   * 【51†View source】
+L93:   * 【52†View history】
+L94:   * 【17†Save】
+L95: 
+L96: [Input] Tools
+L97: 
+L98: Tools
+L99: [Button: move to sidebar] [Button: hide]
+L100: 
+L101: Actions
+L102: 
+L103:   * 【49†Read】
+L104:   * 【51†View source】
+L105:   * 【52†View history】
+L106:   * 【17†Save】
+L107: 
+L108: General
+L109: 
+L110:   * 【53†What links here】
+L111:   * 【54†Related changes】
+L112:   * 【55†Upload file】
+L113:   * 【56†Permanent link】
+L114:   * 【57†Page information】
+L115:   * 【58†Cite this page】
+L116:   * 【59†Get shortened URL】
+L117:   * 【60†Switch to legacy parser】
+L118: 
+L119: Print/export
+L120: 
+L121:   * 【61†Download as PDF】
+L122:   * Printable version
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【62†Wikidata item†www.wikidata.org】
+L127: 
+L128: Appearance
+L129: [Button: move to sidebar] [Button: hide]
+L130: 
+L131: (Redirected from 【63†Venad】)
+L132: 
+L133: This article is about the former state in southern India. For other uses, see 【64†Venad (disambiguation)】.
+L134: Venadu
+L135: ---
+L136: 12th century CE^{【65†[1]】}–18th century CE
+L137: VENADU (KOLLAM)
+L138: Capital  | 【66†Kollam (Quilon)】 (traditional capital)
+L139: Official languages  | 【67†Malayalam】
+L140: Religion  | 【68†Hinduism】
+L141: History  |
+L142: • Fall of the Chera state^{【65†[1]】}  | 12th century CE^{【65†[1]】}
+L143: • Raids of Ravi Varma Kulasekhara  | c. (circa) 1312–1316 CE
+L144: • Vijayanagara supremacy  | Early 16th century CE
+L145: • Tributes to the Madurai Nayaks  | 17th century CE
+L146: • Formation of 【69†Travancore】  | 18th century CE
+L147: Venadu, romanised as Venad, also known as Quilon, was a medieval state located between the 【70†Western Ghat Mountains】 and the 【71†Arabian Sea】, at the south-western tip of India, with its traditional capital at the port city of 【66†Kollam (Quilon)】.^{【72†[2]】}^{【65†[1]】} The Kingdom of Quilon included the present-day 【73†Kerala】 districts of 【74†Kollam】, 【75†Pathanamthitta】, southern parts of 【76†Alappuzha】, and 【77†Thiruvananthapuram】, as well as the 【78†Kanyakumari district】 of present-day Tamil Nadu.
+L148: Kanyakumari and Thiruvananthapuram are located to the south of capital town Quilon (Kollam). It was one of the major principalities of present-day 【73†Kerala】, along with the states of 【79†Kannur (Kolathunadu)】, 【80†Kozhikode (ruled by the Samoothiris)】, and 【81†Kochi (Perumpadappu)】, during the medieval and early modern periods.^{【72†[2]】}^{【82†[3]】}
+L149: Venadu, originally a chiefly territory within the 【83†medieval Chera state】 of Kerala, emerged as an independent principality — often referred to as the Chera kingdom — ruled by the Kulasekhara dynasty in the early 12th century CE.^{【72†[2]】} In the following period, Venadu came under the suzerainty of the expanding 【84†Pandya Empire】 and functioned as its tributary state.^{【85†[4]】} In the early 14th century CE, as the Pandya polity collapsed, 【86†Ravi Varma Kulasekhara】, the most ambitious ruler of Venadu, notably led a successful military expedition into 【87†the Tamil country】.^{【88†[5]】}^{【89†[6]】}
+L150: Records state that the 16th-century rulers of Venadu acknowledged the supremacy of the 【90†Vijayanagara rulers】.^{【91†[7]】} In the 17th century, the rulers of Venadu paid an annual tribute to the 【92†Nayaks of Madurai】.^{【93†[8]】} By this time, the old state of Venadu had fragmented into several collateral branches.^{【94†[9]】} The 【95†English East India Company】 established a factory at 【96†Vizhinjam】 in 1664, and a fort was built at 【97†Anjengo】 in 1695.^{【91†[7]】} Venadu later evolved into the modern state of 【69†Travancore】 in the 18th century CE, as feudal relations and medieval political authority were dismantled under 【98†Marthanda Varma】 (1729–1758), who is often credited as "the Maker of Travancore".^{【99†[10]】}
+L151: ## Etymology
+L152: 
+L153: According to 【100†Da San Bartolomeo】, a famous 【101†Austrian】 historian who resided in Kerala during the 17th century, the name 'Venadu' was derived from Venattu or Venadu, the 【67†Malayalam】 word for 'white,' which he associated with the white sand found in the regions near Venadu or Travancore, referring to a land with white sand.^{【102†[11]】}
+L154: Some early Tamil literature (【103†the Sangam Literature】) mentioned, the term "Venad" is a compound word consisting of "Vel" and "Nadu".^{【104†[12]】} The origin of the term can be traced back to "Velnad", where it referred to the settlement of the Vel people or kinship group, who were related to the 【105†Ay】 chieftains.^{【106†[13]】}^{【104†[12]】}
+L155: ## Administration
+L156: 
+L157: In general, the territorial extent of the state of Venadu may be understood as stretching from 【66†Kollam】 in the north to 【107†Tirunelveli】 in the south, notwithstanding the fluid and shifting nature of medieval political boundaries.^{【108†[14]】}
+L158: The rulers of Venadu traced their ancestry to the Vel chieftains, who were related to the Ays of early historic south India.^{【109†[15]】}^{【110†[16]】} It is recorded that as early as the 10th century CE, during the period of medieval Chera rule, the chiefs of Venadu used the surname suffix "Varma", denoting the 【111†Kshatriya】 status of their ruling line.^{【110†[16]】}^{【112†[17]】}^{【82†[3]】} The Venadu rulers, who also claimed descent from the medieval Chera rulers of Kerala, were known in the post-Chera period (after the early 12th century) as the Cheras or the Kulasekharas.^{【113†[18]】}^{【114†[19]】} The royal family or some of its branches also claimed to be 【111†Kshatriyas】 of the 【115†Yadu or Yadava】 lineage belonging to the 【116†Lunar Race】.^{【85†[4]】} Medieval Kerala traditions such as the "Kerala Mahatmya" also explain that the king anointed by 【117†Parashurama】 at Srivardhanapuri (Trivandrum) was a 【118†Soma】 【111†Kshatriya】.^{【119†[20]】}
+L159: ### Residences
+L160: Internal migrations or the establishment of new residences by the royal family or its branches are evident throughout the history of Venadu.^{【99†[10]】} Before the dissolution of the medieval Chera state of Kerala in the early 12th century CE, the rulers of Venadu were associated with the port of 【66†Kollam】, with "Panankavil Palace" serving as their royal residence.
+L161: Evidence from the 12th century indicates that the rulers of Venadu belonged to or lived in 【120†Keezhperoor】, Kilimanoor, while tradition also links them to Vadasery, 【121†Nagarcoil】. The ruling family had another residence at Trippappoor in Trivandrum, and at least during the 14th century, they lived at Tiruvitamcode in 【122†Kalkulam】.^{【99†[10]】}
+L162: From the 13th century, there is reference to a royal residence at 【123†Attingal】 (the Mother's House, "Kupaka" in Sanskrit^{【124†[21]】}), which was under a woman ruler, and in the early 14th century CE, the Venadu rulers moved to 【125†Kallada】, Kollam, forming a separate family branch that ruled the region of Jayasimhanadu or Desinganadu.^{【99†[10]】} From this time onwards, the rulers of Venadu usually prefixed to their names those of the two residences, "Kizhperur Trippappoor" and "Kizhperur Desinganadu".^{【99†[10]】}
+L163: Another important branch, the Chiravay House, originally based at Mayamkulum, Kollam, later migrated to southern Venadu; it did not control a separate region but claimed a share of the territory's income, and the senior princes of Venadu often assumed the title "Chiravay Muppu".
+L164: The Kunninmel Elayedam branch established itself at 【126†Kottarakkara】, controlling the territory up to the Western Ghats (the first reference to the title Kunninmel appears in the early 14th century, and references to Elayedam Branch appear regularly from the early 16th century), while the Perakattavazhi ruled the region of 【127†Nedumangadu】 near the Western Ghats, first mentioned in a record of the 16th century CE.^{【99†[10]】}
+L165: ### Kur-vazhcha
+L166: Political power in Venadu was organized through a hierarchy of rights within a 【128†matrilineal kinship structure (the marumakkathayam)】. The ruling family of Venadu itself was a network of several lineages.^{【99†[10]】} The system of succession in Venadu was based on the concept of "kuru", meaning the gradation of rights within a family.
+L167: References to "Ilankuru" or junior right holder appear as early as the 9th century CE, when Venadu was under Chera authority.^{【99†[10]】} This graded system, known as "kurvazhcha", determined the order of succession within the royal family.^{【99†[10]】}
+L168: Several Venadu inscriptions indicate that the state was supported by a body of warriors known as "arisippadijanam".^{【108†[14]】}
+L169: ### Swarupams
+L170: Political power in Venadu was exercised through extended royal joint families or lineages, known as "swarupams", which claimed descent from, or were related to, the original ruling family.
+L171: These included Trippappoor, Desinganadu, Chiravay, and later Elayadam.^{【99†[10]】}^{【112†[17]】} Each swarupam was headed by a family elder, known as the "mutta tiruvadi", followed by other male members ranked according to seniority ("mura").^{【99†[10]】} These swarupams followed a 【128†matrilineal system】, in which succession passed from uncle to nephew — not to one's own son, but to the eldest son of one's sister.^{【99†[10]】}^{【72†[2]】}
+L172: The swarupams were further divided into matrilineal descent groups or segments called "tay-vazhis" (or "tavazhis"), and the ranking system of each swarupam included all these tavazhis. One such descent group, Perakattavazhi, later evolved into a swarupam known as Nedumangadu.^{【99†[10]】}^{【129†[22]】}
+L173: The muppans (eldest male members) of Trippappoor, Desinganadu, and Chiravay could each claim rulership over Venadu, with the Chiravay elder was regarded as the senior-most, followed by the Trippappoor elder. However, this hierarchy was not always maintained, and overlapping claims were common.
+L174: Trippappoor and Desinganadu were closely connected to the Mother's House at Attingal and traced descent from the Kizhperur House, while Elayadam and Perakattavazhi emerged as claimants to Venadu only from the 17th century onward.^{【99†[10]】}
+L175: ### Marriage alliances and adoptions
+L176: 
+L177: The sisters of the rulers of Venadu were traditionally tali-married to 【130†Surya Vamsha】 【111†Kshatriya】 princes of higher status from central or northern Kerala. These princes were initially known as "Koyil Adhikarikal" and later came to be styled "Koyil Thampurans".^{【131†[23]】} According to tradition, this system of marital alliances was inaugurated in 【132†Kollam Era】 300 (1125 CE).^{【131†[23]】}
+L178: Another tradition, first recorded by Mateer (1871), dates the earliest adoption into the Venadu royal family from the Kolathunadu royal house of northern Kerala to Kollam Era 480 (1304/05 CE), in the form of two princesses.^{【133†[24]】} The initial settlement of the Koyil Thampurans from northern Kerala at 【134†Kilimanoor】 was established in order to preserve their customary marital alliances with the Kolathunadu princesses who had been installed at 【123†Attingal】.
+L179: This development occurred around the same period as the first adoption of the Kolathunadu princesses into the Venadu royal family.^{【131†[23]】}
+L180: ## Political history
+L181: ### Antecedents
+L182: 
+L183: 【135†Mampalli copper plate】 (10th century AD)
+L184: 
+L185: During the early historic period in south India (c. 1st–2nd century CE), "Velnadu" — corresponding to medieval Venadu — was part of the Ay country, ruled by Ay chiefs under 【136†Pandya】 control.^{【72†[2]】}^{【113†[18]】}
+L186: In the early medieval period, Pandya incursions into southern Kerala led to conflicts with the 【83†medieval Chera rulers of Kerala】, resulting by the 9th century in the division of the ancient Ay country: Venadu (based at 【66†Kollam or Quilon】) came under Chera influence, while the remaining Ay territory fell under Pandya control.^{【113†[18]】}^{【137†[25]】} The 【132†Kollam Era】, instituted in 824-825 CE, likely marked the founding of the Kollam port and the rise of Chera authority in southern Kerala.^{【138†[26]】} Records such as the 【139†Quilon Syrian plates】 (c.
+L187: 849 CE) mention the Venadu chief (the Venattadikal) Ayyan Adikal and his overlord, the medieval Chera ruler of Kerala, Sthanu Ravi, and highlight Kollam's growing prominence in the Indian Ocean 【140†spice trade】 with the Middle East and East Asia.^{【141†[27]】}^{【142†[28]】}^{【143†[29]】} The Malabar Coast, including Venadu, came under 【144†imperial Chola】 control by the late 10th and early 11th centuries CE.^{【137†[25]】}^{【113†[18]】}^{【109†[15]】}
+L188: ### As Pandya tributaries
+L189: It is speculated that the threat of attacks from the 【144†imperial Cholas】 compelled the last medieval Chera ruler of Kerala, Rama Kulasekhara (early 12th century CE), to reside for an extended period at the port of 【66†Kollam (Quilon)】.^{【145†[30]】} According to local traditions, as recorded by writers such as Samuel Mateer, Vira Kerala, the first ruler of Venadu, was his son.^{【146†[31]】}^{【147†[32]】} After the dissolution of the medieval Chera state of Kerala around the 12th century, Venadu emerged as a powerful principality in southern Malabar.^{【110†[16]】}^{【65†[1]】} Venadu then came to be known as the kingdom of the Cheras (thus, the Malai-nadu/mandalam or the Malayalam^{【148†[33]】}) or the Kulasekharas.^{【149†[34]】}^{【114†[19]】}
+L190: Following the decline of Chola power after the reign of 【150†Kulothunga I】 (early 12th century), the rulers of Venadu extended their control over the Nanjinadu region (【151†Thovalai】 and 【152†Agastheeswaram taluks】, 【78†Kanyakumari】), thereby bringing under their authority the territory between Kollam in the north and Suchindram or 【153†Nagercoil】 in the south.^{【154†[35]】}^{【99†[10]】} It is notably recorded that a Kupaka ruler defeated the Pandya ruler Raja Simha in Kollam Era 296 (1121 CE).^{【155†[36]】} However, inscriptions of the 【136†Pandya】 ruler Maravarman Sri Vallabha (1139–1169 CE), who was the overlord of the then Venadu ruler and was married to a Venadu princess, have been found at Puravari and 【156†Suchindram】.^{【157†[37]】} When the Pandya ruler Vira Pandya was defeated by the Chola ruler Kulothunga in 1182 CE, he found asylum in Venadu.
+L191: It is possible that the Venadu ruler, having supported the Pandya, was also defeated by Kulothunga.^{【158†[38]】}
+L192: In the latter half of the 13th century, Venadu came under the control of the 【159†Pandyas】, when rulers such as 【160†Jatavarman Sundara Pandya】 and 【161†Maravarman Kulasekhara】 asserted their dominance over the region.^{【149†[34]】}^{【162†[39]】} Sundara Pandya appears to have marched against the ruler of Venadu, defeated the Venadu forces in battle, and compelled Venadu to pay tribute (and possibly killed the Venadu ruler in the conflict).^{【85†[4]】} Maravarman Kulasekhara is notably described as "the one who destroyed the Chera ruler and captured Kollam" (c.
+L193: 1275 CE).^{【163†[40]】} Records of Venadu rulers are virtually nonexistent in the second half of the 13th century, suggesting that Venadu became one of the mandalams of the Pandya state. During this period, the rulers of Venadu appear to have adopted imperial Pandya titles.^{【85†[4]】}
+L194: ### Raids of Ravi Varma Kulasekhara
+L195: In the early 14th century, the Venadu ruler 【164†Ravi Varma Kulasekhara】 (c.
+L196: 1266 - 1317^{【165†[41]】}), taking advantage of the confusion caused by the Pandya civil wars and the 【166†Khalji】 invasions, led military raids to the northern frontiers of south India (1312–1316).^{【167†[42]】}^{【110†[16]】} Starting as a Pandya tributory, Kulasekhara went on to celebrate his victories at 【168†Madurai】.^{【89†[6]】} His inscriptions have been found in 【169†Srirangam】 and as far north as 【170†Kanchi】 (1314) and 【171†Poonamallee】, a suburb of Chennai.^{【110†[16]】}^{【89†[6]】} Kulasekhara's marriage to a Pandya princess, which preceded his campaigns, greatly facilitated his later conquests in the Tamil country.^{【172†[43]】} However, it is recorded that Vira Udaya Marttanda Varma, also known as Vira Pandya Deva, the successor of Ravi Varma Kulasekhara, was a tributary of the Pandyas.^{【173†[44]】}
+L197: ### Struggles with the Madurai sultans and the Vijayanagara
+L198: Muslim raiders from the Tamil country (across the Western Ghats) ravaged the southern parts of Venadu during the early part of Vira Ravi Varma's reign. This compelled him to shift his royal residence to 【174†Thovalai】.^{【175†[45]】} The 【176†Madurai sultans】, until their withdrawal from Madurai in 1365, also conducted raids in Nanjinadu.
+L199: In response, the Venadu rulers established a palace at Kottar in addition to the one at Thovalai and permanently stationed a large number of warriors there.^{【175†[45]】} The Venadu prince Aditya Varma (1376–1383) is believed to have successfully resisted the raids by Madurai forces along the Venadu borders.^{【91†[7]】}^{【175†[45]】} The 【90†Vijayanagara】 ruler Devarya II, who ascended the throne in 1426, is said to have subjugated the ruler of Kollam and received tribute from him.^{【177†[46]】} During this period, Venadu's influence is recorded to have extended into the interior regions of 【107†Tirunelveli】.^{【91†[7]】}^{【177†[46]】}
+L200: ### In Colonial period
+L201: 
+L202: Kollam, the capital of the Venadu rulers, in the 17th century CE
+L203: In 1498, during the Age of Discovery, the Portuguese expedition to India reached 【178†Kozhikode (Calicut)】, the capital of the Zamorin's kingdom, thereby opening a direct sea route between Europe and Asia.^{【149†[34]】} In 1504, they became the first Europeans to establish a trading centre at 【66†Kollam (Quilon)】, which served as the hub of their spice trade, especially in black pepper, marking the beginning of Portuguese influence in southern Malabar.^{【179†[47]】}^{【180†[48]】}
+L204: Vira Udaya Marthanda Varma (1516–1535), a tolerant ruler who granted lands to the 【181†Jains】 and exempted the Christian 【182†Paravas】 from certain oppressive taxes, acknowledged the supremacy of the 【90†Vijayanagara】 rulers (after minor clashes with their forces on the banks of the river 【183†Thamirabarani】).^{【91†[7]】} The conflict with Vijayanagara continued, as commanders such as Rama Raya Vithala defeated the Venadu forces during the reign of king Vira Kerala Varma (1544–1545).^{【91†[7]】}
+L205:   * Well into the modern period, Venadu remained one of the principal states of Malabar, along with the kingdoms of Kannur (Cannanore; Kolathunadu), Kozhikode (Calicut; ruled by the Zamorins), and Kochi (Cochin; Perumpadappu).^{【72†[2]】}^{【82†[3]】}^{【129†[22]】}^{【184†[49]】}
+L206:   * The 【185†Padmanabhaswamy Temple】 in Thiruvananthapuram (Trivandrum), managed by the Venadu rulers, was an important centre of worship in southern Kerala.^{【186†[50]】}^{【165†[41]】}
+L207:   * In the 17th century, the rulers of Venadu paid an annual tribute to the 【92†Nayaks of Madurai】.^{【82†[3]】}^{【93†[8]】} By this time, the old state of Venadu had fragmented into several collateral branches, including Trippappoor, Elayadam (【187†Kottarakara】), Desinganadu (【188†Kollam】), and Perakattavazhi (【127†Nedumangadu】).^{【112†[17]】} Although divided into branches, the whole region was still known collectively as Venadu.^{【189†[51]】}
+L208:  |  |  |  |  | Kollam
+L209:  |
+L210:  |
+L211:  | Venadu  |
+L212:  |
+L213:  |  |  |
+L214:  | Tiruvitancode
+L215:  |
+L216:  |
+L217:  | VENADU
+L218: (16TH-17TH CENTURIES CE)  |
+L219:  |  |  |  |  |
+L220:  | Kottarakkara
+L221:  |
+L222:  |
+L223:  | Elayidam  |
+L224:  |
+L225:  |  |  |
+L226:  | Nedumangadu (Perakam)
+L227:  |
+L228:  |  |  |  |  |  |  |  |  |  |
+L229:   * During the regency of Umayamma (1677–1684), southern Venadu (Nanjinadu) was famously overrun by a Muslim adventurer.^{【91†[7]】}
+L230:   * The 【190†English East India Company】 established a factory at Vizhinjam in 1664, followed by the construction of a fort at 【97†Anchuthengu (Ajengo)】 in 1695.^{【91†[7]】} In 1721, around 150 Company men from the Anjengo Factory, on their way to an audience with the queen-mother, were killed by a local mob in what came to be known as 【191†the Attingal Outbreak】.^{【91†[7]】}
+L231:   * Ravi Varma, who ruled from 1721 to 1729, later entered into formal treaty agreements with both the Company and the 【92†Nayaks of Madurai】.^{【91†[7]】} The main purpose of these arrangements was to strengthen the ruler's position against the regional nobles (such as the Ettuvittil Pillamar) and other "hostile elements" within Venadu.^{【91†[7]】}
+L232: ## Legacy
+L233: 
+L234: Padmanabhaswamy Temple
+L235: 
+L236: 【98†Marthanda Varma】 (r. 1729–1758) of the Trippappoor lineage is widely regarded by historians as "the Maker of Travancore".^{【91†[7]】} By the close of his reign, Travancore (from "Tiruvitamkur" or "Tiruvitamcode"; near Kalkulam) had emerged as one of the earliest modernised states in southern India.^{【99†[10]】}^{【186†[50]】}
+L237: Marthanda Varma is widely credited with several major achievements.^{【99†[10]】} He successfully developed the centralised state of Travancore, primarily by dismantling the existing feudal relations.^{【99†[10]】} He subdued the powerful 【192†Nair nobles】 and other "hostile elements" in Travancore, organized a standing army, and defeated most of the chiefdoms in central and southern Kerala.^{【99†[10]】} He also entered into strategic alliances with European powers and promoted Kerala merchants — particularly the 【193†Syrian Christians】 — in place of European traders.^{【99†[10]】}
+L238: ## Economy
+L239: The rulers of Venadu, whose traditional capital was the port city of 【66†Kollam (formerly Quilon)】, derived their primary economic base from the Indian Ocean 【140†spice trade】 and from the exchange of other commodities with merchants from the Middle East and East Asia, including China.^{【143†[29]】}^{【141†[27]】} The Venetian traveler 【194†Marco Polo】 (1254 –1324) is said to have visited Kollam, which at the time was a major center of commerce and trade with both East Asia and the Middle East.^{【141†[27]】}^{【93†[8]】}^{【104†[12]】} The affluence of the port of Kollam is well attested in the accounts of travellers such as Benjamin, al-Qazvini, and others.^{【108†[14]】} European navigators began arriving on the southern Malabar Coast in the early 16th century CE, primarily drawn by the lucrative trade in Indian spices such as black pepper.^{【141†[27]】}^{【93†[8]】}^{【195†[52]】}
+L240: Ma Huan's mention (15th century CE) of the Venadu ruler's coinage indicates the possession of minting privileges, a key indicator of sovereign political power.^{【108†[14]】} Venadu exercised control over a certain extent of hinterland agrarian territory, which also constituted an important component of the state's resource base.
+L241: Revenues were derived from land dues collected from landlords, known as "komuraipadu", as well as from taxes on traded commodities, tolls levied along commercial routes, and other customary dues.^{【108†[14]】}
+L242: ## Rulers of Venadu (till 16th century)
+L243: 
+L244: Jewish copper plates of Cochin (early 11th century CE)

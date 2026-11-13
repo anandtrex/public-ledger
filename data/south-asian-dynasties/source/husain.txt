@@ -1,0 +1,376 @@
+Details for: Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / › Central Library, University of Barishal catalog (https://library.bu.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=3750)
+citeturn30search0 [wordlim: 200] Crawled: last month; # Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / by Momtazur Rahman. ... Tags from this library: No tags from this library for this title.
+
+Local cover image
+
+Image from Google Jackets
+
+ (koha:biblionumber:3750)
+
+Normal view MARC view ISBD view
+
+# Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / by Momtazur Rahman. Tarafdar
+
+By:
+
+  * Tarafdar, Momtazur Rahman
+  * Material type: Image: TextText Language: English Publication details: Dacca : Asiatic Society of Pakistan , c1999Edition: 2nd ed Description: viii, 401 p. : illus. ; 25 cm Subject(s):
+
+  * Bengal (India) -- History
+DDC classification:
+
+  * 954.14 TAH
+
+Tags from this library: No tags from this library for this title. Log in to add tags.
+
+Holdings
+Item type  | Current library  | Shelving location  | Call number  | Status  | Date due  | Barcode
+--- | --- | --- | --- | --- | --- | ---
+Book  | Central Library, University of Barishal  | Shelve No 65  | 954.14 TAH (Browse shelf(Opens below))  | Available  |  | 9602
+Book  | Central Library, University of Barishal  | Shelve No 65  | 954.14 TAH (Browse shelf(Opens below))  | Checked out  | 06/05/2026  | 9603
+
+Includes Index--------------------------------------------------------------------------------
+MARC details for record no. 3750 › Central Library, University of Barishal catalog (https://library.bu.ac.bd/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=3750)
+citeturn30search1 [wordlim: 200] Published: 27.9 years ago; Crawled: last month; # Husain Shahi Bengal, 1494-1538 A.D. : (Record no. ...    |    | Dewey Decimal Classification  |    |    | Central Library, University of Barishal  | Central Library, University of Barishal  | Shelve No 65  | 14/12/2022  |    | 954.14 TAH  | 9602  | 14/12/2022  | 14/12/2022  | Book  |    |
+
+Normal view MARC view ISBD view
+
+# Husain Shahi Bengal, 1494-1538 A.D. : (Record no. 3750)
+
+[ view plain ]
+
+MARC details
+000 -LEADER
+---
+fixed length control field  | 00723cam a2200253u 4500
+001 - CONTROL NUMBER
+---
+control field  | 25508
+003 - CONTROL NUMBER IDENTIFIER
+---
+control field  | OSt
+005 - DATE AND TIME OF LATEST TRANSACTION
+---
+control field  | 20221214112812.0
+008 - FIXED-LENGTH DATA ELEMENTS--GENERAL INFORMATION
+---
+fixed length control field  | 221214s1999 bg a 001 0 eng d
+040 ## - CATALOGING SOURCE
+---
+Original cataloging agency  | DLC
+Transcribing agency  | CarP
+Modifying agency  | DLC
+--  | CL.UB
+Language of cataloging  | eng
+041 ## - LANGUAGE CODE
+---
+Language code of text/sound track or separate title  | eng
+082 00 - DEWEY DECIMAL CLASSIFICATION NUMBER
+---
+Classification number  | 954.14
+Item number  | TAH
+100 1# - MAIN ENTRY--PERSONAL NAME
+---
+Personal name  | Tarafdar, Momtazur Rahman.
+245 10 - TITLE STATEMENT
+---
+Title  | Husain Shahi Bengal, 1494-1538 A.D. :
+--------------------------------------------------------------------------------
+Koha online catalog › Details for: Husain Shahi Bengal, 1494-1538 A.D. (https://lib.buet.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=26186)
+citeturn30search2 [wordlim: 200] Crawled: 9 months ago; # Husain Shahi Bengal, 1494-1538 A.D. a socio-political study ... General Book  | Central Library, BUET Circulation section  | 954.92/MOM/1965 (Browse shelf)  | 1  | Available  |  | 6986
+
+ (koha:biblionumber:26186)
+
+Normal view MARC view ISBD view
+
+# Husain Shahi Bengal, 1494-1538 A.D. a socio-political study
+
+##### by Momtazur Rahman Tarafdar.
+
+Series: Asiatic Society of Pakistan publications, no. 16.Publisher: Dacca Asiatic Society 1965 Edition: 1st ed.Description: viii, 401 p. ill. 25 cm.Subject(s): East Pakistan : History
+
+
+[Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input]   [Input]  average rating: 0.0 (0 votes)
+
+  * Holdings ( 1 )
+  * Title notes
+  * Comments ( 0 )
+
+Item type  | Current location  | Call number  | Copy number  | Status  | Date due  | Barcode
+--- | --- | --- | --- | --- | --- | ---
+General Book  | Central Library, BUET Circulation section  | 954.92/MOM/1965 (Browse shelf)  | 1  | Available  |  | 6986
+
+Includes bibliographies
+
+There are no comments for this item.
+
+Log in to your account to post a comment.
+
+  * Place hold
+  * Print
+  * Add to your cart
+  * Save record
+--------------------------------------------------------------------------------
+Details for Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study › Jahangirnagar University Library catalog (https://opac.juniv.edu/bib/48955)
+citeturn30search3 [wordlim: 200] Crawled: 2 months ago; # Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study / Momtazur Rahman Tarafdar ... Tags from this library: No tags from this library for this title.
+
+ (koha:biblionumber:48955)
+
+Normal view MARC view ISBD view
+
+# Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study / Momtazur Rahman Tarafdar
+
+By:
+
+  * Tarafdar, Momtazur Rahman
+Publication details: Dhaka: Asiatic Society of Pakistan Davis, 1965Description: iii, 401 p. 4 leave of plates 21 cm Subject(s):
+
+  * Bengal-History
+
+Tags from this library: No tags from this library for this title. Log in to add tags.
+
+[Input] Star ratings
+
+[Select] [Input] [Input] [Input]   [Input]  Cancel rating. Average rating: 0.0 (0 votes)
+
+Holdings
+Cover image  | Item type  | Current library  | Home library  | Collection  | Shelving location  | Call number  | Materials specified  | Vol info  | URL  | Copy number  | Status  | Notes  | Date due  | Barcode  | Item holds  | Item hold queue priority  | Course reserves  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Books  | University Library General Stacks  |  |  |  |  |  |  |  |  | Available  |  |  |  |  |  |  | 
+
+
+# Husain Shahi Bengal 1494-1538 A.D: A Socio
+
+## APA
+
+Tarafdar M. R., . (1965). Husain Shahi Bengal 1494-1538 A.D: A Socio. Dhaka: Asiatic Society of Pakistan Davis.
+
+## Chicago
+
+Tarafdar Momtazur Rahman, . 1965. Husain Shahi Bengal 1494-1538 A.D: A Socio. Dhaka: Asiatic Society of Pakistan Davis.
+
+## Harvard
+
+Tarafdar M. R., . (1965). Husain Shahi Bengal 1494-1538 A.D: A Socio. Dhaka: Asiatic Society of Pakistan Davis.
+
+## MLA
+
+Tarafdar Momtazur Rahman, . Husain Shahi Bengal 1494-1538 A.D: A Socio. Dhaka: Asiatic Society of Pakistan Davis. 1965.
+
+
+Search for this title in:
+
+Other Libraries (WorldCat) Other Databases (Google Scholar) Online Stores (Bookfinder.com) Open Library (openlibrary.org)--------------------------------------------------------------------------------
+Details for: Husain Shahi Bengal, 1494-1538 A.D. : › North South University Library catalog (https://opac.northsouth.edu/cgi-bin/koha/opac-detail.pl?biblionumber=28305&shelfbrowse_itemnumber=46018)
+citeturn30search4 [wordlim: 200] Crawled: last month; # Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / Momtazur Rahman Tarafdar ... Tags from this library: No tags from this library for this title.
+
+ (koha:biblionumber:28305)
+
+Normal view MARC view ISBD view
+
+# Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / Momtazur Rahman Tarafdar
+
+By:
+
+  * Tarafdar, Momtazur Rahman
+Material type: Image: TextText Language: English Publication details: Dhaka : University of Dhaka, c1999.Edition: 2nd ed Description: xvi, 412 p. : ill., maps. ; 22 cm ISBN:
+
+  * Subject(s):
+
+  * Bengal (India)
+  * History
+LOC classification:
+
+  * DS485 .B47T37 1999
+
+Tags from this library: No tags from this library for this title. Log in to add tags.
+
+Holdings
+Item type  | Current library  | Collection  | Call number  | Copy number  | Status  | Date due  | Barcode  | 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Image: Books Books  | North South University Library  | Non-fiction  | DS485.B47T37 1999 (Browse shelf(Opens below))  | 1  | Available  |  | 46018  | --------------------------------------------------------------------------------
+<table id="e1"> (https://ku.ac.bd/discipline/uploads/courses/HC-OBE%20Curriculum-Final%20%281%29.pdf)
+citeturn30search12 [wordlim: 200] Published: 4.3 years ago; Crawled: 7 months ago; Tarafdar, <em>Husain Shahi Bengal</em> (Dhaka: Asiatic Society of Bangladesh, 1965).<br>
+<td>
+1. Abdul Momin Chowdhury, <em>Dynastic History of Bengal</em> (Dacca: Asiatic Society of Pakistan, 1965).<br>
+2. R. C. Majumdar ed., <em>The History of Bengal, Vol 1, Hindu Period</em> (Dacca: The University of Dacca, 1963).<br>
+3. J. N. Sarker ed., <em>History of Bengal, Vol.II, Muslim Period 1200-1757</em> (Dhaka: Dhaka University, 1948).<br>
+4. Karim, <em>Social History of the Muslims in Bengal, Down to 1538</em> (Dhaka: Asiatic Society of Bangladesh, 1959).<br>
+5. M.R. Tarafdar, <em>Husain Shahi Bengal</em> (Dhaka: Asiatic Society of Bangladesh, 1965).<br>
+6. গীহারঞ্জন রায়, <em>বাংলার ইতিহাস: আদিপর্ব, তৃতীয় পুনর্মুদ্রণ</em> (কলকাতা: দেজ পাবলিশিং, ১৯৮১)।<br>
+7. এম. এ. রহিম, <em>বাংলার সামাজিক ও সাংস্কৃতিক ইতিহাস, ১ম ও ২য় খণ্ড</em> (ঢাকা: বাংলা একাডেমী, ১৯৮২)।<br>
+8. এ. কে. এম শাহনাওয়াজ ও ফাতেমা হেরেন, <em>বাংলার সামাজিক-সাংস্কৃতিক ও অর্থনৈতিক জীবন</em> (ঢাকা: প্রতীক প্রকাশনা সংস্থা, ২০১৯)।
+</td>
+</tr>
+<tr>
+<td><strong>Supplementary Readings</strong></td>
+<td>
+1. A. F. Salahuddin, <em>Social Ideas and Social Changes in Bengal, 1818-35</em> (Leiden: E.J. Brill, 1965).<br>
+2. M. A. Rahim, <em>Social and Cultural History of Bengal, Vol, I and II</em> (Karachi: Pakistan Publishing House, 1967).<br>
+3. Kamaruddin, <em>A Social History of Bengal, 3<sup>rd</sup> edition</em> (Dacca: Progati Publishers, 1970).<br>
+4. M.M. Siddiquee, <em>Socio- Economic Development of Bengal District: A Study of Jessor 1883-1925</em> (Rajshahi: Institut of Bangladesh Studies, 1997).<br>
+5. H. Enamul, <em>A History of Sufism in Bengal</em> (Dhaka: Asiatic Society of Bangladesh, 1975).
+</td>
+</tr>
+</table>--------------------------------------------------------------------------------
+Staff View: Husain Shahi Bengal 1494-1538 A.D: A Socio :: Jahangirnagar University Library (https://vufind.juniv.edu/Record/48955/Details)
+citeturn30search5 [wordlim: 200] Published: 61.9 years ago; Crawled: last month; # Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study
+
+# Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study
+
+Saved in:
+
+Bibliographic Details
+Main Author:  | Tarafdar, Momtazur Rahman
+Format:  | Book
+Published:  | Dhaka: Asiatic Society of Pakistan Davis, 1965
+Subjects:  | Bengal-History
+Tags:  | Add Tag No Tags, Be the first to tag this record!
+
+## MARC
+
+ |  |  | 
+LEADER  | 00000nam a2200000 4500
+001  | 48955
+003  | BD-SaJUCL
+040  |  |  | |a BD-SaJUCL  |c BD-SaJUCL  |d BD-SaJUCL 
+942  |  |  | |2 ddc  |c BK  |n 1 
+100  | 1  |  | |a Tarafdar, Momtazur Rahman  |9 18570 
+245  | 1  | 0  | |a Husain Shahi Bengal 1494-1538 A.D: A Socio  |b Political Study  |c / Momtazur Rahman Tarafdar 
+260  |  |  | |a Dhaka:  |b Asiatic Society of Pakistan Davis,  |c 1965 
+300  |  |  | |a iii, 401 p. 4 leave of plates  |c 21 cm 
+650  |  | 0  | |a Bengal-History 
+509  |  |  | |a Tauhid_Document_22.pdf_page_23 
+999  |  |  | |c 48955  |d 48951 --------------------------------------------------------------------------------
+BUET online Catalog › Results of search for '(su:{ Pakistan history }) and itype:GB' (https://lib.buet.ac.bd/cgi-bin/koha/opac-search.pl?limit=itype%3AGB&q=ccl%3D%2528su%253A%257B%2520Pakistan%2520%2520history%2520%257D%2529&sort_by=relevance_dsc)
+citeturn30search6 [wordlim: 200] Crawled: 4 months ago; Edition: 1st ed.Publisher: Karachi University of Karachi 1967 Availability: Items available for loan: Central Library, BUET [954.7/RAH/1967] (1). ... | No cover image available No cover image available Husain Shahi Bengal, 1494-1538 A.D. a socio-political study by Momtazur Rahman Tarafdar.
+Place hold Add to cart (remove)
+[Input]  | 3.  | No cover image available No cover image available Short history of Pakistan by Rahim, M. A; Zaman, W; Chughtai, M .D. Edition: 1st ed.Publisher: Karachi University of Karachi 1967 Availability: Items available for loan: Central Library, BUET [954.7/RAH/1967] (1). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 4.  | No cover image available No cover image available Husain Shahi Bengal, 1494-1538 A.D. a socio-political study by Momtazur Rahman Tarafdar. Edition: 1st ed.Publisher: Dacca Asiatic Society 1965 Availability: Items available for loan: Central Library, BUET [954.92/MOM/1965] (1). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 5.  | No cover image available No cover image available Social history of East Pakistan by Kamruddin Ahmad. Edition: 1st ed.Publisher: Dacca Crecent 1967 Availability: Items available for loan: Central Library, BUET [954.7/KAM/1967] (2). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 6.  | No cover image available No cover image available Making of Pakistan by Symonds, Richard. Edition: 1st ed.Publisher: London Faber and Faber 1951 Availability: Items available for loan: Central Library, BUET [954.7/SYM/1951] (10). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+--------------------------------------------------------------------------------
+Results of search for 'su:" History. "' › Central Library, University of Barishal catalog (https://library.bu.ac.bd/cgi-bin/koha/opac-search.pl?q=su%3A%22+History.+%22)
+citeturn30search7 [wordlim: 200] Crawled: last month;     * Bangladesh - History... ... Material type: Image: Text Text; Format: print ; Literary form: Not fiction Publication details: New Delhi : Pearson Education India, ©2012 Availability: Items available for loan: Central Library, University of Barishal (1)Call number: 320 INT. ... | No cover image available Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / by Momtazur Rahman.
+  * Bhattacharjee, K.S
+Material type: Image: Text Text; Format: print ; Literary form: Not fiction Language: English Publication details: New Delhi : Classical Pub, 1986 Availability: Items available for loan: Central Library, University of Barishal (2)Call number: 954.14 BHB, ...
+[Input]  | 16.  | No cover image available Husain Shahi Bengal, 1494-1538 A.D. : a socio-political study / by Momtazur Rahman. Tarafdar by
+
+  * Tarafdar, Momtazur Rahman
+  * Edition: 2nd ed. Material type: Image: Text Text; Format: print ; Literary form: Not fiction Language: English Publication details: Dacca : Asiatic Society of Pakistan , c1999 Availability: Items available for loan: Central Library, University of Barishal (1)Call number: 954.14 TAH. Not available: Central Library, University of Barishal: Checked out (1).
+[Input]  | 17.  | No cover image available বাংলা মঙ্গলকাব্যের ইতিহাস / শ্রী আশুতোষ ভট্টাচার্য by
+
+  * ভট্টচার্য, শ্রী আশুতোষ
+Edition: ২য় সং. Material type: Image: Text Text; Format: print ; Literary form: Not fiction Publication details: India : Mokherjee and Com. privet, 2009 Availability: No items available.
+[Input]  | 18.  | 
+[Input]  | 19.  | No cover image available Histry of Ethics: An Essential Readings with Commentary Daniel Star by
+
+  * Star, Daniel
+Series: Blackwell Readings in the History of Philosophy. Series Editors: Fritz Alhoff and Jaiprakash Vaidya Material type: Image: Text Text; Format: print ; Literary form: Not fiction Publication details: USA: John Wiley & Sons, 2020 Availability: Items available for loan: Central Library, University of Barishal (2)Call number: 170.9 STA 2020, ...
+[Input]  | 20.  | Legal History And Legal System Of Bangladesh/by Ahamuduzzaman by
+
+--------------------------------------------------------------------------------
+UNIVERSITY OF DHAKA (https://kabinazrulcollege.gov.bd/wp-content/uploads/2021/09/371557636862Honours-Syllabus-7-Colleges.-History.pdf)
+citeturn30search13 [wordlim: 200] Published: 2.2 years ago; Glories of Illyas Shahi and Husain Shahi periods, Mughal occupation of Bengal by ... : Husain Shahi Bengal 1494-1938 A.D
+7. Alivardi Khan: capture of power, Maratha raids. 
+8. Nawab Sirajuddoullah: Battle of Palashi, its causes, results and impact. 
+9. Administration and land revenue system under the Sultani, Nawabi and Mughal period. 
+10. Religious and cultural life under the Sultans (Sufism, Bhakhtibad, Kabir and Nanak) 
+Recommended Books: 
+1. J. N. Sarkar 
+ 
+: History of Bengal,Vol. 2 
+ 
+ 
+ 
+2. Abdul Kari 
+: Social History of the Muslims in Bengal (Down to A.D. 1538) 
+3. M. R. Tarafdar 
+: Husain Shahi Bengal 1494-1938 A.D 
+4. K. K. Datta 
+: Alibardi Khan and His Times 
+5. A. C. Roy 
+: Bengal under the Bengal 
+6. A. M. Chowdhury 
+: Dynastic History of Bengal 
+7. R. C. Majumder (ed) 
+: History of Ancient Bengal (Vol. I) 
+8. i‡gk P›`ª gRyg`vi 
+: evsjv‡`‡ki BwZnvm (cÖvPxb hyM) 
+9. Gg.G iwng, Avãyj gwgb †P․ayix    
+ wmivRyj Bmjvg I GweGg gvngy` 
+: evsjv‡`‡ki BwZnvm 
+ 
+10. myLgq gy‡Lvcva¨vq 
+: evsjv‡`‡ki BwZnv‡mi `y'‡kv eQi: ¯^vaxb myjZvwb Avgj 
+11. myLgq gy‡Lvcva¨vq 
+: evsjvq gymwjg AwaKv‡ii Avw`ce©  
+12. Avãyj Kwig 
+: evsjvi BwZnvm (myjZvwb Avgj) 
+13. Avãyj Kwig 
+: evsjvi BwZnvm gyNj kvmb 
+14. ggZvRyi ingvb Zid`vi 
+: û‡mb kvnx evsjv (Abyw`Z) 
+15. Gg. G. iwng 
+: evsjvi mvgvwRK I mvs¯‹…wZK BwZnvm (1g I 2q LÛ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17--------------------------------------------------------------------------------
+BUET online Catalog › Results of search for '(su:{ Pakistan history })' (https://lib.buet.ac.bd/cgi-bin/koha/opac-search.pl?q=%28su%3A%7B+Pakistan++history+%7D%29)
+citeturn30search8 [wordlim: 200] Crawled: 4 months ago; Edition: 1st ed.Publisher: Karachi University of Karachi 1967 Availability: Items available for loan: Central Library, BUET [954.7/RAH/1967] (1). ... | No cover image available No cover image available Husain Shahi Bengal, 1494-1538 A.D. a socio-political study by Momtazur Rahman Tarafdar.
+Place hold Add to cart (remove)
+[Input]  | 3.  | No cover image available No cover image available Short history of Pakistan by Rahim, M. A; Zaman, W; Chughtai, M .D. Edition: 1st ed.Publisher: Karachi University of Karachi 1967 Availability: Items available for loan: Central Library, BUET [954.7/RAH/1967] (1). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 4.  | No cover image available No cover image available Husain Shahi Bengal, 1494-1538 A.D. a socio-political study by Momtazur Rahman Tarafdar. Edition: 1st ed.Publisher: Dacca Asiatic Society 1965 Availability: Items available for loan: Central Library, BUET [954.92/MOM/1965] (1). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 5.  | No cover image available No cover image available Social history of East Pakistan by Kamruddin Ahmad. Edition: 1st ed.Publisher: Dacca Crecent 1967 Availability: Items available for loan: Central Library, BUET [954.7/KAM/1967] (2). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+Place hold Add to cart (remove)
+[Input]  | 6.  | No cover image available No cover image available Making of Pakistan by Symonds, Richard. Edition: 1st ed.Publisher: London Faber and Faber 1951 Availability: Items available for loan: Central Library, BUET [954.7/SYM/1951] (10). [Input] [Input] [Input] [Input] [Input] [Input] [Input]
+--------------------------------------------------------------------------------
+Bangladesh Open University (https://bou.ac.bd/fontend/handbook/sshl/Handbook_MA_MSS.pdf)
+citeturn30search14 [wordlim: 200] Published: 2.8 years ago; Kamrunnesa Islam, *Aspects of Economic History of Bengal*, *Journal of the Asiatic Society of Bangladesh: Humanities*, Volume 45, Issue 1 - Volume 46, Issue 1, Dhaka: Asiatic Society of Bangladesh, 2000. ... Mamtazur Rahman Tarafdar, *Husain Shahi Bengal: A social political study 1494-1538*, Dhaka: University of Dhaka, 1999
+--------------------------------------------------------------------------------
+Husain Shahi Bengal, 1494-1538 A. D. : a socio-political study (https://ci.nii.ac.jp/ncid/BA40085716)
+citeturn30search9 [wordlim: 200] Crawled: 2 months ago; # Husain Shahi Bengal, 1494-1538 A. ...   * Library, Institute of Developing Economies, Japan External Trade Organization遡
+--------------------------------------------------------------------------------
+Contents 
+PART A ................................. (https://vu.edu.bd/vucms/upload_syllabuses/BA_in_Islamic_History_Culture_with_name.pdf)
+citeturn30search15 [wordlim: 200] Published: 1.1 years ago; Jessor, 1883-1925, Rajshahi: Institiutof Bangladesh Studies, ... Husain Shahi Bengal, Aistic Society of Bengal, Dhaka, 1965
+--------------------------------------------------------------------------------
+Husain Shahi Bengal, 1494–1548 A.D.: A Socio-Political Study. By Momtazur Rahman Tarafdar. [Asiatic Society of Pakistan Publication Number 16.] (Dacca: the Society. 1965. Pp. viii, 401. Rs. 25.) (https://academic.oup.com/ahr/article-abstract/73/1/200/83351)
+citeturn30search10 [wordlim: 200] Published: 59.2 years ago; Crawled: last month; # Husain Shahi Bengal, 1494–1548 A.D.: A Socio-Political Study.
+--------------------------------------------------------------------------------
+Description: Husain Shahi Bengal 1494-1538 A.D: A Socio :: Jahangirnagar University Library (https://vufind.juniv.edu/Record/48955/Description)
+citeturn30search11 [wordlim: 200] Published: 61.9 years ago; Crawled: last month; # Husain Shahi Bengal 1494-1538 A.D: A Socio Political Study
+--------------------------------------------------------------------------------
+194  Special Volume-3 on Issues and Discourses around Liberal Arts and Humanities (https://www.ru.ac.bd/arts/wp-content/uploads/sites/61/2023/07/2nd-International-Conference-13-14-November-2022-Special-Volume-3.pdf)
+citeturn30search16 [wordlim: 200] Crawled: last year; Husain Shahi Bengal- নামক গ্রন্থটি মতিউর রহমান তরফদারের পিএইচ.
+--------------------------------------------------------------------------------
+194  Special Volume-3 on Issues and Discourses around Liberal Arts and Humanities (https://www.ru.ac.bd/arts/wp-content/uploads/sites/61/2023/07/2nd-International-Conference-13-14-November-2022-Special-Volume-3-1.pdf)
+citeturn30search17 [wordlim: 200] Crawled: 9 months ago; Husain Shahi Bengal- নামক গ্রন্থটি মতামতজ্ঞান রহমান তরফদারের পিএইচ.
+--------------------------------------------------------------------------------
+Nawabs of Bengal (https://en.wikipedia.org/wiki/Nawabs_of_Bengal)
+citeturn30search18 [wordlim: 200] Crawled: 2 months ago; Husain Shahi Bengal, 1494-1538 A.D.: A Socio-Political Study. ... In Islam, Sirajul; Jamal, Ahmed A. (eds.). Banglapedia: National Encyclopedia of Bangladesh (Second ed.).
+--------------------------------------------------------------------------------
+Alauddin Husain Shah (https://en.wikipedia.org/wiki/Alauddin_Husain_Shah)
+citeturn30search19 [wordlim: 200] Crawled: 3 weeks ago; Ala-ud-din Husain Shah (Bengali: আলাউদ্দিন হোসেন শাহ; Persian: علاء الدین حسین شاه; r. 1494–1519) was an independent late medieval Sultan of the Bengal Sultanate, who founded the Hussain Shahi dynasty. ... This characterization began with the historian Nizam al-Din Ahmad, who in 1594 wrote glowingly of 'Ala al-Din Husain Shah as "an intelligent and able man," who "summoned learned, great and pious men from different parts of the kingdom, and showed kindness to them. ... In Sirajul Islam; Miah, Sajahan; Khanam, Mahfuza; Ahmed, Sabbir (eds.). ... *  Tarafdar, Momtazur Rahman (1975), "Epigraphic and numismatic notes bearing on the history of pre-Mughal Bengal", Journal of the Asiatic Society of Bangladesh, XX (3), Asiatic Society of Bangladesh: 8
+--------------------------------------------------------------------------------
+Chautar (https://en.wikipedia.org/wiki/Chautar)
+citeturn30search20 [wordlim: 200] Crawled: 2 months ago; Page 149 Husain Shahi Bengal, 1494-1538 A.D.: A Socio-political Studybooks.google.co.in › books Mamatājura Rahamāna Taraphadāra · 1999 https://www.google.co.in/books/edition/Husain_Shahi_Bengal_1494_1538_A_D/3nRuAAAAMAAJ?
+--------------------------------------------------------------------------------
+Bengal Subah (https://en.wikipedia.org/wiki/Bengal_Subah)
+citeturn30search21 [wordlim: 200] Crawled: 3 weeks ago; Husain Shahi Bengal, 1494-1538 A.D.: A Socio-Political Study.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn30view0 [wordlim: 200] Source: open({"ref_id":"https://library.bu.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=3750","lineno":null}); 
+Failed to fetch https://library.bu.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=3750: (400) Timeout fetching

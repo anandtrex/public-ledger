@@ -1,0 +1,62 @@
+{
+  "travancore": {
+    "Districts": "Travancore"
+  },
+  "cochin": {
+    "Districts": "Cochin"
+  },
+  "tripura": {
+    "Districts": "Tripura"
+  },
+  "sikkim": {
+    "Districts": "Sikkim"
+  },
+  "koch": {
+    "Districts": "Cooch Behar"
+  },
+  "wodeyar": {
+    "Admin Divi": "Mysore"
+  },
+  "mewar": {
+    "Districts": "Mewar"
+  },
+  "marwar": {
+    "Districts": "Marwar"
+  },
+  "jaipur": {
+    "Districts": "Jaipur"
+  },
+  "bikaner": {
+    "Districts": "Bikaner"
+  },
+  "jaisalmer": {
+    "Districts": "Jaisalmer"
+  },
+  "scindia": {
+    "Admin Divi": "Gwalior"
+  },
+  "holkar": {
+    "Districts": "Indore"
+  },
+  "gaekwad": {
+    "Admin Divi": "Baroda"
+  },
+  "bhopal": {
+    "Districts": "Bhopal"
+  },
+  "patiala": {
+    "Districts": "Patiala"
+  },
+  "kutch": {
+    "Districts": "Cutch"
+  },
+  "junagadh": {
+    "Districts": "Junagadh"
+  },
+  "manipur": {
+    "Districts": "Manipur"
+  },
+  "bastar": {
+    "Districts": "Bastar"
+  }
+}

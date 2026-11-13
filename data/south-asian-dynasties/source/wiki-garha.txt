@@ -1,0 +1,337 @@
+Garha kingdom - Wikipedia (https://en.wikipedia.org/wiki/Garha_Kingdom)
+citeturn127view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Garha_Kingdom","lineno":null}); Total lines: 335
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 Decline】
+L51:   * 【20†3 Aftermath】
+L52:   * 【21†4 Emblem of Gondwana State】
+L53:   * 【22†5 Administration】 Toggle Administration subsection
+L54:     * 【23†5.1 List of garh】
+L55:   * 【24†6 List of rulers】
+L56:   * 【25†7 References】 Toggle References subsection
+L57:     * 【26†7.1 Works cited】
+L58: 
+L59: [Input] Toggle the table of contents
+L60: # Garha kingdom
+L61: 
+L62: [Input] 5 languages
+L63: 
+L64:   * 【27†Català†ca.wikipedia.org】
+L65:   * 【28†हिन्दी†hi.wikipedia.org】
+L66:   * 【29†Italiano†it.wikipedia.org】
+L67:   * 【30†తెలుగు†te.wikipedia.org】
+L68:   * 【31†Українська†uk.wikipedia.org】
+L69: 
+L70: 【32†Edit links†www.wikidata.org】
+L71: 
+L72:   * 【33†Article】
+L73:   * 【34†Talk】
+L74: 
+L75: [Input] English
+L76: 
+L77:   * 【33†Read】
+L78:   * 【35†Edit】
+L79:   * 【36†View history】
+L80:   * 【17†Save】
+L81: 
+L82: [Input] Tools
+L83: 
+L84: Tools
+L85: 
+L86: [Button: move to sidebar] [Button: hide]
+L87: 
+L88: Actions
+L89: 
+L90:   * 【33†Read】
+L91:   * 【35†Edit】
+L92:   * 【36†View history】
+L93:   * 【17†Save】
+L94: 
+L95: General
+L96:   * 【37†What links here】
+L97:   * 【38†Related changes】
+L98:   * 【39†Upload file】
+L99:   * 【40†Permanent link】
+L100:   * 【41†Page information】
+L101:   * 【42†Cite this page】
+L102:   * 【43†Get shortened URL】
+L103:   * 【44†Switch to legacy parser】
+L104: 
+L105: Print/export
+L106: 
+L107:   * 【45†Download as PDF】
+L108:   * Printable version
+L109: 
+L110: In other projects
+L111: 
+L112:   * 【46†Wikidata item†www.wikidata.org】
+L113: 
+L114: Appearance
+L115: 
+L116: [Button: move to sidebar] [Button: hide]
+L117: 
+L118: (Redirected from 【47†Garha Kingdom】)
+L119: 
+L120: Garha kingdom of Gondwana
+L121: ---
+L122: 1440–1781
+L123: Madan Mahal, capital of Garha kingdom
+L124: Capital  |
+L125:   * 【48†Garha】 (1116–1488)
+L126:   * 【49†Singhorgarh】 (1488–1564)
+L127:   * 【50†Chouragarh】 (1564–1634)
+L128:   * 【51†Ramnagar】 (1634–1781)
+L129: Common languages  | 【52†Gondi】, 【53†Hindi】, 【54†Sanskrit】 And Other Central languages
+L130: Religion  | Hinduism, Gondism
+L131: Government  | Monarchy
+L132: History  |
+L133: • Established  | 1440
+L134: • Disestablished  | 1781
+L135: Preceded by Succeeded by
+L136: 【55†Image†upload.wikimedia.org】 【56†Kalachuris of Ratnapura】
+L137: 【55†Image†upload.wikimedia.org】 【57†Kalachuris of Tripuri】
+L138: 【58†Marathas of Saugor】 【55†Image†upload.wikimedia.org】
+L139: Today part of  | 【59†India】
+L140: The Garha kingdom, also called Garha-Mandla or Garha Katanga, was 【60†an early-modern-era】 kingdom in India. It was the first large kingdom to be founded by the Nagvanshi Kshtriya 【61†RajGond people】 and was based in 【62†Central India】. The kingdom was founded in the 15th century and lasted until conquest by the 【63†Maratha Confederacy】 in 1781.
+L141: ## History
+L142: 
+L143: [【64†edit】]
+L144: 
+L145: The first Gond king of Garha-【65†Mandla】 was Jadurai. He became king after deposing the 【57†Kalchuris】 of Garha-Mandla, where earlier he worked in court.^{【66†[1]】}^{【67†[2]】}^{【68†[3]】}
+L146: The Garha-Mandla kingdom was initially a small territory whose early kings focused on consolidating their rule. Kharji (1440–1460) expanded his army and his grandson Sukhandas (1480–1500) included 【69†Rajputs】 in his army and administration.^{【70†[4]】}^{【71†[5]】} The kingdom witnessed rapid expansion under the rule of 【72†Sangram Shah】, the 48th king, He captured territories like Narmada Valley, 【73†Bhopal】, 【74†Sagar】, 【75†Damoh】 and most of the 【76†Satpura】 hills.
+L147: He conquered 52 forts called Garhs to strengthen and consolidate his hold on territory. The Chouragrh Fort in 【50†Narsinghpur】 was built in the honour of conquering 52 forts.^{【66†[1]】} Sangram Shah is best known as a patron of arts and literature and he had great knowledge of 【54†Sanskrit】. Rasratnamala was written by Sangram Shah.^{【77†[6]】} During Sangram Shah's reign, the capital of Garha kingdom was 【49†Singhorgarh】.
+L148: The Akbar nama, a history of Akbar's reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.
+L149: His successor 【78†Dalpat Shah】, was married to 【79†Rani Durgawati】 (【80†Rani】-queen)^{【81†[7]】}^{【67†[2]】}^{【82†[8]】} who was a 【83†Chandela】 【69†Rajput】 princess. 【84†Rani Durgavati】 moved her capital to 【50†Chouragarh】 because it was safer than 【49†Singorgarh fort】.
+L150: Rani Durgawati made the kingdom extremely prosperous, it was said that the people paid their taxes in gold in her reign.^{【67†[2]】} 【85†Baz Bahadur】, the last 【86†sultan of Malwa】, invaded Garha but was thoroughly defeated by Rani Durgawati.^{【87†[9]】} The powerful 【88†Mughal Emperor】 【89†Akbar】 sent his forces led by 【90†Asaf Khan I】 to 【91†capture Garha in 1564】. The queen put up a fierce resistance in the Battle of Narrai despite being heavily outnumbered and was eventually killed.
+L151: She is remembered as a war-heroine and is still praised across the whole 【92†Gondwana】 region by the 【61†Gonds】.^{【67†[2]】} The Mughals acquired immense booty from this victory, including coins, gold, silver, jewels and thousands of elephants.^{【93†[10]】}^{【94†[11]】}
+L152: After some years of 【88†Mughal】 rule, the kingdom was restored to Chandra Shah, another son of 【72†Sangram Shah】 and half-brother of 【78†Dalpat Shah】.^{【95†[12]】} He was recognized as the successor of 【84†Rani Durgavati】 by 【89†Akbar】 on accepting Mughal suzerainty and ceding 10 of the garhas.^{【96†[13]】}^{【97†[14]】} He was followed in succession by Madhukar Shah and Prem Narain.^{【96†[13]】} 【98†Jhujhar Singh】 of 【99†Orchha】 assassinated Prem Narain, however, 【88†Mughal】 interference restored the kingdom to 【100†Hridayshah】.^{【96†[13]】}^{【97†[14]】}
+L153: 【100†Hridayshah】 maintained friendly relations with the 【88†Mughals】, he spent days at the imperial court in Delhi as well.^{【66†[1]】} He moved his capital from Chouragarh to 【51†Ramnagar】 of 【65†Mandla】 district.
+L154: ## Decline
+L155: 
+L156: [【101†edit】]
+L157: Hriday Shah was the last great king of Garha-Mandla. After his death, no great ruler appeared and court intrigue was common, greatly weakening the state. It ceded away portions of its territory and its revenues were spent to buy off its enemies.
+L158: One of its feudatories, the Gond rajas of Deogadh, took advantage of the kingdom's weakness subsequent to the temporary Mughal conquest in the early 17th century and annexed a large part of its territories.^{【102†[15]】} 【103†Bakht Buland Shah】, the Gond raja of Deogarh, was ceded the district of Seoni, Chauri, Dongartal and Ghansour by Narendra Shah of Mandla for his aid against the rebellious 【104†Pathan】 jagirdars in the kingdom.^{【105†[16]】}^{【106†[17]】}
+L159: By the time of Maharaj Shah (1732–1742), the kingdom held only 29 out of the initial 52 forts held by his ancestor 【72†Sangram Shah】.^{【107†[18]】} In 1742, 【108†Peshwa】 【109†Balaji Baji Rao】 attacked Garha-Mandla along with Visaji Chandorkar, leader of the 【58†Sagar Marathas】 and killed the ruler, Maharaj Shah.^{【110†[19]】} His son, Shivraj Singh, ascended he throne on the condition that he would pay an annual tribute of 4 lakhs to the Marathas.^{【107†[18]】} Garha-Mandla essentially became a dependent state of the 【58†Sagar Marathas】.
+L160: In 1780, Narhar Shah of Mandla was defeated by the 【111†Maratha king of Nagpur】, 【112†Mudhoji Bhonsle】 and annexed the territories now constituting 【113†Balaghat District】 and some part of 【114†Bhandara District】.
+L161: Narhar Shah's kingdom was finally annexed in 1781 by the 【58†Sagar Marathas】 and he was sent to spend the rest of his days at 【115†Khurai fort】 in Saugor.^{【66†[1]】}^{【97†[14]】} The anthropologist 【116†Stephen Fuchs】 describes- "In 1781 the last Gond ruler of Mandla, Narhar Shah, was tortured to death by the Maratha general Moraji, and Mandla became a dependency of the 【58†Saugor Marathas】.
+L162: In 1799 Mandla fell to the 【117†Bhonsles of Nagpur】, till in 1818 the British took over and assumed the rule also over Mandla."^{【118†[20]】}^{【119†[21]】}
+L163: ## Aftermath
+L164: 
+L165: [【120†edit】]
+L166: 
+L167: In 1817, Mandla came under British rule during the 【121†Third Anglo-Maratha War】.^{【97†[14]】} 【122†Shankar Shah】, a pensioner of the British, descendent of the rajas of Garha-Mandla and his son Raghunath Shah were arrested of a plot to murder the English residents of 【48†Jabalpur】 during the 【123†Revolt of 1857】 and were executed by 【124†blowing from a gun】 in 【48†Jabalpur】.^{【94†[11]】}^{【66†[1]】}
+L168: ## Emblem of Gondwana State
+L169: 
+L170: [【125†edit】]
+L171: For over a millennium in South Asia, the visual trope of a triumphant lion vanquishing one or several elephants has been common in architectural sculpture, both in the round and in relief. In the rather limited scholarship on this motif, diverse interpretations have been offered.
+L172: Although its presence has remained fairly stable through time, there exist many minor variations on this motif, including the use of leonine creatures variously described as vyālas or yālīs, and the incorporation of other fantastic creatures known popularly as makaras in such combats. In South India, the myth of the fantastic composite animal called the Śarabha takes this imagery yet further.
+L173: Yet, the simple image of a lion victorious over one or more elephants was situated very strategically within certain architectural programs for given periods and places. For example, 【126†Gondwana Kingdom】 forts, Deccani forts constructed between the fifteenth and seventeenth centuries carried this representation on their barbicans and gateways . While tracing the history of this visual motif.
+L174: ## Administration
+L175: 
+L176: [【127†edit】]
+L177: 
+L178: Administration of Gondwana was becoming centralised. The kingdom was divided into garh, each garh was controlled by particular 【61†Gond】 clan. This was further divided into units of 84 villages called chourasi. The chourasi was further subdivided into barhots which are made up of 12 villages each.
+L179: ### List of garh
+L180: 
+L181: [【128†edit】]
+L182: 
+L183: The 53 forts or garh on which each Gondwana division was based were:
+L184:   1. 【48†Garha】
+L185:   2. 【49†Singhorgarh】
+L186:   3. 【129†Kurwai】
+L187:   4. 【130†Rahatgarh】
+L188:   5. Ginnorgarh
+L189:   6. 【73†Bhopal】
+L190:   7. 【131†Makrai】
+L191:   8. Madogarh (Mandla)
+L192:   9. Amoda (Jabalpur)
+L193:   10. 【132†Patangarh】 (Jabalpur)
+L194:   11. 【133†Chourai】
+L195:   12. 【134†Bargi】
+L196:   13. 【135†Ghansour】
+L197:   14. Karvagarh (Seoni)
+L198:   15. Chaiturgarh Lafagarh-Korba
+L199:   16. 【136†Raigarh】
+L200:   17. Tipagarh (Balaghat)
+L201:   18. Kanoja (Jabalpur)
+L202:   19. Pachelgarh (Jabalpur)
+L203:   20. Bagmar (Mandla)
+L204:   21. Dongartal (Nagpur)
+L205:   22. Jhanjhangarh (Jabalpur)
+L206:   23. Santagarh
+L207:   24. Diyagarh (Jabalpur)
+L208:   25. Bankagarh
+L209:   26. Amargarh (Dindori)
+L210:   27. Devhar (Dindori)
+L211:   28. Nimuagarh (Narsinghpur)
+L212:   29. Bhanwargarh (Narsinghpur)
+L213:   30. 【137†Pawai】-Karhi
+L214:   31. 【138†Shahnagar】
+L215:   32. 【139†Dhamoni】
+L216:   33. 【140†Hatta】
+L217:   34. 【141†Madiyadoh】
+L218:   35. 【142†Garhakota】
+L219:   36. 【143†Shahgarh】
+L220:   37. 【144†Garhpehra】 (Sagar)
+L221:   38. 【75†Damoh】
+L222:   39. 【145†Rehli】
+L223:   40. 【146†Itwa】 (Sagar)
+L224:   41. 【147†Khimlasa】
+L225:   42. 【148†Badi】
+L226:   43. Chowkigarh (Hoshangabad)
+L227:   44. Karubag (Raisen)
+L228:   45. 【149†Raisen】
+L229:   46. Bhanwaraso
+L230:   47. Opadgarh (Bhopal)
+L231:   48. Punagarh (Narsinghpur)
+L232:   49. 【150†Deori】
+L233:   50. 【151†Gourjhamar】
+L234:   51. Partabgarh (【152†Bilaspur】)
+L235:   52. 【153†Fatehpur】 (Hoshangabad)
+L236:   53. Garh Katanga
+L237: ## List of rulers
+L238: 
+L239: [【154†edit】]
+L240: 
+L241: The following is a list of the rulers of Garha-Mandla-^{【155†[22]】}^{【156†[23]】}
+L242:   * Kharji (1440–1460)
+L243:   * Gorakshadas (1460–1480)
+L244:   * Sukhandas (1480–1500)
+L245:   * Arjun Das (1500–1513)
+L246:   * 【72†Sangram Shah】 also known as Aman das (1513–1543)
+L247:   * 【78†Dalpat Shah】 (1543–1550)
+L248:   * 【79†Rani Durgawati】 (1550–1564)
+L249:   * Chandra Shah (1566–1576)
+L250:   * Madhukar Shah
+L251:   * Prem Narain
+L252:   * 【100†Hridayshah】 (1634–1668)
+L253:   * Chhatra Shah (1668–1685)
+L254:   * Kesari Shah (1685–1688)^{【157†[24]】}
+L255:   * Narendra Shah (1688–1732)
+L256:   * Maharaj Shah (1732–1742)
+L257:   * Shivraj Shah (1742–1749)
+L258:   * Durjan Shah (1749)
+L259:   * Nizam Shah (1749–1776)
+L260:   * Narhar Shah (1776–1781)
+L261: ## References
+L262: 
+L263: [【158†edit】]
+L264:   1. 【159†1】 【160†2】 【161†3】 【162†4】 【163†5】 Chatterton, Eyre (8 January 2021). 【164†The Story Of Gondwana†books.google.com】. Read Books Ltd. 【165†ISBN】 【166†978-1-5287-6963-1】.
+L265:   2. 【167†1】 【168†2】 【169†3】 【170†4】 Gupta, Archana Garodia (20 April 2019). 【171†The Women Who Ruled India: Leaders. Warriors. Icons†books.google.com】. Hachette India. 【165†ISBN】 【172†978-93-5195-153-7】.
+L266:   3. 【173†↑】 Pallavi, Aparna (1 October 2014). 【174†"The Gond kingdoms"†www.downtoearth.org.in】. Down To Earth.
+L267:   4. 【175†↑】 【176†Mishra 2008】, p. 44.
+L268:   5. 【177†↑】 Beveridge, H. (1907). "Conquest of the country of Gadha Katanga by the sword of the genius of Khwaja Abdul Majid Asaf Khan". 【178†The Akbarnama Of Abul Fazl†web.archive.org】. Vol. II. pp. 【179†323†archive.org】–【180†333†archive.org】. Archived from 【181†the original†archive.org】 on 29 December 2016. Retrieved 1 April 2023.
+L269:   6. 【182†↑】 Miśra, Sureśa (2007). 【183†Tribal Ascendancy in Central India: The Gond Kingdom of Garha†books.google.com】. Manak Publications. 【165†ISBN】 【184†978-81-7827-185-9】.
+L270:   7. 【185†↑】 Datta, Saurav Ranjan. 【186†Goddesses of Fury: History's Most Daring Queens†books.google.com】. The Little Booktique Hub. p. 151. 【165†ISBN】 【187†978-93-93209-19-1】.
+L271:   8. 【188†↑】 【189†""Rani Durgavati: The Warrior Queen of the Gonds""†web.archive.org】. Archived from 【190†the original†www.livehistoryindia.com】 on 2018-02-13. Retrieved 2018-02-12.
+L272:   9. 【191†↑】 Sengupta, Nandini (25 November 2022). 【192†Rani Durgawati: The Forgotten Life of a Warrior Queen†books.google.com】. Penguin Random House India Private Limited. 【165†ISBN】 【193†978-93-5492-829-1】.
+L273:   10. 【194†↑】 Chandra, Satish (2005). 【195†Medieval India: From Sultanat to the Mughals Part – II†books.google.com】. Har-Anand Publications. p. 105. 【165†ISBN】 【196†978-81-241-1066-9】.
+L274:   11. 【197†1】 【198†2】 West, Barbara A. (19 May 2010). 【199†Encyclopedia of the Peoples of Asia and Oceania†books.google.com】. Infobase Publishing. 【165†ISBN】 【200†978-1-4381-1913-7】.
+L275:   12. 【201†↑】 【202†Orissa District Gazetteers: Mandla†books.google.com】. Superintendent, Orissa Government Press. 1995.
+L276:   13. 【203†1】 【204†2】 【205†3】 Pradesh (India), Madhya (1992). 【206†Madhya Pradesh: Balaghat†books.google.com】. Government Central Press.
+L277:   14. 【207†1】 【208†2】 【209†3】 【210†4】 Sharma, Anima (2005). 【211†Tribe in transition : a study of Thakur Gonds†books.google.com】 (1st ed.). New Delhi: Mittal Publications. 【165†ISBN】 【212†9788170999898】.
+L278:   15. 【213†↑】 Deogaonkar, Shashishekhar Gopal (2007). 【214†The Gonds of Vidarbha†books.google.com】. Concept Publishing Company. 【165†ISBN】 【215†978-81-8069-474-5】.
+L279:   16. 【216†↑】 Sil, Jogendra Nath (1917). 【217†History of the Central Provinces and Berar†indianculture.gov.in】. J.N. Sil.
+L280:   17. 【218†↑】 【219†Maharashtra State Gazetteers: Bhandara District†books.google.com】. 2013.
+L281:   18. 【220†1】 【221†2】 Pradesh (India), Madhya (1989). 【222†Madhya Pradesh: Seoni†books.google.com】. Government Central Press.
+L282:   19. 【223†↑】 【224†Indian Dissertation Abstracts†books.google.com】. Popular Prakashan. 1988.
+L283:   20. 【225†↑】 Hunter, William Wilson, Sir, et al. (1908). Imperial Gazetteer of India, Volume 17. 1908–1931; Clarendon Press, Oxford.
+L284:   21. 【226†↑】 Rashkow, Ezra; Ghosh, Sanjukta; Chakrabarti, Upal (18 August 2017). 【227†Memory, Identity and the Colonial Encounter in India: Essays in Honour of Peter Robb†books.google.com】. Taylor & Francis. 【165†ISBN】 【228†978-1-351-59694-7】.
+L285:   22. 【229†↑】 Chauhan, D. S. (1966). 【230†"A study of the later history of the Rajgond kingdom of Garha-Mandla(1564–1678)"†www.jstor.org】. Proceedings of the Indian History Congress. 28: 154–161. 【231†ISSN】 【232†2249-1937†search.worldcat.org】. 【233†JSTOR】 【230†44140413†www.jstor.org】.
+L286:   23. 【234†↑】 【176†Mishra 2008】, p. 34138.
+L287:   24. 【235†↑】 【236†"Five-storey palace built from 350 year old stones"†www.naidunia.com】. Naidunia. Naidunia. Retrieved 12 December 2020.
+L288: ### Works cited
+L289: 
+L290: [【237†edit】]
+L291: 
+L292:   * Mishra, Suresh (1 January 2008). 【238†Gadha Ka Gond Rajya (The Gond kingdom of Garha)†books.google.com】 (in Hindi). Rajkamal Prakashan. 【165†ISBN】 【239†978-81-267-1549-7】.
+L293: 
+L294: 【240†Image】
+L295: 
+L296: Retrieved from "【40†https://en.wikipedia.org/w/index.php?title=Garha_kingdom&oldid=1381742536】"
+L297: 
+L298: 【241†Categories】:
+L299:   * 【242†Former countries in Indian history】
+L300:   * 【243†Garha kingdom】
+L301:   * 【244†States and territories established in 1440】
+L302:   * 【245†States and territories disestablished in 1781】
+L303: 
+L304: Hidden categories:
+L305:   * 【246†Articles with short description】
+L306:   * 【247†Short description matches Wikidata】
+L307:   * 【248†All articles with unsourced statements】
+L308:   * 【249†Articles with unsourced statements from October 2024】
+L309:   * 【250†Pages using infobox country or infobox former country with the symbol caption or type parameters】
+L310:   * 【251†CS1 Hindi-language sources (hi)】
+L311:   * This page was last edited on 24 October 2026, at 14:07 (UTC).
+L312:   * Page was rendered with 【252†Parsoid†www.mediawiki.org】.
+L313:   * Text is available under the 【253†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【254†Terms of Use†foundation.wikimedia.org】 and 【255†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【256†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L314:   * 【255†Privacy policy†foundation.wikimedia.org】
+L315:   * 【5†About Wikipedia】
+L316:   * 【257†Disclaimers】
+L317:   * 【6†Contact Wikipedia】
+L318:   * 【258†Legal & safety contacts†foundation.wikimedia.org】
+L319:   * 【259†Code of Conduct†foundation.wikimedia.org】
+L320:   * 【260†Developers†developer.wikimedia.org】
+L321:   * 【261†Statistics†stats.wikimedia.org】
+L322:   * 【262†Cookie statement†foundation.wikimedia.org】
+L323:   * Search
+L324: 
+L325: [Input: Search Wikipedia]
+L326: 
+L327: [Input]
+L328: 
+L329: [Button: Search]
+L330: 
+L331: [Input] Toggle the table of contents
+L332: 
+L333: Garha kingdom
+L334: 5 languages 【17†Add topic】

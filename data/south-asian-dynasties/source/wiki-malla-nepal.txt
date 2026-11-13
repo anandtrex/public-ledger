@@ -1,0 +1,269 @@
+Malla dynasty (Nepal) - Wikipedia (https://en.wikipedia.org/wiki/Malla_dynasty_%28Nepal%29 ; rewritten summary of https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal))
+citeturn110view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)","lineno":null}); Redirected to URL: https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal); Total lines: 460
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Early Malla period】
+L51:     * 【21†2.2 Period of three kingdoms】
+L52:     * 【22†2.3 Portuguese】
+L53:     * 【23†2.4 British】
+L54:     * 【24†2.5 End】
+L55:   * 【25†3 Legacy of Malla dynasty】
+L56:   * 【26†4 List of Malla rulers】
+L57:   * 【27†5 See also】
+L58:   * 【28†6 References】 Toggle References subsection
+L59:     * 【29†6.1 Citations】
+L60:     * 【30†6.2 Bibliography】
+L61:   * 【31†7 Further reading】
+L62:   * 【32†8 External links】
+L63: 
+L64: [Input] Toggle the table of contents
+L65: # Malla dynasty (Nepal)
+L66: 
+L67: [Input] 16 languages
+L68:   * 【33†বাংলা†bn.wikipedia.org】
+L69:   * 【34†Deutsch†de.wikipedia.org】
+L70:   * 【35†Español†es.wikipedia.org】
+L71:   * 【36†Français†fr.wikipedia.org】
+L72:   * 【37†हिन्दी†hi.wikipedia.org】
+L73:   * 【38†Italiano†it.wikipedia.org】
+L74:   * 【39†日本語†ja.wikipedia.org】
+L75:   * 【40†한국어†ko.wikipedia.org】
+L76:   * 【41†मैथिली†mai.wikipedia.org】
+L77:   * 【42†नेपाली†ne.wikipedia.org】
+L78:   * 【43†Norsk bokmål†no.wikipedia.org】
+L79:   * 【44†پنجابی†pnb.wikipedia.org】
+L80:   * 【45†Português†pt.wikipedia.org】
+L81:   * 【46†Русский†ru.wikipedia.org】
+L82:   * 【47†தமிழ்†ta.wikipedia.org】
+L83:   * 【48†Українська†uk.wikipedia.org】
+L84: 【49†Edit links†www.wikidata.org】
+L85: 
+L86:   * 【50†Article】
+L87:   * 【51†Talk】
+L88: 
+L89: [Input] English
+L90: 
+L91:   * 【50†Read】
+L92:   * 【52†Edit】
+L93:   * 【53†View history】
+L94: 
+L95: [Input] Tools
+L96: 
+L97: Tools
+L98: 
+L99: [Button: move to sidebar] [Button: hide]
+L100: 
+L101: Actions
+L102: 
+L103:   * 【50†Read】
+L104:   * 【52†Edit】
+L105:   * 【53†View history】
+L106: 
+L107: General
+L108: 
+L109:   * 【54†What links here】
+L110:   * 【55†Related changes】
+L111:   * 【56†Upload file】
+L112:   * 【57†Permanent link】
+L113:   * 【58†Page information】
+L114:   * 【59†Cite this page】
+L115:   * 【60†Get shortened URL】
+L116:   * 【61†Switch to legacy parser】
+L117: 
+L118: Print/export
+L119:   * 【62†Download as PDF】
+L120:   * Printable version
+L121: 
+L122: In other projects
+L123: 
+L124:   * 【63†Wikidata item†www.wikidata.org】
+L125: 
+L126: Appearance
+L127: 
+L128: [Button: move to sidebar] [Button: hide]
+L129: 
+L130: For other uses, see 【64†Malla (disambiguation)】.
+L131: 
+L132: Not to be confused with 【65†Khasa Malla kingdom】.
+L133: Malla Confederacy 𑐩𑐮𑑂𑐮 𑐰𑑄𑐱‎
+L134: Malla saṅgha
+L135: ---
+L136: c. (circa) 1201–25 November 1769
+L137: 【66†South Asia1400 CE】【67†DELHI】【67†SULTANATE】【67†(TUGHLAQS)】
+L138: 【68†TIMURIDEMPIRE】
+L139: 【69†SHAH MIRSULTANATE】【70†PHAGMODRUPAS】【71†SAMMAS】【72†MARYUL】【73†GUGE】【74†KALMAT】
+L140: 【75†GUJARATGOVERNORATE】
+L141: 【76†BAHMANISULTANATE】
+L142: 【77†KHANDESHSULTANATE】【78†TOMARAS】【79†TWIPRA】
+L143: 【80†EASTERNGANGAS】【81†KAMATA】【82†SUGAUNAS】【50†MALLA】【83†AHOM】【84†DIMASA】【85†CHUTIA】
+L144: 【86†BENGALSULTANATE】
+L145: 【87†VIJAYANAGARAEMPIRE】【88†REDDI】
+L146: 【89†MALWASULTANATE】【90†JAISALMER】【91†MEWAR】【92†MARWAR】【93†KARAULI】【94†AMBER】【95†SIROHI】【96†VAGAD】【97†MEWAT】
+L147: 【98†JAUNPURSULTANATE】【99†GONDWANA】Approximate location of the Malla confederacy in the 15th century as per 【100†A Historical Atlas of South Asia】^{【101†[1]】}
+L148: Scan of map of Nepaul, present-day Kathmandu Valley and surrounding areas in Nepal
+L149: Capital  | 【102†Basantapur】
+L150: Largest city  | 【103†Kathmandu】
+L151: Common languages  |
+L152:   * 【104†Newar】 (official, 【105†lingua franca】, literary, and court language)^{【106†[2]】}^{【107†[3]】}^{【108†[4]】}^{【109†[5]】}
+L153:   * 【110†Sanskrit】 (【111†liturgical language】)^{【112†[6]】}
+L154:   * 【113†Maithili】 and 【114†Bengali】 (literary language)^{【115†[7]】}^{【116†[8]】}
+L155: Religion  | 【117†Hinduism】
+L156: 【118†Buddhism】^{【119†[9]】}
+L157: Government  | 【120†Unitary】 【121†absolute monarchy】
+L158: 【122†Mahārāja】  |
+L159: • 1201–1216  | 【123†Arideva Malla】
+L160: • 1216–1255  | 【124†Abhaya Malla】
+L161: • 1255-1258  | 【125†Jayadeva Malla】
+L162: • 1258–1271  | 【126†Jayabhimadeva】
+L163: • 1258–1271  | 【127†Jayasimha Malla】
+L164: • 1274–1308  | 【128†Ananta Malla】
+L165: • 1313–1320  | 【129†Jayanandadeva】
+L166: • 1320–1344  | 【130†Jayari Malla】
+L167: • 1348–1361  | 【131†Jayarajadeva】
+L168: • 1360–1381  | 【132†Jayarjunadeva】
+L169: • 1382–1395  | 【133†Jayasthiti Malla】
+L170: • 1395–1408  | 【134†Jayadharma Malla】
+L171: • 1408–1428  | 【135†Jayajyotir Malla】
+L172: • 1428–1482  | 【136†Jayayakshya Malla】
+L173: Legislature  | None (【137†rule by decree】)
+L174: Historical era  | 【138†Medieval Nepal】
+L175: • Established  | c. (circa) 1201
+L176: • Disestablished  | 25 November 1769
+L177: Currency  | 【139†Mohar】
+L178: Preceded by Succeeded by
+L179: 【140†Image†upload.wikimedia.org】 【141†Thakuri dynasty】
+L180: 【142†Kingdom of Nepal】 【140†Image†upload.wikimedia.org】
+L181: Today part of  | 【143†Nepal】
+L182: The Malla dynasty (【104†Newar】: 𑐩𑐮𑑂𑐮 𑐰𑑄𑐱; Malla vaṃśa) also known as the Malla Confederacy, was the ruling dynasty of 【144†Nepal Mandala】 which consists of the 【145†Kathmandu Valley】 and its surrounding region in modern-day 【143†Nepal】 from 1201 to 1769. This dynasty was founded by 【123†Arideva Malla】. Though the latter Mallas were regarded as belonging to the 【146†Raghuvamsha】 dynasty, they were also seen as continuations and descendants of the 【147†Licchavi】 dynasty.
+L183: Later Malla kings, particularly those of 【148†Bhaktapur】 starting from 【149†Jagajjyoti Malla】 also traced one section of their lineage from 【150†Nanyadeva】, the founder of the 【151†Karnat dynasty】 of 【152†Mithila】.^{【153†[10]】}^{【154†[11]】} The term Malla means wrestler in 【110†Sanskrit】. The first use of the word Malla in the Kathmandu Valley began in 1201.
+L184: The Malla period stretched over 600 years, as they presided over and flourished the 【155†Newar】 civilization of 【144†Nepal Mandala】 which developed as one of the most sophisticated urban civilisations in the Himalayan foothills and a key destination on the India-Tibet trade route.^{【156†[12]】} During the Malla Dynasty, 【104†Nepal Bhasa】 was the official language,^{【108†[4]】}^{【157†[13]】}^{【158†[14]】} while 【159†Bhojpuri】, 【113†Maithili】 and 【114†Bengali】 also held significant importance as literary languages during this period.^{【116†[8]】}^{【160†[15]】}^{【154†[11]】}^{【161†[16]】}
+L185: Clockwise from top-left: (a) 【102†Kathmandu Durbar Square】, the Royal palace of Malla King of 【103†Kantipur】 (b) 【162†Patan Durbar Square】, the Royal palace of Malla King of 【163†Patan】(c) 【164†Bhaktapur Durbar Square】, the Royal palace of Malla King of 【165†Bhaktapur】, as they all looked during 1850s.
+L186: ## Origin
+L187: 
+L188: [【166†edit】]
+L189: Beginning in the early twelfth century, leading notables in Nepal began to appear with names ending in the term malla, ("wrestler" in 【110†Sanskrit】),^{【167†[17]】} indicating a person of great strength and power. 【123†Arimalla】 (reigned 1200–16) was the first king to be so-called,^{【168†[18]】} and the practice of adopting such a name was followed regularly by rulers in Nepal until the eighteenth century. The names of the Malla kings were also written as, for example, 【123†Ari Malla】.
+L190: Another legend says that 【123†Arimalla】 was fond of wrestling and he added malla to his name. However, this is debated as the word malla appears frequently in the historical records before the Malla dynasty.^{【167†[17]】} Another possibility is that Aridev adopted the title Malla because it was popular at the time in India. It seems more convincing because Aridev belonged to the dynasty started by Vamadeva, and none of his predecessors used Malla in their names.
+L191: If such is the case, it makes the Malla dynasty separate from the 【169†Malla community】 which originated in India.^{【170†[19]】}
+L192: The later Malla kings, especially from Bhaktapur and starting with 【149†Jagajjyoti Malla】 (r.
+L193: 1614–1637) claimed descent from the 【171†Karnata dynasty】 of 【152†Mithila】, a connection which is not corroborated in the early contemporary sources like the 14th century 【172†Gopal Raj Vamshavali】.^{【153†[10]】} Scholars such as Brinkhaus have argued that this genealogical claim was a deliberate political construction, accompanied by the simultaneous adoption of 【113†Maithili】 as a courtly literary language in place of 【114†Bengali】, serving to legitimize Malla rule by associating the dynasty with the prestigious Mithila tradition.^{【154†[11]】}^{【173†[20]】} Similarly, 【174†Maithil Brahmin】, 【175†Kanyakubja Brahmin】 and 【176†Saraswat Brahmin】 priests were invited and settled in Kathmandu during the Malla rule.
+L194: Similarly, dozens of 【177†Kshatriya】-status noble and ruling clans of Mithila also came along as the nobility or as part of the Malla entourage who fled 【178†Muslim】 invasions. Most notable of these frequent migrations was the migration that occurred after the attack of the Mithila kingdom by 【179†Ghiyath al-Din Tughluq】 during the reign of King 【180†Harisimhadeva】 in 1324 CE, which led to large-scale migration of Mithila to Nepal.
+L195: The priestly classes that came during this time are the ancestors of present-day 【181†Rajopadhyaya】 and 【182†Maithil Brahmins】 of the Valley, whereas the immigrant warrior and noble classes are the ancestors of today's 【183†Chatharīya Srēṣṭha】 Newars.
+L196: Other groups too immigrated and eventually assimilated into the Newar society, some of which are the present-day Khadgis (Nāya/Shahi), 【184†Dhobi】, 【185†Kapalis】/Jogis, 【186†Halwai】/(【187†Rajkarnikar】) and 【188†Tamrakar】 of 【163†Lalitpur】, Podya (Chamahar), Kulu (Dusadh), among others.^{【189†[21]】} These people eventually became endogamous caste units that started to be identified as Newar from the 16th century onward.^{【190†[22]】} The backbone of the Malla army, particularly under 【191†Jaya Prakash Malla】, was made up of Tirhutia soldiers from Northern 【192†Bihar】 and parts of the 【193†Terai】.^{【194†[23]】}^{【195†[24]】} The military leaders and chiefs were often recruited from the Kshatriya families of the time, marked by their clan titles like 【196†Pradhan】 or Pradhananga or Pradhan Patravamshi (chief ministers), 【197†Amatya】 (ministers), 【198†Rawal】, etc.^{【199†[25]】}
+L197: ## History
+L198: 
+L199: [【200†edit】]
+L200: ### Early Malla period
+L201: 
+L202: [【201†edit】]
+L203: 
+L204: The long Malla period witnessed the continued importance of the 【145†Kathmandu Valley】 as a political, cultural, and economic centre of Nepal. Other areas also began to emerge as significant centres in their own right, increasingly connected to the Kathmandu Valley.^{【202†[26]】}
+L205: The time of the earlier Malla kings was not one of consolidation but was instead a period of upheaval in and around Nepal.
+L206: In the twelfth century, 【178†Muslim】 【203†Turks】 set up a powerful kingdom in India at 【204†Delhi】, and in the thirteenth century, Turko Afghan khaljis expanded their control over most of northern India.^{【205†[27]】}^{【206†[28]】} During this process, all of the regional kingdoms in India underwent a major reshuffling and considerable fighting before they eventually fell under Delhi's control. This process resulted in an increasing militarization of Nepal's neighbours and sections of Nepal as well.
+L207: For example, in western Nepal, around Dullu in the 【207†Jumla Valley】, an alternative seat of political and military power grew up around a separate dynasty of Mallas (who were not related to the Mallas of the Kathmandu Valley), who reigned until the fourteenth century. These Khas kings expanded into parts of western Tibet and sent raiding expeditions into the Kathmandu Valley between 1275 and 1335.
+L208: In 1312 the Khas king, Ripumalla, visited 【208†Lumbini】 and had his inscription carved on 【209†Ashoka's pillar】. He then entered the Kathmandu Valley to worship publicly at 【210†Matsyendranath】, 【211†Pashupatinath】, and 【212†Swayambhunath】. These acts were all public announcements of his overlordship in Nepal and signified the temporary breakdown of royal power within the valley.^{【202†[26]】} The first Malla rulers had to cope with several disasters.
+L209: In 1255, one-third of the population of Kathmandu (30,000 people, including King 【124†Abhaya Malla】) was killed when the valley suffered an earthquake with the 【213†epicentre】 right below the city.^{【214†[29]】} A devastating Muslim invasion by the 【215†Sultan of Bengal】 【216†Shamsuddin Ilyas Shah】 in 1345–46,^{【202†[26]】} during the reign of Jayaraja Deva (r. 1347–1361), left plundered Hindu and Buddhist shrines in its wake. The invasion, however, did not leave a lasting cultural effect.
+L210: In India, the damage was more widespread and many Hindus were driven into the hills and mountains of Nepal, where they established small 【217†Rajbanshi】 principalities.^{【218†[30]】} None of the existing buildings in the valley proper dates from before this raid. He is said to have destroyed the Lichchhavi palaces of Managriha and Kailashkuta. He also damaged all the temples in the Kathmandu valley except the Changu Narayan Temple, which he could not locate as it lies some hills away from Kathmandu.
+L211: He returned after 3 days of looting and burning.
+L212: Apart from this, the earlier Malla years (1220–1482) were largely stable. During the reign of Jayabhimdev Malla in 1260, eighty artisans were sent to 【219†Tibet】. Among them was 【220†Araniko】 (1245–1306) who later rose to become a high-ranking official in the court of Mongol leader 【221†Kublai Khan】's 【222†Yuan dynasty】.^{【223†[31]】} 【220†Araniko】 is the only person from this early Malla era whose biography is known to us in some detail, thanks to the Chinese historical records.
+L213: Portrait of Jayasthiti Malla (r. 1382–1395)
+L214: This period reached a high point under the third Malla dynasty of 【224†Jayasthiti Malla】 (r. 1382–1395), who united the valley and codified its laws, including the caste system.^{【218†[30]】} The early Malla period, a time of continuing trade and the reintroduction of Nepalese coinage saw the steady growth of the small towns that became 【103†Kathmandu】, 【225†Patan】, and 【226†Bhadgaon】.
+L215: Royal pretenders in Patan and Bhadgaon struggled with their main rivals, the lords of 【227†Banepa】 in the East, relying on the populations of their towns as their power bases. The citizens of Bhadgaon viewed Devaladevi as the legitimate, independent queen.
+L216: The betrothal in 1354 of her granddaughter to 【224†Jayasthiti Malla】, a man of obscure but high birth, eventually led to the reunification of the land and a lessening of strife among the towns.^{【202†[26]】} By 1370 【224†Jayasthiti Malla】 controlled Patan, and in 1374 his forces defeated those in 【227†Banepa】 and Pharping. He then took full control of the country from 1382 until 1395, reigning in Bhadgaon as the husband of the queen and in Patan with full regal titles.
+L217: His authority was not absolute because the lords of 【227†Banepa】 were able to pass themselves off as kings to ambassadors of the Chinese 【228†Ming】 emperor who travelled to Nepal during this time. Nevertheless, 【224†Jayasthiti Malla】 united the entire valley and its environs under his sole rule, an accomplishment still remembered with pride by Nepalese, particularly 【229†Newars】.
+L218: The first comprehensive codification of law in Nepal, based on the dharma of ancient religious textbooks, is ascribed to 【224†Jayasthiti Malla】. This legendary compilation of traditions was seen as the source of legal reforms during the nineteenth and twentieth centuries.^{【202†[26]】}
+L219: King Yaksha Malla’s copperplate inscription, 【104†Newar language】, 1446 CE.
+L220: After the death of 【224†Jayasthiti Malla】, his sons divided the kingdom and ruled collegially, until 【135†Jayajyotir Malla】, the last surviving son, ruled on his own from 1408 to 1428. His son, 【230†Yaksha Malla】 (reigned ca. 1428–82), represented the high point of the Mallas as rulers of a united Nepal. Under his rule, a military raid was launched against the plains to the south, a very rare event in Nepalese history.
+L221: 【230†Yaksha Malla】 built the Mul Chok in 1455, which remains the oldest palace section in Bhadgaon. The struggles among the landed aristocracy and leading town families (【196†Pradhans】), especially acute in Patan, were controlled during his reign. Outlying areas such as 【227†Banepa】 and 【231†Pharping】 were semi-independent but acknowledged the leadership of the king. 【104†Newari】 appeared more often as the language of choice in official documents.
+L222: The royal family began to accept Manesvari (also known as 【232†Taleju Maju】), a manifestation of 【233†Shiva】's consort, as their deity.^{【202†[26]】}
+L223: After the death of Jayasthiti Malla's grandson 【230†Yaksha Malla】 in 1482, the Kathmandu Valley was divided up among his sons into three kingdoms of 【148†Bhaktapur】 (Khwopa), 【234†Kantipur】 (Yen) and 【235†Lalitpur】 (Yala).
+L224: The rest of what we today call Nepal consisted of a fragmented patchwork of almost 50 independent states, stretching from 【236†Palpa】 and 【207†Jumla】 in the west to the semi-independent states of 【227†Banepa】 and Pharping, most of them minting their own coins and maintaining standing armies. The most notable Malla kings of this later era were: 【237†Pratap Malla】 of Kantipur, 【238†Siddhi Narasimha Malla】 of Lalitpur, and 【239†Bhupatindra Malla】 of Bhaktapur.
+L225: ### Period of three kingdoms
+L226: 
+L227: [【240†edit】]
+L228: 
+L229: 【241†Image†thumb.wikimedia.org】
+L230: 
+L231: King 【237†Pratap Malla】 of 【242†Kantipur】
+L232: 
+L233: 【243†Image†thumb.wikimedia.org】
+L234: 
+L235: King 【244†Yoganarendra Malla】 of 【235†Lalitpur】
+L236: 
+L237: 【245†Image†thumb.wikimedia.org】
+L238: 
+L239: King 【239†Bhupatindra Malla】 of 【148†Bhaktapur】
+L240: After 1482, a crucial date in Nepalese history, the kingdom was divided. At first, the six sons of 【230†Yaksha Malla】 attempted to reign collegially, in their grandfathers' pattern. 【246†Ratna Malla】 was the first to rebel against this system of joint rule, seizing Kathmandu in 1484 and ruling there alone until he died in 1520. 【247†Rayamalla】, the eldest brother, ruled Bhadgaon with the other brothers until his death when the crown there passed into the hands of his descendants.
+L241: 【227†Banepa】 broke away under Rama Malla until its reincorporation into the Bhadgaon kingdom in 1649. Patan remained aloof, dominated by factions of its local nobility, until Sivasimha Malla, a descendant of Ratna Malla, conquered it in 1597 and united it with Kathmandu. On his death, however, Kathmandu and Patan were given to different grandsons and again separated. The centre of Nepal thus remained split into three competing kingdoms, roughly based on Bhadgaon, Kathmandu, and Patan.
+L242: The influence of these petty kingdoms outside the valley varied over time. Bhadgaon extended its feeble power as far as the 【248†Dudh Kosi】 in the east, Kathmandu-controlled areas to the north and as far west as 【249†Nuwakot】, and Patan included territories to the south as far as 【250†Makwanpur】. The relationships among the kingdoms within the valley became quite convoluted.
+L243: Although all three ruling houses were related and periodically intermarried, their squabbles over minuscule territorial gains or ritual slights repeatedly led to warfare. The kings attended coronation rituals or marriages at each other's capitals and then plotted the downfalls of their relatives.^{【251†[32]】}
+L244: The period of the three kingdoms—the time of the later Mallas—lasted until the mid-eighteenth century. The complete flowering of the unique culture of the Kathmandu Valley occurred during this period, and it was also during this time that the old palace complexes in the three main towns achieved much of their present-day forms. The Kings still based their legitimate rule on their role as protectors of 【252†dharma】, and often they were devout donors to religious shrines.
+L245: Kings built many of the older temples in the valley, gems of late medieval art and architecture, during this late Malla period. 【253†Buddhism】 remained a vital force for much of the population, especially in its old seat of Patan.
+L246: Religious endowments called 【254†Guthi】 arranged for long-term support of traditional forms of worship or ritual by allowing temple or vihara lands to be passed down through generations of the same families; this support resulted in the preservation of conservative art, architecture, and religious literature that had disappeared in other areas of 【255†South Asia】.
+L247: 【104†Newari】 was in regular use as a literary and court language by the fourteenth century and was the 【105†lingua franca】 of the 【144†Nepal Mandala】.^{【256†[33]】}^{【257†[34]】} 【113†Maithili】, the language of the 【258†Tirhut】 area to the south, became a court language during the seventeenth century and still was spoken by many people in the 【193†Terai】 in the late twentieth century.
+L248: In the west, 【259†Khas language】, or the language of the 【260†Khasa】, was slowly expanding, only later to evolve into present-day 【261†Nepali】.^{【251†[32]】}
+L249: The final centuries of Mallas' rule were a time of great political change outside the Kathmandu Valley. In India, overlordship in Delhi fell to the powerful 【262†Mughal dynasty】 (1526–1858). Although the Mughals never exercised direct lordship over Nepal, their empire had a major indirect impact on its institutional life.
+L250: During the sixteenth century, when the Mughals were spreading their rule over almost all of South Asia, many dispossessed princes from the plains of northern India found shelter in the hills to the north.^{【251†[32]】} Legends indicated that many small principalities in western Nepal originated in migration and conquest by exiled warriors, who added to the slow spread of the Khasa language and culture in the West.
+L251: Along with these exiles came Mughal military technology, including 【263†firearms】 and 【264†artillery】, and administrative techniques based on land grants in return for military service. The influence of the Mughals is reflected in the weapons and dress of Malla rulers in contemporary paintings and in the adoption of 【265†Persian】 terminology for administrative offices and procedures throughout Nepal.^{【251†[32]】}
+L252: Meanwhile, in 【219†Tibet】, domestic struggles during the 1720s led to decisive intervention by the powerful 【266†Qing】 rulers of China (1644–1911). A Chinese force installed the 【267†6th Dalai Lama】 (the highest-ranking Tibetan religious leader) in Lhasa in 1728, and thereafter the Chinese stationed military governors (amban) in Lhasa to monitor local events.
+L253: In 1729 representatives of the three Nepalese kingdoms sent greetings and presents to the Chinese emperor in 【268†Beijing】, after which the Qing viewed Nepal as an outlying tributary kingdom (a perception not shared within Nepal). The expansion of big empires in both the north and south thus took place during a time when Nepal was experiencing considerable weakness in its traditional center.
+L254: The three kingdoms lived a charmed life—isolated, independent, and quarrelling in their mountain valley—as the systems around them became larger and more centralized.^{【251†[32]】}
+L255: By the seventeenth century, the mountain areas to the north of the valley and the Kiranti region to the east were the only areas that maintained traditional tribal communal systems, influenced to various degrees by Hindu ideas and practices. In the west and the south of the three kingdoms, there were many petty states ruled by dynasties of a warrior (【177†Kshatriya】) status, many claiming an origin among princely, or 【269†Rajput】, dynasties to the south.
+L256: In the near west, around the 【270†Narayani River】 system (the Narayani was one of the seven Gandak rivers), there was a loose confederation of principalities called the Chaubisi (the Twenty-four), including Makwanpur and Palpa. In the far west, around the 【271†Karnali River】 system, there was a separate confederation called the Baisi (the Twenty-two), headed by the Raja of 【272†Jumla】. The confederations were in constant conflict, and their member states were constantly quarrelling with each other.
+L257: The kingdoms of Kathmandu, Patan, and Bhadgaon periodically allied themselves with princes among these confederations. All of these small, increasingly militarized states were operating individually at a higher level of centralized organization than ever before in the hills, but they were expending their resources in an almost anarchic struggle for survival. There was an awareness of the distinct culture of the Himalayan area but no real concept of Nepal as a nation.^{【251†[32]】}
+L258: ### Portuguese
+L259: 
+L260: [【273†edit】]
+L261: The first contact between the people of Nepal and 【274†Europeans】 also occurred during the period of the later Mallas. In 1623 the 【275†Portuguese】 from Goa sent 【276†missionaries】 António de Andrade, 【277†João Cabral】 and 【278†Estêvão Cacella】 to visit 【279†Lhasa】 in 1628, after which Cabral travelled to Nepal.^{【280†[35]】} The mission was to find Christian kingdoms allied with the Portuguese to propagate the faith and trade.
+L262: In the early stages, they thought it was the mythical kingdom of Catai.^{【280†[35]】} The offer of gifts also took place in other kingdoms such as the same happened in Bhutan, where military support was offered by the Portuguese against the enemy kingdoms.^{【281†[36]】} This gesture aimed at creating an alliance that would allow converting and creating new convents as well as expanding the Portuguese influence in Asia.^{【282†[37]】} In 1670 King Pratap Malla invited the Jesuits to settle in the country.
+L263: The first 【283†Capuchin】 mission was founded in Kathmandu in 1715.^{【284†[38]】}
+L264: ### British
+L265: 
+L266: [【285†edit】]

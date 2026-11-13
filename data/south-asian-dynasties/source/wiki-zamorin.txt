@@ -1,0 +1,418 @@
+Zamorin - Wikipedia (https://en.wikipedia.org/wiki/Zamorin)
+citeturn100view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Zamorin","lineno":null}); Total lines: 1025
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 Seats of power】 Toggle Seats of power subsection
+L50:     * 【20†2.1 Calicut】
+L51:     * 【21†2.2 Panthalayini Kollam】
+L52:   * 【22†3 Caste and line of succession】
+L53:   * 【23†4 Historical overview】
+L54:   * 【24†5 Origins and early history】 Toggle Origins and early history subsection
+L55:     * 【25†5.1 Rulers of Eranadu】
+L56:     * 【26†5.2 Cheraman sword】
+L57:     * 【27†5.3 Expansions to central Kerala】
+L58:     * 【28†5.4 Expansions to Kochi】
+L59:   * 【29†6 Vijayanagara conquests】
+L60:   * 【30†7 Foreign relations】 Toggle Foreign relations subsection
+L61:     * 【31†7.1 Relations with Yuan and Ming China】
+L62:     * 【32†7.2 Relations with the Portuguese】
+L63:     * 【33†7.3 Relations with the Dutch and English】
+L64:   * 【34†8 Mysore occupation and decline】
+L65:   * 【35†9 Governance】 Toggle Governance subsection
+L66:     * 【36†9.1 Sarvadhi Karyakkar】
+L67:     * 【37†9.2 Shahbandar Koya】
+L68:     * 【38†9.3 Revenue and trade】
+L69:   * 【39†10 Military】 Toggle Military subsection
+L70:     * 【40†10.1 Kunjali Marakkars】
+L71:   * 【41†11 List of Calicut Zamorins】 Toggle List of Calicut Zamorins subsection
+L72:     * 【42†11.1 First dynasty】
+L73:     * 【43†11.2 Second dynasty】
+L74:   * 【44†12 Zamorin family today】
+L75:   * 【45†13 See also】
+L76:   * 【46†14 References】
+L77:   * 【47†15 Sources】
+L78:   * 【48†16 Further reading】
+L79:   * 【49†17 External links】
+L80: [Input] Toggle the table of contents
+L81: # Zamorin
+L82: 
+L83: [Input] 20 languages
+L84:   * 【50†العربية†ar.wikipedia.org】
+L85:   * 【51†Català†ca.wikipedia.org】
+L86:   * 【52†Esperanto†eo.wikipedia.org】
+L87:   * 【53†Español†es.wikipedia.org】
+L88:   * 【54†Français†fr.wikipedia.org】
+L89:   * 【55†हिन्दी†hi.wikipedia.org】
+L90:   * 【56†Bahasa Indonesia†id.wikipedia.org】
+L91:   * 【57†Italiano†it.wikipedia.org】
+L92:   * 【58†日本語†ja.wikipedia.org】
+L93:   * 【59†Lietuvių†lt.wikipedia.org】
+L94:   * 【60†മലയാളം†ml.wikipedia.org】
+L95:   * 【61†मराठी†mr.wikipedia.org】
+L96:   * 【62†Nederlands†nl.wikipedia.org】
+L97:   * 【63†Norsk bokmål†no.wikipedia.org】
+L98:   * 【64†Português†pt.wikipedia.org】
+L99:   * 【65†Русский†ru.wikipedia.org】
+L100:   * 【66†தமிழ்†ta.wikipedia.org】
+L101:   * 【67†Українська†uk.wikipedia.org】
+L102:   * 【68†اردو†ur.wikipedia.org】
+L103:   * 【69†中文†zh.wikipedia.org】
+L104: 【70†Edit links†www.wikidata.org】
+L105: 
+L106:   * 【71†Article】
+L107:   * 【72†Talk】
+L108: 
+L109: [Input] English
+L110: 
+L111:   * 【71†Read】
+L112:   * 【73†View source】
+L113:   * 【74†View history】
+L114:   * 【17†Save】
+L115: 
+L116: [Input] Tools
+L117: 
+L118: Tools
+L119: 
+L120: [Button: move to sidebar] [Button: hide]
+L121: 
+L122: Actions
+L123: 
+L124:   * 【71†Read】
+L125:   * 【73†View source】
+L126:   * 【74†View history】
+L127:   * 【17†Save】
+L128: 
+L129: General
+L130:   * 【75†What links here】
+L131:   * 【76†Related changes】
+L132:   * 【77†Upload file】
+L133:   * 【78†Permanent link】
+L134:   * 【79†Page information】
+L135:   * 【80†Cite this page】
+L136:   * 【81†Get shortened URL】
+L137:   * 【82†Switch to legacy parser】
+L138: 
+L139: Print/export
+L140: 
+L141:   * 【83†Download as PDF】
+L142:   * Printable version
+L143: 
+L144: In other projects
+L145: 
+L146:   * 【84†Wikimedia Commons†commons.wikimedia.org】
+L147:   * 【85†Wikidata item†www.wikidata.org】
+L148: 
+L149: Appearance
+L150: 
+L151: [Button: move to sidebar] [Button: hide]
+L152: Zamorin of Calicut
+L153: ---
+L154: ---
+L155: The Zamorin of Calicut (1495–1500) on his throne as painted by 【86†Veloso Salgado】 in 1898
+L156: ---
+L157: ---
+L158: Details
+L159: ---
+L160: First monarch  | Mana Vikrama
+L161: Last monarch  | Krishna Varma
+L162: Formation  | 1124
+L163: Abolition  | 1806
+L164: The Samoothiri (Anglicised as Zamorin; 【87†Malayalam】: sāmūtiri, sāmūri, 【88†[saːmuː(d̪i)ɾi,]】, 【89†Arabic】: sāmuri,^{【90†[1]】} 【91†Portuguese】: Samorim, 【92†Dutch】: Samorijn, 【93†Chinese】: Shamitihsi^{【94†[2]】}) was the title of the erstwhile ruler and monarch of the 【95†Calicut kingdom】 in the 【96†South Malabar】 region of India.^{【97†[3]】} Originating from the former feudal kingdom of 【98†Nediyiruppu】 Swaroopam, the Samoothiris and their vassal kings from 【99†Nilambur Kovilakam】 established Calicut as one of the most important trading ports on the southwest coast of India.
+L165: The Samoothiris belonged to the 【100†Eradi】 subcaste of the 【101†Samantan】 community of 【102†colonial Kerala】, and were originally the ruling chiefs of 【103†Eranad】.^{【104†[4]】}^{【105†[5]】} The final Zamorin of Calicut committed suicide by setting fire to his palace and burning himself alive inside it, upon learning that 【106†Hyder Ali】 had captured the neighboring country of 【107†Chirakkal】 in 【108†Kannur】.^{【109†[6]】}
+L166: ## Etymology
+L167: 
+L168: 【110†Image: Cochin†thumb.wikimedia.org】
+L169: 
+L170: 【111†Cochin】
+L171: 
+L172: 【110†Image: Quilon (Kurakkeni Kollam)†thumb.wikimedia.org】
+L173: 
+L174: 【112†Quilon (Kurakkeni Kollam)】
+L175: 
+L176: 【110†Image: Cannanore†thumb.wikimedia.org】
+L177: 
+L178: 【108†Cannanore】
+L179: 
+L180: 【110†Image: Cranganore†thumb.wikimedia.org】
+L181: 
+L182: 【113†Cranganore】
+L183: 
+L184: 【110†Image: Calicut†thumb.wikimedia.org】
+L185: 
+L186: 【114†Calicut】
+L187: 
+L188: 【110†Image: Bangalore†thumb.wikimedia.org】
+L189: 
+L190: 【115†Bangalore】
+L191: 
+L192: 【110†Image: Coimbatore†thumb.wikimedia.org】
+L193: 
+L194: 【116†Coimbatore】
+L195: 
+L196: 【110†Image: Mysore†thumb.wikimedia.org】
+L197: 【117†Mysore】
+L198: 
+L199: 【110†Image: Mangalore†thumb.wikimedia.org】
+L200: 
+L201: 【118†Mangalore】
+L202: 
+L203: 【110†Image: Nediyiruppu†thumb.wikimedia.org】
+L204: 
+L205: 【98†Nediyiruppu】
+L206: 
+L207: 【110†Image: Malappuram†thumb.wikimedia.org】
+L208: 
+L209: 【119†Malappuram】
+L210: 
+L211: 【110†Image: Ponnani†thumb.wikimedia.org】
+L212: 
+L213: 【120†Ponnani】
+L214: 
+L215: 【110†Image: Trichur†thumb.wikimedia.org】
+L216: 
+L217: 【121†Trichur】
+L218: 
+L219: 【110†Image: (Quilandy)Panthalayani Kollam†thumb.wikimedia.org】
+L220: 
+L221: (【122†Quilandy】)Panthalayani Kollam
+L222: 
+L223: 【110†Image: Tellicherry†thumb.wikimedia.org】
+L224: 
+L225: 【123†Tellicherry】
+L226: 【110†Image: Mahé†thumb.wikimedia.org】
+L227: 
+L228: 【124†Mahé】
+L229: 
+L230: 【110†Image: Nilambur†thumb.wikimedia.org】
+L231: 
+L232: 【125†Nilambur】
+L233: 
+L234: 【110†Image: Tanur†thumb.wikimedia.org】
+L235: 
+L236: 【126†Tanur】
+L237: 
+L238: 【110†Image: Chetwai†thumb.wikimedia.org】
+L239: 
+L240: 【127†Chetwai】
+L241: 
+L242: 【110†Image: Mount D'eli†thumb.wikimedia.org】
+L243: 
+L244: 【128†Mount D'eli】
+L245: 
+L246: 【110†Image: Trivandrum†thumb.wikimedia.org】
+L247: 
+L248: 【129†Trivandrum】
+L249: 
+L250: 【110†Image: Cape Comorin†thumb.wikimedia.org】
+L251: 
+L252: 【130†Cape Comorin】
+L253: 
+L254: 【110†Image: Alleppey†thumb.wikimedia.org】
+L255: 
+L256: 【131†Alleppey】
+L257: 【110†Image: Palghat†thumb.wikimedia.org】
+L258: 
+L259: 【132†Palghat】
+L260: 
+L261: 【110†Image: Tirunavaya†thumb.wikimedia.org】
+L262: 
+L263: 【133†Tirunavaya】
+L264: 
+L265: 【110†Image: Karimpuzha†thumb.wikimedia.org】
+L266: 
+L267: Karimpuzha
+L268: 
+L269: 【110†Image: Kayamkulam†thumb.wikimedia.org】
+L270: 
+L271: 【134†Kayamkulam】
+L272: 
+L273: 【110†Image: Porca†thumb.wikimedia.org】
+L274: 
+L275: 【135†Porca】
+L276: 
+L277: 【110†Image: Edapally†thumb.wikimedia.org】
+L278: 
+L279: 【136†Edapally】
+L280: 
+L281: 【110†Image: Tangasseri†thumb.wikimedia.org】
+L282: 
+L283: 【137†Tangasseri】
+L284: 
+L285: 【110†Image: Attingal†thumb.wikimedia.org】
+L286: 
+L287: 【138†Attingal】
+L288: 【110†Image: Sultan's Battery†thumb.wikimedia.org】
+L289: 
+L290: 【139†Sultan's Battery】
+L291: 
+L292: 【110†Image: Dindigul†thumb.wikimedia.org】
+L293: 
+L294: 【140†Dindigul】
+L295: 
+L296: 【110†Image: Tinnevelly†thumb.wikimedia.org】
+L297: 
+L298: 【141†Tinnevelly】
+L299: 
+L300: 【110†Image: Perumpadappu†thumb.wikimedia.org】
+L301: 
+L302: 【142†Perumpadappu】
+L303: 
+L304: 【110†Image: Seringapatam†thumb.wikimedia.org】
+L305: 
+L306: 【143†Seringapatam】
+L307: 
+L308: 【110†Image: Pappinivattom†thumb.wikimedia.org】
+L309: 
+L310: 【144†Pappinivattom】
+L311: 
+L312: 【110†Image: Colachel†thumb.wikimedia.org】
+L313: 
+L314: 【145†Colachel】
+L315: 
+L316: 【110†Image: Anjengo†thumb.wikimedia.org】
+L317: 【146†Anjengo】
+L318: 
+L319: 【110†Image: Chandragiri†thumb.wikimedia.org】
+L320: 
+L321: Chandragiri
+L322: 
+L323: 【110†Image: Hosdurg†thumb.wikimedia.org】
+L324: 
+L325: 【147†Hosdurg】
+L326: 
+L327: 【110†Image: Tamarassery†thumb.wikimedia.org】
+L328: 
+L329: 【148†Tamarassery】
+L330: 
+L331: 【110†Image: Angadippuram†thumb.wikimedia.org】
+L332: 
+L333: 【149†Angadippuram】
+L334: 
+L335: 【110†Image: Pallipuram†thumb.wikimedia.org】
+L336: 
+L337: Pallipuram
+L338: 
+L339: 【110†Image: Bekal†thumb.wikimedia.org】
+L340: 
+L341: Bekal
+L342: 
+L343: 【110†Image: Diamper†thumb.wikimedia.org】
+L344: 
+L345: Diamper
+L346: 
+L347: 【110†Image: Puthupattanam/Kottakkal†thumb.wikimedia.org】
+L348: 
+L349: Puthupattanam/Kottakkal
+L350: 【150†class=notpageimage|】
+L351: 
+L352: Major locations associated with the history of the Kingdom of Calicut
+L353: 
+L354: 【151†Thali Temple】 (1901), Calicut Thali Temple, present day, Kozhikode
+L355: The title zamorin first appears in the writings of 【152†Ibn Battuta】 in 1342.^{【153†[7]】} In the Portuguese 【154†Book of Duarte Barbosa】 (c. (circa) 1516), the title of the ruler of Calicut is given as çamidre or zomodri, derived from the local Malayalam sāmūtiri.
+L356: In 【155†Tuhfat Ul Mujahideen】 written by 【156†Zainuddin Makhdoom II】 in the 16th century CE, the word is pronounced as Sāmuri.^{【90†[1]】} This was once thought to be derived from 【157†Sanskrit】 samudra ("sea") and have the meaning "lord of the sea". In fact, the term derives from Sanskrit 【158†svami】 and 【159†sri】 (which in combined form becomes tiri),^{【160†[8]】} which 【161†Krishna Iyer】 glosses as "emperor". He gives the complete title as Svami Tiri Tirumulapad ("august emperor").^{【153†[7]】}
+L357: The Zamorins used the title Punturakkon or Punthurakon (Victor/Lord of Punthura?) in inscriptions from c. 1100, in palace records known as the Granthavaris, and in official treaties with the English and the Dutch. No records indicate the actual personal name of the ruler.^{【162†[9]】} Punthura may be the place of their origin, or a battle-field, or a port of great fame.
+L358: The title "Kunnalakkon" ("Lord of Hills and Waves") and its Sanskrit form "Shailabdhishvara" are mostly found in later literary works (such as Manipravalam and Sanskrit poems).^{【163†[10]】}
+L359: ## Seats of power
+L360: Thrikkavil Kovilakam in 【120†Ponnani】 served as a second home for the Zamorins of Calicut.^{【162†[9]】}^{【164†[11]】} Other secondary seats of the Zamorin of Calicut, all established at a much later time, were 【121†Trichur】 (Thrissur) and 【165†Cranganore】 (Kodungallur).^{【162†[9]】} The 147th Samoothiri Raja, 【166†Sree Manavedan Raja】, who was married to Bharathy Thamburatty from Nilambur Kovilakam, became the last Zamorin in the dynasty's 682-year history to hold power over the 【167†Guruvayur Temple】.^{【168†[12]】}
+L361: The chief Kerala ports under control of the Zamorins in the late 15th century were Panthalayini Kollam, and 【169†Calicut】. The Zamorin of Calicut derived a greater part of his revenues by taxing the spice trade through his ports. Smaller ports in the kingdom were Puthuppattanam (Kottakkal), 【170†Parappanangadi】, 【126†Tanur (Tanore)】, 【120†Ponnani (Ponani)】, 【127†Chetuva (Chetwai)】 and 【165†Kodungallur (Cranganore)】. The port of 【171†Beypore】 served as a ship building center.^{【162†[9]】}^{【164†[11]】}
+L362: ### Calicut
+L363:   * The port at Calicut held the superior economic and political position in Kerala, while Kollam (Quilon), Kochi and Kannur (Cannanore) were commercially confined to secondary roles.^{【172†[13]】} Travellers have called the city by different names – variations of the Malayalam name. The travellers from Middle-East called it "Kalikooth", 【173†Tamils】 called the city "Kallikkottai", for the 【174†Chinese】 it was "Kalifo" or "Quli".^{【175†[14]】}
+L364:   * In the Middle Ages, Calicut was dubbed the "City of Spices" for its role as the major trading point of 【176†Asian spices】.^{【177†[15]】} The Chinese and Middle-Eastern interests in Malabar, the political ambition of the newly emergent rulers, i.e., the Zamorins, and the decline of port Kodungallur (c. 1341^{【172†[13]】}), etc. boosted the prosperity of the port.^{【178†[16]】} The rise of Calicut, both the port and the state, seems to have taken place only after the 13th century.^{【175†[14]】}
+L365:   * Calicut, despite being located at a geographically inconvenient spot, owed much of its prosperity to the economic policies of the Zamorins of Calicut.^{【175†[14]】}^{【179†[17]】}
+L366:   * Trade at port Calicut was managed by the Muslim port commissioner known as the Shah Bandar Koya. The port commissioner supervised the customs on the behalf of the king, fixed the prices of the commodities and collected the share to the Calicut treasury.^{【164†[11]】}
+L367:   * The name of the famous fine variety of cotton cloth called 【180†calico】 is also thought to have derived from Calicut.^{【162†[9]】}
+L368: ### Panthalayini Kollam
+L369: 
+L370:   * Also known as "Fandarina" (【152†Ibn Batutah】), and "Shaojunan" (Daoyi Zgilue).^{【181†[18]】}
+L371:   * Located north of Calicut, close to a bay. The geographical location is ideal for the wintering of ships during the annual monsoon rains.^{【182†[19]】}
+L372:   * Presence of Chetti, Arab and Jewish merchants among others.^{【183†[20]】}
+L373: ## Caste and line of succession
+L374: According to K. V. Krishna Iyer, the court historian in Calicut, the members of the royal house of Zamorin belonged to the 【100†Eradi】 subcaste of the 【184†Samanthan】 section of 【185†Nair】 aristocracy.^{【186†[21]】}^{【187†[22]】} The Samantas claimed a status higher than the rest of the Nairs.^{【162†[9]】} The Hindu theological formula that the rulers must be of 【188†Kshatriya】 【189†varna】 may have been a complication for the Samantas of the Kodungallur Chera monarch.
+L375: So the Samantas – already crystallized as a distinctive social group, something of a "sub-caste" – began to style themselves as "【190†Samantha Kshatriyas】".^{【178†[16]】} The Samantas have birth, marriage and death customs identical to other Nair communities.^{【163†[10]】}
+L376: The Zamorin follows a matriarchal system where the present king's sister's son becomes the next king. The direct sisters of the Zamorin are always married to 【191†Nambudiri】 【192†Brahmin】 men. Consequently, the Zamorin's King's lineage was always half Zamorin and half 【191†Nambudiri】 【192†Brahmin】.^{【193†[23]】}
+L377: In the royal family, thalis of the princesses were usually tied by Kshatriyas from Kodungallur chief's family, which the Zamorin recognised as more ancient and therefore higher rank. The women's sambandham partners were 【191†Nambudiri】 【192†Brahmins】 or Kshatriyas.^{【194†[24]】}^{【195†[25]】} Royal men married Samantan or other Nair women. Zamorin's consort was dignified by the title "Naittiyar".^{【196†[26]】}
+L378: The family of chieftains that ruled the polities in premodern Kerala was known as the swaroopam. The rulers of Calicut belonged to "Nediyirippu swaroopam" and followed matriliny system of inheritance. The eldest male member of Nediyirippu swaroopam became the Zamorin of Calicut. There was a set pattern of succession, indicated by sthanams in the royal line. Five sthanams were defined in Calicut.
+L379: These positions were based on the chronological seniority of the incumbent in the different thavazhis of the swaroopam and constituted what is called in the records as "kuruvazhcha". Unlike in the case of Cochin (Kochi), there was no rotation of position among the thavazhis. Thus no particular thavazhi enjoyed any privilege or precedence in the matter of succession, as the only criterion for succession was seniority of age.^{【178†[16]】}
+L380: Five sthanams existed in Calicut, each with its own separate property enjoyed in succession by the senior members of the three kovilakams of the family:^{【162†[9]】}
+L381:   * 1st sthanam: the Zamorin of Calicut
+L382:   * 2nd sthanam: Eranadu Ilamkur Nambiyathiri Thirumulpadu (the Eralppadu). Second in line successor to the throne. Eralppadu's seat was in Karimpuzha (in the northeastern region of the present-day 【197†Palakkad district】). This area of Malabar was annexed from Valluvanadu in the leadership of the then Eralppadu.
+L383:   * 3rd sthanam: Eranadu Moonnamkur Nambiyathiri Thirumulpad (the Munalpadu)
+L384:   * 4th sthanam: Edattaranadu Nambiyathiri Thirumulpadu (the Etatralpadu) – mentioned in the Manjeri Pulapatta inscription as the overlord of the "Three Hundred" Nairs.^{【163†[10]】} The Etatralpadu used to reside in a palace at Edattara near Manjeri.^{【163†[10]】}
+L385:   * 5th sthanam: Nediyiruppu Mootta Eradi Thirumulpadu (the Naduralpadu). Naduralpadu was the former head of the house (Eranadu chief under the Cheras of Kodungallur^{【162†[9]】}).
+L386: The three thavazhis were:
+L387: 
+L388:   1. Kizhakke Kovilakam (Eastern Branch)
+L389:   2. Padinhare Kovilakam (Western Branch)
+L390:   3. Puthiya Kovilakam (New Branch)
+L391: 
+L392: The senior female member of the whole Zamorin family, the Valiya Thamburatti, also enjoyed a sthanam with separate property known as the Ambadi Kovilakam.^{【162†[9]】} Women were not allowed to be the ruler of Calicut. And so the oldest male member traced became the next Zamorin.^{【162†[9]】}
+L393: A panorama of port Calicut, shows several types of ships, shipbuilding, net fishing, dinghy traffic and a rugged, sparsely populated interior (【198†Georg Braun】 and Franz Hogenbergs atlas Civitates orbis terrarum, 1572).
+L394: ## Historical overview
+L395: 
+L396: Portrait of the sword of 【199†Zamorins of Kozhikode】, which is related to the 【200†Legend of Cheraman Perumals】. The Chera king granted the Eradi warrior, as a mark of favour, a small tract of land ("Kozhikode and Chullikkadu"). India in early 1320. Note that most of the parts of present-day state of Kerala was under the sovereignty of the Zamorin of 【114†Kozhikode】.
+L397: Brahmanic legends such as the 【201†Keralolpathi】 (compiled in its final form c. 17th – 18 century) and the Calicut Granthavari recount the events leading to the establishment of the state of Calicut.^{【162†[9]】}
+L398: There were two brothers belonging to the Eradi ruling family at 【98†Nediyiruppu】. The brothers Manichan and Vikraman were the most trusted warriors in the militia of the Kodungallur 【202†Cheras】.^{【203†[27]】}^{【204†[28]】} They distinguished themselves in the battles against the foreigners. However, during the partition of Chera kingdom, the Chera monarch failed to allocate any land to Nediyiruppu.
+L399: Filled with guilt, the king later gave an unwanted piece of marshy tract of land called Kozhikode to the younger brother Vikraman (the elder brother died in the battle). The king also gifted his personal sword and his favourite prayer 【205†conch】 – both broken – to him and told him to occupy as much as land as he could with all his might. So the Eradis conquered neighbouring kingdoms and created a large state for themselves.
+L400: As a token of their respect to the Chera king, they adopted the logo of two crossed swords, with a broken 【205†conch】 in the middle and a lighted lamp above it.^{【162†[9]】}^{【163†[10]】}
+L401: The port at 【114†Kozhikode】 held the superior economic and political position along the medieval Kerala coastline, while 【108†Kannur】, 【112†Kollam】, and 【111†Kochi】, were commercially important secondary ports, where traders from various parts of the world would gather.^{【172†[13]】} The Portuguese navigator 【206†Vasco da Gama】 visited 【122†Quilandy】 (Koyilandy) in 1498, opening the sailing route directly from Europe to 【207†South Asia】.^{【208†[29]】} The port at Kozhikode acted as the gateway to medieval 【209†South Indian】 coast for the 【210†Arabs】, the 【174†Chinese】, the 【211†Portuguese】, the 【212†Dutch】, and finally the 【213†British】.^{【214†[30]】} The Portuguese efforts to lay the foundations to 【215†Estado da Índia】, and to take complete control over the commerce was repeatedly hampered by the forces of the Zamorin of Calicut.
+L402: The 【216†Kunjali Marakkars】, the famous Muslim warriors, were the 【217†admiral of the fleet】 of Calicut. By the end of the 16th century the Portuguese – now commanding the spice traffic on the Malabar Coast – had succeeded in replacing the Muslim merchants in the Arabian Sea. The Dutch supplanted the Portuguese in the 17th century, who in turn were supplanted by the British.^{【218†[31]】}
+L403: 【219†Travancore】 became the most dominant state in Kerala by defeating the powerful Zamorin of Calicut in a battle located in 【135†Purakkad】 in 1755.^{【220†[32]】} In 1766, 【106†Haider Ali】 of 【221†Mysore】 defeated the Zamorin of Calicut and absorbed Calicut to his state.^{【162†[9]】}^{【222†[33]】} After the 【223†Third Anglo-Mysore War】 (1790–1792), 【224†Malabar District】 including Zamorin's former territories were placed under the control of the 【213†East India Company】.
+L404: Eventually, the status of the Zamorin was reduced to that of a pensioner of the company by 1806.^{【162†[9]】}^{【178†[16]】}
+L405: ## Origins and early history
+L406: ### Rulers of Eranadu
+L407: Historical records regarding the origin of the Zamorin of Calicut are obscure. However, it is generally agreed among historians the Eradis were originally the autonomous rulers of the 【103†Eranadu】 region of the Kodungallur Chera kingdom.^{【162†[9]】}^{【225†[34]】}^{【163†[10]】} The Kodungallur Chera kingdom was a congeries of chiefdoms, which were ruled by local chiefs.
+L408: The office of the chief/senior prince of Eranad (Eralanadu Utaya) is assumed to be hereditary.^{【162†[9]】}^{【225†[34]】} The earliest reference to the chief and chiefdom of Eranad is the Cochin Jewish copper plate (c. 1000). 【226†Old Malayalam】 inscriptions name two titles for the rulers of Eranad – Manvepala Manaviyata (c. 11 century) and Manavikrama (c. 12th century).
+L409: In the later period, Manavikrama, Manaveda and Viraraya were the only names given to male members in the royal family, the Zamorin always being known as Manavikrama. Historians assume that Manaveda might be a corruption of the old Malayalam title "Manaviyata".^{【163†[10]】} Scholars tentatively identify Manaviyata and Manavikrama with the titles of the elder and younger brothers of the famous origin legend.^{【163†[10]】}
+L410: The strength of the "Hundred Organisation" of the senior prince of Eranadu was "Six Hundred". Several organisations with same capacity are also found in Ramavalanadu, Valluvanadu, Kizhmalanadu and Venadu. Scholars come across only one nadu with a stronger force, namely Kurumpuranadu, with a force of Seven Hundred although many lesser ones with Five Hundred of Purakizhanadu, Three Hundred of Nantuzhanadu and others.^{【162†[9]】}^{【225†[34]】}
+L411: The following table shows available inscriptions mentioning the rulers of Eranad:
+L412: Inscription^{【227†[35]】}  | Year  | Notes
+L413: --- | --- | ---
+L414: Cochin Jewish copper plate of Kodungallur Chera king Bhaskara Ravi (c. 962–1021)  | c. 1000  | An old Malayalam royal charter in Vattezhuthu and Grantha scripts.
+L415: Among others, the chief of Eralanadu, Eralanadu Utaya "Manavepala Mana Viyatan", is a signatory in the charter.^{【163†[10]】} As per the charter, while residing at Chera capital Kodungallur, king Bhaskara Ravi granted Jewish merchant Joseph Rabban a plate giving him the proprietorship of the merchant guild Anchuvannam and other 72 special trade privileges.

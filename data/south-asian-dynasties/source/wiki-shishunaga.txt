@@ -1,0 +1,328 @@
+Shaishunaga dynasty - Wikipedia (https://en.wikipedia.org/wiki/Shaishunaga_dynasty)
+citeturn57view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Shaishunaga_dynasty","lineno":null}); Total lines: 326
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】 Toggle History subsection
+L50:     * 【19†1.1 Historicity】
+L51:   * 【20†2 Rulers】 Toggle Rulers subsection
+L52:     * 【21†2.1 Shishunaga】
+L53:     * 【22†2.2 Kakavarna/Kalashoka】
+L54:   * 【23†3 Later rulers】
+L55:   * 【24†4 Decline】
+L56:   * 【25†5 Citations】
+L57:   * 【26†6 Sources】
+L58: 
+L59: [Input] Toggle the table of contents
+L60: # Shaishunaga dynasty
+L61: 
+L62: [Input] 25 languages
+L63:   * 【27†अंगिका†anp.wikipedia.org】
+L64:   * 【28†বাংলা†bn.wikipedia.org】
+L65:   * 【29†Català†ca.wikipedia.org】
+L66:   * 【30†Čeština†cs.wikipedia.org】
+L67:   * 【31†Deutsch†de.wikipedia.org】
+L68:   * 【32†Español†es.wikipedia.org】
+L69:   * 【33†Français†fr.wikipedia.org】
+L70:   * 【34†हिन्दी†hi.wikipedia.org】
+L71:   * 【35†Italiano†it.wikipedia.org】
+L72:   * 【36†日本語†ja.wikipedia.org】
+L73:   * 【37†ಕನ್ನಡ†kn.wikipedia.org】
+L74:   * 【38†한국어†ko.wikipedia.org】
+L75:   * 【39†Lietuvių†lt.wikipedia.org】
+L76:   * 【40†मगही†mag.wikipedia.org】
+L77:   * 【41†മലയാളം†ml.wikipedia.org】
+L78:   * 【42†नेपाली†ne.wikipedia.org】
+L79:   * 【43†Português†pt.wikipedia.org】
+L80:   * 【44†Русский†ru.wikipedia.org】
+L81:   * 【45†தமிழ்†ta.wikipedia.org】
+L82:   * 【46†తెలుగు†te.wikipedia.org】
+L83:   * 【47†ไทย†th.wikipedia.org】
+L84:   * 【48†Українська†uk.wikipedia.org】
+L85:   * 【49†اردو†ur.wikipedia.org】
+L86:   * 【50†მარგალური†xmf.wikipedia.org】
+L87:   * 【51†中文†zh.wikipedia.org】
+L88: 【52†Edit links†www.wikidata.org】
+L89: 
+L90:   * 【53†Article】
+L91:   * 【54†Talk】
+L92: 
+L93: [Input] English
+L94: 
+L95:   * 【53†Read】
+L96:   * 【55†Edit】
+L97:   * 【56†View history】
+L98: 
+L99: [Input] Tools
+L100: 
+L101: Tools
+L102: 
+L103: [Button: move to sidebar] [Button: hide]
+L104: 
+L105: Actions
+L106: 
+L107:   * 【53†Read】
+L108:   * 【55†Edit】
+L109:   * 【56†View history】
+L110: 
+L111: General
+L112: 
+L113:   * 【57†What links here】
+L114:   * 【58†Related changes】
+L115:   * 【59†Upload file】
+L116:   * 【60†Permanent link】
+L117:   * 【61†Page information】
+L118:   * 【62†Cite this page】
+L119:   * 【63†Get shortened URL】
+L120:   * 【64†Switch to legacy parser】
+L121: 
+L122: Print/export
+L123:   * 【65†Download as PDF】
+L124:   * Printable version
+L125: 
+L126: In other projects
+L127: 
+L128:   * 【66†Wikidata item†www.wikidata.org】
+L129: 
+L130: Appearance
+L131: 
+L132: [Button: move to sidebar] [Button: hide]
+L133: Shaishunaga dynasty
+L134: ---
+L135: 413 BCE–345 BCE
+L136: Approximate extent of the Shaishunaga dynasty.^{【67†[2]】}
+L137: Capital  | 【68†Rajgir】 (primary)
+L138: 【69†Vaishali】 (secondary)
+L139: later 【70†Pataliputra】
+L140: Common languages  | 【71†Sanskrit】
+L141: 【72†Magadhi Prakrit】
+L142: 【73†Other Prakrits】
+L143: Religion  | 【74†Hinduism】
+L144: 【75†Historical Vedic religion】^{【76†[3]】}
+L145: 【77†Buddhism】
+L146: 【78†Jainism】
+L147: Government  | 【79†Monarchy】
+L148: 【80†King】  |
+L149: • 413–395 BCE  | 【81†Shishunaga】
+L150: • 395–367 BCE  | 【82†Kalashoka】
+L151: • 367–355 BCE  | 【83†Nandivardhana】
+L152: • 355–345 BCE  | 【84†Mahanandin】
+L153: History  |
+L154: • Established  | 413 BCE
+L155: • Disestablished  | 345 BCE
+L156: Preceded by Succeeded by
+L157: 【85†Image†upload.wikimedia.org】 【86†Haryanka dynasty】
+L158: 【85†Image†upload.wikimedia.org】 【87†Avanti】
+L159: 【85†Image†upload.wikimedia.org】 【88†Matsya】
+L160: 【89†Nanda Empire】 【85†Image†upload.wikimedia.org】
+L161: Part of a series on the
+L162: 【90†History of Bihar】
+L163: Ancient History Prehistoric and Vedic Era - 【91†Chirand】 (Neolithic) - 【92†Vedic period】 - 【93†Videha】 - 【94†Mithila (ancient)】 - 【95†Anga】 - 【96†Kikata】 Urbanisation and 【97†Shramana】 - 【98†Second Urbanisation】 - 【97†Rise of Shramana】 - 【77†Buddhism】 • 【78†Jainism】 • 【99†Ajivika】 【100†Gaṇasaṅghas】 - 【101†Magadha】 - 【102†Vajjika League】
+L164:   *     * 【103†Nāya】
+L165:     * 【104†Vajji (tribe)】
+L166:     * 【105†Licchavis of Vaishali】
+L167: - 【106†Malla (tribe)】 - 【107†Kashi】 - 【108†Bulis】 Imperial Magadha - 【109†Brihadratha dynasty】 - 【86†Haryanka dynasty】
+L168: 
+L169:   *     * 【110†Bimbisara】
+L170:     * 【111†Ajatashatru】
+L171: - 【112†Shishunaga dynasty】 - 【89†Nanda Empire】
+L172: 
+L173:   *     * 【113†Mahapadma Nanda】
+L174: - 【114†Maurya Empire】
+L175: 
+L176:   *     * 【115†Chandragupta Maurya】
+L177:     * 【116†Ashoka】
+L178: Post-Mauryan and 【117†Smriti】 - 【118†Shunga Empire】
+L179:   *     * 【119†Pushyamitra Shunga】
+L180: - 【120†Kanva dynasty】 - 【117†Development of Smriti】 - 【121†Brahmanical Revival】 The Interregnum - 【122†Kushan Influence】 - 【123†Mitra Dynasty】 - 【124†Resurgence of Licchavis】
+L181: Classical and medieval The Classical Age - 【125†Gupta Empire】 Early Medieval - 【126†Later Gupta dynasty】 - 【127†Maukharis】 Pala Era and Feudatories - 【128†Pala Empire】 - 【129†Khayaravala dynasty】 - 【130†Pithipatis of Magadha】 Medieval Mithila - 【131†Karnats of Mithila】 - 【132†Oiniwar dynasty】 Islamic Incursions - 【133†Delhi Sultanate】 Centers of Learning - 【134†Nalanda】 - 【135†Vikramashila】 - 【136†Odantapuri】 - 【137†Telhara monastery】
+L182: Early-modern Afghan and Mughal Rule - 【138†Sur Empire】
+L183:   *     * 【139†Sher Shah Suri】
+L184: - 【140†Mughal Empire】
+L185:   *     * 【141†Bihar Subah】
+L186: Regional Chieftaincies - 【142†Chakwars】 - 【143†Chero dynasty】 - 【144†Gidhaur chieftaincy】 - 【145†Kharagpur Raj】 - 【146†Khokhra chieftaincy】 Major Zamindari Estates - 【147†Bettiah Raj】 - 【148†Khandavala dynasty】 - 【149†Dumraon Raj】 - 【150†Hathwa Raj】 - 【151†Jagdishpur estate】
+L187: Colonial & Independence Era Colonial Rule (1764–1947) - 【152†Battle of Buxar】 (1764) - 【153†East India Company】 - 【154†Permanent Settlement (1793)】 - 【155†Santhal rebellion】 - 【156†Indian Rebellion of 1857】
+L188:   *     * 【157†Kunwar Singh】
+L189: - 【158†Bihar famine of 1873–74】 - 【159†Bihar Province】 (Est. 1912) - 【160†1934 Nepal–Bihar earthquake】 Freedom Struggle - 【161†Champaran Satyagraha】 (1917) - 【162†Salt Satyagraha】 - 【163†Bihar Vidyapeeth】 - 【164†Kisan Sabha】
+L190: 
+L191:   *     * 【165†Swami Sahajanand Saraswati】
+L192: - 【166†Quit India Movement】
+L193:   *     * 【167†Azad Dasta】
+L194: Modern Era (Post-1947) Congress Era (1947–1967) - 【168†Sri Krishna Sinha】 - 【169†Anugrah Narayan Sinha】 - 【170†Zamindari Abolition】 Socialist and JP Era (1967–1989) - 【171†Karpoori Thakur】 - 【172†Bihar Movement】 (1974) - 【173†Jayaprakash Narayan】 - 【174†Bhagalpur riots】 (1989) RJD Era (1990–2005) - 【175†Lalu Prasad Yadav】 - 【176†Rabri Devi】 - 【177†Fodder Scam】 State Division (2000) - 【178†Bihar Reorganisation Act, 2000】 - 【179†Creation of Jharkhand】 NDA Era (2005–Present) - 【180†Nitish Kumar】 - 【181†Politics of Bihar】
+L195: Culture, art, and society Art and architecture - 【182†Mahabodhi Temple】 - 【183†Nalanda】 - 【184†Barabar Caves】 - 【185†Tomb of Sher Shah Suri】 - 【186†Rohtas Fort】 - 【187†Golghar】 - 【188†Mithila Painting】 - 【189†Patna Qalam】 - 【190†Manjusha Art】 - 【191†Didarganj Yakshi】 Society and language - 【192†Bihari culture】 - 【193†Mithila】 • 【194†Magadh】 • 【195†Anga】 - 【196†Bihari languages】
+L196:   *     * 【197†Maithili】 • 【198†Magahi】
+L197:     * 【199†Bhojpuri】 • 【200†Angika】
+L198: Religion - 【201†Religion in Bihar】 - 【202†Buddhism in Bihar】 - 【203†Jainism in Bihar】 - 【204†Islam in Bihar】 - 【205†Sikhism in Bihar】
+L199: 【206†Portal India】 【207†Portal Bihar】
+L200: The Shaishunaga dynasty (【208†IAST】: Śaiśunāga, literally "of 【81†Shishunaga】") was possibly the second ruling dynasty of 【101†Magadha】. According to the 【209†Buddhist】 text 【210†Mahavamsa】, this dynasty was the second ruling dynasty of Magadha, succeeding 【211†Nagadashaka】 of the 【86†Haryanka dynasty】. The 【212†Hindu】 【213†Puranas】 have given a different list with different chronology of the Shaishunaga dynasty kings,^{【214†[4]】} whereas 【215†Jain texts】 do not mention this dynasty.
+L201: ## History
+L202: 
+L203: [【216†edit】]
+L204: 
+L205: 【81†Shishunaga】 was the founder of the dynasty.^{【217†[5]】} He was initially an amatya or "minister" of the last Haryanka dynasty ruler Nāgadāsaka and ascended to the throne after a popular rebellion in c. (circa) 413 BCE.^{【218†[6]】}
+L206: 
+L207: The capital of this dynasty initially was 【69†Vaishali】; but later shifted to 【70†Pataliputra】, near the present day 【219†Patna】, during the reign of Kalashoka.
+L208: According to tradition, Kalashoka was succeeded by his ten sons.^{【220†[7]】} This dynasty was succeeded by the 【221†Nanda dynasty】 in c. (circa) 345 BCE.^{【222†[8]】}
+L209: ### Historicity
+L210: 
+L211: [【223†edit】]
+L212: 
+L213: Jain texts have skipped over the Shaishunaga dynasty. They mention instead that 【224†Udayin】 (of the preceding Haryanka dynasty) was killed by an assassin of rival kingdom. Being childless, he was succeeded by 【113†Nanda】 who was selected by his ministers.^{【225†[9]】}
+L214: Historian 【226†K. T. S. Sarao】 — who favors the Buddhist "【227†short chronology】" — has dated Udayin's reign to c. 373-357 BCE, i.e., only a short time before the 【221†Nanda dynasty】 which preceded 【115†Chandragupta Maurya】.
+L215: Sarao has suggested that the kingdom of Magadha became divided after Udayin's death: with the "suspicious" lists of different successors listed in various texts possibly having ruled in different locations simultaneously instead of one after another, until the kingdom was re-unified.^{【228†[10]】} Similarly, 【229†Keay】 — another proponent of the Short Chronology — states that there is great uncertainty about the royal succession for this period, probably because there was a period of "court intrigues and murders," during which "evidently the throne changed hands frequently, perhaps with more than one incumbent claiming to occupy it at the same time" until 【113†Mahapadma Nanda】 was able to secure the throne.^{【230†[11]】}
+L216: ## Rulers
+L217: 
+L218: [【231†edit】]
+L219: ### Shishunaga
+L220: 
+L221: [【232†edit】]
+L222: 
+L223: Main article: 【81†Shishunaga】
+L224: Shishunaga founded his dynasty in 413 BCE with its capital in Rajgir and later Pataliputra (both in what is now 【233†Bihar】). Buddhist sources indicate that he had a secondary capital at 【69†Vaishali】,^{【234†[12]】} formerly the capital of 【102†Vajji】, until it was conquered by Magadha. The Shaishunaga dynasty ruled one of the largest empires in the 【235†Indian subcontinent】.
+L225: Shishunaga ended the 【87†Pradyota dynasty of Avanti】, ending the centuries-old rivalry between their kingdoms and annexing Avanti into Magadha.
+L226: ### Kakavarna/Kalashoka
+L227: 
+L228: [【236†edit】]
+L229: 
+L230: Main article: 【82†Kalashoka】
+L231: According to the Puranas, Shishunaga was succeeded by his son Kakavarna and according to the 【237†Sinhala】 chronicles by his son Kalashoka.^{【234†[12]】} On the basis of the evidence of the Ashokavadana, 【238†Hermann Jacobi】, 【239†Wilhelm Geiger】 and 【240†Ramakrishna Gopal Bhandarkar】 concluded that both are the same. During Shishunaga's reign, he was the governor of 【241†Varanasi】.
+L232: The two most significant events of his reign are the 【242†Second Buddhist council】 at 【69†Vaishali】 in 383 BC and the final transfer of the capital to 【70†Pataliputra】.^{【234†[12]】}^{【243†[13]】} According to the 【244†Harshacharita】, he was killed by a dagger thrust into his throat in the vicinity of his capital.^{【245†[14]】} According to Buddhist tradition, he had nine or ten sons, who were ousted by 【113†Ugrasena Nanda】.^{【246†[15]】}
+L233: ## Later rulers
+L234: 
+L235: [【247†edit】]
+L236: 
+L237: According to Buddhist tradition, ten sons of Kalashoka ruled simultaneously. The Mahabodhivamsa states their names as Bhadrasena, Korandavarna, Mangura, Sarvanjaha, Jalika, Ubhaka, Sanjaya, Koravya, Nandivardhana and Panchamaka. Only one of them is mentioned in the Puranic lists, Nandivardhana.^{【220†[7]】}
+L238: According to the 【248†Bhagavata Purana】, Kākavarṇa was succeeded by seven kings and lists them as following; Kṣemadharmā, Kṣetrajña, Vidhisāra, Ajātaśatru, Darbhaka, Ajaya, Nandivardhana, and 【84†Mahanandin】.
+L239: 
+L240: Other Puranas list Nandivardhana as the ninth Shaishunaga king and his son 【84†Mahanandin】 as the tenth and the last Shaishunaga king. Mahanandin was killed by 【113†Mahapadma】, his illegitimate son .^{【249†[16]】}
+L241: 
+L242: Coins during the Shaishunaga dynasty of Magadha.
+L243: ## Decline
+L244: 
+L245: [【250†edit】]
+L246: 
+L247: According to Puranas, Shaishunagas were followed by the 【89†Nanda Empire】, which was founded by 【84†Mahanandin】's son 【113†Mahapadma Nanda】.^{【234†[12]】}
+L248: ## Citations
+L249: 
+L250: [【251†edit】]
+L251:   1. Schwartzberg, Joseph E. (1978). 【252†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 145, map XIV.1 (a). 【253†ISBN】 【254†0226742210】. Archived from 【255†the original†dsal.uchicago.edu】 on 24 February 2021. Retrieved 25 March 2021.
+L252:   2. 【256†↑】 Schwartzberg, Joseph E. (1978). 【252†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 145, map XIV.1 (a). 【253†ISBN】 【254†0226742210】. Archived from 【255†the original†dsal.uchicago.edu】 on 24 February 2021. Retrieved 25 March 2021.
+L253:   3. 【257†↑】 【258†Srikar Ayalasomayajula 2026】, p. 273. sfn error: no target: CITEREFSrikar_Ayalasomayajula2026 (【259†help】)
+L254:   4. 【260†↑】 Smith, Vincent (1924), 【261†The Early History of India†archive.org】 (4th ed.), Oxford: Clarendon, p. 51
+L255:   5. 【262†↑】 Singh, Upinder (2008). 【263†A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century†books.google.com】. Pearson Education India. p. 272. 【253†ISBN】 【264†978-81-317-1120-0】. "...the people of Magadha drove out the ruling family and elected an amatya (a high-ranking official) named Shishunaga as king. Shishunaga seems to have had a second capital at Vaishali (according to the Mahavamsatika, he was the son of a Lichchhavi raja of Vaishali).
+L256: He succeeded in destroying the power of the Pradyota dynasty of Avanti."
+L257:   6. 【265†↑】 【266†Raychaudhuri 1972】, pp. 193, 201.
+L258:   7. 【267†1】 【268†2】 【266†Raychaudhuri 1972】, p. 196.
+L259:   8. 【269†↑】 【266†Raychaudhuri 1972】, p. 201.
+L260:   9. 【270†↑】 Shah, Natubhai (2004) [First published in 1998], 【271†Jainism: The World of Conquerors†books.google.com】, vol. I, 【272†Motilal Banarsidass】, p. 42, 【253†ISBN】 【273†978-81-208-1938-2】
+L261:   10. 【274†↑】 【226†Sarao, K. T. S.】 (2003), 【275†"The Ācariyaparamparā and Date of the Buddha."†journals.sagepub.com】, Indian Historical Review, 30 (1–2): 1–12, 【276†doi】:【277†10.1177/037698360303000201†doi.org】, 【278†S2CID】 【279†141897826†api.semanticscholar.org】
+L262:   11. 【280†↑】 【229†Keay, John】 (2011). 【281†India: A History†books.google.com】. Open Road + Grove/Atlantic. p. 149. 【253†ISBN】 【282†978-0-8021-9550-0】.
+L263:   12. 【283†1】 【284†2】 【285†3】 【286†4】 【287†Upinder Singh 2016】, p. 272.
+L264:   13. 【288†↑】 【266†Raychaudhuri 1972】, pp. 195–196.
+L265:   14. 【289†↑】 【290†Mahajan 2007】, p. 251.
+L266:   15. 【291†↑】 【292†Sastri 1988】, p. 14.
+L267:   16. 【293†↑】 【294†Mookerji 1988】, p. 10.
+L268: ## Sources
+L269: 
+L270: [【295†edit】]
+L271:   * 【296†Mookerji, Radha Kumud】 (1988) [first published in 1966], 【297†Chandragupta Maurya and his times†books.google.com】 (4th ed.), 【272†Motilal Banarsidass】, 【253†ISBN】 【298†978-81-208-0433-3】
+L272:   * 【299†Singh, Upinder】 (2016), 【300†A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century†books.google.com】, 【301†Pearson PLC】, 【253†ISBN】 【302†978-81-317-1677-9】
+L273:   * Raychaudhuri, H.C. (1972), Political History of Ancient India, Calcutta: University of Calcutta
+L274:   * 【303†Sastri, K. A. Nilakanta】, ed. (1988) [1967], 【304†Age of the Nandas and Mauryas†books.google.com】 (Second ed.), 【305†Delhi】: 【272†Motilal Banarsidass】, 【253†ISBN】 【306†978-81-208-0465-4】
+L275:   * Mahajan, V.D. (2007) [1960], Ancient India, New Delhi: S. Chand, 【253†ISBN】 【307†978-81-219-0887-0】
+L276: 【308†Image】
+L277: 
+L278: Retrieved from "【60†https://en.wikipedia.org/w/index.php?title=Shaishunaga_dynasty&oldid=1359159043】"
+L279: 
+L280: 【309†Categories】:
+L281: 
+L282:   * 【310†Shaishunaga dynasty】
+L283:   * 【311†Dynasties of Magadha】
+L284:   * 【312†5th-century BC establishments in India】
+L285:   * 【313†4th-century BC disestablishments in India】
+L286:   * 【314†Kingdoms of Bihar】
+L287:   * 【315†States and territories disestablished in the 4th century BC】
+L288: 
+L289: Hidden categories:
+L290:   * 【316†Articles with short description】
+L291:   * 【317†Short description is different from Wikidata】
+L292:   * 【318†Use dmy dates from December 2015】
+L293:   * 【319†Use Indian English from December 2015】
+L294:   * 【320†All Wikipedia articles written in Indian English】
+L295:   * 【321†Harv and Sfn no-target errors】
+L296:   * 【322†All articles with failed verification】
+L297:   * 【323†Articles with failed verification from January 2025】
+L298:   * 【324†All articles with unsourced statements】
+L299:   * 【325†Articles with unsourced statements from August 2023】
+L300:   * 【326†All articles with specifically marked weasel-worded phrases】
+L301:   * 【327†Articles with specifically marked weasel-worded phrases from January 2016】
+L302:   * This page was last edited on 13 June 2026, at 13:59 (UTC).
+L303:   * Page was rendered with 【328†Parsoid†www.mediawiki.org】.
+L304:   * Text is available under the 【329†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【330†Terms of Use†foundation.wikimedia.org】 and 【331†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【332†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L305:   * 【331†Privacy policy†foundation.wikimedia.org】
+L306:   * 【5†About Wikipedia】
+L307:   * 【333†Disclaimers】
+L308:   * 【6†Contact Wikipedia】
+L309:   * 【334†Legal & safety contacts†foundation.wikimedia.org】
+L310:   * 【335†Code of Conduct†foundation.wikimedia.org】
+L311:   * 【336†Developers†developer.wikimedia.org】
+L312:   * 【337†Statistics†stats.wikimedia.org】
+L313:   * 【338†Cookie statement†foundation.wikimedia.org】
+L314:   * Search
+L315: 
+L316: [Input: Search Wikipedia]
+L317: 
+L318: [Input]
+L319: 
+L320: [Button: Search]
+L321: 
+L322: [Input] Toggle the table of contents
+L323: 
+L324: Shaishunaga dynasty
+L325: 25 languages 【17†Add topic】

@@ -1,0 +1,379 @@
+Kingdom of Amber - Wikipedia (https://en.wikipedia.org/wiki/Jaipur_State)
+citeturn116view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Jaipur_State","lineno":null}); Total lines: 740
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Origins】
+L50:     * 【20†1.2 Early rulers】
+L51:     * 【21†1.3 As a Mughal ally under Bharmal and Bhagwant Das】
+L52:     * 【22†1.4 Raja Man Singh】
+L53:       * 【23†1.4.1 Initial campaigns under Akbar】
+L54:       * 【24†1.4.2 Campaigns in Kabul, Bihar, Orissa and Bengal】
+L55:       * 【25†1.4.3 After Akbar's death】
+L56:     * 【26†1.5 Mirza Raja Jai Singh】
+L57:       * 【27†1.5.1 Facilitation under Shah Jahan】
+L58:       * 【28†1.5.2 The war of succession of Shah Jahan】
+L59:       * 【29†1.5.3 Struggle with Aurangzeb over Shivaji】
+L60:     * 【30†1.6 Sawai Jai Singh II】
+L61:       * 【31†1.6.1 The war of succession of Aurangzeb】
+L62:       * 【32†1.6.2 The Rajput rebellion of 1708】
+L63:       * 【33†1.6.3 Return to influence】
+L64:       * 【34†1.6.4 Astronomy, Science and Mathematics】
+L65:     * 【35†1.7 Civil War between Ishwari and Madho Singh】
+L66:     * 【36†1.8 Decline at hands of the Marathas】
+L67:     * 【37†1.9 Under the British Empire】
+L68:       * 【38†1.9.1 Initial treaty】
+L69:       * 【39†1.9.2 Instability】
+L70:       * 【40†1.9.3 Reforms under the British and Ram Singh II】
+L71:   * 【41†2 List of rulers】 Toggle List of rulers subsection
+L72:     * 【42†2.1 Rulers of Ambers and Jaipur】
+L73:     * 【43†2.2 Titular rulers of Jaipur】
+L74:     * 【44†2.3 Other family members】
+L75:   * 【45†3 Jaipur Residency】
+L76:   * 【46†4 See also】
+L77:   * 【47†5 Notes】
+L78:   * 【48†6 References】 Toggle References subsection
+L79:     * 【49†6.1 Footnotes】
+L80:   * 【50†7 Bibliography】
+L81: [Input] Toggle the table of contents
+L82: # Kingdom of Amber
+L83: 
+L84: [Input] 18 languages
+L85:   * 【51†العربية†ar.wikipedia.org】
+L86:   * 【52†Català†ca.wikipedia.org】
+L87:   * 【53†Deutsch†de.wikipedia.org】
+L88:   * 【54†Español†es.wikipedia.org】
+L89:   * 【55†Français†fr.wikipedia.org】
+L90:   * 【56†हिन्दी†hi.wikipedia.org】
+L91:   * 【57†Italiano†it.wikipedia.org】
+L92:   * 【58†日本語†ja.wikipedia.org】
+L93:   * 【59†मराठी†mr.wikipedia.org】
+L94:   * 【60†پنجابی†pnb.wikipedia.org】
+L95:   * 【61†Simple English†simple.wikipedia.org】
+L96:   * 【62†سرائیکی†skr.wikipedia.org】
+L97:   * 【63†தமிழ்†ta.wikipedia.org】
+L98:   * 【64†తెలుగు†te.wikipedia.org】
+L99:   * 【65†ไทย†th.wikipedia.org】
+L100:   * 【66†Українська†uk.wikipedia.org】
+L101:   * 【67†اردو†ur.wikipedia.org】
+L102:   * 【68†中文†zh.wikipedia.org】
+L103: 【69†Edit links†www.wikidata.org】
+L104: 
+L105:   * 【70†Article】
+L106:   * 【71†Talk】
+L107: 
+L108: [Input] English
+L109: 
+L110:   * 【70†Read】
+L111:   * 【72†Edit】
+L112:   * 【73†View history】
+L113:   * 【17†Save】
+L114: 
+L115: [Input] Tools
+L116: 
+L117: Tools
+L118: 
+L119: [Button: move to sidebar] [Button: hide]
+L120: 
+L121: Actions
+L122: 
+L123:   * 【70†Read】
+L124:   * 【72†Edit】
+L125:   * 【73†View history】
+L126:   * 【17†Save】
+L127: 
+L128: General
+L129: 
+L130:   * 【74†What links here】
+L131:   * 【75†Related changes】
+L132:   * 【76†Upload file】
+L133:   * 【77†Permanent link】
+L134:   * 【78†Page information】
+L135:   * 【79†Cite this page】
+L136:   * 【80†Get shortened URL】
+L137:   * 【81†Switch to legacy parser】
+L138: Print/export
+L139: 
+L140:   * 【82†Download as PDF】
+L141:   * Printable version
+L142: 
+L143: In other projects
+L144: 
+L145:   * 【83†Wikimedia Commons†commons.wikimedia.org】
+L146:   * 【84†Wikidata item†www.wikidata.org】
+L147: 
+L148: Appearance
+L149: 
+L150: [Button: move to sidebar] [Button: hide]
+L151: 
+L152: 【85†Coordinates】: 【86†26°59′06″N 75°51′00″E﻿ / ﻿26.985°N 75.850°E﻿ / 26.985; 75.850†geohack.toolforge.org】
+L153: 
+L154: (Redirected from 【87†Jaipur State】)
+L155: 
+L156: This article is about the kingdom. For the natural and historical region, see 【88†Dhundhar】.
+L157: 
+L158: Kingdom of Amber
+L159: (1028–1727)
+L160: 
+L161: * * *
+L162: Kingdom of Jaipur
+L163: (1727–1949)
+L164: ---
+L165: 1028–1949
+L166: Flag (c. (circa) 1699–1818) Coat of arms
+L167: Jaipur State within 【89†Rajputana】, in the 【90†Imperial Gazetteer of India】 (1909)
+L168: Status  |
+L169:   * 【91†Tributary state】 of 【92†Chauhans】 (1071–1200)
+L170:   * 【93†Vassal state】 of the 【94†Kingdom of Mewar】 (1433–1527),^{【95†[1]】}^{【96†[2]】}^{【97†[3]】}
+L171:   * 【93†Vassal state】 of the 【98†Mughal Empire】 (1562–1710)
+L172:   * 【99†Princely state】 of the 【100†British East India Company】 (1818–1858) and 【101†Indian Empire】 (1858–1947)
+L173: Capital  |
+L174:   * 【102†Dausa】
+L175: (966–1028)
+L176:   * 【103†Khoh】
+L177: (1028–1146)
+L178:   * 【104†Amber】
+L179: (1146–1727)
+L180:   * 【105†Jaipur】
+L181: (1727–1949)
+L182: Common languages  | 【106†Dhundari】,
+L183: 【107†Hindi】
+L184: Government  | 【108†Monarchy】
+L185: (1028–1818; 1947–1949)
+L186: 【99†Princely state】
+L187: (1818–1947)
+L188: 【109†Maharaja】 【110†Sawai】  |
+L189: • 1028–1033  | 【111†Dulha Rai】 (first)
+L190: • 1922–1949  | 【112†Man Singh II】 (last)
+L191: History  |
+L192: • Established  | 1028
+L193: • Acceded to India  | 1949
+L194: 【113†Area】
+L195: ---
+L196: 1931  | 43,900 km^{2} (16,900 sq mi)
+L197: Population
+L198: ---
+L199: • 1931  | 26,31,775
+L200: Currency  | 【114†Indian Rupee】
+L201: Preceded by Succeeded by
+L202: 【115†Image†upload.wikimedia.org】 【103†Khoh】
+L203: 【89†Rajputana Agency】 【115†Image†upload.wikimedia.org】
+L204: 【116†Dominion of India】 【115†Image†upload.wikimedia.org】
+L205: Today part of  | 【117†Rajasthan】, 【118†India】
+L206: The Kingdom of Amber, later known as Kingdom of 【119†Jaipur】 and Jaipur State, was located in the historic north-eastern 【88†Dhundhar】 region of 【120†Rajputana】 and was ruled by the 【121†Kachwaha Rajput】 clan.
+L207: It was established by Rao 【111†Dulha Rai】, possibly the last ruler of the 【122†Kachchhapaghata dynasty】 of Gwalior, who later migrated from Narwar to 【102†Dausa】 and established his kingdom there with the support of 【92†Chahamanas of Shakambhari】 with coalition of 【123†Gaur dynasty】 of 【124†Sheopur】 in the 11th century. Primarily through the period spanning between the 11th and 15th centuries, the kingdom faced stagnation, and resources were scarce.
+L208: Under Raja 【125†Bharmal】, the kingdom became a vassal of the 【98†Mughal Empire】 under 【126†Akbar】. His son and grandson, Raja 【127†Bhagwant Das】 and 【128†Raja Man Singh I】 respectively, were leading generals in Akbar's army and helped him in expanding the empire. 【129†Mariam-uz-Zamani】, popularly identified by the misnomer Jodha Bai, was Akbar's chief consort, and gave birth to Akbar's successor 【130†Jahangir】. 【131†Mirza Raja Jai Singh I】 served under 【132†Shah Jahan】 and became a distinguished general.
+L209: He fell out of 【133†Aurangzeb】's favour when he was suspected of helping 【134†Shivaji】 escape from Mughal captivity in 1664. 【135†Sawai Jai Singh II】 became the ruler as the 【98†Mughal Empire】 waned. He successfully rebelled against the Mughals in 1708 to wrest back control over the kingdom. After Jai Singh's death, the kingdom was drained of its resources during the civil war amongst his sons 【136†Ishwari Singh】 and 【137†Madho Singh I】 and the 【138†Marathas】.
+L210: It became a 【99†princely state】 under the 【139†English East India Company】 after signing a treaty in 1818 that led to a 【140†subsidiary alliance】 with the latter, following the 【141†Third Anglo-Maratha War】.
+L211: It 【142†acceded】 to an independent India in 1947 and was 【143†integrated into the Union】 by 1949.^{【144†[4]】}^{【145†[5]】} Upon integration, the ruler was granted a pension (【146†privy purse】), certain privileges, and the use of the title "Maharaja of Jaipur" by the 【147†Government of India】.^{【144†[4]】} However, the pension, privileges, and the use of the title were stripped in 1971 by the 【148†26th Amendment to the Constitution of India】.^{【149†[6]】}^{【150†[7]】}
+L212: ## History
+L213: 
+L214: [【151†edit】]
+L215: ### Origins
+L216: 
+L217: [【152†edit】]
+L218: 
+L219: The 【153†Kachwaha】 【154†Rajputs】 claim descent from 【155†Kusha】, son of the legendary 【156†Rama】. Their ancestors allegedly migrated from Rama's kingdom of 【157†Kosala】 and established a new dynasty at 【158†Gwalior】.^{【159†[8]】}^{【160†[9]】} After 33 generations, they migrated to 【120†Rajputana】 in 1028 AD.^{【161†[10]】}
+L220: Some historians associate Dulha Rao, the founder of the Jaipur Kachhwaha lineage, with the 【122†Kachchhapaghata dynasty】 that ruled over a part of Rajasthan and Madhya Pradesh in 10th century. It is possible that Dulha Rao descended from the Narwar branch of this dynasty.^{【162†[11]】} V. S. Bhargava associates Dulha with the successor of the last ruler of the Narwar branch, Tejaskaran.
+L221: According to 【163†Jadunath Sarkar】, Dulha's grandfather Ishwar Singh, the ruler of Narwar, renounced his throne and divided his estate among his younger brother and his nephew and travelled North of 【164†Chambal】 to live a life of religious recluse. After his death, his son Sodo crowned himself king again but soon died and was succeeded by his son Dulha who built support for his cause and soon received the fort of 【102†Dausa】 in dowry from the Chauhans of Lalsot.^{【165†[12]】} M. L.
+L222: Sharma suggests that Dulha was placed in Dausa particularly to help fight the 【166†Bargujar】 chief who partly controlled the city.^{【167†[13]】} Dulha Rao soon defeated the 【168†Meenas】 of 【103†Khoh】 and Manchi and later completed the conquest of Dhundhar by defeating the 【169†Bargurjar】 after which he was granted the captured land by the Chauhans.^{【170†[14]】}^{【171†[15]】} Dulha chose Khoh as his capital after Dausa.^{【172†[16]】}
+L223: ### Early rulers
+L224: 
+L225: [【173†edit】]
+L226: 
+L227: South Asia
+L228: 1525
+L229: 
+L230: 【174†DELHI】
+L231: 
+L232: 【174†SULTANATE(LODIS)】
+L233: 
+L234: 【175†KABUL】
+L235: 【176†(Babur)】
+L236: 
+L237: 【177†SHAH MIRSULTANATE】
+L238: 
+L239: 【178†KANGRA】
+L240: 
+L241: 【179†PHAGMODRUPAS】
+L242: 
+L243: 【180†KHANDESHSULTANATE】
+L244: 
+L245: 【181†BERARSULTANATE】
+L246: 
+L247: 【182†MALWASULTANATE】
+L248: 
+L249: 【183†ARGHUNS】
+L250: 
+L251: 【184†KALMAT】
+L252: 
+L253: 【185†LANGAHSULTANATE】
+L254: 
+L255: 【186†SHEKHAWAT】
+L256: 
+L257: 【187†AMARKOT】
+L258: 
+L259: 【186†SHEKHAWAT】
+L260: 
+L261: 【187†AMARKOT】
+L262: 
+L263: 【188†JAISALMER】
+L264: 
+L265: 【189†BIKANER】
+L266: 
+L267: 【190†GUJARATSULTANATE】
+L268: 
+L269: 【94†MEWAR】
+L270: 
+L271: 【191†MARWAR】
+L272: 
+L273: 【70†AMBER】
+L274: 
+L275: 【192†KARAULI】
+L276: 
+L277: 【193†MEWAT】
+L278: 
+L279: 【194†SIROHI】
+L280: 
+L281: 【195†BUNDI】
+L282: 【196†VAGAD】
+L283: 
+L284: 【197†DIMASA】
+L285: 
+L286: 【198†TRIPWA】
+L287: 
+L288: 【199†AHOM】
+L289: 
+L290: 【200†KAMATAS】
+L291: 
+L292: 【201†CHEROS】
+L293: 
+L294: 【202†BENGALSULTANATE】
+L295: 
+L296: 【203†GAJAPATIEMPIRE】
+L297: 
+L298: 【204†Tribalstates】
+L299: 
+L300: 【205†AHMADNAGARSULTANATE】
+L301: 
+L302: 【206†VIJAYANAGARAEMPIRE】
+L303: 
+L304: 【207†BIJAPURSULTANATE】
+L305: 
+L306: 【208†BIDARSULTANATE】
+L307: 
+L308: 【209†GOLKONDASULTANATE】
+L309: 
+L310: 【210†◁】
+L311: 
+L312: Location of Amber within 【120†Rajputana】 circa 1525, with neighbouring polities, on the eve of the establishment of the 【98†Mughal Empire】.^{【211†[17]】}
+L313: Dulha's successor, 【212†Kakil】 captured Amber from the Meenas and laid foundation of the future capital.^{【213†[18]】}^{【214†[19]】}^{【215†[20]】} But some sources attribute the change of capital from Khoh to Ambar to Rajdeo who was the third in succession after 【216†Pajawan】.^{【217†[21]】}^{【218†[22]】}^{【219†[23]】} The early rulers of Dhundar may have been feudatories of the 【92†Chahamanas of Shakambhari】 as its ruler Pajjun is referred as such in the 【220†Prithviraj Raso】.
+L314: Pajjun's successor Malesi consolidated power in Dhundar by marrying into neighboring regions and also may have defeated the ruler of Mandu in the battle of Rutroli.^{【213†[18]】} Udaikaran ascended to the throne in 1367. He defeated the Khyam-Khanis to secure Dhundar as a Kachhwaha territory.^{【221†[24]】}
+L315: Under Rai Chandrasen in the 15th century, Kachhwahas were defeated by 【222†Kumbha of Mewar】 and he extracted tribute from Dhundar.^{【221†[24]】} Chandrasen was succeeded by Prithviraj Singh in 1503. Rima Hooja explains that the relation between Prithviraj and Sanga was not exactly a feudal-chief relation in modern understanding but closer to a junior ally.
+L316: Prithviraj joined the Rajput Confederacy of 1527 led by 【223†Rana Sanga】 against 【176†Babur】 and fought in the 【224†Battle of Khanwa】 in which they were defeated.^{【225†[25]】}^{【226†[26]】} He, along with 【227†Maldeo Rathore】, rescued Rana Sanga from the battlefield of Khanwa in 1527.^{【228†[27]】} Rana Sanga was poisoned by his nobles two months after the battle for insisting to continue fighting a lost war and Prithviraj died in November of the same year. V. S.
+L317: Bhatnagar suggests that the death of Prithviraj may have been similar to Sanga's as his multiple nobles readily joined the Mughals soon after his death.^{【229†[28]】}
+L318: He was succeeded by his preferred son 【230†Puranmal】, son of his favorite wife.^{【231†[29]】} Eventually, 【232†Humayun】 assisted Puranmal achieve stability. Puranmal could only rule for 7 years. According to conflicting sources, he either died fighting for or against Humayu's brother 【233†Hindal Mirza】 or was overthrown by his brother 【234†Bhim Singh】. Bhim Singh was quickly succeeded by his son Ratan Singh in 1537.
+L319: During his reign, 【235†Sher Shah Suri】 invaded Rajputana and established control over Mewar and Marwar. 【236†Ratan Singh】 also accepted Suri suzerainty. During his reign, his uncle and son of Prithviraj, Sanga captured a part of territory and called it 【237†Sanganer】 where he was succeeded by his brother 【125†Bharmal】. Ratan Singh was incompetent and was not able to control the actions of his uncles.
+L320: Ratan Singh was poisoned by his half-brother 【238†Askaran】 but he was quickly deposed by the nobles who placed Bharmal on the throne.^{【239†[30]】}
+L321: ### As a Mughal ally under Bharmal and Bhagwant Das
+L322: 
+L323: [【240†edit】]
+L324: 
+L325: Bharmal had to initially deal with Sur general Haji Khan Pathan but was able to make peace with him. Soon, governor of Mewat, Mirza Muhammad Sharif-ud-din Hussain, who supported the cause of the son of Puranmal, Suja attacked Amber in 1558. Bharmal surrendered to Sharif-ud-din and also had to give up his son and nephews as hostages.^{【241†[31]】}
+L326: Feeling insecure after Sharif-ud-din's treaty, Bharmal, through his brother Rupsi, arranged a meeting with Mughal Emperor 【126†Akbar】 at Sanganer where they met in 1562. Here, Bharmal offered his daughter 【129†Jodha Bai's】 hand in marriage. The marriage took place in the same year in 【242†Sambhar】.
+L327: Bharmal's sons Bhagwant Das and Jagannath along with his grandson Man Singh were inducted into the Imperial court.^{【241†[31]】}^{【243†[32]】} The Kachhwaha princes in the Mughal court proved very vital because of their administrative and military skills and the Kachhwahas rose in prominence.^{【244†[33]】} Jodha Bai, now named Mariam-uz-Zamani also gained prestige in the Mughal court both during the reign of her husband and that of her son as Empress and Queen mother respectively.^{【245†[34]】} Bharmal died in 1574 and was succeeded by his son 【127†Raja Bhagwant Das】, a trusted ally of Akbar.^{【244†[33]】}
+L328: Bhagwant Das was an exceptional military general and he accompanied Akbar throughout his expansion of the Mughal Empire across Rajasthan, Gujarat, Kashmir and the Punjab.
+L329: In order to strengthen the ties with Mughals, he married his daughter 【246†Manbhavati Bai】 to Akbar's son 【130†Prince Salim】.^{【244†[33]】}^{【247†[35]】} Bhagwant Das headed the Kashmir expedition of Akbar where in 1586, he defeated 【248†Yousuf Shah Chak】 and captured Kashmir.^{【249†[36]】} Das was appointed the subedar of Punjab in 1583 where he died in 1589.^{【250†[37]】}
+L330: 【126†Akbar】, a long-time ally of the Kachhwahas of Amber 【251†Raja Man Singh】 (1550–1614) was a trusted general of the 【98†Mughal】 emperor 【126†Akbar】, who included him among the 【252†Navaratnas】, or the nine gems of the royal court of Akbar.
+L331: ### Raja Man Singh
+L332: 
+L333: [【253†edit】]
+L334: #### Initial campaigns under Akbar
+L335: 
+L336: [【254†edit】]
+L337: 
+L338: Bhagwant was succeeded by his son 【128†Man Singh I】 who was an instrumental part of the Mughal Army and diplomacy. He took part in Akbar's conquest of Chittor in 1568 and Ranthambhore in 1569.^{【250†[37]】} He was the part of negotiations with 【94†Mewar】 which failed, resulting in the 【255†Battle of Haldighati】.^{【256†[38]】}^{【257†[39]】}
+L339: Man Singh was also given the command of the Mughal forces in Haldighati where he fought against Pratap Singh on 18 June 1576.^{【258†[40]】} In the ensuing battle, Man Singh was able to force Pratap to retreat and killed several of his commanders. Pratap had to retreat back to the hills of Gogunda and the battle was won by the Mughals.^{【259†[41]】}
+L340: #### Campaigns in Kabul, Bihar, Orissa and Bengal
+L341: 
+L342: [【260†edit】]
+L343: In 1580, the Islamic orthodoxy of the Mughal empire, upset with Akbar's liberal policies, declared Akbar's step brother 【261†Mirza Muhammad Hakim】 as the emperor instead. Man Singh was deputed in the North-Western section of the Mughal Empire under his father. Man Singh defeated Shadman Khan at Neelab in December 1580.^{【262†[42]】} Soon, Hakim himself marched to Punjab and laid siege to Lahore but later retreated. Man Singh followed and defeated him in 1581.
+L344: Eventually, Hakim swore allegiance to Akbar once again and he was reappointed the Governor of Kabul. Hakim held this position till 1585 when he died.^{【263†[43]】}^{【264†[44]】}
+L345: Soon after Hakim's death, the Yusufzai tribe of Afghanistan rebelled against the Mughals and launched attacks against Mughals stationed in the region. One of the attacks ended up killing 【265†Raja Birbal】 with 8000 Mughal troops. Man Singh along with Raja 【266†Todar Mal】 were sent to defeat the Yusufzai's in 1586.^{【267†[45]】} By 1587, Man Singh's service in Kabul was over and he was deployed in the Subah of Bihar.^{【268†[46]】}
+L346: In Bihar, Man Singh first defeated several rebellious rulers like Puranmal followed by the Raja of Khadagpur and the Raja of Gaya and Sabhupuri in 1590.^{【269†[47]】}^{【270†[48]】} Next, Man Singh was sent to capture Orissa which was under the control of Afghan chief Qutlu Khan and his son Nasir Khan. After Qutlu Khan's death, Nasir Khan who decided to make peace with Man Singh and accepted Mughal supremacy. Man Singh acquired the 【271†Jagannath temple at Puri】.
+L347: In 1591, after the death of Isa Khan, the Afghan chiefs rebelled again and Man Singh invaded again and beat them conclusively.^{【269†[47]】}^{【272†[49]】}
+L348: Man Singh was soon transferred to Bengal in 1594 where he first shifted his capital to 【273†Rajmahal】 from Tandah. He subdued ruler of Dacca and Cooch Bihar. While in Bengal, Man Singh's eldest son, Jagat Singh died due to excessive drinking, after which he returned to Amber temporarily but soon had to return to deal with a rebellious Usman Khan whom he defeated in 1601 in Sherpur followed by defeating Kedar Rai in Dacca.^{【274†[50]】}^{【275†[51]】} By 1604, Bengal was again completely under Mughal control.
+L349: #### After Akbar's death
+L350: 
+L351: [【276†edit】]
+L352: Towards the end of 1604, Akbar fell ill. Man Singh planned on placing his grandson Prince Khusrau on throne instead of his rebellious son Salim. He made several attempts like transferring Salim to Bengal, lobbying in the court, and trying to muster support but nothing worked. Eventually, disappointed, he left for Bengal and Akbar died in 1605 and was succeeded by Salim as 【130†Emperor Jahangir】. Jahangir treated Man Singh well and also included him in the Deccan frontier.
+L353: But after 1605, Man Singh could not lead any glorious ventures and died in 【277†Elichpur】 in 1614 and was succeeded by his only surviving son 【278†Bhau Singh】 overlooking a grandson Maha Singh.^{【279†[52]】}
+L354: Man Singh was a great builder and built several forts and temples across India. He built the 【280†Govind Dev Ji Temple】 in Brindavan and renovated the 【281†Sarovar Ghat】 in Varanasi and built several temples there.
+L355: 
+L356: Bhau Singh was sent on a campaign against 【282†Malik Ambar】 but failed because Ambar's army was much more efficient. He died in 1621 and had no heirs, so he was succeeded by Maha Singh's son 【131†Jai Singh】.^{【283†[53]】}
+L357: 【131†Jai Singh I】, the most decorated military general of the Mughal army in the 17th century who commanded the army under Shah Jahan and Aurangzeb. Jai Singh fell out of Aurangzeb's favor when the imprisoned 【134†Shivaji】 escaped from Agra.
+L358: ### Mirza Raja Jai Singh
+L359: 
+L360: [【284†edit】]
+L361: After ascending to the throne of Amber at the age of 11, his first task was to defend against the rebellious 【132†Prince Khurram】. Khurram looted Amber in 1623 but was defeated by Jai in 1624. After Jahangir's death in 1627, instead of joining Noor Jahan's son 【285†Shahryar】, Jai supported Khurram who went on to become 【132†Shah Jahan】. Soon, Jai Singh would become one of the most decorated generals of the Mughal Imperial army and received many decorations from Shah Jahan.
+L362: #### Facilitation under Shah Jahan
+L363: 
+L364: [【286†edit】]
+L365: Jai was first deputed to suppress a rebellion in 【287†Mahaban】 and then sent to fight Nazr Muhammad in Kabul. Jai was also tasked with dealing with the rebellious Khan-i-Jahan in Ghatpur.^{【288†[54]】} In 1631, he was part of the campaign against 【289†Bijapur Sultanate】. He commanded his forces and distinguished himself during the Siege of Parenda and Daulatabad in 1635.
+L366: After the command of the army was handed to Prince Aurangzeb in 1636, Jai Singh also won the fort of 【290†Nagpur】 and Devgarh in 1637.^{【291†[55]】}
+L367: In 1639, because of his display of immense valor, he was bestowed upon, the unique title of Mirza Raja by Shah Jahan. In 1654, he was sent to Chittor to confront 【292†Maharana Raj Singh】 for violating the 1616 treaty by carrying out repairs to the 【293†Chittorgarh】.^{【291†[55]】}
+L368: #### The war of succession of Shah Jahan
+L369: 
+L370: [【294†edit】]
+L371: When the war of succession of 1657 broke out, Jai Singh was deputed to convince Prince Shuja to end his rebellion but failed. He later defeated Shuja in Bahadurpur in 1658. Later, Shuja surrendered to 【295†Dara Shikoh】 and was given the charge of Bengal. 【296†Raja Jaswant Singh of Marwar】 was defeated by Prince Aurangzeb and Murad in 1658 and they marched towards Agra. Jai Singh could not reach Agra in time and Dara Shikoh was defeated in the 【297†Battle of Samugarh】.
+L372: Soon, Jai Singh presented himself in front of the new emperor 【133†Aurangzeb】 and was tasked with capturing Dara Shikoh. He defeated Shikoh in the Battle of Deorai in 1659. Dara sought refuge under Malik Jeevan but he was betrayed and turned in with Jai Singh who brought him back to Agra.^{【298†[56]】}
+L373: #### Struggle with Aurangzeb over Shivaji
+L374: 
+L375: [【299†edit】]
+L376: In 1664, Jai Singh was sent to command the campaign against 【134†Shivaji】. In 1665, Jai Singh laid siege to Purandar fort and was able to get Shivaji to sign the 【300†Treaty of Purandar】 according to which Shivaji would surrender 23 forts, send his son 【301†Sambhaji】 to Mughal court and enter Mughal service. Jai wanted to utilize Shivaji's forces against 【289†Bijapur】 and wanted Shivaji to make peace with Aurangzeb.

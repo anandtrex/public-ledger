@@ -1,0 +1,632 @@
+{
+  "harvard-pre": {
+    "title": "Harvard: Pre-Mauryan Age",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/pre-mauryan-age",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-pre.txt"
+  },
+  "harvard-post": {
+    "title": "Harvard: Shunga and Indo-Greek ascendancy",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/sunga-and-indo-greek-200-%E2%80%93-1-bce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-post.txt"
+  },
+  "harvard-kushan": {
+    "title": "Harvard: Satavahana–Shaka–Kushan age",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/south-asia-satavahana-saka-kushan-age-c-1-%E2%80%93-300-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-kushan.txt"
+  },
+  "harvard-gupta": {
+    "title": "Harvard: Gupta–Vakataka age",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/gupta-v%C4%81k%C4%81%E1%B9%ADaka-age-c-300-%E2%80%93-550-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-gupta.txt"
+  },
+  "harvard-early": {
+    "title": "Harvard: Pushyabhuti and Chalukya ascendancy",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/pusyabhuti-and-chalukyan-ascendancy-c-550-%E2%80%93-700-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-early.txt"
+  },
+  "harvard-regional": {
+    "title": "Harvard: Pratiharas, Palas and Rashtrakutas",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/gurjara-pratiharas-palas-and-rashtrakutas-c-700-%E2%80%93-975-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-regional.txt"
+  },
+  "harvard-late": {
+    "title": "Harvard: Ghaznavids and regional dynasties",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/ghaznavids-cahamanas-later-calukyas-and-colas-c-975-%E2%80%93-1200-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-late.txt"
+  },
+  "harvard-modern": {
+    "title": "Harvard: Rise of regional powers",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mughal-disintegration-and-rise-regional-powers-c-1707-ce-1766-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-modern.txt"
+  },
+  "harvard-british": {
+    "title": "Harvard: British India",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/british-india-c-1757-ce-1947-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-british.txt"
+  },
+  "met-ancient": {
+    "title": "The Met: South Asia, 1000 BCE–1 CE",
+    "url": "https://www.metmuseum.org/toah/ht/04/ssa.html",
+    "accessed": "2026-11-13",
+    "snapshot": "source/met-ancient.txt"
+  },
+  "met-north": {
+    "title": "The Met: North, 1000–1400 CE",
+    "url": "https://www.metmuseum.org/toah/ht/07/ssn.html",
+    "accessed": "2026-11-13",
+    "snapshot": "source/met-north.txt"
+  },
+  "met-south": {
+    "title": "The Met: South, 1000–1400 CE",
+    "url": "https://www.metmuseum.org/toah/ht/07/sss.html",
+    "accessed": "2026-11-13",
+    "snapshot": "source/met-south.txt"
+  },
+  "met-rulers": {
+    "title": "The Met: Sultanate and Mughal dynastic rulers",
+    "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+    "accessed": "2026-11-13",
+    "snapshot": "source/met-rulers.txt"
+  },
+  "husain": {
+    "title": "University of Barishal: Husain Shahi Bengal, 1494–1538",
+    "url": "https://library.bu.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=3750",
+    "accessed": "2026-11-13",
+    "snapshot": "source/husain.txt"
+  },
+  "sikh": {
+    "title": "Cambridge: The Sikh empire (1799–1849)",
+    "url": "https://www.cambridge.org/core/books/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A",
+    "accessed": "2026-11-13",
+    "snapshot": "source/sikh.txt"
+  },
+  "harvard-mughal": {
+    "title": "Harvard: Mughal period and transition",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mughal-period-and-transition-c-1526-ce-1707-ce",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-mughal.txt"
+  },
+  "harvard-disintegration": {
+    "title": "Harvard: Regional powers, 1390–1450",
+    "url": "https://timelinesouthasianhistory.hsites.harvard.edu/political-disintegration-northern-south-asia-c-1390-1450",
+    "accessed": "2026-11-13",
+    "snapshot": "source/harvard-disintegration.txt"
+  },
+  "company-parliament": {
+    "title": "UK Parliament: East India Company and Raj",
+    "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/",
+    "accessed": "2026-11-13",
+    "snapshot": "source/company-parliament.txt"
+  },
+  "company-nam": {
+    "title": "National Army Museum: Armies of the East India Company",
+    "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+    "accessed": "2026-11-13",
+    "snapshot": "source/company-nam.txt"
+  },
+  "raj-archives": {
+    "title": "The National Archives: Other countries, British Indian Empire 1858–1947",
+    "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/",
+    "accessed": "2026-11-13",
+    "snapshot": "source/raj-archives.txt"
+  },
+  "wiki-shishunaga": {
+    "title": "Wikipedia: Shaishunaga dynasty",
+    "url": "https://en.wikipedia.org/wiki/Shaishunaga_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-shishunaga.txt"
+  },
+  "wiki-indo-greek": {
+    "title": "Wikipedia: Indo-Greek Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-indo-greek.txt"
+  },
+  "wiki-indo-parthian": {
+    "title": "Wikipedia: Indo-Parthian Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-indo-parthian.txt"
+  },
+  "wiki-western-satrap": {
+    "title": "Wikipedia: Western Satraps",
+    "url": "https://en.wikipedia.org/wiki/Western_Satraps",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-western-satrap.txt"
+  },
+  "wiki-maitraka": {
+    "title": "Wikipedia: Maitraka dynasty",
+    "url": "https://en.wikipedia.org/wiki/Maitraka_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-maitraka.txt"
+  },
+  "wiki-maukhari": {
+    "title": "Wikipedia: Maukhari dynasty",
+    "url": "https://en.wikipedia.org/wiki/Maukhari_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-maukhari.txt"
+  },
+  "wiki-karkota": {
+    "title": "Wikipedia: Karkota dynasty",
+    "url": "https://en.wikipedia.org/wiki/Karkota_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-karkota.txt"
+  },
+  "wiki-utpala": {
+    "title": "Wikipedia: Utpala dynasty",
+    "url": "https://en.wikipedia.org/wiki/Utpala_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-utpala.txt"
+  },
+  "wiki-lohara": {
+    "title": "Wikipedia: Lohara dynasty",
+    "url": "https://en.wikipedia.org/wiki/Lohara_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-lohara.txt"
+  },
+  "wiki-hindu-shahi": {
+    "title": "Wikipedia: Hindu Shahis",
+    "url": "https://en.wikipedia.org/wiki/Hindu_Shahis",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-hindu-shahi.txt"
+  },
+  "wiki-turk-shahi": {
+    "title": "Wikipedia: Turk Shahis",
+    "url": "https://en.wikipedia.org/wiki/Turk_Shahis",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-turk-shahi.txt"
+  },
+  "wiki-paramara": {
+    "title": "Wikipedia: Paramara dynasty",
+    "url": "https://en.wikipedia.org/wiki/Paramara_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-paramara.txt"
+  },
+  "wiki-chauhan": {
+    "title": "Wikipedia: Chahamanas of Shakambhari",
+    "url": "https://en.wikipedia.org/wiki/Chahamanas_of_Shakambhari",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-chauhan.txt"
+  },
+  "wiki-gahadavala": {
+    "title": "Wikipedia: Gahadavala dynasty",
+    "url": "https://en.wikipedia.org/wiki/Gahadavala_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-gahadavala.txt"
+  },
+  "wiki-kalachuri": {
+    "title": "Wikipedia: Kalachuris of Tripuri",
+    "url": "https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kalachuri.txt"
+  },
+  "wiki-yadava": {
+    "title": "Wikipedia: Seuna (Yadava) dynasty",
+    "url": "https://en.wikipedia.org/wiki/Seuna_(Yadava)_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-yadava.txt"
+  },
+  "wiki-kakatiya": {
+    "title": "Wikipedia: Kakatiya dynasty",
+    "url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kakatiya.txt"
+  },
+  "wiki-eastern-ganga": {
+    "title": "Wikipedia: Eastern Ganga dynasty",
+    "url": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-eastern-ganga.txt"
+  },
+  "wiki-gajapati": {
+    "title": "Wikipedia: Gajapati Empire",
+    "url": "https://en.wikipedia.org/wiki/Gajapati_Empire",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-gajapati.txt"
+  },
+  "wiki-bhauma": {
+    "title": "Wikipedia: Bhauma-Kara dynasty",
+    "url": "https://en.wikipedia.org/wiki/Bhauma-Kara_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bhauma.txt"
+  },
+  "wiki-somavamshi": {
+    "title": "Wikipedia: Somavamshi dynasty",
+    "url": "https://en.wikipedia.org/wiki/Somavamshi_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-somavamshi.txt"
+  },
+  "wiki-gauda": {
+    "title": "Wikipedia: Gauda Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Gauda_Kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-gauda.txt"
+  },
+  "wiki-khadga": {
+    "title": "Wikipedia: Khadga dynasty",
+    "url": "https://en.wikipedia.org/wiki/Khadga_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-khadga.txt"
+  },
+  "wiki-chandra": {
+    "title": "Wikipedia: Chandra dynasty",
+    "url": "https://en.wikipedia.org/wiki/Chandra_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-chandra.txt"
+  },
+  "wiki-varman-kamarupa": {
+    "title": "Wikipedia: Varman dynasty",
+    "url": "https://en.wikipedia.org/wiki/Varman_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-varman-kamarupa.txt"
+  },
+  "wiki-pala-kamarupa": {
+    "title": "Wikipedia: Pala dynasty (Kamarupa)",
+    "url": "https://en.wikipedia.org/wiki/Pala_dynasty_(Kamarupa)",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-pala-kamarupa.txt"
+  },
+  "wiki-ahom": {
+    "title": "Wikipedia: Ahom kingdom",
+    "url": "https://en.wikipedia.org/wiki/Ahom_kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-ahom.txt"
+  },
+  "wiki-koch": {
+    "title": "Wikipedia: Koch dynasty",
+    "url": "https://en.wikipedia.org/wiki/Koch_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-koch.txt"
+  },
+  "wiki-tripura": {
+    "title": "Wikipedia: Manikya dynasty",
+    "url": "https://en.wikipedia.org/wiki/Manikya_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-tripura.txt"
+  },
+  "wiki-sikkim": {
+    "title": "Wikipedia: Kingdom of Sikkim",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-sikkim.txt"
+  },
+  "wiki-ilyas": {
+    "title": "Wikipedia: Ilyas Shahi dynasty",
+    "url": "https://en.wikipedia.org/wiki/Ilyas_Shahi_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-ilyas.txt"
+  },
+  "wiki-karrani": {
+    "title": "Wikipedia: Karrani dynasty",
+    "url": "https://en.wikipedia.org/wiki/Karrani_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-karrani.txt"
+  },
+  "wiki-gujarat": {
+    "title": "Wikipedia: Gujarat Sultanate",
+    "url": "https://en.wikipedia.org/wiki/Gujarat_Sultanate",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-gujarat.txt"
+  },
+  "wiki-malwa-ghuri": {
+    "title": "Wikipedia: Malwa Sultanate",
+    "url": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-malwa-ghuri.txt"
+  },
+  "wiki-malwa-khalji": {
+    "title": "Wikipedia: Malwa Sultanate",
+    "url": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-malwa-khalji.txt"
+  },
+  "wiki-samma": {
+    "title": "Wikipedia: Samma dynasty",
+    "url": "https://en.wikipedia.org/wiki/Samma_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-samma.txt"
+  },
+  "wiki-soomra": {
+    "title": "Wikipedia: Soomra dynasty",
+    "url": "https://en.wikipedia.org/wiki/Soomra_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-soomra.txt"
+  },
+  "wiki-kalhora": {
+    "title": "Wikipedia: Kalhora dynasty",
+    "url": "https://en.wikipedia.org/wiki/Kalhora_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kalhora.txt"
+  },
+  "wiki-talpur": {
+    "title": "Wikipedia: Talpur dynasty",
+    "url": "https://en.wikipedia.org/wiki/Talpur_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-talpur.txt"
+  },
+  "wiki-bhonsle": {
+    "title": "Wikipedia: Maratha Empire",
+    "url": "https://en.wikipedia.org/wiki/Maratha_Empire",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bhonsle.txt"
+  },
+  "wiki-wodeyar": {
+    "title": "Wikipedia: Wadiyar dynasty",
+    "url": "https://en.wikipedia.org/wiki/Wadiyar_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-wodeyar.txt"
+  },
+  "wiki-hyder-tipu": {
+    "title": "Wikipedia: Kingdom of Mysore",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-hyder-tipu.txt"
+  },
+  "wiki-nayak-madurai": {
+    "title": "Wikipedia: Madurai Nayak dynasty",
+    "url": "https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-nayak-madurai.txt"
+  },
+  "wiki-nayak-thanjavur": {
+    "title": "Wikipedia: Thanjavur Nayak kingdom",
+    "url": "https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-nayak-thanjavur.txt"
+  },
+  "wiki-maratha-thanjavur": {
+    "title": "Wikipedia: Thanjavur Maratha kingdom",
+    "url": "https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-maratha-thanjavur.txt"
+  },
+  "wiki-early-chera": {
+    "title": "Wikipedia: Chera dynasty",
+    "url": "https://en.wikipedia.org/wiki/Chera_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-early-chera.txt"
+  },
+  "wiki-chera-perumal": {
+    "title": "Wikipedia: Chera Perumals of Makotai",
+    "url": "https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-chera-perumal.txt"
+  },
+  "wiki-early-chola": {
+    "title": "Wikipedia: Early Cholas",
+    "url": "https://en.wikipedia.org/wiki/Early_Cholas",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-early-chola.txt"
+  },
+  "wiki-early-pandya": {
+    "title": "Wikipedia: Early Pandyan Society",
+    "url": "https://en.wikipedia.org/wiki/Early_Pandyan_Society",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-early-pandya.txt"
+  },
+  "wiki-later-pandya": {
+    "title": "Wikipedia: Pandya dynasty",
+    "url": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-later-pandya.txt"
+  },
+  "wiki-kalabhra": {
+    "title": "Wikipedia: Kalabhra dynasty",
+    "url": "https://en.wikipedia.org/wiki/Kalabhra_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kalabhra.txt"
+  },
+  "wiki-travancore": {
+    "title": "Wikipedia: Travancore",
+    "url": "https://en.wikipedia.org/wiki/Travancore",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-travancore.txt"
+  },
+  "wiki-cochin": {
+    "title": "Wikipedia: Kingdom of Cochin",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Cochin",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-cochin.txt"
+  },
+  "wiki-zamorin": {
+    "title": "Wikipedia: Zamorin",
+    "url": "https://en.wikipedia.org/wiki/Zamorin",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-zamorin.txt"
+  },
+  "wiki-kolathunadu": {
+    "title": "Wikipedia: Kolathunadu",
+    "url": "https://en.wikipedia.org/wiki/Kolathunadu",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kolathunadu.txt"
+  },
+  "wiki-venad": {
+    "title": "Wikipedia: Venad",
+    "url": "https://en.wikipedia.org/wiki/Venad",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-venad.txt"
+  },
+  "wiki-licchavi-nepal": {
+    "title": "Wikipedia: Licchavis of Nepal",
+    "url": "https://en.wikipedia.org/wiki/Licchavis_of_Nepal",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-licchavi-nepal.txt"
+  },
+  "wiki-malla-nepal": {
+    "title": "Wikipedia: Malla dynasty (Nepal)",
+    "url": "https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-malla-nepal.txt"
+  },
+  "wiki-shah-nepal": {
+    "title": "Wikipedia: Shah dynasty",
+    "url": "https://en.wikipedia.org/wiki/Shah_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-shah-nepal.txt"
+  },
+  "wiki-rana-nepal": {
+    "title": "Wikipedia: Rana dynasty",
+    "url": "https://en.wikipedia.org/wiki/Rana_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-rana-nepal.txt"
+  },
+  "wiki-drukpa": {
+    "title": "Wikipedia: History of Bhutan",
+    "url": "https://en.wikipedia.org/wiki/History_of_Bhutan",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-drukpa.txt"
+  },
+  "wiki-wangchuck": {
+    "title": "Wikipedia: Wangchuck dynasty",
+    "url": "https://en.wikipedia.org/wiki/Wangchuck_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-wangchuck.txt"
+  },
+  "travancore-official": {
+    "title": "Thiruvananthapuram Corporation: Local History",
+    "url": "https://tmc.lsgkerala.gov.in/en/local-history-0",
+    "accessed": "2026-11-13",
+    "snapshot": "source/travancore-official.txt"
+  },
+  "wiki-mewar": {
+    "title": "Wikipedia: Mewar",
+    "url": "https://en.wikipedia.org/wiki/Mewar",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-mewar.txt"
+  },
+  "wiki-marwar": {
+    "title": "Wikipedia: Jodhpur State",
+    "url": "https://en.wikipedia.org/wiki/Jodhpur_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-marwar.txt"
+  },
+  "wiki-jaipur": {
+    "title": "Wikipedia: Jaipur State",
+    "url": "https://en.wikipedia.org/wiki/Jaipur_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-jaipur.txt"
+  },
+  "wiki-bikaner": {
+    "title": "Wikipedia: Bikaner State",
+    "url": "https://en.wikipedia.org/wiki/Bikaner_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bikaner.txt"
+  },
+  "wiki-jaisalmer": {
+    "title": "Wikipedia: Jaisalmer State",
+    "url": "https://en.wikipedia.org/wiki/Jaisalmer_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-jaisalmer.txt"
+  },
+  "wiki-scindia": {
+    "title": "Wikipedia: Scindia dynasty",
+    "url": "https://en.wikipedia.org/wiki/Scindia_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-scindia.txt"
+  },
+  "wiki-holkar": {
+    "title": "Wikipedia: Holkar",
+    "url": "https://en.wikipedia.org/wiki/Holkar",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-holkar.txt"
+  },
+  "wiki-gaekwad": {
+    "title": "Wikipedia: Gaekwad dynasty",
+    "url": "https://en.wikipedia.org/wiki/Gaekwad_dynasty",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-gaekwad.txt"
+  },
+  "wiki-nagpur": {
+    "title": "Wikipedia: Nagpur kingdom",
+    "url": "https://en.wikipedia.org/wiki/Nagpur_kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-nagpur.txt"
+  },
+  "wiki-bhopal": {
+    "title": "Wikipedia: Bhopal State",
+    "url": "https://en.wikipedia.org/wiki/Bhopal_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bhopal.txt"
+  },
+  "wiki-patiala": {
+    "title": "Wikipedia: Patiala State",
+    "url": "https://en.wikipedia.org/wiki/Patiala_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-patiala.txt"
+  },
+  "wiki-bahawalpur": {
+    "title": "Wikipedia: Bahawalpur (princely state)",
+    "url": "https://en.wikipedia.org/wiki/Bahawalpur_(princely_state)",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bahawalpur.txt"
+  },
+  "wiki-kutch": {
+    "title": "Wikipedia: Cutch State",
+    "url": "https://en.wikipedia.org/wiki/Cutch_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-kutch.txt"
+  },
+  "wiki-junagadh": {
+    "title": "Wikipedia: Junagadh State",
+    "url": "https://en.wikipedia.org/wiki/Junagadh_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-junagadh.txt"
+  },
+  "wiki-manipur": {
+    "title": "Wikipedia: Manipur Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Manipur_Kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-manipur.txt"
+  },
+  "wiki-bastar": {
+    "title": "Wikipedia: Bastar State",
+    "url": "https://en.wikipedia.org/wiki/Bastar_State",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-bastar.txt"
+  },
+  "wiki-garha": {
+    "title": "Wikipedia: Garha Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Garha_Kingdom",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-garha.txt"
+  },
+  "wiki-portuguese": {
+    "title": "Wikipedia: Portuguese India",
+    "url": "https://en.wikipedia.org/wiki/Portuguese_India",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-portuguese.txt"
+  },
+  "wiki-french": {
+    "title": "Wikipedia: French India",
+    "url": "https://en.wikipedia.org/wiki/French_India",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-french.txt"
+  },
+  "wiki-dutch": {
+    "title": "Wikipedia: Dutch India",
+    "url": "https://en.wikipedia.org/wiki/Dutch_India",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-dutch.txt"
+  },
+  "wiki-danish": {
+    "title": "Wikipedia: Danish India",
+    "url": "https://en.wikipedia.org/wiki/Danish_India",
+    "accessed": "2026-11-13",
+    "snapshot": "source/wiki-danish.txt"
+  },
+  "iranica-hyderabad": {
+    "title": "Encyclopaedia Iranica: Hyderabad",
+    "url": "https://www.iranicaonline.org/articles/hyderabad/",
+    "accessed": "2026-11-13",
+    "snapshot": "source/iranica-hyderabad.txt"
+  }
+}

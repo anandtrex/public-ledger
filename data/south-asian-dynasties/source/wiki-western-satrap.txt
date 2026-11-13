@@ -1,0 +1,374 @@
+Western Satraps - Wikipedia (https://en.wikipedia.org/wiki/Western_Satraps)
+citeturn55view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Western_Satraps","lineno":null}); Total lines: 862
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Name】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 First expansion: Kshaharata dynasty (1st century CE)】
+L51:       * 【21†2.1.1 Support of Indian religions】
+L52:       * 【22†2.1.2 Construction of Buddhist caves】
+L53:         * 【23†2.1.2.1 Great Chaitya hall at Karla Caves】
+L54:         * 【24†2.1.2.2 Cave No.10 of Nasik, the 'Nahapana Vihara'】
+L55:         * 【25†2.1.2.3 Junnar dedication】
+L56:       * 【26†2.1.3 International trade: the Periplus of the Erythraean Sea】
+L57:         * 【27†2.1.3.1 Pompei Lakshmi】
+L58:       * 【28†2.1.4 Defeat by Gautamiputra Satakarni】
+L59:       * 【29†2.1.5 Colonization of Java and Sumatra】
+L60:     * 【30†2.2 Kardamaka dynasty, family of Castana (1st–4th century)】
+L61:       * 【31†2.2.1 Territory under Chastana】
+L62:       * 【32†2.2.2 Rudradaman I (130-150 CE)】
+L63:         * 【33†2.2.2.1 Victory against the Satavahanas】
+L64:         * 【34†2.2.2.2 Victory against the Yaudheyas】
+L65:         * 【35†2.2.2.3 Jivadaman (178-181 CE, 197-198 CE)】
+L66:         * 【36†2.2.2.4 Rudrasimha I (180-197)】
+L67:         * 【37†2.2.2.5 Great Satrap Rupiamma (2nd century CE)】
+L68:       * 【38†2.2.3 Loss of southern territories to the Satavahanas (end of 2nd century CE)】
+L69:       * 【39†2.2.4 Rudrasena II (256–278)】
+L70:     * 【40†2.3 Rudrasimha II dynasty (c. 304–396 CE)】
+L71:       * 【41†2.3.1 Sasanian expansion in the northwest】
+L72:       * 【42†2.3.2 Conquered by the Guptas (c. 335–415 CE)】
+L73:         * 【43†2.3.2.1 Central India conquered by Samudragupta (r. 336–380 CE)】
+L74:         * 【44†2.3.2.2 Gujarat campaign of Ramagupta】
+L75:         * 【45†2.3.2.3 Conquests of Chandragupta II (r. 380–415 CE)】
+L76:   * 【46†3 Coinage】 Toggle Coinage subsection
+L77:     * 【47†3.1 Regnal dates】
+L78:     * 【48†3.2 Languages】
+L79:     * 【49†3.3 Influences】
+L80:   * 【50†4 Monuments】
+L81:   * 【51†5 Contribution to Sanskrit epigraphy】
+L82:   * 【52†6 Possible vassalage to the Kushans】
+L83:   * 【53†7 List of rulers】
+L84:   * 【54†8 See also】
+L85:   * 【55†9 Notes】
+L86:   * 【56†10 References】
+L87:   * 【57†11 Sources】
+L88:   * 【58†12 External links】
+L89: [Input] Toggle the table of contents
+L90: # Western Satraps
+L91: 
+L92: [Input] 25 languages
+L93:   * 【59†تۆرکجه†azb.wikipedia.org】
+L94:   * 【60†Čeština†cs.wikipedia.org】
+L95:   * 【61†Ελληνικά†el.wikipedia.org】
+L96:   * 【62†Español†es.wikipedia.org】
+L97:   * 【63†فارسی†fa.wikipedia.org】
+L98:   * 【64†Français†fr.wikipedia.org】
+L99:   * 【65†עברית†he.wikipedia.org】
+L100:   * 【66†हिन्दी†hi.wikipedia.org】
+L101:   * 【67†Italiano†it.wikipedia.org】
+L102:   * 【68†日本語†ja.wikipedia.org】
+L103:   * 【69†ქართული†ka.wikipedia.org】
+L104:   * 【70†ಕನ್ನಡ†kn.wikipedia.org】
+L105:   * 【71†한국어†ko.wikipedia.org】
+L106:   * 【72†Lietuvių†lt.wikipedia.org】
+L107:   * 【73†മലയാളം†ml.wikipedia.org】
+L108:   * 【74†नेपाली†ne.wikipedia.org】
+L109:   * 【75†Nederlands†nl.wikipedia.org】
+L110:   * 【76†Norsk bokmål†no.wikipedia.org】
+L111:   * 【77†Русский†ru.wikipedia.org】
+L112:   * 【78†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L113:   * 【79†தமிழ்†ta.wikipedia.org】
+L114:   * 【80†తెలుగు†te.wikipedia.org】
+L115:   * 【81†Українська†uk.wikipedia.org】
+L116:   * 【82†Tiếng Việt†vi.wikipedia.org】
+L117:   * 【83†中文†zh.wikipedia.org】
+L118: 【84†Edit links†www.wikidata.org】
+L119: 
+L120:   * 【85†Article】
+L121:   * 【86†Talk】
+L122: 
+L123: [Input] English
+L124: 
+L125:   * 【85†Read】
+L126:   * 【87†Edit】
+L127:   * 【88†View history】
+L128:   * 【17†Save】
+L129: 
+L130: [Input] Tools
+L131: 
+L132: Tools
+L133: 
+L134: [Button: move to sidebar] [Button: hide]
+L135: 
+L136: Actions
+L137: 
+L138:   * 【85†Read】
+L139:   * 【87†Edit】
+L140:   * 【88†View history】
+L141:   * 【17†Save】
+L142: 
+L143: General
+L144: 
+L145:   * 【89†What links here】
+L146:   * 【90†Related changes】
+L147:   * 【91†Upload file】
+L148:   * 【92†Permanent link】
+L149:   * 【93†Page information】
+L150:   * 【94†Cite this page】
+L151:   * 【95†Get shortened URL】
+L152:   * 【96†Switch to legacy parser】
+L153: Print/export
+L154: 
+L155:   * 【97†Download as PDF】
+L156:   * Printable version
+L157: 
+L158: In other projects
+L159: 
+L160:   * 【98†Wikimedia Commons†commons.wikimedia.org】
+L161:   * 【99†Wikidata item†www.wikidata.org】
+L162: 
+L163: Appearance
+L164: 
+L165: [Button: move to sidebar] [Button: hide]
+L166: Great Satraps _{}
+L167: Mahakṣatrapa
+L168: ---
+L169: 35–415 CE
+L170: 【100†KAMARUPAS】【101†GAUDA】
+L171: 【102†South-Asiac. (circa) 350 CE】【103†IKSHVAKUS】【104†KALABHRAS】
+L172: 【105†WESTERNGANGAS】【106†KADAMBAS】【107†PALLAVAS】
+L173: 【108†LITTLEKUSHANS】
+L174: 【109†SASANIANHIND】
+L175: 【110†MAHAMEGHA-VAHANAS】【111†SAMATATAS】【112†ABHIRAS】【113†VAKATAKAS】
+L176: 【114†GUPTAEMPIRE】【115†KIDARITES】
+L177: 【116†KUSHANO-SASANIANS】
+L178: 【117†SASANIANEMPIRE】 【118†◁】 【119†▷】 Approximate territory of the Western Satraps (35–415) circa 350 CE.^{【120†[1]】}
+L179: Capital  | 【121†Ujjain】
+L180: 【122†Bharuch】
+L181: 【123†Minnagara】
+L182: Common languages  | 【124†Pali】 (【125†Kharoshthi】 script)
+L183: 【126†Sanskrit】, 【127†Maharashtri】 【128†Prakrit】 (【129†Brahmi】 script)
+L184: Religion  | 【130†Hinduism】
+L185: 【131†Jainism】
+L186: 【132†Buddhism】
+L187: Government  | Monarchy
+L188: 【133†Satrap】  |
+L189: • c. (circa) 35  | 【134†Abhiraka】
+L190: • 388–415  | 【135†Rudrasimha III】
+L191: Historical era  | 【136†Antiquity】
+L192: • Established  | 35
+L193: • Disestablished  | 415 CE
+L194: Preceded by Succeeded by
+L195: 【137†Image†upload.wikimedia.org】 【138†Indo-Scythians】
+L196: 【137†Image†upload.wikimedia.org】 【139†Malavas】
+L197: 【137†Image†upload.wikimedia.org】 【140†Satavahana dynasty】
+L198: 【114†Gupta Empire】 【137†Image†upload.wikimedia.org】
+L199: 【141†Vakataka dynasty】 【137†Image†upload.wikimedia.org】
+L200: 【142†Kalachuris of Mahishmati】 【137†Image†upload.wikimedia.org】
+L201: 【143†Traikutaka dynasty】 【137†Image†upload.wikimedia.org】
+L202: 【144†Kingdom of Valabhi】 【137†Image†upload.wikimedia.org】
+L203: Today part of  | 【145†India】
+L204: 【146†Pakistan】
+L205: The Western Satraps, or Western Kshatrapas (【147†Brahmi】: _{}, Mahakṣatrapa, "Great 【148†Satraps】") were 【149†Indo-Scythian】 (【150†Saka】) rulers of the western and central parts of India (extending from 【151†Saurashtra】 in the south and 【152†Malwa】 in the east, covering modern-day 【153†Sindh】, 【154†Gujarat】, 【155†Maharashtra】, 【156†Rajasthan】 and 【157†Madhya Pradesh】 states), between 35 and 415 CE.
+L206: The Western Satraps were contemporaneous with the 【108†Kushans】 who ruled the northern part of the Indian subcontinent, and were possibly vassals of the Kushans. They were also contemporaneous with the 【158†Satavahana】 who ruled in Central India. They are called "Western Satraps" in modern historiography in order to differentiate them from the "【159†Northern Satraps】", who ruled in 【160†Punjab】 and 【161†Mathura】 until the 2nd century CE.
+L207: The power of the Western Satraps started to decline in the 2nd century CE after the Saka rulers were defeated by the Emperor 【162†Gautamiputra Satakarni】 of the 【140†Satavahana dynasty】.^{【163†[2]】} After this, the Saka kingdom revived, but was 【164†ultimately defeated】 by 【165†Chandragupta II】 of the 【114†Gupta Empire】 in the 4th century CE.^{【166†[3]】}
+L208: ## Name
+L209: 
+L210: [【167†edit】]
+L211: 
+L212: The rulers of the Western Satraps were called Mahākhatapa (𑀫𑀳𑀸𑀔𑀢𑀧, "Great Satrap") in their 【168†Brahmi script】 inscriptions, as here in a dedicatory inscription by Prime Minister Ayama in the name of his ruler 【169†Nahapana】, 【170†Manmodi Caves】, circa 100 CE. Nahapana was also attributed the titles of Raño ("King") and Sāmi ("Lord") conjointly.^{【171†[4]】}
+L213: They are named Western Satraps in contrast to the "【159†Northern Satraps】" who ruled around 【172†East Punjab】 and the area of 【161†Mathura】, such as 【173†Rajuvula】, and his successors under the Kushans, the "Great Satrap" Kharapallana and the "Satrap" Vanaspara.^{【174†[5]】}
+L214: Although they called themselves "Satraps" on their coins, leading to their modern designation of "Western Satraps", 【175†Ptolemy】 in his 2nd century "【176†Geographia】" still called them "Indo-Scythians".^{【177†[6]】} The word Kṣatrapa has the same origin as the word 【148†satrap】 and are both descended from 【178†Median】 xšaθrapāvan-, which means viceroy or governor of a province, and according to John Marshall, the word kṣatrapa means the viceroy of the "King of kings".
+L215: The title of the Mahakṣatrapa or the "Great Satrap" was given to the ruling Satrap, and the title of kṣatrapa was given to the heir apparent. The western Kshatrapas were also known as Sakas to Indians.^{【179†[7]】}
+L216: The Sakas of Western India spoke the Saka language, also known as 【180†Khotanese】 as it is first attested in the 【181†Tarim Basin】.^{【182†[8]】}
+L217: ## History
+L218: 
+L219: [【183†edit】]
+L220: ### First expansion: Kshaharata dynasty (1st century CE)
+L221: 
+L222: [【184†edit】]
+L223: 
+L224: Coin of 【185†Bhumaka】 (?–119). Obv: Arrow, pellet, and thunderbolt. 【125†Kharoshthi】 inscription Chaharasada Chatrapasa Bhumakasa: "Ksaharata Satrap Bhumaka". Rev: Capital of a pillar with seated lion with upraised paw, and wheel (【186†dharmachakra】). 【129†Brahmi】 inscription: Kshaharatasa Kshatrapasa Bhumakasa.
+L225: The Western Satraps are thought to have started with the rather short-lived Kshaharata dynasty (also called Chaharada, Khaharata or Khakharata depending on sources).^{【187†[9]】} The term Kshaharata is also known from the 6 CE 【188†Taxila copper plate】 inscription, in which it qualifies the Indo-Scythian ruler 【189†Liaka Kusulaka】. The 【190†Nasik】 inscription of the 19th year of 【191†Sri Pulamavi】 also mentions the Khakharatavasa, or Kshaharata race.^{【192†[10]】}
+L226: The earliest Kshaharata for whom there is evidence is 【134†Abhiraka】, whose rare coins are known. He was succeeded by 【185†Bhumaka】, father of 【169†Nahapana】, who only used on his coins the title of Satrap, and not that of Raja or Raño (king).
+L227: Nahapana's rule is variously dated to 24-70 CE, 66-71 CE, or 119–124 CE, according to one of his coins, which bear 【193†Buddhist】 symbols, such as the eight-spoked wheel (【186†dharmachakra】), or the lion seated on a capital, a representation of a pillar of 【194†Ashoka】.
+L228: Coin of 【169†Nahapana】 (whose rule is variously dated to 24-70 CE, 66-71 CE, or 119–124 CE), a direct derivation from 【195†Indo-Greek】 coinage. 【196†British Museum】.^{【197†[11]】} The 【198†Greco】-【128†Prakrit】 title "RANNIO KSAHARATA" ("ΡΑΝΝΙω ΞΑΗΑΡΑΤΑ(Ϲ)", Prakrit for "King Kshaharata" rendered in corrupted Greek letters) on the obverse of the coinage of Nahapana.^{【199†[12]】}^{【200†[13]】}
+L229: 
+L230: South-Asia
+L231: c. (circa) 120 CE
+L232: 
+L233: 【201†Image: Junnar†thumb.wikimedia.org】
+L234: 
+L235: 【170†Junnar】
+L236: 【201†Image: Nasik†thumb.wikimedia.org】
+L237: 
+L238: 【202†Nasik】
+L239: 
+L240: 【201†Image: Karli†thumb.wikimedia.org】
+L241: 
+L242: 【203†Karli】
+L243: 
+L244: 【204†SATAVAHANAS】
+L245: 
+L246: 【205†PANDYAS】
+L247: 
+L248: 【206†CHOLAS】
+L249: 
+L250: 【108†KUSHAN EMPIRE】
+L251: 
+L252: WESTERN
+L253: SATRAPS
+L254: 
+L255: 【207†PARATARAJAS】
+L256: 
+L257: 【110†MAHAMEGA-VAHANA】
+L258: 
+L259: 【208†INDO-PARTHIANS】
+L260: 
+L261: 【209†HAN DYNASTY】
+L262: 
+L263: Location of Western Satrap inscriptions in Buddhist rock-cut caves, indicating the southern extent of their territory, circa 120 CE,^{【210†[14]】} and main neighbouring polities at that time.^{【211†[15]】}
+L264: Nahapana succeeded him, and became a very powerful ruler. He occupied portions of the 【204†Satavahana Empire】 in western and central India.
+L265: Nahapana held sway over 【152†Malwa】, Southern 【154†Gujarat】, and Northern 【212†Konkan】, from 【213†Bharuch】 to 【214†Sopara】 and the 【190†Nasik】 and 【215†Poona】 districts.^{【216†[16]】} At that time, the area northwest of the Western Satraps in 【217†Baluchistan】 was ruled by the 【207†Paratarajas】, an 【218†Indo-Parthian】 polity, while the 【219†Kushans】 were expanding their empire in the North.^{【220†[17]】}
+L266: His son-in-law, the Saka 【221†Ushavadata】 (married to his daughter Dakshamitra), is known from inscriptions in 【190†Nasik】 and 【203†Karle】 and 【222†Junnar】 (【170†Manmodi Caves】, inscription of the year 46) to have been viceroy of Nahapana, ruling over the southern part of his territory.^{【223†[18]】}^{【210†[14]】}
+L267: 
+L268: Nahapana established the silver coinage of the Kshatrapas.
+L269: Circa 120 CE, the Western Satraps are known to have allied with the 【224†Uttamabhadras】 in order to repulse an attack by the 【139†Malavas】, whom they finally crushed.^{【225†[19]】} The claim appears in an inscription at the 【226†Nashik Caves】, made by the 【169†Nahapana】's viceroy 【221†Ushavadata】:
+L270: > ...And by order of the lord I went to release the chief of the Uttamabhadras, who had been besieged for the rainy season by the Malayas, and those Malayas fled at the mere roar (of my approaching) as it were, and were all made prisoners of the Uttamabhadra warriors.
+L271: 
+L272: — Inscription in Cave No.10 of the 【226†Nashik Caves】.^{【227†[20]】}
+L273: #### Support of Indian religions
+L274: 
+L275: [【228†edit】]
+L276: 
+L277: An important inscription related to 【169†Nahapana】 in the Great Chaitya at 【203†Karla Caves】^{【229†[21]】} shows his support of Buddhism and Hinduism:
+L278: 
+L279: 【203†Karla Caves】, inscription of Nahapana.
+L280: > Success!! By 【230†Ushabadata】, the son of Dinaka and the son-in-law of the king, the Kshaharata, the 【231†Kshatrapa】 【169†Nahapana】, who gave three hundred thousand cows, who made gifts of gold and a 【232†tirtha】 on the river Banasa, who gave to the Devas and 【233†Brahmanas】 sixteen villages, who at the pure tirtha Prabhasa gave eight wives to the Brahmanas, and who also fed annually a hundred thousand Brahmanas- there has been given the village of Karajika for the support of the ascetics living in the caves at 【203†Valuraka】 without any distinction of sect or origin, for all who would keep the 【234†varsha】.
+L281: — Inscription of Nahapana, Karla Caves.^{【235†[22]】}
+L282: #### Construction of Buddhist caves
+L283: 
+L284: [【236†edit】]
+L285: 
+L286: The Western Satraps are known for the construction and dedication of numerous Buddhist caves in Central India, particularly in 【155†Maharashtra】 and 【154†Gujarat】.^{【237†[23]】}^{【238†[24]】} It is thought that Nahapana ruled at least 35 years in the region of 【239†Karla】, 【222†Junnar】 and 【190†Nasik】, giving him ample time for construction work there.^{【240†[25]】}
+L287: Numerous inscriptions in the caves are known, which were made by the family of Nahapana: six inscriptions in 【202†Nasik Caves】, one inscription at 【203†Karla Caves】, and one by Nahapana's minister in the 【170†Manmodi Caves】 at 【222†Junnar】.^{【241†[26]】}^{【242†[27]】} At the same time, "【243†Yavanas】", Greeks or 【244†Indo-Greeks】, also left donative inscriptions at the Nasik Caves, Karla Caves, 【245†Lenyadri】 and 【170†Manmodi Caves】.^{【246†[28]】}
+L288: ##### Great Chaitya hall at Karla Caves
+L289: 
+L290: [【247†edit】]
+L291: 
+L292: See also: 【203†Karla Caves】
+L293: 
+L294: In particular, the 【248†chaitya】 cave complex of the Karla Caves, the largest in 【249†South Asia】, was constructed and dedicated in 120 CE by the Western Satraps ruler Nahapana.^{【237†[23]】}^{【250†[29]】}^{【251†[30]】}
+L295: 
+L296:   * Great Chaitya hall at Karla
+L297:   * Hall of the Great Chaitya Cave at Karla (120 CE)^{【237†[23]】}
+L298: 
+L299:   * Right row of columns
+L300: 
+L301:   * Chaitya roof
+L302: 
+L303:   * Capitals
+L304:   * Donative inscription by a 【243†Yavana】 ("【195†Indo-Greek】") named Vitasamghata.^{【252†[31]】}
+L305: ##### Cave No.10 of Nasik, the 'Nahapana Vihara'
+L306: 
+L307: [【253†edit】]
+L308: 
+L309: See also: 【202†Nasik Caves】 and 【254†Nasik inscription of Ushavadata】
+L310: 
+L311: Parts of the Nasik Caves, also called Pandavleni Caves, were also carved during the time of Nahapana.^{【238†[24]】}
+L312: The inscriptions of cave no.10 in the Nasik Caves near 【190†Nasik】, reveal that in 105-106 CE, Kshatrapas defeated the Satavahanas after which Kshatrapa 【169†Nahapana】’s son-in-law and Dinika's son- 【221†Ushavadata】 donated 3000 gold coins for this cave as well as for the food and clothing of the monks. Usabhdatta's wife (Nahapana's daughter), Dakshmitra also donated one cave for the Buddhist monks. Cave 10 - 'Nahapana Vihara' is spacious with 16 rooms.
+L313: 
+L314:   * 【202†Nasik Caves】, cave No. 10
+L315:   * Front
+L316:   * Veranda
+L317: 
+L318:   * Interior
+L319: 
+L320:   * Chaitya and Umbrellas
+L321: 
+L322:   * Inscription
+L323: 
+L324: Two inscriptions in Cave 10 mention the building and the gift of the whole cave to the 【255†Samgha】 by 【221†Ushavadata】, the 【150†Saka】^{【256†[32]】} son-in-law and viceroy of Nahapana:
+L325: 
+L326: 【202†Nasik Cave】 inscription No.10. of Nahapana, Cave No.10. One of the pillars built by 【221†Ushavadata】, viceroy of 【169†Nahapana】, circa 120 CE, 【202†Nasik Caves】, cave No10.
+L327: > Success! 【221†Ushavadata】, son of Dinika, son-in-law of king Nahapana, the Kshaharata Kshatrapa, (...) inspired by (true) religion, in the Trirasmi hills at 【257†Govardhana】, has caused this cave to be made and these cisterns.
+L328: 
+L329: — 【258†Inscription No.10 of Nahapana】, Cave No.10, Nasik^{【259†[33]】}
+L330: 
+L331: > Success! In the year 42, in the month Vesakha, 【221†Ushavadata】, son of Dinika, son-in-law of king Nahapana, the Kshaharata Kshatrapa, has bestowed this cave on the 【255†Samgha】 generally....
+L332: — 【260†Inscription No.12 of Nahapana】, Cave No.10, Nasik^{【261†[34]】}
+L333: 
+L334: According to the inscriptions, Ushavadata accomplished various charities and conquests on behalf of his father-in-law. He constructed rest-houses, gardens and tanks at Bharukachchha (【213†Broach】), Dashapura (【262†Mandasor】 in 【152†Malwa】), 【257†Govardhana】 (near 【190†Nasik】) and Shorparaga (【214†Sopara】 in the 【263†Thana】 district).
+L335: ##### Junnar dedication
+L336: 
+L337: [【264†edit】]
+L338: 
+L339: A dedication in the 【245†Lenyadri complex】 of the 【222†Junnar】 caves (inscription No. 26 in Cave VI of the Bhimasankar group of caves), mentions a gift by Nahapana's prime minister Ayama in the "year 46":
+L340: 
+L341: > The meritorious gift.... of Ayama of the Vachhasagotra, prime minister of the King Mahakshatrapa the lord Nahapana
+L342: 
+L343: — Junnar inscription No. 26, 124 CE^{【265†[35]】}
+L344: This inscription, the last one of the reign of Nahapana, suggests that Nahapana may have become an independent ruler since he is described as a King.^{【265†[35]】}
+L345: #### International trade: the Periplus of the Erythraean Sea
+L346: 
+L347: [【266†edit】]
+L348: 
+L349: Nahapana is mentioned in the 【267†Periplus of the Erythraean Sea】 under the name Nambanus,^{【268†[36]】} as ruler of the area around 【269†Barigaza】:
+L350: > Beyond the 【270†gulf of Baraca】 is that of 【213†Barygaza】 and the coast of the country of 【271†Ariaca】, which is the beginning of the Kingdom of Nambanus and of all India. That part of it lying inland and adjoining Scythia is called 【272†Abiria】, but the coast is called 【273†Syrastrene】. It is a fertile country, yielding 【274†wheat】 and 【275†rice】 and 【276†sesame】 oil and clarified butter, 【277†cotton】 and the Indian cloths made therefrom, of the coarser sorts.
+L351: Very many cattle are pastured there, and the men are of great stature and black in color. The metropolis of this country is 【123†Minnagara】, from which much cotton cloth is brought down to Barygaza.
+L352: — Periplus of the Erythraean Sea, Chap. 41 ^{【278†[37]】}
+L353: 
+L354: Nahapana coin hoard.
+L355: 
+L356: Under the Western Satraps, Barigaza was one of the main centers of 【279†Roman trade with India】. The Periplus describes the many goods exchanged:
+L357: > There are imported into this market-town (Barigaza), wine, Italian preferred, also 【280†Laodicean】 and 【281†Arabian】; 【282†copper】, 【283†tin】, and 【284†lead】; 【285†coral】 and 【286†topaz】; thin clothing and inferior sorts of all kinds; bright-colored girdles a cubit wide; storax, sweet clover, flint glass, 【287†realgar】, 【288†antimony】, gold and silver coin, on which there is a profit when exchanged for the money of the country; and ointment, but not very costly and not much.
+L358: And for the King there are brought into those places very costly vessels of silver, singing boys, beautiful maidens for the harem, fine wines, thin clothing of the finest weaves, and the choicest ointments. There are exported from these places 【289†spikenard】, 【290†costus】, 【291†bdellium】, 【292†ivory】, 【293†agate】 and 【294†carnelian】, 【295†lycium】, cotton cloth of all kinds, 【296†silk】 cloth, mallow cloth, yarn, long pepper and such other things as are brought here from the various market-towns.
+L359: Those bound for this market-town from 【297†Egypt】 make the voyage favorably about the month of July, that is Epiphi.
+L360: — Periplus of the Erythraean Sea, Chapter 49.^{【298†[38]】}
+L361: 
+L362: The Western Satraps under Nahapana, with their harbour of Barigaza, were among the main actors of the 1st century CE international trade according to the 【267†Periplus of the Erythraean Sea】.
+L363: 
+L364: Goods were also brought down in quantity from 【121†Ujjain】, the capital of the Western Satraps:
+L365: > Inland from this place and to the east, is the city called Ozene, formerly a royal capital; from this place are brought down all things needed for the welfare of the country about Barygaza, and many things for our trade: agate and carnelian, Indian muslins and mallow cloth, and much ordinary cloth.
+L366: 
+L367: — Periplus of the Erythraean Sea, Chapter 48.^{【298†[38]】}
+L368: 
+L369: Some ships were also fitted out from Barigaza, to export goods westward across the Indian Ocean:
+L370: > Ships are also customarily fitted out from the places across this sea, from Ariaca and Barygaza, bringing to these far-side market-towns the products of their own places; wheat, rice, clarified butter, sesame oil, cotton cloth (the monache and the sagmatogene), and girdles, and honey from the reed called sacchari. Some make the voyage especially to these market-towns, and others exchange their cargoes while sailing along the coast.
+L371: 

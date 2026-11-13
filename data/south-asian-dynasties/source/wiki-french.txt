@@ -1,0 +1,400 @@
+French India - Wikipedia (https://en.wikipedia.org/wiki/French_India)
+citeturn132view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/French_India","lineno":null}); Total lines: 610
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Background】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Initial marine voyages to India (16th century)】
+L51:     * 【21†2.2 First factory in India (1668)】
+L52:     * 【22†2.3 French expansion in India (1669-1672)】
+L53:     * 【23†2.4 Establishment of the colony at Pondichéry (1673)】
+L54:     * 【24†2.5 Establishment of colonies at Yanon (1723) and Karaikal (1739)】
+L55:     * 【25†2.6 Ambition of establishment of French territorial empire in India and defeat (1741–1754)】
+L56:     * 【26†2.7 French vs British intrigues (1754–1871)】
+L57:     * 【27†2.8 Independence movement (18th–20th century) and merger with India (1954)】
+L58:     * 【28†2.9 The myth of a lost French empire in India】
+L59:   * 【29†3 List of French settlements in India】
+L60:   * 【30†4 List of chief governing officers】 Toggle List of chief governing officers subsection
+L61:     * 【31†4.1 Commissioners】
+L62:     * 【32†4.2 Governors】
+L63:     * 【33†4.3 Commissioners】
+L64:     * 【34†4.4 High Commissioners】
+L65:   * 【35†5 See also】
+L66:   * 【36†6 Notes】
+L67:   * 【37†7 References】
+L68:   * 【38†8 Bibliography】
+L69:   * 【39†9 External links】
+L70: [Input] Toggle the table of contents
+L71: # French India
+L72: 
+L73: [Input] 39 languages
+L74:   * 【40†العربية†ar.wikipedia.org】
+L75:   * 【41†অসমীয়া†as.wikipedia.org】
+L76:   * 【42†Asturianu†ast.wikipedia.org】
+L77:   * 【43†تۆرکجه†azb.wikipedia.org】
+L78:   * 【44†Български†bg.wikipedia.org】
+L79:   * 【45†বাংলা†bn.wikipedia.org】
+L80:   * 【46†Català†ca.wikipedia.org】
+L81:   * 【47†Čeština†cs.wikipedia.org】
+L82:   * 【48†Deutsch†de.wikipedia.org】
+L83:   * 【49†Esperanto†eo.wikipedia.org】
+L84:   * 【50†Español†es.wikipedia.org】
+L85:   * 【51†Euskara†eu.wikipedia.org】
+L86:   * 【52†فارسی†fa.wikipedia.org】
+L87:   * 【53†Suomi†fi.wikipedia.org】
+L88:   * 【54†Français†fr.wikipedia.org】
+L89:   * 【55†עברית†he.wikipedia.org】
+L90:   * 【56†हिन्दी†hi.wikipedia.org】
+L91:   * 【57†Magyar†hu.wikipedia.org】
+L92:   * 【58†Հայերեն†hy.wikipedia.org】
+L93:   * 【59†Bahasa Indonesia†id.wikipedia.org】
+L94:   * 【60†Italiano†it.wikipedia.org】
+L95:   * 【61†日本語†ja.wikipedia.org】
+L96:   * 【62†한국어†ko.wikipedia.org】
+L97:   * 【63†മലയാളം†ml.wikipedia.org】
+L98:   * 【64†मराठी†mr.wikipedia.org】
+L99:   * 【65†Nederlands†nl.wikipedia.org】
+L100:   * 【66†Polski†pl.wikipedia.org】
+L101:   * 【67†پنجابی†pnb.wikipedia.org】
+L102:   * 【68†Português†pt.wikipedia.org】
+L103:   * 【69†Русский†ru.wikipedia.org】
+L104:   * 【70†Shqip†sq.wikipedia.org】
+L105:   * 【71†தமிழ்†ta.wikipedia.org】
+L106:   * 【72†తెలుగు†te.wikipedia.org】
+L107:   * 【73†Türkçe†tr.wikipedia.org】
+L108:   * 【74†Українська†uk.wikipedia.org】
+L109:   * 【75†اردو†ur.wikipedia.org】
+L110:   * 【76†Tiếng Việt†vi.wikipedia.org】
+L111:   * 【77†粵語†zh-yue.wikipedia.org】
+L112:   * 【78†中文†zh.wikipedia.org】
+L113: 【79†Edit links†www.wikidata.org】
+L114: 
+L115:   * 【80†Article】
+L116:   * 【81†Talk】
+L117: 
+L118: [Input] English
+L119: 
+L120:   * 【80†Read】
+L121:   * 【82†Edit】
+L122:   * 【83†View history】
+L123:   * 【17†Save】
+L124: 
+L125: [Input] Tools
+L126: 
+L127: Tools
+L128: 
+L129: [Button: move to sidebar] [Button: hide]
+L130: 
+L131: Actions
+L132: 
+L133:   * 【80†Read】
+L134:   * 【82†Edit】
+L135:   * 【83†View history】
+L136:   * 【17†Save】
+L137: 
+L138: General
+L139: 
+L140:   * 【84†What links here】
+L141:   * 【85†Related changes】
+L142:   * 【86†Upload file】
+L143:   * 【87†Permanent link】
+L144:   * 【88†Page information】
+L145:   * 【89†Cite this page】
+L146:   * 【90†Get shortened URL】
+L147:   * 【91†Switch to legacy parser】
+L148: Print/export
+L149: 
+L150:   * 【92†Download as PDF】
+L151:   * Printable version
+L152: 
+L153: In other projects
+L154: 
+L155:   * 【93†Wikimedia Commons†commons.wikimedia.org】
+L156:   * 【94†Wikivoyage†en.wikivoyage.org】
+L157:   * 【95†Wikidata item†www.wikidata.org】
+L158: 
+L159: Appearance
+L160: 
+L161: [Button: move to sidebar] [Button: hide]
+L162: French Settlements in India Établissements français dans l'Inde (【96†French】)
+L163: ---
+L164: 1664–1954
+L165: 【97†Flag】
+L166:   French India after 1815
+L167: Status  | Colony of France (1664–1946)
+L168: 【98†Overseas Territory of France】 (1946–1954)
+L169: Capital  | 【99†Pondichéry】
+L170: Common languages  | 【100†French】 (de jure)^{【101†[1]】}
+L171: 【102†Bengali】
+L172: 【103†Malayalam】
+L173: 【104†Tamil】
+L174: 【105†Telugu】
+L175: Governor  |
+L176: • 1668–1673  | 【106†François Caron】 (first) ^{【107†[2]】}
+L177: • 1954  | Georges Escaragueil^{【108†[3]】}
+L178: Legislature  | 【109†Representative Assembly of French India】
+L179: History  |
+L180: • First 【110†French East India Company】 Commissioner of 【111†Surat】  | 1664
+L181: • 【112†De facto】 transfer  | 1 November 1954
+L182: Area
+L183: ---
+L184: 1936  | 510 km^{2} (200 sq mi)
+L185: Population
+L186: ---
+L187: • 1936  | 298,861
+L188: Currency  | 【113†French Indian rupee】
+L189: Preceded by Succeeded by
+L190: 【114†Image†upload.wikimedia.org】 【115†Portuguese Empire】
+L191: 【116†Puducherry (union territory)】 【117†Image†thumb.wikimedia.org】
+L192: 【118†West Bengal】 【117†Image†thumb.wikimedia.org】
+L193: Today part of  | 【119†India】
+L194: French India, formally the Établissements français dans l'Inde^{【120†[a]】} (French pronunciation: 【121†[etablismɑ̃ fʁɑ̃se dɑ̃ l ͜ ɛ̃d]】; English: French Settlements in India), was a 【122†French colony】 comprising five geographically separated enclaves on the 【123†Indian subcontinent】 that had initially been 【124†factories】 of the 【110†French East India Company】. They were de facto incorporated into the 【119†Republic of India】 in 1950 and 1954.
+L195: The enclaves were 【99†Pondichéry】, 【125†Karikal】, 【126†Yanaon】 on the 【127†Coromandel Coast】, 【128†Mahé】 on the 【129†Malabar Coast】 and 【130†Chandernagor】 in 【131†Bengal】. The French also possessed several loges ('lodges', tiny subsidiary trading stations) inside other towns, but after 1816, the British denied all French claims to these, which were not reoccupied.
+L196: By 1950, the total area measured 510 km^{2} (200 sq mi), of which 293 km^{2} (113 sq mi) belonged to the territory of 【116†Pondichéry】. In 1936, the population of the colony totalled 298,851 inhabitants, of which 63% (187,870) lived in the territory of Pondichéry.^{【132†[4]】}
+L197: ## Background
+L198: 
+L199: [【133†edit】]
+L200: 
+L201: See also: 【134†Franco-Indian alliances】, 【135†Colonial History of Yanam】, and 【136†History of Puducherry】
+L202: 
+L203: India at the height of French influence (1751) A portrait of 【137†Ananda Ranga Pillai】 View of 【99†Pondicherry】 in the late 18th century French factory (trading post) at 【138†Patna】 on the 【139†Ganges】 Governor's Garden at Pondicherry, 18th century View of the Palace of the Governor of Pondicherry in 1850
+L204: France was the last of the major European maritime powers of the 17th century to enter the East India trade. Six decades after the foundation of the 【140†English】 and 【141†Dutch East India】 companies (in 1600 and 1602 respectively), and at a time when both companies were multiplying 【124†factories】 (trading posts) on the shores of India, the French still did not have a viable trading company or a single permanent establishment in the East.
+L205: Seeking to explain France's late entrance in the East India trade, historians cite geopolitical circumstances such as the inland position of the French capital, France's numerous internal customs barriers, and parochial perspectives of merchants on France's Atlantic coast, who had little appetite for the large-scale investment required to develop a viable trading enterprise with the distant East Indies.^{【142†[5]】}^{【143†[6]】}
+L206: ## History
+L207: 
+L208: [【144†edit】]
+L209: ### Initial marine voyages to India (16th century)
+L210: 
+L211: [【145†edit】]
+L212: The first French commercial venture to India is believed to have taken place in the first half of the 16th century, in the reign of 【146†King Francis I】, when two ships were fitted out by some merchants of 【147†Rouen】 to trade in eastern seas; they sailed from 【148†Le Havre】 and were never heard of again. In 1604, a company was granted 【149†letters patent】 by 【150†King Henry IV】, but the project failed. Fresh letters patent were issued in 1615, and two ships went to India, only one returning.^{【151†[7]】}
+L213: La Compagnie française des Indes orientales (【110†French East India Company】) was formed under the auspices of 【152†Cardinal Richelieu】 (1642) and reconstructed under 【153†Jean-Baptiste Colbert】 (1664) when he sent an expedition to 【154†Madagascar】.^{【155†[8]】}^{【156†[9]】}^{【151†[7]】}
+L214: ### First factory in India (1668)
+L215: 
+L216: [【157†edit】]
+L217: 
+L218: In 1667, the French India Company sent out another expedition, under the command of 【106†François Caron】 (who was accompanied by a 【158†Persian】 named Marcara), which reached 【111†Surat】 in 1668 and established the first French factory in India.^{【155†[8]】}^{【156†[9]】}
+L219: ### French expansion in India (1669-1672)
+L220: 
+L221: [【159†edit】]
+L222: In 1669, Marcara succeeded in establishing another French factory at 【160†Masulipatam】. In 1672, the French captured Fort Saint Thomas, but they were driven out by the 【161†Dutch】 after a long and costly siege. 【162†Chandernagore】 (present-day Chandannagar) was established in 1692, with the permission of 【163†Nawab】 Shaista Khan, the 【164†Mughal】 governor of 【131†Bengal】.
+L223: In 1673, the French acquired the area of Pondicherry from the qiladar of Valikondapuram under the Sultan of 【165†Bijapur】, and thus the foundation of 【166†Pondichéry】 was laid. By 1720, the French had lost their factories at Surat, Masulipatam and 【167†Bantam】 to the British 【140†East India Company】.
+L224: ### Establishment of the colony at Pondichéry (1673)
+L225: 
+L226: [【168†edit】]
+L227: On 4 February 1673, Bellanger de l'Espinay, a French officer, took up residence in the Danish Lodge in Pondichéry, thereby commencing the French administration of Pondichéry. In 1674, 【169†François Martin】, the first Governor, initiated ambitious projects to transform Pondichéry from a small fishing village into a flourishing port-town. However, the French found themselves in continual conflict with the Dutch and the English. In 1693, the Dutch captured Pondichéry and augmented the fortifications.
+L228: The French regained the town in 1699 through the 【170†Treaty of Ryswick】, signed on 20 September 1697.
+L229: ### Establishment of colonies at Yanon (1723) and Karaikal (1739)
+L230: 
+L231: [【171†edit】]
+L232: From their arrival until 1741, the objectives of the French, like those of the British, were purely commercial. During this period, the French East India Company peacefully acquired 【172†Yanam】 (about 840 kilometres or 520 miles north-east of Pondichéry on Andhra Coast) in 1723, 【128†Mahe】 on Malabar Coast in 1725 and 【125†Karaikal】 (about 150 kilometres or 93 miles south of Pondichéry) in 1739. In the early 18th century, the town of Pondichéry was laid out on a grid pattern and grew considerably.
+L233: Able governors like 【173†Pierre Christophe Le Noir】 (1726–1735) and 【174†Pierre Benoît Dumas】 (1735–1741) expanded the Pondichéry area and made it a large and rich town.
+L234: ### Ambition of establishment of French territorial empire in India and defeat (1741–1754)
+L235: 
+L236: [【175†edit】]
+L237: Soon after his arrival in 1741, the most famous governor of French India, 【176†Joseph François Dupleix】, began to hold the ambition of a French territorial empire in India in spite of the pronounced uninterested attitude of his distant superiors and of the French government, which did not want to provoke the British.
+L238: Dupleix's ambition clashed with British interests in India and a period of military skirmishes and political intrigues began and continued even in rare periods when France and Great Britain were officially at peace. Under the command of the 【177†Marquis de Bussy-Castelnau】, Dupleix's army successfully controlled the area between 【178†Hyderabad】 and 【179†Cape Comorin】.
+L239: However, 【180†Robert Clive】, a British officer, arrived in India in 1744, and dashed the hopes of Dupleix to create a French empire in India.
+L240: After a defeat and failed peace talks, Dupleix was summarily dismissed and recalled to France in 1754.
+L241: ### French vs British intrigues (1754–1871)
+L242: 
+L243: [【181†edit】]
+L244: In spite of a treaty between the British and French agreeing not to interfere in regional Indian affairs, their colonial intrigues continued. The French expanded their influence at the court of the 【182†Nawab of Bengal】 and increased their trading activity in Bengal. In 1756, the French encouraged the Nawab (【183†Siraj ud-Daulah】) to attack and take the British 【184†Fort William】 in 【185†Calcutta】.
+L245: This led to the 【186†Battle of Plassey】 in 1757, where the British decisively defeated the Nawab and his French allies, resulting in the extension of British power over the entire province of Bengal.
+L246: Subsequently, France sent 【187†Lally-Tollendal】 to recover the lost French possessions and drive the British out of India. Lally arrived in Pondichéry in 1758, had some initial success and razed Fort St. David in 【188†Cuddalore】 District to the ground in 1758, but strategic mistakes by Lally led to the loss of the 【178†Hyderabad】 region, the 【189†Battle of Wandiwash】 and the 【190†siege of Pondicherry】 in 1760.
+L247: In 1761, the British razed Pondichéry to the ground in revenge for the French depredations; it lay in ruins for four years. The French had lost their hold now in South India too.
+L248: In 1765, Pondichéry was returned to France in accordance with 【191†a 1763 peace treaty】 with 【192†Britain】. Governor 【193†Jean Law de Lauriston】 set to rebuild the town on its former layout and after five months 200 European and 2000 【194†Tamil】 houses had been erected. In 1769, the French East India Company, unable to support itself financially, was abolished by the French Crown, which assumed administration of the French possessions in India.
+L249: During the next 50 years, Pondichéry changed hands between France and Britain with the regularity of their wars and peace treaties.
+L250: In 1816, after the conclusion of the 【195†Napoleonic Wars】, the five establishments of Pondichéry, 【162†Chandernagore】, Karaikal, Mahe and Yanam and the lodges at 【196†Machilipatnam】, 【197†Kozhikode】 and Surat were returned to France. Pondichéry had lost much of its former glory, and Chandernagore dwindled into an insignificant outpost to the north of the rapidly growing British metropolis of Calcutta.
+L251: Successive governors tried, with mixed results, to improve infrastructure, industry, law and education over the next 138 years.
+L252: A list from 1816 mentions the French had the possessions of 【198†Pondichéry】 (and its districts of 【199†Villenour】 and 【200†Bahour】), 【201†Karikal】, 【202†Yanaon】, 【203†Chandernagor】 and 【128†Mahé】. Other important trading posts included the ones in 【204†Masulipatnam】, 【205†Calicut】, 【111†Surat】, 【206†Muscat】, 【207†Mokha】 and 【208†Canton】.^{【209†[10]】}
+L253: By a decree of 25 January 1871, French India was to have an elective general council (conseil général) and elective local councils (conseil local). The results of this measure were not very satisfactory, and the qualifications for and the classes of the franchise were modified. The governor resided at Pondichéry and was assisted by a council.
+L254: There were two 【210†tribunaux d'instance】 ('tribunals of first instance', at Pondichéry and Karikal) one cour d'appel ('【211†Court of Appeal】', at Pondichéry) and five juges de paix ('【212†Justices of the Peace】'). Agricultural production consisted of rice, peanuts, tobacco, betel nuts and vegetables.^{【151†[7]】}
+L255: 1954 French ID issued at their colony of Pondicherry before the transfer.
+L256: ### Independence movement (18th–20th century) and merger with India (1954)
+L257: 
+L258: [【213†edit】]
+L259: 
+L260: 【214†Image: Pondichéry†thumb.wikimedia.org】
+L261: 
+L262: Pondichéry
+L263: 
+L264: 【214†Image: Karikal†thumb.wikimedia.org】
+L265: 
+L266: Karikal
+L267: 
+L268: 【214†Image: Masulipatam†thumb.wikimedia.org】
+L269: 
+L270: Masulipatam
+L271: 
+L272: 【215†Image: Mahé†thumb.wikimedia.org】
+L273: 
+L274: Mahé
+L275: 
+L276: 【215†Image: Calicut†thumb.wikimedia.org】
+L277: 
+L278: Calicut
+L279: 
+L280: 【216†Image: Chandernagore†thumb.wikimedia.org】
+L281: 
+L282: Chandernagore
+L283: 
+L284: 【216†Image: Cassimbazar†thumb.wikimedia.org】
+L285: 
+L286: Cassimbazar
+L287: 【216†Image: Jugdia†thumb.wikimedia.org】
+L288: 
+L289: Jugdia
+L290: 
+L291: 【216†Image: Dacca†thumb.wikimedia.org】
+L292: 
+L293: Dacca
+L294: 
+L295: 【216†Image: Balasore†thumb.wikimedia.org】
+L296: 
+L297: Balasore
+L298: 
+L299: 【216†Image: Patna†thumb.wikimedia.org】
+L300: 
+L301: Patna
+L302: 
+L303: 【217†Image: Surat†thumb.wikimedia.org】
+L304: 
+L305: Surat
+L306: 
+L307: 【218†Image: Yanaon†thumb.wikimedia.org】
+L308: 
+L309: Yanaon
+L310: 
+L311: French establishments and loges as of 1947
+L312:   【131†Bengal】   【219†Coromandel coast】   【220†Gujarat】   【221†Malabar coast】   【222†Orissa】
+L313: The 【223†Independence of India】 on 15 August 1947 gave impetus to the union of France's Indian possessions with former 【224†British India】. The lodges in Machilipatnam, Kozhikode and Surat were ceded to India on 6 October 1947.^{【225†[11]】} An agreement between France and India in 1948 agreed to an election in France's remaining Indian possessions to choose their political future.
+L314: Governance of Chandernagore was ceded to India on 2 May 1950; it was then merged with 【118†West Bengal】 state on 2 October 1954. On 1 November 1954, the four enclaves of Pondichéry, Yanam, Mahe– and Karikal were de facto transferred to the Indian Union and became the 【226†Union Territory】 of 【116†Puducherry】. The de jure union of French India with India did not take place until 1962 when the 【227†French Parliament】 in 【228†Paris】 ratified the treaty with India.
+L315: ### The myth of a lost French empire in India
+L316: 
+L317: [【229†edit】]
+L318: From the mid-19th century onward there developed in France the belief that the five tiny settlements recovered from Britain after the Napoleonic Wars were remnants of the "immense empire" acquired by Dupleix in the 18th century.
+L319: "Our immense empire of India was reduced to five settlements" wrote French economist and colonial expansion promoter 【230†Pierre Paul Leroy-Beaulieu】 in 1886.^{【231†[12]】} An atlas published in the 1930s described those five settlements as "remnants of the great colonial empire that France had created in India in the 18th century".^{【232†[13]】} More recently, a historian of French India post-1816 described them as "debris of an empire" and the "last remnants of an immense empire forever lost".^{【233†[14]】} However, France never held much more than the five settlements recovered in 1816.
+L320: The historian of French India and archivist 【234†Alfred Martineau】, who was also governor of French India, pointed out that the authority granted to Dupleix over the Carnatic in 1750 should not be construed as a transfer of sovereignty, as wrote most historians, given that Dupleix only became so to speak the lieutenant of the Indian 【235†subah】, who could withdraw his power delegation at his convenience.^{【236†[15]】} Philippe Haudrère, historian of the French East India Company, also wrote that Dupleix controlled those territories through a complex system of treaties and alliances, a system almost feudal in nature, territories guarded by garrisons with French commanders, but neither annexed nor transformed into protectorates.^{【237†[16]】}
+L321: ## List of French settlements in India
+L322: 
+L323: [【238†edit】]
+L324: 
+L325: Further information: 【239†Municipal administration in French India】
+L326: 
+L327: French establishments in the 【240†Indian peninsula】 as of 1839 were:^{【241†[17]】}
+L328:   1. On the 【219†Coromandel coast】,
+L329:      * 【99†Pondichéry】 and its territory comprising districts of Pondichéry, Villenour and Bahour;
+L330:      * 【125†Karikal】 and its dependent maganams, or districts.
+L331:   2. On the coast of 【242†Andhra Pradesh】,
+L332:      * 【202†Yanaon】 and its territory comprising dependent aldées or villages;
+L333:      * The 【160†Masulipatam】 lodge^{【243†[note 1]】} and a garden named Francepeth.^{【244†[note 2]】}
+L334:   3. On the 【221†Malabar coast】,
+L335:      * 【128†Mahé】 and its territory;
+L336:      * The 【205†Calicut】 lodge.^{【245†[note 3]】}
+L337:   4. In 【131†Bengal】,
+L338:      * 【130†Chandernagore】 and its territory;
+L339:      * The five lodges^{【246†[19]】} of 【247†Cassimbazar】,^{【248†[note 4]】} 【249†Jougdia】,^{【250†[note 5]】} 【251†Dacca】,^{【252†[note 6]】} 【253†Balasore】^{【254†[note 7]】} and 【138†Patna】.^{【255†[note 8]】}
+L340:   5. In 【220†Gujarat】,
+L341:      * 【111†Surat】 factory.^{【256†[note 9]】}
+L342: Under the French East India Company's regime, the name 'lodge' was given to factories or insulated establishments consisting of a home and adjacent ground where France had the right to fly its flag and establish trading posts.
+L343: 
+L344:   * Pro-merger movement of French Settlements in India, 1954
+L345: 
+L346:   * 【176†Dupleix】 meeting the Soudhabar of the 【257†Deccan】, 【258†Muzaffar Jang Hidayat】
+L347: 
+L348:   * 【259†Suffren】 meeting with ally 【260†Hyder Ali】 in 1782, J. B. Morret engraving, 1789
+L349: 
+L350:   * French India postage stamps
+L351:   * Chandernagore's Government House c. (circa) 1850
+L352: ## List of chief governing officers
+L353: 
+L354: [【261†edit】]
+L355: 
+L356: ### Commissioners
+L357: 
+L358: [【262†edit】]
+L359: 
+L360:   * 【106†François Caron】, 1668–1672
+L361:   * François Baron, 1672–1681
+L362:   * 【169†François Martin】, 1681 – November 1693
+L363:   * Dutch occupation, September 1693 – September 1699 — 【170†Treaty of Ryswick】 (1697)
+L364: ### Governors
+L365: 
+L366: [【263†edit】]
+L367: 
+L368: In the days of the French East India Company, the title of the top official was most of the time Governor of Pondicherry and General Commander of the French settlements in the East Indies (【96†French】: Gouverneur de Pondichéry et commandant général des établissements français aux Indes orientales). After 1816, it was Governor of French establishments in India (【96†French】: Gouverneur des établissements français de l'Inde').
+L369: Quai Dupleix at Strand Road 【130†Chandernagor】【130†Chandernagore】 Government House and Convent
+L370:   * 【169†François Martin】, September 1699 – 31 December 1706
+L371:   * 【264†Pierre Dulivier】 (Acting), January 1707 – July 1708
+L372:   * 【265†Guillaume André d'Hébert】, 1708–1712
+L373:   * 【264†Pierre Dulivier】, 1713–1715
+L374:   * 【265†Guillaume André d'Hébert】, 1715–1718
+L375:   * 【266†Pierre André Prévost de La Prévostière】, August 1718 – 11 October 1721
+L376:   * 【267†Pierre Christoph Le Noir】 (Acting), 1721–1723
+L377:   * 【268†Joseph Beauvollier de Courchant】, 1723–1726
+L378:   * 【267†Pierre Christoph Le Noir】, 1727–1734
+L379:   * 【174†Pierre Benoît Dumas】, 1735–1741
+L380:   * 【176†Joseph François Dupleix】, 14 January 1742 – 15 October 1754
+L381:   * 【269†Charles Godeheu】, Le commissaire (Acting), 15 October 1754 – 1754
+L382:   * 【270†Georges Duval de Leyrit】, 1756–1758
+L383:   * 【187†Thomas Arthur, comte de Lally】, 1758 – January 1761
+L384:   * First British occupation, January 15, 1761 – June 25, 1765 — 【191†Treaty of Paris (1763)】
+L385:   * 【193†Jean Law de Lauriston】, 1765–1766
+L386:   * 【271†Antoine Boyellau】 (Acting), 1766–1767
+L387:   * 【193†Jean Law de Lauriston】, 1767 – January 1777【130†Chandernagor】 Government House
+L388:   * Second British occupation, 1778 – 1783 – 【272†Treaty of Paris (1783)】
+L389:   * 【273†Guillaume de Bellecombe】, January 1777 – 1778
+L390:   * 【177†Marquis de Bussy-Castelnau】, 1783–1785
+L391:   * 【274†François de Souillac】, 1785
+L392:   * 【275†David Charpentier de Cossigny】, October 1785 – 1787
+L393:   * 【276†Thomas Conway】, October 1787 – 1789
+L394:   * 【277†Camille Charles Leclerc, Chevalier de Fresne】, 1789–1792
+L395:   * 【278†Dominique Prosper de Chermont】, November 1792 – 1793
+L396:   * L. 【279†Leroux de Touffreville】, 1793
+L397:   * Third British occupation, 23 August 1793 – 18 June 1802 — 【280†Treaty of Amiens】 (1802)

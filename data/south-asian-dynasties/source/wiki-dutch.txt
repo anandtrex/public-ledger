@@ -1,0 +1,261 @@
+Dutch India - Wikipedia (https://en.wikipedia.org/wiki/Dutch_India)
+citeturn134view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Dutch_India","lineno":null}); Total lines: 259
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 Coinage】
+L51:   * 【20†3 Map】
+L52:   * 【21†4 Gallery】
+L53:   * 【22†5 See also】
+L54:   * 【23†6 References】
+L55:   * 【24†7 External links】
+L56: 
+L57: [Input] Toggle the table of contents
+L58: # Dutch India
+L59: 
+L60: [Input] 27 languages
+L61:   * 【25†العربية†ar.wikipedia.org】
+L62:   * 【26†Български†bg.wikipedia.org】
+L63:   * 【27†বাংলা†bn.wikipedia.org】
+L64:   * 【28†Català†ca.wikipedia.org】
+L65:   * 【29†Deutsch†de.wikipedia.org】
+L66:   * 【30†Ελληνικά†el.wikipedia.org】
+L67:   * 【31†Español†es.wikipedia.org】
+L68:   * 【32†Euskara†eu.wikipedia.org】
+L69:   * 【33†Suomi†fi.wikipedia.org】
+L70:   * 【34†Français†fr.wikipedia.org】
+L71:   * 【35†עברית†he.wikipedia.org】
+L72:   * 【36†हिन्दी†hi.wikipedia.org】
+L73:   * 【37†Italiano†it.wikipedia.org】
+L74:   * 【38†日本語†ja.wikipedia.org】
+L75:   * 【39†Latviešu†lv.wikipedia.org】
+L76:   * 【40†Nederlands†nl.wikipedia.org】
+L77:   * 【41†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L78:   * 【42†پنجابی†pnb.wikipedia.org】
+L79:   * 【43†Русский†ru.wikipedia.org】
+L80:   * 【44†Slovenščina†sl.wikipedia.org】
+L81:   * 【45†Shqip†sq.wikipedia.org】
+L82:   * 【46†தமிழ்†ta.wikipedia.org】
+L83:   * 【47†తెలుగు†te.wikipedia.org】
+L84:   * 【48†Українська†uk.wikipedia.org】
+L85:   * 【49†اردو†ur.wikipedia.org】
+L86:   * 【50†Tiếng Việt†vi.wikipedia.org】
+L87:   * 【51†中文†zh.wikipedia.org】
+L88: 【52†Edit links†www.wikidata.org】
+L89: 
+L90:   * 【53†Article】
+L91:   * 【54†Talk】
+L92: 
+L93: [Input] English
+L94: 
+L95:   * 【53†Read】
+L96:   * 【55†Edit】
+L97:   * 【56†View history】
+L98:   * 【17†Save】
+L99: 
+L100: [Input] Tools
+L101: 
+L102: Tools
+L103: 
+L104: [Button: move to sidebar] [Button: hide]
+L105: 
+L106: Actions
+L107: 
+L108:   * 【53†Read】
+L109:   * 【55†Edit】
+L110:   * 【56†View history】
+L111:   * 【17†Save】
+L112: 
+L113: General
+L114: 
+L115:   * 【57†What links here】
+L116:   * 【58†Related changes】
+L117:   * 【59†Upload file】
+L118:   * 【60†Permanent link】
+L119:   * 【61†Page information】
+L120:   * 【62†Cite this page】
+L121:   * 【63†Get shortened URL】
+L122:   * 【64†Switch to legacy parser】
+L123: Print/export
+L124: 
+L125:   * 【65†Download as PDF】
+L126:   * Printable version
+L127: 
+L128: In other projects
+L129: 
+L130:   * 【66†Wikimedia Commons†commons.wikimedia.org】
+L131:   * 【67†Wikidata item†www.wikidata.org】
+L132: 
+L133: Appearance
+L134: 
+L135: [Button: move to sidebar] [Button: hide]
+L136: 
+L137: Not to be confused with 【68†Dutch East Indies】.
+L138: 
+L139: A View of Chinsura the Dutch Settlement in Bengal (1787).
+L140: Dutch India (【69†Dutch】: Nederlands Voor-Indië) consisted of the settlements and trading posts of the 【70†Dutch East India Company】 on the 【71†Indian subcontinent】. It is only used as a geographical definition, as there was never a political authority ruling all Dutch India. Instead, Dutch India was divided into the governorates 【72†Dutch Ceylon】 and 【73†Dutch Coromandel】, the commandment 【74†Dutch Malabar】, and the directorates 【75†Dutch Bengal】 and 【76†Dutch Suratte】.
+L141: The Dutch Indies, on the other hand, were the 【68†Dutch East Indies】 (present-day 【77†Indonesia】) and the 【78†Dutch West Indies】 (present-day 【79†Suriname】 and the former 【80†Netherlands Antilles】).
+L142: ## History
+L143: 
+L144: [【81†edit】]
+L145: Dutch presence on the 【71†Indian subcontinent】 lasted from 1605 to 1825.
+L146: Merchants of the 【70†Dutch East India Company】 first established themselves in 【73†Dutch Coromandel】, notably 【82†Pulicat】, as they were looking for textiles to exchange with the spices they traded in the East Indies.^{【83†[1]】} 【76†Dutch Suratte】 and 【75†Dutch Bengal】 were established in 1616 and 1627 respectively.^{【84†[2]】}^{【85†[3]】} After the Dutch conquered 【86†Ceylon】 from the Portuguese in 1656, they took the Portuguese forts on the Malabar coast five years later as well, as both were major spice producers, to create a Dutch monopoly for the spice trade.^{【87†[4]】}^{【88†[5]】}
+L147: Apart from textiles, the items traded in Dutch India include 【89†precious stones】, 【90†indigo】, and 【91†silk】 across the Indian Peninsula, 【92†saltpeter】 and 【93†opium】 in Dutch Bengal, and 【94†pepper】 in Dutch Malabar. Indian slaves were exported to the 【95†Spice Islands】 and the 【96†Cape Colony】.
+L148: In the second half of the eighteenth century, the Dutch lost their influence more and more following the 【97†Travancore–Dutch War】. The 【98†Kew Letters】 relinquished all Dutch colonies to the British, to prevent them from being overrun by the French. Although Dutch Coromandel and Dutch Bengal were restored to Dutch rule by the 【99†Anglo-Dutch Treaty of 1814】, they returned to British rule owing to the provisions of the 【100†Anglo-Dutch Treaty of 1824】.
+L149: Under the terms of the treaty, all transfers of property and establishments were to take place on 1 March 1825. By the middle of 1825, therefore, the Dutch had lost their last trading posts in India.
+L150: ## Coinage
+L151: 
+L152: [【101†edit】]
+L153: 
+L154: Gold 【102†pagoda】 with an image of Lord 【103†Venkateswara】, a form of the Hindu god 【104†Vishnu】, issued at the Dutch mint at 【82†Pulicat】, c. 17th or 18th century.
+L155: 
+L156: Dutch mints in 【105†Cochin】, 【106†Masulipatnam】, 【107†Nagapatnam】, 【108†Pondicherry】 (for the five years 1693–98 when the Dutch had gained control from the French), and 【82†Pulicat】 issued coins modeled on local Indian coinages.^{【109†[6]】} Coins struck included:
+L157:   * the puttan (single and double)^{【109†[6]】}^{【110†[7]】}
+L158:   * the fanam^{【111†[8]】}
+L159: 
+L160: The Dutch also imported coins struck in the Netherlands, including:
+L161: 
+L162:   * the real, modeled on the 【112†Spanish colonial real】, in denominations of 1⁄4, 1⁄2, 1, 2, 4, and 8 reels^{【113†[9]】}
+L163: ## Map
+L164: 
+L165: [【114†edit】]
+L166: 
+L167:   【72†Dutch Ceylon】   【73†Dutch Coromandel】   【74†Dutch Malabar】   【76†Dutch Suratte】   【75†Dutch Bengal】
+L168: ## Gallery
+L169: 
+L170: [【115†edit】]
+L171: 
+L172:   * Dutch trading ships in Negapatnam, Dutch Coromandel, circa 1680.
+L173: 
+L174:   * Factory in 【116†Hugli-Chuchura】, Dutch Bengal. Hendrik van Schuylenburgh, 1665.
+L175: 
+L176:   * The capture of Cochin from the Portuguese by 【117†Rijckloff van Goens】 in 1663. Atlas van der Hagen, 1682.
+L177: 
+L178:   * The remains of an old ruined Dutch Kuthi in 【118†Baranagar】, India
+L179: 
+L180:   * The remainants of the old Dutch Factory at 【119†Vengurla】, 【120†Maharashtra】
+L181: ## See also
+L182: 
+L183: [【121†edit】]
+L184: 
+L185:   * 【122†British India】
+L186:   * 【123†Danish India】
+L187:   * 【124†French India】
+L188:   * 【125†India–Netherlands relations】
+L189:   * 【126†Bangladesh–Netherlands relations】
+L190:   * 【127†Portuguese India】
+L191:   * 【128†Colonial India】
+L192: ## References
+L193: 
+L194: [【129†edit】]
+L195:   1. 【130†↑】 【131†"De VOCsite : handelsposten; Coromandel"†web.archive.org】. De VOCsite. Jaap van Overbeek te Wageningen. Archived from 【132†the original†vocsite.nl】 on 2 July 2019. Retrieved 10 October 2020.
+L196:   2. 【133†↑】 【134†"De VOCsite : handelsposten; Suratte"†web.archive.org】. De VOCsite. Jaap van Overbeek te Wageningen. Archived from 【135†the original†vocsite.nl】 on 2 July 2019. Retrieved 10 October 2020.
+L197:   3. 【136†↑】 【137†"De VOCsite : handelsposten; Bengalen"†web.archive.org】. De VOCsite. Jaap van Overbeek te Wageningen. Archived from 【138†the original†vocsite.nl】 on 6 May 2019. Retrieved 10 October 2020.
+L198:   4. 【139†↑】 【140†"De VOCsite : handelsposten; Ceylon"†web.archive.org】. De VOCsite. Jaap van Overbeek te Wageningen. Archived from 【141†the original†vocsite.nl】 on 2 July 2019. Retrieved 10 October 2020.
+L199:   5. 【142†↑】 【143†"De VOCsite : handelsposten; Malabar"†vocsite.nl】. De VOCsite. Jaap van Overbeek te Wageningen. Retrieved 10 October 2020.
+L200:   6. 【144†1】 【145†2】 【146†UGC NET History Paper II Chapter Wise Notebook Complete Preparation Guide†books.google.com】. EduGorilla. September 2022. Retrieved 5 June 2023.
+L201:   7. 【147†↑】 【148†Report on the Working of the Archæological Researches in Mysore with the Government Review Thereon†books.google.com】. University of Chicago. 1917. p. 89. Retrieved 5 June 2023.
+L202:   8. 【149†↑】 Codrington, Humphrey William (1975). 【150†Ceylon Coins and Currency†books.google.com】. Asian Educational Services. p. 258. 【151†ISBN】 【152†9788120609136】. Retrieved 5 June 2023.
+L203:   9. 【153†↑】 Bucknill, John A. S. (2000). 【154†The Coins of the Dutch East Indies: An Introduction to the Study of the Series†books.google.com】. Asian Educational Services. 【151†ISBN】 【155†9788120614482】. Retrieved 5 June 2023.
+L204: ## External links
+L205: 
+L206: [【156†edit】]
+L207: 
+L208:   * 【157†Coins of Dutch India†coinindia.com】
+L209:   * 【158†India World Statesmen – India†www.worldstatesmen.org】
+L210:   * 【159†India, shores without end†web.archive.org】
+L211: 
+L212: 【160†Image】
+L213: 
+L214: Retrieved from "【60†https://en.wikipedia.org/w/index.php?title=Dutch_India&oldid=1382480698】"
+L215: 
+L216: 【161†Categories】:
+L217:   * 【162†Dutch India】
+L218:   * 【163†European colonisation in Asia】
+L219:   * 【164†Former colonies in Asia】
+L220:   * 【165†Former settlements and colonies of the Dutch East India Company】
+L221:   * 【166†Former trading posts of the Dutch East India Company】
+L222:   * 【167†1605 establishments in India】
+L223:   * 【168†1605 establishments in the Dutch Empire】
+L224:   * 【169†1825 disestablishments】
+L225:   * 【170†19th-century disestablishments in the Dutch Empire】
+L226:   * 【171†Former Dutch colonies】
+L227: 
+L228: Hidden categories:
+L229:   * 【172†Articles with short description】
+L230:   * 【173†Short description is different from Wikidata】
+L231:   * 【174†Use dmy dates from June 2016】
+L232:   * 【175†Use Indian English from June 2016】
+L233:   * 【176†All Wikipedia articles written in Indian English】
+L234:   * 【177†Articles containing Dutch-language text】
+L235:   * This page was last edited on 28 October 2026, at 22:36 (UTC).
+L236:   * Page was rendered with 【178†Parsoid†www.mediawiki.org】.
+L237:   * Text is available under the 【179†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【180†Terms of Use†foundation.wikimedia.org】 and 【181†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【182†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L238:   * 【181†Privacy policy†foundation.wikimedia.org】
+L239:   * 【5†About Wikipedia】
+L240:   * 【183†Disclaimers】
+L241:   * 【6†Contact Wikipedia】
+L242:   * 【184†Legal & safety contacts†foundation.wikimedia.org】
+L243:   * 【185†Code of Conduct†foundation.wikimedia.org】
+L244:   * 【186†Developers†developer.wikimedia.org】
+L245:   * 【187†Statistics†stats.wikimedia.org】
+L246:   * 【188†Cookie statement†foundation.wikimedia.org】
+L247:   * Search
+L248: 
+L249: [Input: Search Wikipedia]
+L250: 
+L251: [Input]
+L252: 
+L253: [Button: Search]
+L254: 
+L255: [Input] Toggle the table of contents
+L256: 
+L257: Dutch India
+L258: 27 languages 【17†Add topic】

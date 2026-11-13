@@ -1,0 +1,1179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "rai",
+        "sources": [
+          "harvard-gupta"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67,
+              24.5
+            ],
+            [
+              68.6,
+              24
+            ],
+            [
+              70.1,
+              25.5
+            ],
+            [
+              69.9,
+              27.7
+            ],
+            [
+              68.6,
+              28.5
+            ],
+            [
+              67.4,
+              27.3
+            ],
+            [
+              67,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "brahman",
+        "sources": [
+          "harvard-early"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67,
+              24.5
+            ],
+            [
+              68.6,
+              24
+            ],
+            [
+              70.1,
+              25.5
+            ],
+            [
+              69.9,
+              27.7
+            ],
+            [
+              68.6,
+              28.5
+            ],
+            [
+              67.4,
+              27.3
+            ],
+            [
+              67,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "arghun",
+        "sources": [
+          "met-rulers"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67,
+              24.5
+            ],
+            [
+              68.6,
+              24
+            ],
+            [
+              70.1,
+              25.5
+            ],
+            [
+              69.9,
+              27.7
+            ],
+            [
+              68.6,
+              28.5
+            ],
+            [
+              67.4,
+              27.3
+            ],
+            [
+              67,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "soomra",
+        "sources": [
+          "wiki-soomra"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67,
+              24.5
+            ],
+            [
+              68.6,
+              24
+            ],
+            [
+              70.1,
+              25.5
+            ],
+            [
+              69.9,
+              27.7
+            ],
+            [
+              68.6,
+              28.5
+            ],
+            [
+              67.4,
+              27.3
+            ],
+            [
+              67,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "kalhora",
+        "sources": [
+          "wiki-kalhora"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67,
+              24.5
+            ],
+            [
+              68.6,
+              24
+            ],
+            [
+              70.1,
+              25.5
+            ],
+            [
+              69.9,
+              27.7
+            ],
+            [
+              68.6,
+              28.5
+            ],
+            [
+              67.4,
+              27.3
+            ],
+            [
+              67,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "ikshvaku",
+        "sources": [
+          "harvard-kushan"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79,
+              15.3
+            ],
+            [
+              80.9,
+              15.5
+            ],
+            [
+              81.6,
+              16.5
+            ],
+            [
+              80.4,
+              17.4
+            ],
+            [
+              79.1,
+              16.9
+            ],
+            [
+              79,
+              15.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "eastern-chalukya",
+        "sources": [
+          "harvard-regional"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3,
+              16
+            ],
+            [
+              81.4,
+              15.9
+            ],
+            [
+              83.4,
+              18
+            ],
+            [
+              82.5,
+              18.8
+            ],
+            [
+              81.1,
+              17.6
+            ],
+            [
+              80.3,
+              16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "hindu-shahi",
+        "sources": [
+          "wiki-hindu-shahi"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71,
+              33.5
+            ],
+            [
+              72.6,
+              33.3
+            ],
+            [
+              73.6,
+              34.4
+            ],
+            [
+              72.8,
+              35.2
+            ],
+            [
+              71,
+              35
+            ],
+            [
+              71,
+              33.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "kalachuri",
+        "sources": [
+          "wiki-kalachuri"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.3,
+              22.8
+            ],
+            [
+              80.4,
+              22.7
+            ],
+            [
+              81,
+              23.5
+            ],
+            [
+              80,
+              24.1
+            ],
+            [
+              79.2,
+              23.6
+            ],
+            [
+              79.3,
+              22.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "gajapati",
+        "sources": [
+          "wiki-gajapati"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84,
+              19.5
+            ],
+            [
+              85.4,
+              19.3
+            ],
+            [
+              86.7,
+              20.5
+            ],
+            [
+              86.5,
+              21.7
+            ],
+            [
+              85,
+              21.9
+            ],
+            [
+              84,
+              20.8
+            ],
+            [
+              84,
+              19.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "bhauma",
+        "sources": [
+          "wiki-bhauma"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84,
+              19.5
+            ],
+            [
+              85.4,
+              19.3
+            ],
+            [
+              86.7,
+              20.5
+            ],
+            [
+              86.5,
+              21.7
+            ],
+            [
+              85,
+              21.9
+            ],
+            [
+              84,
+              20.8
+            ],
+            [
+              84,
+              19.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "somavamshi",
+        "sources": [
+          "wiki-somavamshi"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84,
+              19.5
+            ],
+            [
+              85.4,
+              19.3
+            ],
+            [
+              86.7,
+              20.5
+            ],
+            [
+              86.5,
+              21.7
+            ],
+            [
+              85,
+              21.9
+            ],
+            [
+              84,
+              20.8
+            ],
+            [
+              84,
+              19.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "ahom",
+        "sources": [
+          "wiki-ahom"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.1,
+              26.2
+            ],
+            [
+              94.4,
+              26.1
+            ],
+            [
+              95.7,
+              27.2
+            ],
+            [
+              95.7,
+              28
+            ],
+            [
+              94.5,
+              27.8
+            ],
+            [
+              93.1,
+              27
+            ],
+            [
+              93.1,
+              26.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "koch",
+        "sources": [
+          "wiki-koch"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.7,
+              26
+            ],
+            [
+              90,
+              25.8
+            ],
+            [
+              91.6,
+              26.2
+            ],
+            [
+              91.1,
+              27
+            ],
+            [
+              89.3,
+              27.2
+            ],
+            [
+              88.7,
+              26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "karrani",
+        "sources": [
+          "wiki-karrani"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.1,
+              22.8
+            ],
+            [
+              90,
+              22.2
+            ],
+            [
+              91.2,
+              23.8
+            ],
+            [
+              90.9,
+              25.7
+            ],
+            [
+              89.1,
+              26.1
+            ],
+            [
+              88.1,
+              24.9
+            ],
+            [
+              88.1,
+              22.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "gujarat",
+        "sources": [
+          "wiki-gujarat"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70,
+              21
+            ],
+            [
+              72.6,
+              21
+            ],
+            [
+              73.5,
+              22.9
+            ],
+            [
+              73.5,
+              24.3
+            ],
+            [
+              71.4,
+              24.5
+            ],
+            [
+              70,
+              23
+            ],
+            [
+              70,
+              21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "malwa-ghuri",
+        "sources": [
+          "wiki-malwa-ghuri"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.5,
+              22
+            ],
+            [
+              77.4,
+              22
+            ],
+            [
+              78,
+              24
+            ],
+            [
+              76.5,
+              25
+            ],
+            [
+              74.5,
+              24
+            ],
+            [
+              74.5,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "malwa-khalji",
+        "sources": [
+          "wiki-malwa-khalji"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.5,
+              22
+            ],
+            [
+              77.4,
+              22
+            ],
+            [
+              78,
+              24
+            ],
+            [
+              76.5,
+              25
+            ],
+            [
+              74.5,
+              24
+            ],
+            [
+              74.5,
+              22
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "chera-perumal",
+        "sources": [
+          "wiki-chera-perumal"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.1,
+              12
+            ],
+            [
+              75.9,
+              12.1
+            ],
+            [
+              77.2,
+              9.4
+            ],
+            [
+              76.8,
+              8.8
+            ],
+            [
+              76,
+              10.5
+            ],
+            [
+              75.1,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "zamorin",
+        "sources": [
+          "wiki-zamorin"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.2,
+              11.2
+            ],
+            [
+              75.9,
+              11
+            ],
+            [
+              76.4,
+              11.5
+            ],
+            [
+              75.9,
+              12
+            ],
+            [
+              75.4,
+              11.9
+            ],
+            [
+              75.2,
+              11.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "kolathunadu",
+        "sources": [
+          "wiki-kolathunadu"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9,
+              11.8
+            ],
+            [
+              75.5,
+              11.6
+            ],
+            [
+              75.9,
+              12.4
+            ],
+            [
+              75.2,
+              12.7
+            ],
+            [
+              74.9,
+              11.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "venad",
+        "sources": [
+          "wiki-venad"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.6,
+              8.3
+            ],
+            [
+              77.5,
+              8.2
+            ],
+            [
+              77.4,
+              9.2
+            ],
+            [
+              76.8,
+              9.6
+            ],
+            [
+              76.4,
+              9
+            ],
+            [
+              76.6,
+              8.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "licchavi-nepal",
+        "sources": [
+          "wiki-licchavi-nepal"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1,
+              27.4
+            ],
+            [
+              85.5,
+              27.4
+            ],
+            [
+              85.7,
+              27.8
+            ],
+            [
+              85.3,
+              28
+            ],
+            [
+              85,
+              27.8
+            ],
+            [
+              85.1,
+              27.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "malla-nepal",
+        "sources": [
+          "wiki-malla-nepal"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1,
+              27.4
+            ],
+            [
+              85.5,
+              27.4
+            ],
+            [
+              85.7,
+              27.8
+            ],
+            [
+              85.3,
+              28
+            ],
+            [
+              85,
+              27.8
+            ],
+            [
+              85.1,
+              27.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "bahawalpur",
+        "sources": [
+          "wiki-bahawalpur"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.3,
+              27.8
+            ],
+            [
+              71.4,
+              28.1
+            ],
+            [
+              72.9,
+              29.3
+            ],
+            [
+              72,
+              30.1
+            ],
+            [
+              70.6,
+              29.5
+            ],
+            [
+              70.3,
+              27.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "garha",
+        "sources": [
+          "wiki-garha"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around documented centres. This is a schematic core area, not an attested historical boundary or maximum extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.3,
+              22.2
+            ],
+            [
+              80.8,
+              22.1
+            ],
+            [
+              81.5,
+              23.2
+            ],
+            [
+              80.4,
+              24
+            ],
+            [
+              79.2,
+              23.4
+            ],
+            [
+              79.3,
+              22.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dynasty": "nagpur",
+        "sources": [
+          "wiki-nagpur"
+        ],
+        "certainty": "schematic-core",
+        "note": "Editor-drawn locator around Nagpur. A schematic core, not the state\u2019s maximum territorial extent."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2,
+              20.8
+            ],
+            [
+              79.5,
+              20.8
+            ],
+            [
+              80.4,
+              22
+            ],
+            [
+              79.5,
+              22.8
+            ],
+            [
+              78.2,
+              22.1
+            ],
+            [
+              78.2,
+              20.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

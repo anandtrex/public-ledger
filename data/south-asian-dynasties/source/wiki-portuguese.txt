@@ -1,0 +1,364 @@
+Portuguese India - Wikipedia (https://en.wikipedia.org/wiki/Portuguese_India)
+citeturn131view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Portuguese_India","lineno":null}); Total lines: 845
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Context】 Toggle Context subsection
+L49:     * 【19†1.1 Vasco da Gama lands in India】
+L50:     * 【20†1.2 Pedro Álvares Cabral】
+L51:     * 【21†1.3 João da Nova】
+L52:     * 【22†1.4 Vasco da Gama】
+L53:     * 【23†1.5 Afonso de Albuquerque】
+L54:     * 【24†1.6 Lopo Soares de Albergaria】
+L55:   * 【25†2 Foundation (1505–1515)】 Toggle Foundation (1505–1515) subsection
+L56:     * 【26†2.1 Francisco de Almeida】
+L57:     * 【27†2.2 Afonso de Albuquerque】
+L58:   * 【28†3 16th to 17th century】
+L59:   * 【29†4 17th to 20th century】 Toggle 17th to 20th century subsection
+L60:     * 【30†4.1 17th century】
+L61:     * 【31†4.2 18th century】
+L62:     * 【32†4.3 19th century】
+L63:     * 【33†4.4 Second World War】
+L64:     * 【34†4.5 1945 to 1961】
+L65:   * 【35†5 Post-annexation】 Toggle Post-annexation subsection
+L66:     * 【36†5.1 Status of the new territories】
+L67:     * 【37†5.2 Citizenship】
+L68:     * 【38†5.3 Indo-Portuguese relations】
+L69:   * 【39†6 Administration】
+L70:   * 【40†7 Trade and economy】
+L71:   * 【41†8 Society and culture】
+L72:   * 【42†9 Postal history】
+L73:   * 【43†10 Gallery】 Toggle Gallery subsection
+L74:     * 【44†10.1 Currency】
+L75:     * 【45†10.2 Architecture】
+L76:   * 【46†11 See also】
+L77:   * 【47†12 References】
+L78:   * 【48†13 Further reading】
+L79:   * 【49†14 External links】
+L80: [Input] Toggle the table of contents
+L81: # Portuguese India
+L82: 
+L83: [Input] 48 languages
+L84:   * 【50†العربية†ar.wikipedia.org】
+L85:   * 【51†Asturianu†ast.wikipedia.org】
+L86:   * 【52†Azərbaycanca†az.wikipedia.org】
+L87:   * 【53†Беларуская†be.wikipedia.org】
+L88:   * 【54†Български†bg.wikipedia.org】
+L89:   * 【55†বাংলা†bn.wikipedia.org】
+L90:   * 【56†Català†ca.wikipedia.org】
+L91:   * 【57†Čeština†cs.wikipedia.org】
+L92:   * 【58†Dansk†da.wikipedia.org】
+L93:   * 【59†Deutsch†de.wikipedia.org】
+L94:   * 【60†Esperanto†eo.wikipedia.org】
+L95:   * 【61†Español†es.wikipedia.org】
+L96:   * 【62†Euskara†eu.wikipedia.org】
+L97:   * 【63†فارسی†fa.wikipedia.org】
+L98:   * 【64†Suomi†fi.wikipedia.org】
+L99:   * 【65†Français†fr.wikipedia.org】
+L100:   * 【66†Galego†gl.wikipedia.org】
+L101:   * 【67†गोंयची कोंकणी / Gõychi Konknni†gom.wikipedia.org】
+L102:   * 【68†עברית†he.wikipedia.org】
+L103:   * 【69†हिन्दी†hi.wikipedia.org】
+L104:   * 【70†Bahasa Indonesia†id.wikipedia.org】
+L105:   * 【71†Italiano†it.wikipedia.org】
+L106:   * 【72†日本語†ja.wikipedia.org】
+L107:   * 【73†한국어†ko.wikipedia.org】
+L108:   * 【74†Latviešu†lv.wikipedia.org】
+L109:   * 【75†മലയാളം†ml.wikipedia.org】
+L110:   * 【76†मराठी†mr.wikipedia.org】
+L111:   * 【77†Nederlands†nl.wikipedia.org】
+L112:   * 【78†Norsk bokmål†no.wikipedia.org】
+L113:   * 【79†Polski†pl.wikipedia.org】
+L114:   * 【80†پنجابی†pnb.wikipedia.org】
+L115:   * 【81†پښتو†ps.wikipedia.org】
+L116:   * 【82†Português†pt.wikipedia.org】
+L117:   * 【83†Русский†ru.wikipedia.org】
+L118:   * 【84†සිංහල†si.wikipedia.org】
+L119:   * 【85†Slovenčina†sk.wikipedia.org】
+L120:   * 【86†Shqip†sq.wikipedia.org】
+L121:   * 【87†Српски / srpski†sr.wikipedia.org】
+L122:   * 【88†Svenska†sv.wikipedia.org】
+L123:   * 【89†தமிழ்†ta.wikipedia.org】
+L124:   * 【90†తెలుగు†te.wikipedia.org】
+L125:   * 【91†ไทย†th.wikipedia.org】
+L126:   * 【92†Türkçe†tr.wikipedia.org】
+L127:   * 【93†Українська†uk.wikipedia.org】
+L128:   * 【94†اردو†ur.wikipedia.org】
+L129:   * 【95†Tiếng Việt†vi.wikipedia.org】
+L130:   * 【96†粵語†zh-yue.wikipedia.org】
+L131:   * 【97†中文†zh.wikipedia.org】
+L132: 【98†Edit links†www.wikidata.org】
+L133: 
+L134:   * 【99†Article】
+L135:   * 【100†Talk】
+L136: 
+L137: [Input] English
+L138: 
+L139:   * 【99†Read】
+L140:   * 【101†Edit】
+L141:   * 【102†View history】
+L142:   * 【17†Save】
+L143: 
+L144: [Input] Tools
+L145: 
+L146: Tools
+L147: 
+L148: [Button: move to sidebar] [Button: hide]
+L149: 
+L150: Actions
+L151: 
+L152:   * 【99†Read】
+L153:   * 【101†Edit】
+L154:   * 【102†View history】
+L155:   * 【17†Save】
+L156: 
+L157: General
+L158:   * 【103†What links here】
+L159:   * 【104†Related changes】
+L160:   * 【105†Upload file】
+L161:   * 【106†Permanent link】
+L162:   * 【107†Page information】
+L163:   * 【108†Cite this page】
+L164:   * 【109†Get shortened URL】
+L165:   * 【110†Switch to legacy parser】
+L166: 
+L167: Print/export
+L168: 
+L169:   * 【111†Download as PDF】
+L170:   * Printable version
+L171: 
+L172: In other projects
+L173: 
+L174:   * 【112†Wikimedia Commons†commons.wikimedia.org】
+L175:   * 【113†Wikiquote†en.wikiquote.org】
+L176:   * 【114†Wikidata item†www.wikidata.org】
+L177: 
+L178: Appearance
+L179: 
+L180: [Button: move to sidebar] [Button: hide]
+L181: 【115†Coordinates】: 【116†2°11′20″N 102°23′4″E﻿ / ﻿2.18889°N 102.38444°E﻿ / 2.18889; 102.38444†geohack.toolforge.org】
+L182: 
+L183: State of India Estado da Índia (【117†Portuguese】)
+L184: ---
+L185: 1505–1961
+L186: 【118†Flag(1911–1961)】
+L187: 【119†Coat of arms(1935–1961)】
+L188: Anthem: 【120†Hymno Patriótico】 (1808–1826)
+L189: "Patriotic Anthem"
+L190: 【121†Hino da Carta】 (1826–1911)
+L191: "Hymn of the Charter"
+L192: 【122†A Portuguesa】 (1911–1961)
+L193: "The Portuguese"
+L194: Status  | State of Portugal (1505–1951)
+L195: 【123†Overseas province】 of Portugal (1951–1961)
+L196: Capital  |
+L197:   * 【124†Cochin】 (1505–1530)
+L198:   * 【125†Velha Goa】 (1530–1843)
+L199:   * 【126†Nova Goa】 (1843–1961)
+L200: Official language  | 【117†Portuguese】
+L201: Common languages  |
+L202:   * 【127†Bengali】
+L203:   * 【128†European Portuguese】
+L204:   * 【129†Gujarati】
+L205:   * 【130†Indo-Portuguese】
+L206:   * 【131†Kannada】
+L207:   * 【132†Konkani】
+L208:   * 【133†Malayalam】
+L209:   * 【134†Marathi】
+L210:   * 【135†Tamil】
+L211: Religion  | Official:
+L212: 【136†Roman Catholicism】
+L213: Major:
+L214: 【137†Hinduism】
+L215: 【138†Islam】
+L216: Minor:
+L217: 【139†Zoroastrianism】^{【140†[1]】}^{【141†[2]】}
+L218: 【142†Judaism】^{【143†[3]】}
+L219: 【144†Protestantism】
+L220: 【145†Head of state】  |
+L221: • 1505–1521  | 【146†Manuel I of Portugal】
+L222: • 1958–1961  | 【147†Américo Tomás】
+L223: 【148†Governor】  |
+L224: • 1505–1509  | 【149†Francisco de Almeida】 (first)
+L225: • 1958–1961  | 【150†Manuel António Vassalo e Silva】 (last)
+L226: Historical era  | 【151†Imperialism】
+L227: • Establishment  | 15 August 1505
+L228: • 【152†Indian annexation】  | 19 December 1961
+L229: Area
+L230: ---
+L231: • Total  | 4,305 km^{2} (1,662 sq mi)
+L232: Currency  |
+L233:   * 【153†Portuguese Indian rupia】 (INPR)
+L234:   * 【154†Portuguese Indian escudo】 (INPES)
+L235: Preceded by Succeeded by
+L236: 【155†Image†upload.wikimedia.org】 【156†Kingdom of Cochin】
+L237: 【155†Image†upload.wikimedia.org】 【157†Bijapur Sultanate】
+L238: 【155†Image†upload.wikimedia.org】 【158†Gujarat Sultanate】
+L239: 【155†Image†upload.wikimedia.org】 【159†Ahmednagar Sultanate】
+L240: 【155†Image†upload.wikimedia.org】 【160†Malacca Sultanate】
+L241: 【155†Image†upload.wikimedia.org】 【161†Hormuz】
+L242: 【155†Image†upload.wikimedia.org】 【162†Sundem】
+L243: 【155†Image†upload.wikimedia.org】 【163†Maratha Empire】
+L244: 【155†Image†upload.wikimedia.org】 【164†Thanjavur Nayak kingdom】
+L245: 【165†Goa, Daman and Diu】 【155†Image†upload.wikimedia.org】
+L246: 【166†Free Dadra and Nagar Haveli】 【155†Image†upload.wikimedia.org】
+L247: 【167†Dutch Coromandel】 【155†Image†upload.wikimedia.org】
+L248: 【168†Dutch Malabar】 【155†Image†upload.wikimedia.org】
+L249: 【169†British India】 【155†Image†upload.wikimedia.org】
+L250: Today part of  |
+L251:   * 【170†India】
+L252:   * 【171†Bangladesh】
+L253:   * 【172†Maldives】
+L254: The State of India,^{【173†[4]】} also known as the Portuguese State of India^{【174†[5]】} or Portuguese India,^{【175†[6]】} was a 【176†state of the Portuguese Empire】 founded seven years after 【177†the discovery of the sea route】 to the 【178†Indian subcontinent】 by 【179†Vasco da Gama】, a 【180†subject】 of the 【181†Kingdom of Portugal】.
+L255: The capital of Portuguese India served as the governing centre of a string of 【182†military forts】 and 【183†maritime ports】 scattered along the coasts of the 【184†Indian Ocean】.
+L256: 【149†Francisco de Almeida】, the first viceroy, established his base of operations at 【185†Fort Manuel】 in the 【186†Malabar region】, after the 【156†Kingdom of Cochin】 negotiated to become a 【187†protectorate】 of Portugal in 1505. With the 【188†Portuguese conquest of Goa】 from the 【157†Bijapur Sultanate】 in 1510, 【189†Goa】 became the major 【190†anchorage】 for the 【191†Armadas】 arriving in India.
+L257: The capital of the viceroyalty was transferred from Cochin to Goa in 1530.^{【192†[7]】}^{【193†[8]】} From 1535, 【194†Mumbai (Bombay)】 was a 【195†harbour】 of Portuguese India, known as 【196†Bom Bahia】, until it was ceded to 【197†Charles II of England】 in 1661 as part of the 【198†dowry】 of 【199†Catherine de Braganza】. The expression "State of India" began regularly appearing in documents in the mid-16th century.^{【200†[9]】}
+L258: Until the 18th century, the viceroy in Goa had authority over all Portuguese possessions in and around the Indian Ocean, from 【201†Southern Africa】 to 【202†Southeast Asia】.
+L259: In 1752, 【203†Mozambique】 was granted its own separate government; from 1844 on, Portuguese Goa stopped administering 【204†Macao】, 【205†Solor】 and 【206†Timor】; and became an actual province of Portugal.^{【207†[10]】} Despite this, the viceroy at Goa only controlled limited portions of the 【208†Portuguese settlements in the east】; some settlements remained informal private affairs, without a captain or câmara (municipal council).
+L260: By the end of the 18th century, most of these unofficial colonies were abandoned by Portugal, due to heavy competition from European and Indian rivals.^{【209†[11]】}
+L261: In later years, Portugal's authority was confined to holdings in the 【210†Canara】, 【211†Cambay】 and 【212†Konkan】 regions along the 【213†west coast of India】. At the time of the dissolution of the 【214†British Raj】 in 1947, Portuguese India comprised three 【215†administrative divisions】, sometimes referred to collectively as Goa: 【189†Goa】 (which included 【216†Anjediva Island】), 【217†Damaon】 (which included the 【218†exclaves】 of 【219†Dadra and Nagar Haveli】) and 【220†Dio district】.
+L262: The 【221†Salazar regime】 of Portugal 【222†lost de facto control of Dadra and Nagar Haveli】 in 1954. Finally, the rest of the overseas territory was lost in December 1961 with the Indian 【223†Annexation of Goa】 under 【224†Jawaharlal Nehru】. Portugal only recognised Indian control after the 【225†Carnation Revolution】 and the fall of the 【221†Estado Novo regime】, in a treaty signed on 31 December 1974.^{【226†[12]】}^{【227†[13]】}
+L263: ## Context
+L264: 
+L265: [【228†edit】]
+L266: 
+L267: Main articles: 【229†Portuguese discoveries】 and 【191†Portuguese Armadas】
+L268: ### Vasco da Gama lands in India
+L269: 
+L270: [【230†edit】]
+L271: The first Portuguese encounter with the subcontinent was on 20 May 1498, when 【179†Vasco da Gama】 reached 【231†Calicut】, now Kozhikode, on the 【232†Malabar Coast】. Anchored off the coast of Calicut, the Portuguese invited native fishermen on board and bought some Indian items.
+L272: One Portuguese convict accompanied the fishermen to the port and met with a Tunisian Muslim, who greeted him in 【233†Castilian Spanish】, saying, "May the Devil take you! What brought you here?"^{【234†[14]】} On the advice of this man, Gama sent a small group of his men to 【235†Ponnani】 to meet with the ruler of Calicut, the 【236†Zamorin】.
+L273: Over the objections of Arab merchants, Gama managed to secure a 【237†letter of concession】 for trading rights from the Zamorin, but the Portuguese were unable to pay the prescribed customs duties and price of his goods in gold.^{【238†[15]】}
+L274: Later, Calicut officials temporarily detained Gama's Portuguese agents as security for payment. This angered Gama, who captured several natives and sixteen fishermen, whom he took with him by force.^{【239†[16]】}
+L275: 
+L276: Da Gama left for Portugal in August 1498, landing in January 1499. Whilst the valuable items he brought back with him were few, they ignited a "fever of excitement and activity" at the opportunities for wealth that they represented.^{【240†[17]】}
+L277: ### Pedro Álvares Cabral
+L278: 
+L279: [【241†edit】]
+L280: 
+L281: Main article: 【242†2nd Portuguese India Armada (Cabral, 1500)】
+L282: 【243†Pedro Álvares Cabral】 sailed to India to trade for 【244†black pepper】 and other spices and arrived at 【231†Calicut】 on 13 September 1500, where he established a 【245†factory】.
+L283: When Cabral seized a ship belonging to a resident of the city as part of a dispute with the Zamorin, the factory was attacked by the city's residents, resulting in the deaths of more than fifty Portuguese.^{【246†[18]】} Cabral was outraged by the attack on the factory and seized ten Arab merchant vessels anchored in the harbor, killing about six hundred of their crew, confiscating their cargo, and burning the ships.
+L284: Cabral also ordered his ships to bombard Calicut for an entire day in retaliation for the violation of the agreement.
+L285: Despite Cabral's use of mass violence, he succeeded in making advantageous treaties with local rulers in 【247†Cochin】 and 【248†Cannanore】. Cabral embarked upon his return voyage on 16 January 1501 and arrived in Portugal on 23 June 1501 with only 4 of the 13 ships with which he had begun the journey.
+L286: ### João da Nova
+L287: 
+L288: [【249†edit】]
+L289: 
+L290: Main article: 【250†3rd Portuguese India Armada (Nova, 1501)】
+L291: The third Portuguese expedition to reach India sailed under the command of 【251†João da Nova】 and was composed of four ships, tasked mainly with acquiring spices and returning to Europe. While en route, the fleet discovered the islands of 【252†Ascension】 and 【253†Saint Helena】 in the South Atlantic.
+L292: Despite the voyage having been planned as a purely commercial expedition, the fleet clashed with vessels belonging to the Zamorin off the shore of Calicut in the 【254†First Battle of Cannanore】, the first significant naval battle of Portuguese India.
+L293: In 1502, Portuguese traders, not known to be associated with da Nova, built a trading post in 【255†Pulicat】, its location at the mouth of a lagoon making it an advantageous natural harbour.^{【256†[19]】}
+L294: ### Vasco da Gama
+L295: 
+L296: [【257†edit】]
+L297: 
+L298: Main article: 【258†4th Portuguese India Armada (Gama, 1502)】
+L299: Vasco da Gama sailed to India for the 【258†second time】 with 15 ships and 800 men, arriving at Calicut on 30 October 1502. On this occasion, Gama made a call to expel all Muslims from 【231†Calicut】, which was rejected.
+L300: The ruler showed willingness to sign a treaty, but Gama bombarded the city and captured several rice vessels after he was informed that the Zamorin was messaging neighbouring rulers to join him in resisting the Portuguese.^{【259†[20]】} While in India, Gama also attacked and plundered 【260†Honnavar】, threatened 【261†Bhatkal】 into agreeing to become a 【262†tributary state】, established a trade treaty and trading post at 【248†Cananore】, and clashed with a fleet belonging to the Zamorin at the 【263†Battle of Calicut of 1503】.
+L301: He returned to Portugal in September 1503.^{【264†[21]】}
+L302: ### Afonso de Albuquerque
+L303: 
+L304: [【265†edit】]
+L305: 
+L306: Main article: 【266†5th Portuguese India Armada (Albuquerque, 1503)】
+L307: 
+L308: The expedition of 1503 was the first time its commander 【267†Afonso de Albuquerque】 sailed to India. Its activities were limited to erecting a fort on the territory of the allied kingdom of Cochin, signing a peace with the Zamorin which would be broken within the year, and opening a new trading post at 【268†Kollam】.^{【240†[17]】}
+L309: ### Lopo Soares de Albergaria
+L310: 
+L311: [【269†edit】]
+L312: 
+L313: Main article: 【270†6th Portuguese India Armada (Albergaria, 1504)】
+L314: The sixth Portuguese expedition to India was commanded by 【271†Lopo Soares de Albergaria】, who bombarded Calicut, relieved 【272†Duarte Pacheco Pereira】 and the Portuguese garrison at Cochin defending the territory from a large attack by the Zamorin at the 【273†Battle of Cochin】, sacked 【274†Cranganore】, struck an allegiance with the 【275†king of Tanur】 which removed him from the suzerainty of the Zamorin, and finally captured a large Egyptian trade fleet at the 【276†Battle of Pandarane】.
+L315: ## Foundation (1505–1515)
+L316: 
+L317: [【277†edit】]
+L318: ### Francisco de Almeida
+L319: 
+L320: [【278†edit】]
+L321: 
+L322: Main article: 【279†7th Portuguese India Armada (Almeida, 1505)】
+L323: 
+L324: On 25 March 1505, 【149†Francisco de Almeida】 was appointed Viceroy of India by 【146†Manuel I of Portugal】, on the condition that he would set up four forts on the southwestern Indian coast: 【280†Anjediva】, 【281†Cannanore】, 【124†Cochin】 and 【282†Quilon】.^{【283†[22]】} Almeida left Portugal with a fleet of 22 vessels carrying 1,500 men that same day.^{【283†[22]】}
+L325: The Portuguese fortress of Cannanore in the allied 【284†Kingdom of Cannanore】.
+L326: 
+L327: On 13 September, Almeida reached Anjadip Island, where he started the construction of 【285†Fort Anjediva】.^{【283†[22]】} On 23 October, with the permission of the friendly ruler of 【286†Kolattunādu】, he started building 【287†Fort St Angelo of Cannanore】, leaving Lourenço de Brito in charge with 150 men and two ships.^{【283†[22]】}
+L328: 
+L329: Portuguese Fortress of Cochin, in the allied 【156†Kingdom of Cochin】
+L330: On 31 October 1505, Almeida reached 【124†Cochin】 with only eight vessels left in the fleet.^{【283†[22]】} There, he learned that the Portuguese traders at Quilon had been killed. He decided to dispatch his son 【288†Lourenço de Almeida】 to exact vengeance. With six ships, Lourenço destroyed 27 【289†Calicut】 vessels in Quilon's harbour.^{【283†[22]】} Almeida took up residence in Cochin and strengthened 【185†Fort Manuel】.
+L331: The Zamorin prepared a fleet of 200 ships to oppose the Portuguese, but in March 1506, 【288†Lourenço de Almeida】 was victorious in the 【290†Battle of Cannanore (1506)】, forcing the Zamorin to retreat, though leaving most of his fleet intact.^{【240†[17]】} Lourenço de Almeida went on to explore the coastal waters southwards to 【291†Colombo】, in what is now 【292†Sri Lanka】, where he established a treaty with 【293†King Parakramabahu VIII】.
+L332: In Cannanore, a new ruler, hostile to the Portuguese and friendly with the Zamorin, attacked the Portuguese garrison, leading to the 【294†Siege of Cannanore】.
+L333: In 1507 Almeida's forces were strengthened by the arrival of 【295†Tristão da Cunha】's squadron. 【267†Afonso de Albuquerque】's squadron had split from Cunha's off East Africa and was independently conquering territories in the 【296†Persian Gulf】 to the west.
+L334: In March 1508, a Portuguese squadron under the command of Lourenço de Almeida was attacked by a combined 【297†Mameluk Egyptian】 and 【158†Gujarat Sultanate】 fleet at 【298†Chaul】 and 【299†Dabul】 respectively, led by admirals 【300†Mirocem】 and 【301†Meliqueaz】 in the 【302†Battle of Chaul】. Whilst Lourenço de Almeida died in the battle, Mamluk-Indian resistance was decisively defeated at the 【303†Battle of Diu】 in 1509.
+L335: ### Afonso de Albuquerque
+L336: 
+L337: [【304†edit】]
+L338: 
+L339: Afonso de Albuquerque, second Portuguese governor of India
+L340: In 1509, 【267†Afonso de Albuquerque】 was appointed the second 【305†governor】 of Portuguese possessions in the East. After acquiring their first 【187†protectorate】 in 【306†Portuguese Cochin】, a new fleet under 【307†Marshal】 Fernão Coutinho arrived with specific instructions to destroy the power of the 【236†Zamorin of Calicut】. The Zamorin's palace was captured and destroyed, and the city was set on fire.
+L341: The Zamorin's forces rallied, killing Coutinho and wounding Albuquerque, prompting Albuquerque to withdraw with his forces. Alberquerque then conspired with the Zamorin's brother to have him assassinated in 1513, whereupon he entered into agreement with the usurping successor to protect Portuguese interests in Malabar, and to allow the construction of a fort in Calicut.^{【308†[23]】}
+L342: In 1510, Albuquerque 【188†captured Goa】 from the 【157†Bijapur Sultanate】 sultan with the aid of the Hindu privateer 【309†Timoja】, leading to the establishment of a permanent settlement in the city of Velha Goa (【310†Old Goa】 in English). Old Goa became the seat of the 【311†viceroy】, who governed all the Portuguese possessions in Asia.
+L343: Albuquerque added to the State of India the cities of 【312†Malacca】 in 1511 and 【161†Ormus】 in 1515.
+L344: To enforce his power over the growing empire's population, the great majority of which was not Portuguese, Albuquerque resorted to medieval Iberian procedures: people of different religions were allowed to live by their own laws under representatives of their respective communities.^{【313†[24]】} An exception was made for the practice of 【314†sati】, which was abolished, along with certain taxes due to the 【315†Sultan of Bijapur】.^{【316†[25]】} Albuquerque encouraged the settlement of his soldiers and their marriage to native women, offering financial incentives for those who did; within two months, there were 200 such casados ("married men") in Goa, and by the mid-16th century, there were about 2000.^{【317†[26]】}
+L345: Albuquerque's policies led to the granting of property rights to Goan women,^{【318†[27]】} and the institution of an orphan's fund and a hospital, the Hospital Real de Goa, modelled after the grand 【319†Hospital Real de Todos os Santos】 in Lisbon.^{【320†[28]】} Smaller hospitals were also built, run by the city's charity, the 【321†Misericórdia】, dedicated to serving the poor and locals.^{【322†[29]】}
+L346: Albuquerque's policies, particularly his disruption of Muslim dominance over trade in the Indian Ocean, won him the loyalty of the Hindu population of the city.
+L347: When Albuquerque died in sight of Goa in 1515, the Hindu community of Goa mourned his passing alongside the Portuguese.^{【323†[30]】}^{【324†[31]】} His tomb at the Nossa Senhora da Serra hermitage was converted to a shrine by the local populace, who would leave flowers there in his dedication and direct prayers to him, seeking aid in matters of justice, until his remains were returned to Portugal in 1566.^{【325†[32]】}
+L348: ## 16th to 17th century
+L349: 
+L350: [【326†edit】]
+L351: 
+L352: See also: 【327†Ottoman–Portuguese conflicts (1538–1559)】, 【328†Ottoman–Portuguese conflicts (1586–1589)】, 【329†History of Goa】, 【330†Gujarati–Portuguese conflicts】, and 【331†Adil Shahi–Portuguese conflicts】
+L353: 
+L354: Portuguese Goa in 1600
+L355: In 1520, the Portuguese extended their dominion over the town of 【332†Rachol】 when 【333†Krishnadevaraya】 captured 【334†Rachol Fort】 and delivered it to the Portuguese in exchange for a mutual 【335†defence pact】 against the 【336†Deccan Sultanates】.
+L356: In 1526, 【337†John III of Portugal】 granted the city of Goa and its town hall the same legal status as 【338†Lisbon】, in a 【339†foral】 in which the general laws and privileges of the city, its town hall, and the local Hindu community were detailed. This document is of special historical significance, since at the time the native laws of Goa were passed down by oral tradition; the foral is the first time they enter the written historical record.^{【340†[33]】}
+L357: By 1530 there were Portuguese settlements in and around the 【341†Coromandel region】. The 【342†Luz Church】 in the 【343†Mylapore】 neighbourhood of 【344†Madras (Chennai)】, built in 1516, was the first in the area built by the Portuguese. The shrine of São Tomé or 【345†San Thome】, built upon the purported site of his martyrdom, was found by the Portuguese in a state of neglect in 1517; they rebuilt it in 1522.^{【346†[34]】}
+L358: 
+L359: Portuguese territory of 【347†Bassein】 fortress in Gujarat
+L360: Several colonies were also acquired from the 【348†Sultan of Guzerat】 in the north 【349†Konkan region】: 【350†Daman】 was sacked in 1531 and ceded in 1539; 【351†Salsette】, the 【352†seven islands of Bombay】, 【298†Chaul】 and 【353†Bassein (Vasai)】 in 1534; and 【354†Diu】, in 1535. These would jointly come to be known as the 【355†Northern Province】 of Portuguese India. The province extended almost 100 km (62 mi) along the west coast from Daman to Chaul and in some places 30–50 km (19–31 mi) inland.
+L361: The territory of 【356†Portuguese Bombay】 had its 【357†city centre】 in and around the 【358†Bassein Fort】; its administrative capital, and the sea of the viceroy, was 【125†Velha Goa】 in south Konkan country. From here, the viceroy exercised imperial power over Goa and Portugal's other colonies in the 【178†Indian subcontinent】, such as 【359†Portuguese Ceylon】 and 【360†Portuguese Chittagong】.^{【361†[35]】}

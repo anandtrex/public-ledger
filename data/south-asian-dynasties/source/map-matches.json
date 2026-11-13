@@ -1,0 +1,572 @@
+{
+  "nanda": {
+    "names": [
+      "Nanda Empire"
+    ],
+    "note": ""
+  },
+  "maurya": {
+    "names": [
+      "Maurya Empire"
+    ],
+    "note": ""
+  },
+  "shunga": {
+    "names": [
+      "Shunga Empire"
+    ],
+    "note": ""
+  },
+  "kanva": {
+    "names": [
+      "Kanva Dynasty"
+    ],
+    "note": ""
+  },
+  "kushan": {
+    "names": [
+      "Kushan Empire"
+    ],
+    "note": ""
+  },
+  "ghaznavid": {
+    "names": [
+      "Ghaznavid Empire"
+    ],
+    "note": ""
+  },
+  "ghurid": {
+    "names": [
+      "Ghurid Dynasty"
+    ],
+    "note": ""
+  },
+  "sikh": {
+    "names": [
+      "Sikh Empire"
+    ],
+    "note": ""
+  },
+  "gupta": {
+    "names": [
+      "Gupta Empire"
+    ],
+    "note": ""
+  },
+  "vardhana": {
+    "names": [
+      "Harsha's Empire"
+    ],
+    "note": "Boundary data describe Harsha’s empire, not the earlier Pushyabhuti rulers."
+  },
+  "pratihara": {
+    "names": [
+      "Gurjara-Pratihara Dynasty"
+    ],
+    "note": ""
+  },
+  "chandela": {
+    "names": [
+      "Chandela Kingdom"
+    ],
+    "note": ""
+  },
+  "mamluk": {
+    "names": [
+      "Mamluk Dynasty"
+    ],
+    "note": ""
+  },
+  "khalji": {
+    "names": [
+      "Khalji Dynasty"
+    ],
+    "note": ""
+  },
+  "tughluq": {
+    "names": [
+      "Tughlaq Dynasty"
+    ],
+    "note": ""
+  },
+  "sayyid": {
+    "names": [
+      "Sayyid Dynasty"
+    ],
+    "note": ""
+  },
+  "lodi": {
+    "names": [
+      "Lodi Dynasty"
+    ],
+    "note": ""
+  },
+  "sur": {
+    "names": [
+      "Sur Empire"
+    ],
+    "note": ""
+  },
+  "mughal": {
+    "names": [
+      "Mughal Empire"
+    ],
+    "note": ""
+  },
+  "sharqi": {
+    "names": [
+      "Jaunpur Sultanate"
+    ],
+    "note": ""
+  },
+  "awadh": {
+    "names": [
+      "Nawab of Awadh"
+    ],
+    "note": ""
+  },
+  "pala": {
+    "names": [
+      "Pala Empire"
+    ],
+    "note": ""
+  },
+  "husain": {
+    "names": [
+      "Hussain Shahi Dynasty"
+    ],
+    "note": ""
+  },
+  "vakataka": {
+    "names": [
+      "Vakataka Kingdom"
+    ],
+    "note": ""
+  },
+  "kadamba": {
+    "names": [
+      "Kadamba Empire"
+    ],
+    "note": ""
+  },
+  "satavahana": {
+    "names": [
+      "Satavahana Dynasty"
+    ],
+    "note": ""
+  },
+  "badami": {
+    "names": [
+      "Chalukya Dynasty"
+    ],
+    "note": ""
+  },
+  "rashtrakuta": {
+    "names": [
+      "Rashtrakuta Dynasty"
+    ],
+    "note": ""
+  },
+  "hoysala": {
+    "names": [
+      "Hoysala Kingdom"
+    ],
+    "note": ""
+  },
+  "bahmani": {
+    "names": [
+      "Bahmani Sultanate"
+    ],
+    "note": ""
+  },
+  "adil": {
+    "names": [
+      "Bijapur Sultanate"
+    ],
+    "note": ""
+  },
+  "nizam": {
+    "names": [
+      "Ahmadnagar Sultanate"
+    ],
+    "note": ""
+  },
+  "qutb": {
+    "names": [
+      "Golconda Sultanate"
+    ],
+    "note": ""
+  },
+  "asaf": {
+    "names": [
+      "Hyderabad State"
+    ],
+    "note": ""
+  },
+  "pallava": {
+    "names": [
+      "Late Pallava Empire"
+    ],
+    "note": ""
+  },
+  "pandya": {
+    "names": [
+      "Pandya Dynasty"
+    ],
+    "note": ""
+  },
+  "chola": {
+    "names": [
+      "Chola Empire"
+    ],
+    "note": ""
+  },
+  "sena": {
+    "names": [
+      "Sena Dynasty"
+    ],
+    "note": ""
+  },
+  "solanki": {
+    "names": [
+      "Chaulukya Dynasty"
+    ],
+    "note": ""
+  },
+  "kalyani": {
+    "names": [
+      "Western Chalukya Empire"
+    ],
+    "note": ""
+  },
+  "sangama": {
+    "names": [
+      "Vijayanagara Empire"
+    ],
+    "note": "Vijayanagara polity boundaries are assigned to the Sangama phase by the timeline dates."
+  },
+  "tuluva": {
+    "names": [
+      "Vijayanagara Empire"
+    ],
+    "note": "Vijayanagara polity boundaries are assigned by timeline dates. They do not distinguish late Tuluva and Aravidu claimants."
+  },
+  "aravidu": {
+    "names": [
+      "Vijayanagara Empire"
+    ],
+    "note": "Only the brief overlap with the source’s Vijayanagara polity is available. Shared geometry does not distinguish claimant territories."
+  },
+  "shah-mir": {
+    "names": [
+      "Kashmiri Sultanate"
+    ],
+    "note": "Kashmir sultanate boundaries are assigned to this house using the timeline dates."
+  },
+  "chak": {
+    "names": [
+      "Kashmiri Sultanate"
+    ],
+    "note": "Kashmir sultanate boundaries are assigned to this house using the timeline dates."
+  },
+  "company": {
+    "names": [
+      "British Empire"
+    ],
+    "note": "Source British Empire polygons during the company-rule phase. Dependencies may be included."
+  },
+  "british-raj": {
+    "names": [
+      "British Empire",
+      "British Raj"
+    ],
+    "note": "Uses British Empire for the 1858 transition and British Raj thereafter. Direct administration and paramountcy are not separately encoded."
+  },
+  "shishunaga": {
+    "names": [
+      "Magadha - Shaishunaga dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "indo-greek": {
+    "names": [
+      "Indo-Greeks"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "indo-parthian": {
+    "names": [
+      "Indo-Parthians"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "western-satrap": {
+    "names": [
+      "Western Satraps"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "maitraka": {
+    "names": [
+      "Maitraka Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "maukhari": {
+    "names": [
+      "Maukhari Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "karkota": {
+    "names": [
+      "Karkota Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "utpala": {
+    "names": [
+      "Utpala Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "lohara": {
+    "names": [
+      "Lohara Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "turk-shahi": {
+    "names": [
+      "Turk Shahis"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "paramara": {
+    "names": [
+      "Paramara Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "chauhan": {
+    "names": [
+      "Chauhan Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "gahadavala": {
+    "names": [
+      "Gahadavala Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "yadava": {
+    "names": [
+      "Yadava Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "kakatiya": {
+    "names": [
+      "Kakatiya Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "eastern-ganga": {
+    "names": [
+      "Eastern Ganga Kingdom"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "gauda": {
+    "names": [
+      "Gauda Kingdom"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "khadga": {
+    "names": [
+      "Khadga Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "chandra": {
+    "names": [
+      "Chandra Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "varman-kamarupa": {
+    "names": [
+      "Kamarupa Kingdom"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "pala-kamarupa": {
+    "names": [
+      "Kamarupa Kingdom"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "ilyas": {
+    "names": [
+      "Sultanate of Bengal"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "samma": {
+    "names": [
+      "Sind-Samma Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "talpur": {
+    "names": [
+      "Talpur Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "bhonsle": {
+    "names": [
+      "Maratha Empire"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "wodeyar": {
+    "names": [
+      "Kingdom of Mysore"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "hyder-tipu": {
+    "names": [
+      "Kingdom of Mysore"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "nayak-madurai": {
+    "names": [
+      "Nayaks of Madurai"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "nayak-thanjavur": {
+    "names": [
+      "Nayaks of Thanjavur"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "maratha-thanjavur": {
+    "names": [
+      "Thanjavur Maratha Kingdom"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "early-chera": {
+    "names": [
+      "Early Cheras"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "early-chola": {
+    "names": [
+      "Early Cholas"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "early-pandya": {
+    "names": [
+      "Early Pandyas"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "later-pandya": {
+    "names": [
+      "Pandya Empire"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "kalabhra": {
+    "names": [
+      "Kalabhra Dynasty"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "malla-nepal": {
+    "names": [
+      "Nepal"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "shah-nepal": {
+    "names": [
+      "Gorkha Kingdom",
+      "Nepal"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "rana-nepal": {
+    "names": [
+      "Nepal"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "drukpa": {
+    "names": [
+      "Kingdom of Bhutan"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "wangchuck": {
+    "names": [
+      "Kingdom of Bhutan"
+    ],
+    "note": "Generalized polity geometry. The selected family or phase is assigned using the chronology dates; territorial detail is incomplete."
+  },
+  "mlechchha": {
+    "names": [
+      "Kamarupa Kingdom"
+    ],
+    "note": "Broader Kamarupa polity geometry, assigned to the family by its phase dates."
+  },
+  "portuguese": {
+    "names": [
+      "Portuguese Empire",
+      "Portuguese Colonies",
+      "Portuguese Republic",
+      "Estado Novo"
+    ],
+    "note": "Colonial settlement polygons within the geographic mask, across changing metropolitan regimes. Local coverage varies by year."
+  },
+  "french": {
+    "names": [
+      "French India",
+      "French Second Republic",
+      "French Third Republic",
+      "Vichy France",
+      "French Fourth Republic"
+    ],
+    "note": "Colonial settlement polygons within the geographic mask, across changing metropolitan regimes. Local coverage varies by year."
+  },
+  "dutch": {
+    "names": [
+      "Dutch Republic",
+      "Dutch East Indies",
+      "Netherlands",
+      "Batavian Republic"
+    ],
+    "note": "Colonial settlement polygons within the geographic mask, across changing metropolitan regimes. Local coverage varies by year."
+  },
+  "danish": {
+    "names": [
+      "Danish India"
+    ],
+    "note": "Colonial settlement polygons within the geographic mask, across changing metropolitan regimes. Local coverage varies by year."
+  },
+  "bhat": {
+    "names": [
+      "Maratha Empire"
+    ],
+    "note": "Broader Maratha polity footprint, not a separate territorial state for the Peshwa office."
+  }
+}

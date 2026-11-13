@@ -1,0 +1,253 @@
+Paramara dynasty - Wikipedia (https://en.wikipedia.org/wiki/Paramara_dynasty)
+citeturn62view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Paramara_dynasty","lineno":null}); Total lines: 599
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Origin】 Toggle Origin subsection
+L50:     * 【19†1.1 Ancestry】
+L51:     * 【20†1.2 Original homeland】
+L52:   * 【21†2 Early rulers】
+L53:   * 【22†3 Imperial Paramars】
+L54:   * 【23†4 Decline】
+L55:   * 【24†5 List of rulers】
+L56:   * 【25†6 Branches and claimed descendants】
+L57:   * 【26†7 See also】
+L58:   * 【27†8 Notes】
+L59:   * 【28†9 References】 Toggle References subsection
+L60:     * 【29†9.1 Bibliography】
+L61: 
+L62: [Input] Toggle the table of contents
+L63: # Paramara dynasty
+L64: 
+L65: [Input] 21 languages
+L66:   * 【30†العربية†ar.wikipedia.org】
+L67:   * 【31†भोजपुरी†bh.wikipedia.org】
+L68:   * 【32†বাংলা†bn.wikipedia.org】
+L69:   * 【33†Català†ca.wikipedia.org】
+L70:   * 【34†Deutsch†de.wikipedia.org】
+L71:   * 【35†Español†es.wikipedia.org】
+L72:   * 【36†فارسی†fa.wikipedia.org】
+L73:   * 【37†Suomi†fi.wikipedia.org】
+L74:   * 【38†Français†fr.wikipedia.org】
+L75:   * 【39†हिन्दी†hi.wikipedia.org】
+L76:   * 【40†日本語†ja.wikipedia.org】
+L77:   * 【41†한국어†ko.wikipedia.org】
+L78:   * 【42†नेपाली†ne.wikipedia.org】
+L79:   * 【43†Nederlands†nl.wikipedia.org】
+L80:   * 【44†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L81:   * 【45†پنجابی†pnb.wikipedia.org】
+L82:   * 【46†தமிழ்†ta.wikipedia.org】
+L83:   * 【47†తెలుగు†te.wikipedia.org】
+L84:   * 【48†Українська†uk.wikipedia.org】
+L85:   * 【49†اردو†ur.wikipedia.org】
+L86:   * 【50†中文†zh.wikipedia.org】
+L87: 【51†Edit links†www.wikidata.org】
+L88: 
+L89:   * 【52†Article】
+L90:   * 【53†Talk】
+L91: 
+L92: [Input] English
+L93: 
+L94:   * 【52†Read】
+L95:   * 【54†View source】
+L96:   * 【55†View history】
+L97:   * 【17†Save】
+L98: 
+L99: [Input] Tools
+L100: 
+L101: Tools
+L102: 
+L103: [Button: move to sidebar] [Button: hide]
+L104: 
+L105: Actions
+L106: 
+L107:   * 【52†Read】
+L108:   * 【54†View source】
+L109:   * 【55†View history】
+L110:   * 【17†Save】
+L111: 
+L112: General
+L113:   * 【56†What links here】
+L114:   * 【57†Related changes】
+L115:   * 【58†Upload file】
+L116:   * 【59†Permanent link】
+L117:   * 【60†Page information】
+L118:   * 【61†Cite this page】
+L119:   * 【62†Get shortened URL】
+L120:   * 【63†Switch to legacy parser】
+L121: 
+L122: Print/export
+L123: 
+L124:   * 【64†Download as PDF】
+L125:   * Printable version
+L126: 
+L127: In other projects
+L128: 
+L129:   * 【65†Wikimedia Commons†commons.wikimedia.org】
+L130:   * 【66†Wikidata item†www.wikidata.org】
+L131: 
+L132: Appearance
+L133: 
+L134: [Button: move to sidebar] [Button: hide]
+L135: Paramars of Malwa
+L136: ---
+L137: 948–1305
+L138: Greatest extent of Paramaras under Emperor 【67†Bhoja】 c. (circa) 1055 CE.^{【68†[2]】}
+L139: Capital  |
+L140:   * 【69†Dhar】
+L141:   * 【70†Mandu】
+L142: Common languages  | 【71†Sanskrit】
+L143: Religion  | 【72†Shaivism】^{【73†[3]】}
+L144: 【74†Jainism】
+L145: Government  | Monarchy
+L146: 【75†Maharajadhiraj】  |
+L147: • 948–972  | 【76†Siyaka】 (first)
+L148: • 1301–1305  | 【77†Mahalakadeva】 (last)
+L149: 【78†Pradhan】  |
+L150: • 948–?  | Vishnu (first)
+L151: • 1275–1305  | Goga Deva (last)
+L152: Historical era  | 【79†Classical India】
+L153: • Established  | 948
+L154: • Disestablished  | 24 November 1305
+L155: Preceded by Succeeded by
+L156: 【80†Image†upload.wikimedia.org】 【81†Rashtrakuta dynasty】
+L157: 【80†Image†upload.wikimedia.org】 【82†Gurjara-Pratihara dynasty】
+L158: 【80†Image†upload.wikimedia.org】 【83†Kalachuris of Tripuri】
+L159: 【84†Ghurid dynasty】 【80†Image†upload.wikimedia.org】
+L160: 【85†Delhi Sultanate】 【80†Image†upload.wikimedia.org】
+L161: Today part of  | 【86†India】
+L162: The Paramara dynasty (【87†IAST】: Paramāra) was an Indian dynasty that ruled 【88†Malwa】 and surrounding areas in west-central India between 948 and 1305. They belonged to the 【89†Paramara】 clan of the 【90†Rajputs】.^{【91†[4]】}
+L163: The dynasty was established in either the 9th or 10th century, and its early rulers most probably ruled as vassals of the 【92†Rashtrakutas of Manyakheta】. The earliest extant Paramara inscriptions, issued by the 10th-century ruler 【76†Siyaka】, have been found in 【93†Gujarat】. Around 972, Siyaka sacked the Rashtrakuta capital 【94†Manyakheta】, and established the Paramaras as a sovereign power.
+L164: By the time of his successor 【95†Munja】, the Malwa region in present-day 【96†Madhya Pradesh】 had become the core Paramara territory, with 【69†Dhara】 (now Dhar) as their capital. At its zenith under 【67†Bhoja】, it ruled over an empire which extended from 【97†Chittor】 in the north to 【98†Konkan】 in the south, and from the 【99†Sabarmati River】 in the west to 【100†Vidisha】 in the east.
+L165: The Paramara power rose and declined several times as a result of their struggles with the 【101†Chaulukyas】 of Gujarat, the 【102†Chalukyas of Kalyani】, the 【83†Kalachuris of Tripuri】, 【103†Chandelas of Jejakabhukti】 and other neighbouring kingdoms. The later Paramara rulers moved their capital to 【70†Mandapa-Durga】 (now Mandu) after Dhara was sacked multiple times by their enemies.
+L166: 【77†Mahalakadeva】, the last known Paramara king, was 【104†defeated and killed】 by the forces of 【105†Alauddin Khalji】 of 【85†Delhi】 in 1305, although epigraphic evidence suggests that the Paramara rule continued for a few years after his death.
+L167: Malwa enjoyed a great level of political and cultural prestige under the Paramaras. The Paramaras were well known for their patronage to 【71†Sanskrit】 poets and scholars, and Bhoja was himself a renowned scholar. Most of the Paramara kings were 【106†Shaivites】 and commissioned several Shiva temples, although they also patronized 【107†Jain】 scholars.
+L168: ## Origin
+L169: ### Ancestry
+L170: 
+L171: 【108†Harsola copper plates】
+L172: The 【108†Harsola copper plates】 issued by the Paramara king 【109†Siyaka II】 in 949 mentions a king called Akalavarsha, followed by the expression tasmin kule ("in that family"), and then followed by the name "Vappairaja" (identified with the Paramara king Vakpati I).^{【110†[5]】} Based on the identification of "Akalavarsha" (which was a 【111†Rashtrakuta】 title) with the Rashtrakuta king 【112†Krishna III】, historian as D.C.
+L173: Ganguly theorized that the Paramaras were descended from the 【113†Rashtrakutas】.^{【114†[6]】} Ganguly tried to find support for his theory in 【115†Ain-i-Akbari】, whose variation of the Agnikula myth (see below) states that a predecessor of the Paramaras came to Malwa from 【116†Deccan】.^{【117†[7]】} According to Ain-i-Akbari, Dhanji - a man born from a fire sacrifice - came from Deccan to establish a kingdom in Malwa; when his descendant Putraj died heirless, the nobles established Aditya Ponwar - the ancestor of the Paramaras - as the new king.^{【118†[8]】} Ganguly also noted Siyaka's successor 【95†Munja】 (Vakpati II) assumed titles such as 【119†Amoghavarsha】, Sri-vallabha and 【120†Prithvi-vallabha】: these are distinctively Rashtrakuta titles.^{【121†[9]】}
+L174: However, there is a gap before the words tasmin kule ("in that family") in the Harsola inscription, and therefore, Ganguly's suggestion is a pure guess in absence of any concrete evidence.^{【122†[10]】} Moreover, even if the Ain-i-Akbari legend is historically accurate, Aditya Ponwar was not a descendant of Dhanji: he was most probably a local magnate rather than a native of Deccan.^{【123†[11]】}^{【124†[12]】} Critics of Ganguly's theory also argue that the Rashtrakuta titles in these inscriptions refer to Paramara rulers, who had assumed these titles to portray themselves as the legitimate successors of the Rashtrakutas in the Malwa region.^{【125†[13]】} The Rashtrakutas had similarly adopted the titles such as Prithvi-vallabha, which had been used by the preceding 【126†Chalukya】 rulers.^{【125†[13]】} Historian 【127†Dasharatha Sharma】 points out that the Paramaras claimed the mythical 【128†Agnikula】 origin by the 10th century; if they had truly been descendants of the Rashtrakutas, they would not have forgotten their prestigious royal origin within a generation.^{【121†[9]】}
+L175: 【129†Chamunda】, Paramaras, 12th century, 【96†Madhya Pradesh】.
+L176: The later Paramara kings claimed to be members of the 【130†Agnikula】 or Agnivansha ("fire clan"). The Agnikula myth of origin, which appears in several of their inscriptions and literary works, goes like this: The sage 【131†Vishvamitra】 forcibly took a 【132†wish-granting cow】 from another sage 【133†Vashistha】 on the Arbuda mountain (【134†Mount Abu】). Vashistha then conjured a hero from a sacrificial fire pit (agni-kunda), who defeated Vishvamitra's enemies and brought back the cow.
+L177: Vashistha then gave the hero the title Paramara ("enemy killer").^{【135†[14]】} The earliest known source to mention this story is the 【136†Nava-sahasanka-charita】 of Padmagupta Parimala, who was a court-poet of the Paramara king 【137†Sindhuraja】 (c. (circa) 997–1010).^{【138†[15]】} The legend is not mentioned in earlier Paramara-era inscriptions or literary works.
+L178: By this time, all the neighbouring dynasties claimed divine or heroic origin, which might have motivated the Paramaras to invent a legend of their own.^{【139†[16]】}^{【125†[13]】}
+L179: A legend mentioned in a recension of 【140†Prithviraj Raso】 extended their Agnikula legend to describe other dynasties as fire-born Rajputs. The earliest extant copies of Prithviraj Raso do not contain this legend; this version might have been invented by the 16th-century poets who wanted to foster Rajput unity against the 【141†Mughal】 emperor 【142†Akbar】.^{【143†[17]】} Some 【144†colonial-era】 historians interpreted this mythical account to suggest a foreign origin for the Paramaras.
+L180: According to this theory, the ancestors of the Paramaras and other Agnivanshi Rajputs came to India after the decline of the 【145†Gupta Empire】 around the 5th century CE. They were admitted in the 【146†Hindu caste system】 after performing a fire ritual.^{【147†[18]】} However, this theory is weakened by the fact that the legend is not mentioned in the earliest of the Paramara records, and even the earliest Paramara-era account does not mention the other dynasties as Agnivanshi.^{【148†[19]】}
+L181: Some historians, such as Dasharatha Sharma and 【149†Pratipal Bhatia】, have argued that the Paramaras were originally 【150†Brahmins】 from the Vashistha 【151†gotra】.^{【117†[7]】} This theory is based on the fact that 【152†Halayudha】, who was patronized by Munja, describes the king as "Brahma-Kshtra" in Pingala-Sutra-Vritti.
+L182: According to Bhatia this expression means that Munja came from a family of 【150†Brahmins】 who became 【153†Kshatriyas】.^{【154†[20]】} In addition, the Patanarayana temple inscription states that the Paramaras were of Vashistha 【151†gotra】, which is a gotra among Brahmins claiming descent from the sage Vashistha.^{【155†[21]】} However, historian Arvind K. Singh points out that several other sources point to a 【153†Kshatriya】 ancestry of the dynasty.
+L183: For example, the 1211 Piplianagar inscription states that the ancestors of the Paramaras were "crest-jewel of the Kshatriyas", and the Prabha-vakara-charita mentions that Vakpati was born in the dynasty of a Kshatriya. According to Singh, the expression "Brahma-Kshatriya" refers to a learned Kshatriya.^{【125†[13]】}
+L184: 【156†D. C. Sircar】 theorized that the dynasty descended from the 【157†Malavas】. However, there is no evidence of the early Paramara rulers being called Malava; the Paramaras began to be called Malavas only after they began ruling the Malwa region.^{【117†[7]】}
+L185: 
+L186:   * A 【101†Chaulukya】-Paramara coin, c. (circa) 950-1050 CE. Stylized rendition of 【158†Chavda dynasty】 coins: 【159†Indo-Sassanian】 style bust right; pellets and ornaments around / Stylised fire altar; pellets around.^{【160†[22]】}
+L187:   * Coin of the Paramara king 【161†Naravarman】, c. (circa) 1094–1133. Goddess 【162†Lakshmi】 seated facing / Devanagari legend.^{【163†[23]】}
+L188: 
+L189:   * Coin of the Paramara prince 【164†Jagadeva】, 12th-13th centuries CE.
+L190: ### Original homeland
+L191: 
+L192: 【165†Image: Harsol†thumb.wikimedia.org】
+L193: 
+L194: 【166†Harsol】
+L195: 
+L196: 【165†Image: Kheda†thumb.wikimedia.org】
+L197: 
+L198: 【167†Kheda】
+L199: 
+L200: Places in 【93†Gujarat】 where the earliest Paramara inscriptions (of 【109†Siyaka II】) have been discovered
+L201: Based on the Agnikula legend, some scholars such as 【168†C. V. Vaidya】 and 【169†V. A. Smith】 speculated that Mount Abu was the original home of the Paramaras. Based on the Harsola copper plates and Ain-i-Akbari, D. C. Ganguly believed they came from the Deccan region.^{【170†[24]】}
+L202: The earliest of the Paramara inscriptions (that of Siyaka II) have all been discovered in Gujarat, and concern land grants in that region. Based on this, D. B. Diskalkar and H. V. Trivedi theorized that the Paramaras were associated with Gujarat during their early days.^{【171†[25]】} Another possibility is that the early Paramara rulers temporarily left their capital city of Dhara in Malwa for Gujarat because of a Gurjara-Pratihara invasion.
+L203: This theory is based on the combined analysis of two sources: the Nava-sahasanka-charita, which states that the Paramara king Vairisimha cleared the Dhara city in Malwa of enemies; and the 945-946 CE Pratapgah inscription of the Gurjara-Prathiara king Mahendrapala, which states that he recaptured Malwa.^{【172†[26]】}
+L204: ## Early rulers
+L205: Whether or not the Paramaras were descended from the Rashtrakutas, they were most probably subordinates of the Rashtrakutas in the 9th century.^{【125†[13]】} Historical evidence suggests that between 808 and 812 CE, the Rashtrakutas expelled the 【173†Gurjara-Pratiharas】 from the 【88†Malwa】 region.
+L206: The Rashtrakuta king 【174†Govinda III】 placed Malwa under the protection of Karka-raja, the Rashtrakuta chief of 【175†Lata】 (a region bordering Malwa, in present-day Gujarat).^{【176†[27]】} The 871 Sanjan copper-plate inscription of Govinda's son 【177†Amoghavarsha I】 states that Govinda had appointed a vassal as the governor of Malwa. Since the Paramaras became the rulers of the Malwa region around this time, epigraphist H. V.
+L207: Trivedi theorizes that this vassal was the Paramara king Upendra,^{【125†[13]】} although there is no definitive proof of this. The start of the Paramara rule in Malwa cannot be dated with certainty, but they certainly did not rule the Malwa before the 9th century CE.^{【176†[27]】}
+L208: 【76†Siyaka】 is the earliest known Paramara king attested by his own inscriptions. His 【108†Harsola copper plate inscription】 (949 CE) is the earliest available Paramara inscription: it suggests that he was a vassal of the Rashtrakutas.^{【110†[5]】} The list of his predecessors varies between accounts:^{【178†[28]】}^{【110†[5]】}
+L209: List of early Paramara rulers according to different sources
+L210: Harsola copper plates (949 CE)  | Nava-Sahasanka-Charita (early 11th century)  | Udaipur Prashasti inscription (11th century)  | Nagpur Prashasti inscription (1104 CE)  | Other land grants
+L211: --- | --- | --- | --- | ---
+L212:  | Paramara  | Paramara  | Paramara  | Paramara
+L213:  | Upendra  | Upendra  |  | Krishna
+L214:  | "Other kings"  | Vairisimha (I)  |
+L215:  | Siyaka (I)  |
+L216: Vappairaja  | Vakpati (I)  | Vakpati (I)  |
+L217: Vairisimha  | Vairisimha  | Vairisimha (II)  | Vairisimha  | Vairisimha
+L218: 【76†Siyaka】  | Siyaka alias Harsha  | Harsha  | Siyaka  | Siyaka
+L219: Paramara is the dynasty's mythical progenitor, according to the 【130†Agnikula】 legend. Whether the other early kings mentioned in the Udaipur Prashasti are historical or fictional is a topic of debate among historians.^{【179†[29]】}
+L220: According to 【168†C. V. Vaidya】 and 【180†K. A. Nilakantha Sastri】, the Paramara dynasty was founded only in the 10th century CE.
+L221: Vaidya believes that the kings such as Vairisimha I and Siyaka I are imaginary, duplicated from the names of later historical kings in order to push back the dynasty's age.^{【179†[29]】} The 1274 CE Mandhata copper-plate inscription of 【181†Jayavarman II】 similarly names eight successors of Paramara as Kamandaludhara, Dhumraja, Devasimhapala, Kanakasimha, Shriharsha, 【164†Jagaddeva】, Sthirakaya and Voshari: these do not appear to be historical figures.^{【182†[30]】} HV Trivedi states that there is a possibility that Vairisimha I and Siyaka I of the Udaipur Prashasti are same as Vairisimha II and Siyaka II; the names might have been repeated by mistake.
+L222: Alternatively, he theorizes that these names have been omitted in other inscriptions because these rulers were not independent sovereigns.^{【110†[5]】}
+L223: Several other historians believe that the early Paramara rulers mentioned in the Udaipur Prashasti are not fictional, and the Paramaras started ruling Malwa in the 9th century (as Rashtrakuta vassals). K. N. Seth argues that even some of the later Paramara inscriptions mention only 3-4 predecessors of the king who issued the inscription. Therefore, the absence of certain names from the genealogy provided in the early inscriptions does not mean that these were imaginary rulers.
+L224: According to him, the mention of Upendra in Nava-Sahasanka-Charitra (composed by the court poet of the later king Sindhuraja) proves that Upendra is not a fictional king.^{【183†[31]】} Historians such as 【184†Georg Bühler】 and 【185†James Burgess】 identify Upendra and Krishnaraja as one person, because these are synonyms (Upendra being another 【186†name of Krishna】). However, an inscription of Siyaka's successor 【95†Munja】 names the preceding kings as Krishnaraja, Vairisimha, and Siyaka.
+L225: Based on this, Seth however identifies Krishnaraja with Vappairaja or Vakpati I mentioned in the Harsola plates (Vappairaja appears to be the Prakrit form of Vakpati-raja). In his support, Seth points out that Vairisimha has been called Krishna-padanudhyata in the inscription of Munja i.e. Vakpati II. He theorizes that Vakpati II used the name "Krishnaraja" instead of Vakpati I to identify his ancestor, in order to avoid confusion with his own name.^{【183†[31]】}
+L226: ## Imperial Paramars
+L227: 
+L228: The 【187†Bhojeshwar Temple】, Paramara dynasty, 【188†Bhojpur】 Detail of the masonry of the northern dam at Bhojpur
+L229: The first independent sovereign of the Paramara dynasty was 【76†Siyaka】 (sometimes called Siyaka II to distinguish him from the earlier Siyaka mentioned in the Udaipur Prashasti). The Harsola copper plates (949 CE) suggest that Siyaka was a feudatory of the Rashtrakuta ruler 【112†Krishna III】 in his early days. However, the same inscription also mentions the high-sounding 【75†Maharajadhirajapati】 as one of Siyaka's titles. Based on this, K. N.
+L230: Seth believes that Siyaka's acceptance of the Rashtrakuta lordship was nominal.^{【189†[32]】}
+L231: As a Rashtrakuta feudatory, Siyaka participated in their campaigns against the 【82†Pratiharas】. He also defeated some 【190†Huna】 chiefs ruling to the north of Malwa.^{【191†[33]】} He might have suffered setbacks against the 【192†Chandela】 king 【193†Yashovarman】.^{【194†[34]】} After the death of 【112†Krishna III】, Siyaka defeated his successor 【195†Khottiga】 in a battle fought on the banks of the 【196†Narmada River】.
+L232: He then pursued Khottiga's retreating army to the Rashtrakuta capital 【94†Manyakheta】, and sacked that city in 972 CE. His victory ultimately led to the decline of the Rashtrakutas, and the establishment of the Paramaras as an independent sovereign power in Malwa.^{【197†[35]】}
+L233: Siyaka's successor Munja achieved military successes against the 【198†Chahamanas of Shakambari】, the 【199†Chahamanas of Naddula】, the 【200†Guhilas of Mewar】, the 【190†Hunas】, the 【83†Kalachuris of Tripuri】, and the ruler of 【201†Gurjara region】 (possibly a 【202†Gujarat Chaulukya】 or 【82†Pratihara】 ruler).^{【203†[36]】} He also achieved some early successes against the 【204†Western Chalukya】 king 【205†Tailapa II】, but was ultimately defeated and killed by Tailapa some time between 994 CE and 998 CE.^{【206†[37]】}^{【207†[38]】}
+L234: As a result of this defeat, the Paramaras lost their southern territories (possibly the ones beyond the 【196†Narmada River】) to the Chalukyas.^{【208†[39]】} Munja was reputed as a patron of scholars, and his rule attracted scholars from different parts of India to Malwa.^{【209†[40]】} He was also a poet himself, although only a few stanzas composed by him now survive.^{【210†[41]】}
+L235: Munja's brother 【137†Sindhuraja】 (ruled c.
+L236: 990s CE) defeated the Western Chalukya king 【211†Satyashraya】, and recovered the territories lost to Tailapa II.^{【212†[42]】} He also achieved military successes against a 【190†Huna】 chief, the 【213†Somavanshi】 of 【214†south Kosala】, the 【215†Shilaharas】 of 【216†Konkana】, and the ruler of 【175†Lata】 (southern Gujarat).^{【212†[42]】} His court poet Padmagupta wrote his biography Nava-Sahasanka-Charita, which credits him with several other victories, although these appear to be poetic exaggerations.^{【217†[43]】}
+L237: Sindhuraja's son 【67†Bhoja】 is the most celebrated ruler of the Paramara dynasty. He made several attempts to expand the Paramara kingdom varying results.
+L238: Around 1018 CE, he defeated the 【218†Chalukyas of Lata】 in present-day Gujarat.^{【219†[44]】} Between 1018 CE and 1020 CE, he gained control of the northern 【98†Konkan】, whose Shilahara rulers probably served as his feudatories for a brief period.^{【220†[45]】}^{【221†[46]】} Bhoja also formed an alliance against the 【102†Kalyani Chalukya】 king 【222†Jayasimha II】, with 【223†Rajendra Chola】 and 【224†Gangeya-deva】 【83†Kalachuri】.
+L239: The extent of Bhoja's success in this campaign is not certain, as both Chalukya and Paramara 【225†panegyrics】 claimed victory.^{【226†[47]】} During the last years of Bhoja's reign, sometime after 1042 CE, Jayasimha's son and successor 【227†Someshvara I】 invaded Malwa, and sacked his capital 【69†Dhara】.^{【212†[42]】} Bhoja re-established his control over Malwa soon after the departure of the Chalukya army, but the defeat pushed back the southern boundary of his kingdom from 【228†Godavari】 to 【196†Narmada】.^{【229†[48]】}^{【230†[49]】}
+L240: Statues at 【187†Bhojeshwar Temple】, Paramara dynasty, 【188†Bhojpur】.
+L241: Bhoja's attempt to expand his kingdom eastwards was foiled by the 【192†Chandela】 king 【231†Vidyadhara】.^{【232†[50]】} However, Bhoja was able to extend his influence among the Chandela feudatories, the 【233†Kachchhapaghatas】 of Dubkund.^{【234†[51]】} Bhoja also launched a campaign against the Kachchhapaghatas of 【235†Gwalior】, possibly with the ultimate goal of capturing 【236†Kannauj】, but his attacks were repulsed by their ruler Kirtiraja.^{【237†[52]】} Bhoja also defeated the 【238†Chahamanas of Shakambhari】, killing their ruler 【239†Viryarama】.
+L242: However, he was forced to retreat by the 【199†Chahamanas of Naddula】.^{【240†[53]】} According to medieval Muslim historians, after sacking 【241†Somnath】, 【242†Mahmud of Ghazni】 changed his route to avoid confrontation with a Hindu king named Param Dev.
+L243: Modern historians identify Param Dev as Bhoja: the name may be a corruption of Paramara-Deva or of Bhoja's title Parameshvara-Paramabhattaraka.^{【243†[54]】}^{【244†[55]】} Bhoja may have also contributed troops to support the 【245†Kabul Shahi】 ruler 【246†Anandapala】's fight against the 【247†Ghaznavids】.^{【248†[56]】} He may have also been a part of the Hindu alliance that expelled Mahmud's governors from 【249†Hansi】, 【250†Thanesar】 and other areas around 1043 CE.^{【251†[57]】}^{【212†[42]】} During the last year of Bhoja's reign, or shortly after his death, the Chaulukya king 【252†Bhima I】 and the Kalachuri king 【253†Karna】 attacked his kingdom.
+L244: According to the 14th-century author Merutunga, Bhoja died of a disease at the same time the allied army attacked his kingdom.^{【254†[58]】}^{【255†[59]】}
+L245: At its zenith, Bhoja's empire extended from 【97†Chittor】 in the north to upper 【98†Konkan】 in the south, and from the 【99†Sabarmati River】 in the west to 【100†Vidisha】 in the east.^{【256†[60]】} He was recognized as a capable military leader, but his territorial conquests were short-lived. His major claim to fame was his reputation as a scholar-king, who patronized arts, literature and sciences.
+L246: Noted poets and writers of his time sought his sponsorship.^{【257†[61]】} Bhoja was himself a polymath, whose writings cover a wide variety of topics include grammar, poetry, architecture, yoga, and chemistry. Bhoja established the 【258†Bhoj Shala】 which was a centre for 【71†Sanskrit】 studies and a temple of 【259†Sarasvati】 in present-day 【260†Dhar】. He is said to have founded the city of 【188†Bhojpur】, a belief supported by historical evidence.
+L247: Besides the 【187†Bhojeshwar Temple】 there, the construction of three now-breached dams in that area is attributed to him.^{【261†[62]】} Because of his patronage to literary figures, several legends written after his death featured him as a righteous scholar-king.^{【262†[63]】} In terms of the number of legends centered around him, Bhoja is comparable to the fabled 【263†Vikramaditya】.^{【264†[64]】}
+L248: ## Decline
+L249: 
+L250: Pillar in the Bijamaṇḍal, 【100†Vidisha】, with an inscription of King 【161†Naravarman】 (ruled c. 1094 – c. 1130 CE).

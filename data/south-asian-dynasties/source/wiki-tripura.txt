@@ -1,0 +1,416 @@
+Manikya dynasty - Wikipedia (https://en.wikipedia.org/wiki/Manikya_dynasty)
+citeturn74view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Manikya_dynasty","lineno":null}); Total lines: 476
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 List of rulers】
+L51:   * 【20†3 Family tree】
+L52:   * 【21†4 References】
+L53:   * 【22†5 Bibliography】
+L54: 
+L55: [Input] Toggle the table of contents
+L56: # Manikya dynasty
+L57: 
+L58: [Input] 4 languages
+L59: 
+L60:   * 【23†Ελληνικά†el.wikipedia.org】
+L61:   * 【24†മലയാളം†ml.wikipedia.org】
+L62:   * 【25†தமிழ்†ta.wikipedia.org】
+L63:   * 【26†తెలుగు†te.wikipedia.org】
+L64: 
+L65: 【27†Edit links†www.wikidata.org】
+L66: 
+L67:   * 【28†Article】
+L68:   * 【29†Talk】
+L69: 
+L70: [Input] English
+L71: 
+L72:   * 【28†Read】
+L73:   * 【30†Edit】
+L74:   * 【31†View history】
+L75: 
+L76: [Input] Tools
+L77: 
+L78: Tools
+L79: 
+L80: [Button: move to sidebar] [Button: hide]
+L81: 
+L82: Actions
+L83: 
+L84:   * 【28†Read】
+L85:   * 【30†Edit】
+L86:   * 【31†View history】
+L87: 
+L88: General
+L89:   * 【32†What links here】
+L90:   * 【33†Related changes】
+L91:   * 【34†Upload file】
+L92:   * 【35†Permanent link】
+L93:   * 【36†Page information】
+L94:   * 【37†Cite this page】
+L95:   * 【38†Get shortened URL】
+L96:   * 【39†Switch to legacy parser】
+L97: 
+L98: Print/export
+L99: 
+L100:   * 【40†Download as PDF】
+L101:   * Printable version
+L102: 
+L103: In other projects
+L104: 
+L105:   * 【41†Wikidata item†www.wikidata.org】
+L106: 
+L107: Appearance
+L108: 
+L109: [Button: move to sidebar] [Button: hide]
+L110: 
+L111: Manikya
+L112: ---
+L113: Parent house  | 【42†Lunar dynasty】 (legendary)
+L114: Country  |
+L115:   * 【43†Twipra Kingdom】
+L116:   * 【44†Tripura State】
+L117: Founded  | c. (circa) 1400
+L118: Founder  | 【45†Maha Manikya】
+L119: Current head  | 【46†Kirit Pradyot Manikya】 (titular)
+L120: Final ruler  | 【47†Kirit Bikram Kishore Manikya】
+L121: Titles  |
+L122: 
+L123:   * Fa
+L124:   * 【48†Raja】
+L125:   * 【49†Maharaja】
+L126: Deposition  | 1949 (1949)
+L127: Coinage of 【50†Rajadhara Manikya】 (1586–1599 CE), king of Tripura.
+L128: The Manikya dynasty was the ruling house of the 【43†Twipra Kingdom】 and later the princely 【44†Tripura State】, what is now the 【51†Indian】 state of 【52†Tripura】. Ruling since the early 15th century, the dynasty at its height controlled a large swathe of the north-east of the 【53†Indian subcontinent】.
+L129: After coming under 【54†British】 influence, in 1809 they transitioned from feudal monarchs into rulers of a 【55†princely state】, though the Manikyas maintained control of the region until 1949, when it ascended in union with India.
+L130: ## History
+L131: 
+L132: [【56†edit】]
+L133: The 【57†Rajmala】, the chronicle of the kings of Tripura, traces the Manikyas descent from Druhya, a son of the legendary 【42†Lunar dynasty】 monarch 【58†Yayati】.^{【59†[1]】}^{【60†[2]】} An unbroken line of 144 (likely mythological) Tripura monarchs is subsequently listed up to the ascension of one 【61†Ratna Fa】, who is stated to have become the first Manikya after being granted the cognomen by the 【62†Sultan of Bengal】.^{【63†[3]】} However, it is now believed that the Rajmala had been mistaken in the genealogy and chronology of the initial Manikya rulers.^{【64†[4]】} Numismatic evidence suggests that the first historical Manikya was in fact 【45†Maha Manikya】,^{【65†[5]】} a 【66†Tripuri】 chief who founded 【43†the kingdom】 after establishing dominance over neighbouring tribes in the early 1400s.^{【67†[6]】} This monarch then took the title "Manikya" in honour of a historic victory over Bengal, with the name being inherited by his descendants.^{【68†[7]】}
+L134: Maha Manikya's early successors achieved considerable military success, conquering territory in Bengal, 【69†Assam】 and 【70†Burma】. Tripura reached its zenith in the 16th century under such prominent kings as 【71†Dhanya Manikya】 and 【72†Vijaya Manikya II】,^{【73†[8]】} with its lands stretching from the 【74†Garo Hills】 in the north to the 【75†Bay of Bengal】 in the south.
+L135: As monarchs of a Hindu kingdom, the Manikyas developed a rivalry with the successive Muslim rulers of Bengal, coming into conflict with 【76†Sultans】, governors and 【77†Nawabs】 before being brought under 【78†Mughal】 suzerainty in the early 17th century. As Mughal power waned, the antagonism with Bengal re-erupted, which drove the Manikyas to first approach the 【54†British】 for aid.
+L136: In 1761, Tripura succumbed to British influence, becoming 【44†a princely protectorate】, though control of the region remained under the Manikya dynasty.^{【79†[9]】}
+L137: In 1870, 【80†Bir Chandra Manikya】 ascended the throne and began a series of political reforms to his kingdom, modelling his government on the British system. A lover of the 【81†culture of Bengal】, 【82†Bengali】 was adopted by the court under his rule and he developed a friendship with the poet, 【83†Rabindranath Tagore】.
+L138: After Tripura was briefly incorporated into the province of 【84†Eastern Bengal and Assam】 at the beginning of the 20th century, the last Manikya monarch, Maharaja 【85†Bir Bikram Kishore】, chose to come under the jurisdiction of the predominantly Hindu 【86†Dominion of India】 in 1947.
+L139: The 【87†final ascension】 of Tripura into the modern 【51†Indian】 nation was signed by his widow, 【88†Kanchan Prava Devi】, in place of the minor 【47†Kirit Bikram Kishore】, bringing to an end five centuries of Manikya rule.^{【79†[9]】}
+L140: ## List of rulers
+L141: 
+L142: [【89†edit】]
+L143: Princely States. Tripura. 【72†Vijaya Manikya II】 (1532-1564), dated 1560 Tripura princely state in 1909
+L144: 【90†Kingdom of Tripura】
+L145: ---
+L146: Part of 【91†History of Tripura】
+L147: 【44†Kings of Tripura】
+L148: 【45†Maha Manikya】 c. (circa) 1400–1431
+L149: 【92†Dharma Manikya I】 1431–1462
+L150: 【93†Ratna Manikya I】 1462–1487
+L151: 【94†Pratap Manikya】 1487
+L152: 【95†Vijaya Manikya I】 1488
+L153: 【96†Mukut Manikya】 1489
+L154: 【71†Dhanya Manikya】 1490–1515
+L155: 【97†Dhwaja Manikya】 1515–1520
+L156: 【98†Deva Manikya】 1520–1530
+L157: 【99†Indra Manikya I】 1530–1532
+L158: 【72†Vijaya Manikya II】 1532–1563
+L159: 【100†Ananta Manikya】 1563–1567
+L160: 【101†Udai Manikya I】 1567–1573
+L161: 【102†Joy Manikya I】 1573–1577
+L162: 【103†Amar Manikya】 1577–1585
+L163: 【104†Rajdhar Manikya I】 1586–1600
+L164: 【105†Ishwar Manikya】 1600
+L165: 【106†Yashodhar Manikya】 1600–1623
+L166: Interregnum 1623–1626
+L167: 【107†Kalyan Manikya】 1626–1660
+L168: 【108†Govinda Manikya】 1660–1661
+L169: 【109†Chhatra Manikya】 1661–1667
+L170: 【108†Govinda Manikya】 1661–1673
+L171: 【110†Rama Manikya】 1673–1685
+L172: 【111†Ratna Manikya II】 1685–1693
+L173: 【112†Narendra Manikya】 1693–1695
+L174: 【111†Ratna Manikya II】 1695–1712
+L175: 【113†Mahendra Manikya】 1712–1714
+L176: 【114†Dharma Manikya II】 1714–1725
+L177: 【115†Jagat Manikya】 1725–1729
+L178: 【114†Dharma Manikya II】 1729
+L179: 【116†Mukunda Manikya】 1729–1739
+L180: 【117†Joy Manikya II】 1739–1744
+L181: 【118†Indra Manikya II】 1744–1746
+L182: 【119†Udai Manikya II】 1744
+L183: 【117†Joy Manikya II】 1746
+L184: 【120†Vijaya Manikya III】 1746–1748
+L185: 【121†Lakshman Manikya】 1740s/1750s
+L186: Interregnum 1750s–1760
+L187: 【122†Krishna Manikya】 1760–1783
+L188: 【123†Rajdhar Manikya II】 1785–1806
+L189: 【124†Rama Ganga Manikya】 1806–1809
+L190: 【125†Durga Manikya】 1809–1813
+L191: 【124†Rama Ganga Manikya】 1813–1826
+L192: 【126†Kashi Chandra Manikya】 1826–1829
+L193: 【127†Krishna Kishore Manikya】 1829–1849
+L194: 【128†Ishan Chandra Manikya】 1849–1862
+L195: 【80†Bir Chandra Manikya】 1862–1896
+L196: 【129†Radha Kishore Manikya】 1896–1909
+L197: 【130†Birendra Kishore Manikya】 1909–1923
+L198: 【85†Bir Bikram Kishore Manikya】 1923–1947
+L199: 【47†Kirit Bikram Kishore Manikya】 1947–1949
+L200: 1949–1978 (titular)
+L201: 【46†Kirit Pradyot Manikya】 1978–present (titular)
+L202: Tripura monarchy data
+L203: ---
+L204: 【28†Manikya dynasty】 (Royal family)
+L205: 【131†Agartala】 (Capital of the kingdom)
+L206: 【132†Ujjayanta Palace】 (Royal residence)
+L207: 【133†Pushbanta Palace】 (Royal residence)
+L208: 【134†Neermahal】 (Royal residence)
+L209: 【57†Rajmala】 (Royal chronicle)
+L210: 【135†Tripura Buranji】 (Chronicle)
+L211: 【136†Chaturdasa Devata】 (Family deities)
+L212: Rulers of the Manikya dynasty (c. (circa)1400 – 1949)^{【137†[10]】}
+L213: Name  | Reign start  | Reign end  | Claim  | Notes
+L214: --- | --- | --- | --- | ---
+L215: 【45†Maha Manikya】  | c. (circa)1400  | 1431  |  |
+L216: 【92†Dharma Manikya I】  | 1431  | 1462  | Son of 【45†Maha Manikya】  |
+L217: 【93†Ratna Manikya I】  | 1462  | c. (circa)1487  | Son of 【92†Dharma Manikya I】  |
+L218: 【94†Pratap Manikya】  | c. (circa)1487  | c. (circa)1487  | Son of 【93†Ratna Manikya I】  |
+L219: 【95†Vijaya Manikya I】  | 1488  | 1488  | Possibly son of 【94†Pratap Manikya】  |
+L220: 【96†Mukut Manikya】  | 1489  | 1489  | Son of 【93†Ratna Manikya I】  |
+L221: 【71†Dhanya Manikya】  | 1490  | 1515  | Son of 【93†Ratna Manikya I】  |
+L222: 【97†Dhwaja Manikya】  | 1515  | 1520  | Son of 【71†Dhanya Manikya】  |
+L223: 【98†Deva Manikya】  | 1520  | 1530  | Son of 【71†Dhanya Manikya】  |
+L224: 【99†Indra Manikya I】  | 1530  | 1532  | Son of 【98†Deva Manikya】  |
+L225: 【72†Vijaya Manikya II】  | 1532  | 1563  | Son of 【98†Deva Manikya】  |
+L226: 【100†Ananta Manikya】  | 1563  | 1567  | Son of 【72†Vijaya Manikya II】  |
+L227: 【101†Udai Manikya I】  | 1567  | 1573  | Father-in-law of 【100†Ananta Manikya】  | Claimed the throne following the death of his predecessor, briefly supplanting the ruling dynasty with his own line.^{【138†[11]】}
+L228: 【102†Joy Manikya I】  | 1573  | 1577  | Son of 【139†Udai Manikya】  |
+L229: 【103†Amar Manikya】  | 1577  | 1586  | Son of 【98†Deva Manikya】  | Restored the Manikya dynasty after killing his predecessor.^{【140†[12]】}
+L230: 【104†Rajdhar Manikya I】  | 1586  | 1600  | Son of 【103†Amar Manikya】  |
+L231: 【105†Ishwar Manikya】  | 1600  | 1600  | Possibly son of 【103†Amar Manikya】 or 【104†Rajdhar Manikya I】  |
+L232: 【106†Yashodhar Manikya】  | 1600  | 1618  | Son of 【104†Rajdhar Manikya I】  | Monarchy temporarily overthrown by the 【78†Mughal Empire】.^{【141†[13]】}
+L233: 【107†Kalyan Manikya】  | 1626  | 1660  | Descendant of 【45†Maha Manikya】  | From a cadet branch of the dynasty.^{【142†[14]】} Elected as monarch after Mughal interregnum.^{【143†[15]】}
+L234: 【108†Govinda Manikya】  | 1660  | 1661  | Son of 【107†Kalyan Manikya】  | First reign
+L235: 【109†Chhatra Manikya】  | 1661  | 1667  | Son of 【107†Kalyan Manikya】  |
+L236: 【108†Govinda Manikya】  | 1667  | 1676  | Son of 【107†Kalyan Manikya】  | Second reign
+L237: 【110†Rama Manikya】  | 1676  | 1685  | Son of 【108†Govinda Manikya】  |
+L238: 【111†Ratna Manikya II】  | 1685^{【144†[16]】}  | 1693^{【144†[16]】}  | Son of 【110†Rama Manikya】  | First reign
+L239: 【112†Narendra Manikya】  | 1693^{【144†[16]】}  | 1695^{【144†[16]】}  | Grandson of 【108†Govinda Manikya】  |
+L240: 【111†Ratna Manikya II】  | 1695^{【144†[16]】}  | 1712^{【144†[16]】}  | Son of 【110†Rama Manikya】  | Second reign
+L241: 【113†Mahendra Manikya】  | 1712^{【145†[17]】}  | 1714^{【145†[17]】}  | Son of 【110†Rama Manikya】  |
+L242: 【114†Dharma Manikya II】  | 1714^{【145†[17]】}  | 1725^{【145†[17]】}  | Son of 【110†Rama Manikya】  | First reign
+L243: 【115†Jagat Manikya】  | 1725^{【146†[18]】}  | 1729^{【146†[18]】}  | Great-grandson of 【109†Chhatra Manikya】  |
+L244: 【114†Dharma Manikya II】  | 1729^{【146†[18]】}  | 1729^{【146†[18]】}  | Son of 【110†Rama Manikya】  | Second reign
+L245: 【116†Mukunda Manikya】  | 1729  | 1739  | Son of 【110†Rama Manikya】  |
+L246: 【117†Joy Manikya II】  | 1739  | 1744  | Great-great-grandson of 【107†Kalyan Manikya】  | First reign
+L247: 【118†Indra Manikya II】  | 1744  | 1746  | Son of 【116†Mukunda Manikya】  |
+L248: 【119†Udai Manikya II】  | c. (circa) 1744  | c. (circa) 1744  | Son of 【114†Dharma Manikya II】  | Briefly laid claim to the throne during a power struggle between his relatives.^{【147†[19]】}
+L249: 【117†Joy Manikya II】  | 1746  | 1746  | Great-great-grandson of 【107†Kalyan Manikya】  | Second reign
+L250: 【120†Vijaya Manikya III】  | 1746  | 1748  | Brother of 【117†Joy Manikya II】, great-great-grandson of 【107†Kalyan Manikya】  |
+L251: 【121†Lakshman Manikya】  | ?  | ?  | Grandson of 【114†Dharma Manikya II】  | Ruled as a puppet-monarch under 【148†Shamsher Gazi】 for three years before the latter took the throne for himself.^{【149†[20]】}
+L252: 【122†Krishna Manikya】  | 1760  | 1783  | Son of 【116†Mukunda Manikya】  |
+L253: 【123†Rajdhar Manikya II】  | 1785  | 1806  | Grandson of 【116†Mukunda Manikya】  |
+L254: 【124†Rama Ganga Manikya】  | 1806  | 1809  | Son of 【123†Rajdhar Manikya II】  | First reign
+L255: 【125†Durga Manikya】  | 1809  | 1813  | Son of 【121†Lakshman Manikya】  |
+L256: 【124†Rama Ganga Manikya】  | 1813  | 1826  | Son of 【123†Rajdhar Manikya II】  | Second reign
+L257: 【126†Kashi Chandra Manikya】  | 1826  | 1829  | Son of 【123†Rajdhar Manikya II】  |
+L258: 【127†Krishna Kishore Manikya】  | 1829  | 1849  | Son of 【124†Rama Ganga Manikya】  |
+L259: 【128†Ishan Chandra Manikya】  | 1849  | 1862  | Son of 【127†Krishna Kishore Manikya】  |
+L260: 【80†Bir Chandra Manikya】  | 1862  | 1896  | Son of 【127†Krishna Kishore Manikya】  |
+L261: 【129†Radha Kishore Manikya】  | 1896  | 1909  | Son of 【80†Bir Chandra Manikya】  |
+L262: 【130†Birendra Kishore Manikya】  | 1909  | 1923  | Son of 【129†Radha Kishore Manikya】  |
+L263: 【150†Bir Bikram Kishore Manikya】  | 1923  | 1947  | Son of 【130†Birendra Kishore Manikya】  |
+L264: 【47†Kirit Bikram Kishore Manikya】  | 1947  | 1949  | Son of 【150†Bir Bikram Kishore Manikya】  |
+L265: Titular (1949 – 1971)
+L266: 【47†Kirit Bikram Kishore Manikya】  | 1949  | 1971 (title abolished)  | Son of 【150†Bir Bikram Kishore Manikya】  |
+L267: ## Family tree
+L268: 
+L269: [【151†edit】]
+L270: Family tree
+L271: ---
+L272: 【45†Maha Manikya】
+L273: Raja of Tripura
+L274: r. c. (circa) 1400–1431
+L275: 【92†Dharma Manikya I】
+L276: Raja of Tripura
+L277: r. 1431–1462 Gagan Fa
+L278: 【93†Ratna Manikya I】
+L279: Raja of Tripura
+L280: r. 1462–c. (circa) 1487
+L281: 【71†Dhanya Manikya】
+L282: Raja of Tripura
+L283: r. 1490–1515 【94†Pratap Manikya】
+L284: Raja of Tripura
+L285: r. c. (circa) 1487 【96†Mukut Manikya】
+L286: Raja of Tripura
+L287: r. 1489
+L288: 【97†Dhwaja Manikya】
+L289: Raja of Tripura
+L290: r. 1515–1520 【98†Deva Manikya】
+L291: Raja of Tripura
+L292: r. 1520–1530 Possibly
+L293: 【95†Vijaya Manikya I】
+L294: Raja of Tripura
+L295: r. 1488
+L296: 【101†Udai Manikya I】
+L297: Raja of Tripura
+L298: r. 1567–1573 【99†Indra Manikya I】
+L299: Raja of Tripura
+L300: r. 1530–1532 【72†Vijaya Manikya II】
+L301: Raja of Tripura
+L302: r. 1532–1563 【103†Amar Manikya】
+L303: Raja of Tripura
+L304: r. 1577–1586
+L305: 【102†Joy Manikya I】
+L306: Raja of Tripura
+L307: r. 1573–1577 Ratnavati
+L308: Ruler of Chandipur 【100†Ananta Manikya】
+L309: Raja of Tripura
+L310: r. 1563–1567 【104†Rajdhar Manikya I】
+L311: Raja of Tripura
+L312: r. 1586–1600
+L313: 【106†Yashodhar Manikya】
+L314: Raja of Tripura
+L315: r. 1600–1618 【105†Ishwar Manikya】
+L316: Raja of Tripura
+L317: r. 1600 Kachu Fa
+L318: 【107†Kalyan Manikya】
+L319: Raja of Tripura
+L320: r. 1626–1660
+L321: 【108†Govinda Manikya】
+L322: Raja of Tripura
+L323: r. 1660–1661
+L324: r. 1667–1676 Jagannath Thakur 【109†Chhatra Manikya】
+L325: Raja of Tripura
+L326: r. 1661–1667
+L327: 【110†Rama Manikya】
+L328: Raja of Tripura
+L329: r. 1676–1685 Durga Thakur Surya Pratap Narayan Thakur Utsab Roy
+L330: 【111†Ratna Manikya II】
+L331: Raja of Tripura
+L332: r. 1685–1693
+L333: r. 1695–1712 【113†Mahendra Manikya】
+L334: Raja of Tripura
+L335: r. 1712–1714 【114†Dharma Manikya II】
+L336: Raja of Tripura
+L337: r. 1714–1725
+L338: r. 1729 【116†Mukunda Manikya】
+L339: Raja of Tripura
+L340: r. 1729–1739 【112†Narendra Manikya】
+L341: Raja of Tripura
+L342: r. 1693–1695 Haradhan Thakur Vijaya Narayan
+L343: 【119†Udai Manikya II】
+L344: Raja of Tripura
+L345: r. c. (circa) 1744 Gadadhar Thakur 【118†Indra Manikya II】
+L346: Raja of Tripura
+L347: r. c. (circa) 1744–1746 【122†Krishna Manikya】
+L348: Raja of Tripura
+L349: r. 1760–1783 Harimani 【117†Joy Manikya II】
+L350: Raja of Tripura
+L351: r. c. (circa) 1739–1744
+L352: r. 1746 【120†Vijaya Manikya III】
+L353: Raja of Tripura
+L354: r. 1746–1748 【115†Jagat Manikya】
+L355: Raja of Tripura
+L356: r. 1725–1729
+L357: 【121†Lakshman Manikya】
+L358: Raja of Tripura
+L359: r. c. (circa) 1740/50s 【123†Rajdhar Manikya II】
+L360: Raja of Tripura
+L361: r. 1785–1806 【152†Balaram Manikya】
+L362: Ruler of 【153†Chakla Roshnabad】
+L363: r. 1767
+L364: 【125†Durga Manikya】
+L365: Raja of Tripura
+L366: r. 1809–1813 【124†Rama Ganga Manikya】
+L367: Raja of Tripura
+L368: r. 1806–1809
+L369: r. 1813–1826 【126†Kashi Chandra Manikya】
+L370: Raja of Tripura
+L371: r. 1826–1829
+L372: 【127†Krishna Kishore Manikya】
+L373: Raja of Tripura
+L374: r. 1829–1849
+L375: 【128†Ishan Chandra Manikya】
+L376: Raja of Tripura
+L377: r. 1849–1862 【80†Bir Chandra Manikya】
+L378: Maharaja of Tripura
+L379: r. 1862–1896
+L380: 【129†Radha Kishore Manikya】
+L381: Maharaja of Tripura
+L382: r. 1896–1909
+L383: 【130†Birendra Kishore Manikya】
+L384: Maharaja of Tripura
+L385: r. 1909–1923
+L386: 【85†Bir Bikram Kishore Manikya】
+L387: Maharaja of Tripura
+L388: r. 1923–1947
+L389: 【47†Kirit Bikram Kishore Manikya】
+L390: Maharaja of Tripura
+L391: r. 1947–1949
+L392: 【46†Kirit Pradyot Manikya】
+L393: Bibliography:
+L394:   * 【154†Choudhury, Achyut Charan】 (2000) [1910], 【155†Srihatter Itibritta: Purbangsho†bn.m.wikisource.org】 (in Bengali), Kolkata: Kotha, p. 502
+L395:   * Sarma, Ramani Mohan (1987), 【156†Political History of Tripura†books.google.com】, Calcutta: Puthipatra
+L396: ## References
+L397: 
+L398: [【157†edit】]
+L399:   1. 【158†↑】 【159†Chaudhuri (1999)】, p. 68.
+L400:   2. 【160†↑】 【161†Singh Rana (1998)】, p. 210.
+L401:   3. 【162†↑】 【163†Bhattacharyya (1977)】, p. 13.
+L402:   4. 【164†↑】 【165†Saha (1986)】, p. 168.
+L403:   5. 【166†↑】 【167†Sarma (1987)】, p. 39.
+L404:   6. 【168†↑】 【169†Momin, Mawlong & Qadri (2006)】, p. 81.
+L405:   7. 【170†↑】 【171†Lahiri (1999)】, p. 53.
+L406:   8. 【172†↑】 【173†Nayar (2005)】, p. 70.
+L407:   9. 【174†1】 【175†2】 【176†Boland-Crewe & Lea (2005)】, p. 238.
+L408:   10. 【177†↑】 【167†Sarma (1987)】, pp. 233–34.
+L409:   11. 【178†↑】 【167†Sarma (1987)】, pp. 75–76.
+L410:   12. 【179†↑】 【167†Sarma (1987)】, p. 77.
+L411:   13. 【180†↑】 【181†Chib (1988)】, p. 11.
+L412:   14. 【182†↑】 【183†Gan-Chaudhuri (1980)】, p. 25.
+L413:   15. 【184†↑】 【167†Sarma (1987)】, p. 96.

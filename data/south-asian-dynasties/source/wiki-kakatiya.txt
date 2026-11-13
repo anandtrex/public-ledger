@@ -1,0 +1,319 @@
+Kakatiya dynasty - Wikipedia (https://en.wikipedia.org/wiki/Kakatiya_dynasty)
+citeturn67view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Kakatiya_dynasty","lineno":null}); Total lines: 615
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology and names】
+L49:   * 【19†2 Sources】
+L50:   * 【20†3 History】 Toggle History subsection
+L51:     * 【21†3.1 Origin】
+L52:     * 【22†3.2 Relationship to the Rashtrakutas】
+L53:     * 【23†3.3 Early feudatory chiefs】
+L54:     * 【24†3.4 As sovereigns】
+L55:       * 【25†3.4.1 Prataparudra I】
+L56:       * 【26†3.4.2 Ganapati】
+L57:       * 【27†3.4.3 Rudrama Devi】
+L58:       * 【28†3.4.4 Prataparudra II】
+L59:     * 【29†3.5 Decline】
+L60:   * 【30†4 Characterization】 Toggle Characterization subsection
+L61:     * 【31†4.1 Geography】
+L62:     * 【32†4.2 Architecture】
+L63:     * 【33†4.3 Society】
+L64:   * 【34†5 Religion】
+L65:   * 【35†6 Genealogy】 Toggle Genealogy subsection
+L66:     * 【36†6.1 Feudatory chiefs】
+L67:     * 【37†6.2 Sovereign rulers】
+L68:   * 【38†7 Legacy】
+L69:   * 【39†8 See also】
+L70:   * 【40†9 Footnotes】
+L71:   * 【41†10 References】
+L72:   * 【42†11 Bibliography】
+L73:   * 【43†12 Further reading】
+L74: [Input] Toggle the table of contents
+L75: # Kakatiya dynasty
+L76: 
+L77: [Input] 27 languages
+L78:   * 【44†अंगिका†anp.wikipedia.org】
+L79:   * 【45†العربية†ar.wikipedia.org】
+L80:   * 【46†অসমীয়া†as.wikipedia.org】
+L81:   * 【47†বাংলা†bn.wikipedia.org】
+L82:   * 【48†Català†ca.wikipedia.org】
+L83:   * 【49†Dansk†da.wikipedia.org】
+L84:   * 【50†Deutsch†de.wikipedia.org】
+L85:   * 【51†Suomi†fi.wikipedia.org】
+L86:   * 【52†Français†fr.wikipedia.org】
+L87:   * 【53†Hausa†ha.wikipedia.org】
+L88:   * 【54†हिन्दी†hi.wikipedia.org】
+L89:   * 【55†Bahasa Indonesia†id.wikipedia.org】
+L90:   * 【56†Italiano†it.wikipedia.org】
+L91:   * 【57†日本語†ja.wikipedia.org】
+L92:   * 【58†ಕನ್ನಡ†kn.wikipedia.org】
+L93:   * 【59†한국어†ko.wikipedia.org】
+L94:   * 【60†മലയാളം†ml.wikipedia.org】
+L95:   * 【61†मराठी†mr.wikipedia.org】
+L96:   * 【62†Русский†ru.wikipedia.org】
+L97:   * 【63†සිංහල†si.wikipedia.org】
+L98:   * 【64†Svenska†sv.wikipedia.org】
+L99:   * 【65†தமிழ்†ta.wikipedia.org】
+L100:   * 【66†తెలుగు†te.wikipedia.org】
+L101:   * 【67†ไทย†th.wikipedia.org】
+L102:   * 【68†Українська†uk.wikipedia.org】
+L103:   * 【69†اردو†ur.wikipedia.org】
+L104:   * 【70†中文†zh.wikipedia.org】
+L105: 【71†Edit links†www.wikidata.org】
+L106: 
+L107:   * 【72†Article】
+L108:   * 【73†Talk】
+L109: 
+L110: [Input] English
+L111: 
+L112:   * 【72†Read】
+L113:   * 【74†View source】
+L114:   * 【75†View history】
+L115:   * 【17†Save】
+L116: 
+L117: [Input] Tools
+L118: 
+L119: Tools
+L120: 
+L121: [Button: move to sidebar] [Button: hide]
+L122: 
+L123: Actions
+L124: 
+L125:   * 【72†Read】
+L126:   * 【74†View source】
+L127:   * 【75†View history】
+L128:   * 【17†Save】
+L129: 
+L130: General
+L131:   * 【76†What links here】
+L132:   * 【77†Related changes】
+L133:   * 【78†Upload file】
+L134:   * 【79†Permanent link】
+L135:   * 【80†Page information】
+L136:   * 【81†Cite this page】
+L137:   * 【82†Get shortened URL】
+L138:   * 【83†Switch to legacy parser】
+L139: 
+L140: Print/export
+L141: 
+L142:   * 【84†Download as PDF】
+L143:   * Printable version
+L144: 
+L145: In other projects
+L146: 
+L147:   * 【85†Wikimedia Commons†commons.wikimedia.org】
+L148:   * 【86†Wikidata item†www.wikidata.org】
+L149: 
+L150: Appearance
+L151: 
+L152: [Button: move to sidebar] [Button: hide]
+L153: Kakatiya dynasty
+L154: ---
+L155: 1163^{【87†[1]】}–1323
+L156: Map of the Kakatiyas, c. (circa) 1150–1300 CE.^{【88†[3]】}
+L157: Status  | Dynasty
+L158: Capital  | 【89†Orugallu】
+L159: Common languages  | 【90†Telugu】
+L160: 【91†Sanskrit】
+L161: 【92†Kannada】^{【93†[4]】}^{【94†[5]】}
+L162: Religion  | 【95†Hinduism】, 【96†Jainism】^{【97†[6]】}
+L163: Government  | Monarchy
+L164: 【98†King】  |
+L165: History  |
+L166: • Earliest rulers  | c. (circa) 800
+L167: • Established  | 1163^{【87†[1]】}
+L168: • 【99†Siege of Warangal】  | 9 November 1323
+L169: Preceded by Succeeded by
+L170: 【100†Image†upload.wikimedia.org】 【101†Eastern Chalukyas】
+L171: 【100†Image†upload.wikimedia.org】 【102†Western Chalukya Empire】
+L172: 【103†Reddi Kingdom】 【100†Image†upload.wikimedia.org】
+L173: 【104†Musunuri Nayakas】 【100†Image†upload.wikimedia.org】
+L174: 【105†Delhi Sultanate】 【100†Image†upload.wikimedia.org】
+L175: 【106†Bahmani Sultanate】 【100†Image†upload.wikimedia.org】
+L176: 【107†Vijayanagara Empire】 【100†Image†upload.wikimedia.org】
+L177: Today part of  | India
+L178: The Kakatiya dynasty (【108†IAST】: Kākatīya)^{【109†[a]】} was a 【110†Telugu dynasty】 that ruled most of eastern 【111†Deccan】 region in present-day India between 12th and 14th centuries.^{【112†[7]】} Their territory comprised much of the present day 【113†Telangana】 and 【114†Andhra Pradesh】, parts of eastern 【115†Karnataka】, northern 【116†Tamil Nadu】, and southern 【117†Odisha】.^{【118†[8]】}^{【119†[9]】} Their capital was Orugallu, now known as 【89†Warangal】.
+L179: Early Kakatiya rulers served as feudatories to 【120†Rashtrakutas】 and 【102†Western Chalukyas】 for over two centuries. They assumed sovereignty under 【121†Rudradeva】 in 1163 CE by suppressing other Chalukya subordinates in the Telangana region.^{【122†[10]】} 【123†Ganapati Deva】 (r. 1199–1262) significantly expanded Kakatiya lands during the 1230s and brought under Kakatiya control the Telugu-speaking lowland delta areas around the 【124†Godavari】 and 【125†Krishna】 rivers.
+L180: Ganapati Deva was succeeded by 【126†Rudrama Devi】 (r. 1262–1289) who is one of the few queen regnants in Indian history. 【127†Marco Polo】, who visited India around 1289–1293, made note of Rudrama Devi's rule and nature in flattering terms. She successfully repelled the attacks of 【128†Yadavas】 (Seuna) of Devagiri into the Kakatiyan territory.^{【122†[10]】}
+L181: In 1303, 【129†Alauddin Khalji】, the emperor of the 【105†Delhi Sultanate】 invaded the Kakatiya territory which ended up as a disaster for the Turks.^{【130†[b]】} But after the successful 【131†siege】 of Warangal in 1310, Prataparudra II was forced to pay annual 【132†tribute】 to Delhi. Another attack by 【133†Ulugh Khan】 (i.e. Tughluq) in 1323 saw stiff resistance by the Kakatiyan army, but they were finally defeated.
+L182: The demise of the Kakatiya dynasty resulted in confusion and anarchy under alien rulers for some time, before 【104†Musunuri Nayakas】 united the various Telugu clans and recovered 【89†Warangal】 from the 【105†Delhi Sultanate】.^{【134†[11]】}
+L183: The Kakatiyas unified the distinct upland and lowland cultures of Telugu lands, which brought way for the cultural affinity between those who spoke the 【90†Telugu language】 to flourish. The Kakatiya period introduced the construction of reservoirs for irrigation in the uplands called "tanks", many of which are still in use today. They were egalitarian in nature and anyone, regardless of birth, could acquire the 【135†nayaka】 title that denoted the warrior status.
+L184: They recruited peasants into the military, which resulted in a new warrior class and provided social mobility. The Kakatiya era also saw the development of a distinct style of architecture that improved and innovated upon the existing modes.^{【136†[12]】} The most notable examples are the 【137†Thousand Pillar Temple】 in 【138†Hanamkonda】, 【139†Ramappa Temple】 in Palampet, 【140†Warangal Fort】, 【141†Golconda Fort】 and 【142†Kota Gullu】 in 【143†Ghanpur】.
+L185: ## Etymology and names
+L186: Recently unearthed 9th and 10th century 【101†Vengi Chalukya】 copper plates at 【144†Kodad】 in Suryapet district have provided insights into the origin of the dynasty’s name. Inscribed in Sanskrit in Telugu script, these records date back to 890 CE and document early Kakatiya ancestors such as Saamanta Vetti and Vigraha Vetti, and chiefs Gunda I, Gunda II, Gunda III who served as military commanders under the Vengi Chalukya king Bhima I.
+L187: The inscriptions record that these early chiefs were granted and endowed temples in a village named Kakarti, located near 【145†Kondapalli】. Kodad plates provide the oldest epigraphic evidence of the dynasty’s name, linking the family name to ancestral seat in Kakarti.^{【146†[13]】}^{【147†[14]】}
+L188: Studies of the inscriptions and coinage by the historian 【148†Dineshchandra Sircar】 reveal that there was no contemporary standard spelling of the family name. Variants include Kakatiya, Kakatiyya, Kakita, Kakati and Kakatya. The family name was often prefixed to the name of the monarch, giving constructs such as Kakatiya-Prataparudra.
+L189: Some of the monarchs also had alternate names; for example, Venkata and Venkataraya may have been alternate names of Prataparuda I, with the former appearing on a coin in the form Venkata-Kakatiya.^{【149†[15]】}^{【150†[c]】}
+L190: Kakatiya inscriptions suggest that the family's name derives from the name of a place called Kakati. The 【151†Bayyaram】 tank inscription from the reign of Ganapati Deva states that the Kakatiya chief Venna (c. 9th century) resided at Kakati, because of which his descendants came to be known as Kakatishas ("lords of Kakati").^{【152†[16]】} Ganapati Deva's Garavapadu charter traces the family's ancestry to 【153†Durjaya】, a legendary 【154†chieftain】 of ancient Andhra and a descendant of 【155†Karikala Chola】.
+L191: According to this account, Karikala arrived at Kakati during a hunting expedition, and set up his camp there.^{【156†[17]】} The modern identity of Kakati is uncertain: different historians have variously attempted to identify it with modern Kakati village in 【115†Karnataka】 and 【157†Kanker】 in 【158†Chhattisgarh】. Siddheshvara-Charitra, a later literary work, states that the ancestors of the Kakatiya family lived at Kandarapura (identified with modern 【159†Kandhar】 in 【160†Maharashtra】).
+L192: However, no other evidence supports this tradition.^{【161†[18]】} Later, the Kakatiya capital Orugallu (present-day Warangal) was also called "Kakati-pura" ("Kakati town"), as attested by some inscriptions of the dynasty.^{【162†[19]】}
+L193: Kumarasvami Somapithin, in his 15th-century commentary on Vidynatha's Prataparudra-Yashobhushanam or Prataparudriya states that the family was named after their tutelary goddess Kakati, a form of 【163†Durga】.^{【164†[20]】}^{【165†[21]】} It is possible that the early Kakatiya chiefs resided at a place called Kakati, which had a shrine of their tutelary goddess.^{【162†[19]】}^{【166†[22]】} Although the Hindu mythological texts do not mention any such form of Durga, the worship of a goddess named Kakati is attested by several other sources.
+L194: For example, Vallabharaya's Krida-bhiramamu mentions an image of Kakatamma ("Mother Kakati") in the Kakatiya capital Orugallu.
+L195: The 16th century 【167†Shitap Khan】 inscription mentions the reinstallation of the image of the Hindu goddess 【168†Jaganmatruka】 (mother of the universe) and the lotus seat of the Kakatirajya, which had been destroyed by the 【169†Turushkas】 (Turkic people).^{【170†[23]】} According to one theory, Kakati was originally a 【96†Jain】 goddess (possibly 【171†Padmavati】) and later came to be regarded as a form of Durga.^{【165†[21]】}
+L196: ## Sources
+L197: 
+L198: Vishnu with his mount, Garuda, his consort, Lakshmi, and attendants, 12-13th century, Kakatiya period. Kalyani region, 【114†Andhra Pradesh】, India
+L199: Much of the information about the Kakatiya period comes from inscriptions, including around 1,000 stone inscriptions, and 12 copper-plate inscriptions.^{【172†[24]】} Most of these inscriptions document matters relating to religion, such as donations to 【173†Hindu】 temples. They are particularly abundant for the period 1175–1324 CE, which is the period when the dynasty flourished.
+L200: The probability is that many inscriptions have been lost due to buildings falling into ruin and the destruction of these inscriptions caused by subsequent rulers, most notably the 【174†Mughal Empire】 in the 【113†Telangana】 region.
+L201: Nevertheless, inscriptions are still being discovered today, but governmental agencies tend to concentrate on recording the information of those that have previously been discovered rather than placing their efforts into discovering and uncovering potential inscriptions.^{【175†[25]】}
+L202: Information about the Kakatiya period also comes from 【91†Sanskrit】 and 【90†Telugu】 literary works written during Kakatiya and post-Kakatiya period.
+L203: The most notable among these works include Prataparudriyam, Krida-bhiramamu, Panditaradhya-charitamu, Sivayogasaramu, Nitisara, Niti-sastra-muktavali, Nrutya-ratnavali, Pratapa-charita, Siddhesvara-charitra, Somadeva-rajiyamu, Palnativira-charitra, Velugotivari-vamsavali, and Velugotivari-vamsacharitra.^{【176†[26]】} Chronicles by Muslim authors such as 【177†Isami】 and 【178†Firishta】 describe Prataparudra's defeats against the Muslim armies.
+L204: The 【92†Kannada】 text Kumara-Ramana-charita also provides information about Prataparudra's relations with the 【179†Kampili kingdom】.^{【180†[27]】}
+L205: Besides epigraphs and literature, the forts, temples and tanks constructed during the Kakatiya period are an important source of information about contemporary society, art and architecture.^{【181†[28]】}
+L206: ## History
+L207: ### Origin
+L208: 
+L209: The Kakatiya rulers traced their ancestry to a legendary chief or ruler named 【153†Durjaya】.^{【166†[22]】} Many other ruling dynasties of Andhra also claimed descent from Durjaya. Nothing further is known about this chief.^{【182†[29]】}
+L210: Most of the Kakatiya records do not mention the 【183†varna】 (social class) of the family, but the majority of the ones that do, proudly describe them as 【184†Shudra】.^{【185†[30]】} Examples include the Bothpur and Vaddamanu inscriptions of Ganapati's general Malyala Gunda senani. The Kakatiyas also maintained marital relations with other Shudra families, such as the 【186†Kotas】 and the 【187†Natavadi】 chiefs. This indicates that the Kakatiyas were likely of Shudra origin.^{【188†[31]】}
+L211: A few copper-plate inscriptions of the Kakatiya family describe them as belonging to the 【189†Kshatriya】 (warrior) varna. These inscriptions primarily document grants to 【190†Brahmans】, and appear to be inspired by the genealogies of the 【191†Imperial Cholas】.^{【185†[30]】} For example, the 【192†Motupalli】 inscription of Ganapati counts legendary 【193†solar dynasty】 kings such as 【194†Rama】 among the ancestors of Durjaya, the progenitor of the Kakatiya family.
+L212: The Malkapuram inscription of Visvesvara Sivacharya, the preceptor of Kakatiya rulers Ganapati Deva and Rudrama Devi, also connects the Kakatiyas to the solar dynasty (Sūryavaṃsa).^{【195†[32]】} The term "Kshatriya" in these panegyric records appears to signify the family's warrior-like qualities rather than their actual varna.^{【196†[33]】}
+L213: ### Relationship to the Rashtrakutas
+L214: 
+L215: Kubera, Hoysala-Kakatiya period, 1100-1350 CE.
+L216: 
+L217: According to an interpretation of the Mangallu and the 【151†Bayyaram】 inscriptions, the Kakatiyas were not just 【197†Rashtrakuta】 vassals, but also a branch of the Rashtrakuta family.^{【198†[34]】}
+L218: The 956 CE Mangallu inscription was issued by the 【199†Vengi Chalukya】 prince Dānārnava, at the request of the Kakatiya chief 【200†Gunda IV】.^{【201†[35]】} The inscription names Gundyana's ancestors as Gundiya-Rashtrakuta (【202†Gunda III】) and Eriya-Rashtrakuta (【203†Erra】).^{【204†[36]】} This suggests that Gunda IV was a Rashtrakuta general, and not a Vengi Chalukya subordinate, as assumed by earlier historians.^{【204†[36]】}
+L219: The 【151†Bayyaram】 tank inscription, which records the construction of the Dharma-kirti-samudra tank by Ganapati's sister Mailama (or Mailamba), provides another genealogical list.^{【205†[37]】} The similarities of names mentioned in the Mangallu and Bayyaram inscriptions lists indicate that both of these refer to the same family:^{【206†[38]】}
+L220: Genealogical list of early Kakatiyas^{【207†[39]】}
+L221: Mangallu grant inscription  | Bayyaram tank inscription
+L222: --- | ---
+L223: Kakatiya family  | Durjaya family
+L224:  | Venna-nripa
+L225: Gundiya Rashtrakuta  | Gunda I
+L226:  | Gunda II
+L227:  | Gunda III
+L228: Eriya Rashtrakuta  | Erra
+L229: Betiya (married Vandyanamba)  |
+L230: Kakartya Gundyana  | Pindi-Gunda (Gunda IV)
+L231: The significance of the suffix "Rashtrakuta" in the names of the early Kakatiya chiefs is debated. According to one theory, the suffix only implies that these chiefs were Rashtrakuta's subordinates. This theory is based on the fact that the phrase Rashtrakuta-kutumbinah appears in several Rashtrakuta-era copper-plate inscriptions, and refers to the officers and subjects of the Rashtrakuta kingdom.^{【208†[40]】}
+L232: According to another theory, the suffix implies that the Kakatiyas were a branch of the Rashtrakuta family because the term Rashtrakuta-kutumbinah was used for officers employed by the Rashtrakuta administration, not feudatory chiefs: the early records of the Kakatiya chiefs describe them as 【209†samantas】 (feudatory chiefs).^{【210†[41]】} The 【211†Kazipet】 Darga inscription of 【212†Durgaraja】 states that his father 【213†Beta II】 was born in the family of 【209†Samanta】 Viṣṭi.^{【214†[42]】} Historian P.V.P.
+L233: Sastry theorises that "Viṣṭi" is a corruption of 【215†Vrishni】, the name of a clan from which some Rashtrakutas claimed descent.
+L234: He notes that some chiefs of Rashtrakuta origin adopted the title "Viṭṭi-narayana", which means "as great as Narayana (【216†Krishna】) of the Vitti (Vrishni) family.^{【217†[43]】} Sastry further proposes that the term "Voddi", which appears in the phrase Voddi-kula ("Voddi family") in the Mangallu inscription may be same as "Viṣṭi".^{【218†[44]】} Sastry also believes that the early Kakatiya chiefs followed 【96†Jainism】, which was also patronized by the Rashtrakutas, thus strengthening the view that the two dynasties were connected (see 【34†Religion】 section below).^{【165†[21]】}
+L235: The Kakatiyas seemed to have adopted the mythical bird 【219†Garuda】 as their royal insignia, as attested by the Ekamranatha temple inscription of Ganapati-deva, the 【139†Palampet】 inscription of the Kakatiya general 【220†Recherla Rudra】, and Vidyanatha's Prataparudriya.^{【214†[42]】} The Bayyaram tank inscription calls the Kakatiya chief Beta I (son of Gunda IV) Garudamka-Beta, and "Garuda" here appears to refer to the family's emblem.^{【221†[45]】} In Hindu mythology, Garuda is the 【222†vahana】 of god 【223†Vishnu】.
+L236: The Rashtrakutas and some other dynasties of Deccan claimed descent from the 【215†Vrishni】 clan (associated with Vishnu's 【224†avatar】 【216†Krishna】) and had adopted Garuda as their royal insignia.^{【210†[41]】} According to Sastry, this corroborates the theory that the Kakatiyas were associated with the Rashtrakuta family.^{【97†[6]】} Sastry further speculates that the Kakatiyas may have adopted the Garuda symbol because of Jain influence: the 【225†yaksha】 of the Jain 【226†tirthankara】 【227†Shantinatha】 is represented by the Garuda symbol.^{【97†[6]】} However, when the Kakatiyas switched their allegiance to the 【228†Chalukyas of Kalyani】, they also adopted the 【229†varaha】 symbol used by the Chalukyas.^{【230†[46]】}
+L237: Based on Ganapati-deva's Garavapadu inscription, which names 【155†Karikala Chola】 among the family's ancestors, epigraphist C.R.K. Charlu theorised that the Kakatiyas were a branch of the 【231†Telugu Chodas】. However, no other Kakatiya record mentions Karikala, and unlike the Telugu Chodas, the Kakatiyas did not claim to belong to the 【232†Kashyapa】-【233†gotra】. Therefore, Sastry dismisses Charlu's theory as untenable.^{【218†[44]】}
+L238: ### Early feudatory chiefs
+L239: The regnal years of the early members of the Kakatiya family are not certain. The earliest known Kakatiya chief is Venna or Vanna (r. c. 800-815), who claimed descent from 【153†Durjaya】, legendary 【154†chieftain】 of ancient Andhra. According to Kakatiya inscriptions, he ruled from a town called Kakati, because of which his family was called Kakatishas ("lords of Kakati"). Not much is known about his successors Gunda I and Gunda II, who ruled during c.
+L240: 815-865 CE.^{【234†[47]】} The Bayyaram tank inscription compares his successors - Gunda I, Gunda II, and Gunda III - to the three Ramas (【235†Parashurama】, 【194†Dasharatha-Rama】, and 【236†Balarama】).
+L241: The c. 956 CE Mangallu inscription suggests that the Kakatiyas came to the 【90†Telugu】-speaking region as commanders of the Rashtrakuta armies.^{【162†[19]】} The earliest of these was Venna's son 【202†Gunda III】, who died during 【237†Krishna II】's invasion of the 【199†Vengi Chalukya】 kingdom around 895 CE.^{【238†[48]】} Krishna II captured the Kurravadi (possibly present-day 【239†Kuravi】) region from the Vengi Chalukyas, and probably appointed Gunda III's son 【203†Erra】 as a governor there.
+L242: Not much is known about Erra's son Betiya.^{【240†[49]】}
+L243: As a Rashtrakuta vassal, Betiya's son 【200†Gunda IV】 (r. c. 955-995) helped the Vengi Chalukya prince Danarnava ascend the throne after a succession dispute. In 973 CE, after the collapse of the Rashtrakuta empire and the murder of Danarnava, he attempted to carve out an independent principality at 【239†Kuravi】. The Mudugonda Chalukyas, whom he had displaced from Kuravi, sought help from the 【228†Kalyani Chalukyas】, who had usurped the power from the Rashtrakutas.
+L244: The Kalyani Chalukya forces probably defeated and killed Gunda IV.^{【241†[50]】} His son 【242†Beta I】 (r. c. 1000-1052 CE) accepted the Kalyani Chalukya suzerainty and received from them the fief of Anumakonda (modern Hanamakonda), which later became the Kakatiya capital. He distinguished himself in the Chalukya campaigns against the Cholas, during the reign of 【243†Someshvara I】.^{【244†[51]】}
+L245: 【245†Prola I】 (r. c. (circa) 1052-1076), the son of Beta I, participated in various Chalukya military campaigns, consolidated the Kakatiya control around Anumakonda by defeating local chiefs, and obtained Anumakonda as a hereditary fief.^{【246†[52]】}^{【247†[53]】} The Chalukya king granted his son 【213†Beta II】 (r. c.
+L246: (circa) 996-1051) the Sabbi-1000 province (the historical Sabbi-nadu region with 1000 villages, centred around 【248†Vemulavada】).^{【249†[54]】} He was succeeded by his sons, first Durga-raja and then Prola II (r. c. 1116–1157).^{【250†[55]】}
+L247: After the decline of the Rashtrakuta power, the Kakatiyas served as vassals of the 【228†Kalyani Chalukyas】. After the decline of the Chalukya power in the 12th century, they assumed sovereignty by suppressing other Chalukya subordinates in the Telangana region.^{【251†[56]】}
+L248: ### As sovereigns
+L249: #### Prataparudra I
+L250: 
+L251: 【252†South Asia1175 CE】
+L252: 
+L253: 【253†KARAKHANIDKHANATE】
+L254: 
+L255: 【254†QARA KHITAI】
+L256: 
+L257: 【255†GHURIDEMPIRE】
+L258: 
+L259: 【256†CHAULUKYAS】
+L260: 
+L261: 【257†CHAHAMANAS】
+L262: 
+L263: 【258†LATEGHAZNAVIDS】
+L264: 
+L265: 【259†PARAMARAS】
+L266: 
+L267: 【102†WESTERNCHALUKYAS】
+L268: 
+L269: 【72†KAKATIYAS】
+L270: 
+L271: 【260†SHILA-HARAS】
+L272: 
+L273: 【261†CHOLAS】
+L274: 
+L275: 【262†CHERAS】
+L276: 
+L277: 【263†PANDYAS】
+L278: 
+L279: 【264†KADAMBAS】
+L280: 
+L281: 【265†HOYSALAS】
+L282: 
+L283: 【266†GAHADAVALAS】
+L284: 
+L285: 【267†GUHILAS】
+L286: 
+L287: 【268†KACHCHAPA-GHATAS】
+L288: 
+L289: 【269†CHANDELAS】
+L290: 
+L291: 【270†KALACHURIS(TRIPURI)】
+L292: 
+L293: 【271†KALACHURIS(RATNAPURA)】
+L294: 
+L295: 【272†SENAS】
+L296: 
+L297: 【273†KARNATAS】
+L298: 
+L299: 【274†KAMARUPAS】
+L300: 【275†EASTERNGANGAS】
+L301: 
+L302: 【276†GUGE】
+L303: 
+L304: 【277†MARYUL】
+L305: 
+L306: 【278†LOHA-RAS】
+L307: 
+L308: 【279†SOOMRAEMIRATE】
+L309: 
+L310: 【280†MAKRANSULTANATE】
+L311: 
+L312: 【281†class=notpageimage|】
+L313: 
+L314: Location of the Kakatiyas and neighbouring South Asian polities in 1175, on the eve of the 【282†Ghurid Empire】 invasion of the subcontinent.^{【283†[57]】}^{【284†[58]】}
+L315: The 1149 Sanigaram inscription of Prola II is the last known record of the Kakatiyas as vassals. The 1163 Anumakonda inscription of 【121†Rudradeva】 alias Prataparudra I is the earliest known record that describes the Kakatiyas as a sovereign power.^{【285†[59]】}
+L316: According to Sastry, Prataparudra I reigned between around 1158 – 1195,^{【250†[55]】} while Sircar gives the dates 1163–1195.

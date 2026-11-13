@@ -1,0 +1,315 @@
+Junagadh State - Wikipedia (https://en.wikipedia.org/wiki/Junagadh_State)
+citeturn128view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Junagadh_State","lineno":null}); Total lines: 313
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 Koli Rebellion】
+L51:   * 【20†3 Annexation by India】 Toggle Annexation by India subsection
+L52:     * 【21†3.1 Pakistan's claim】
+L53:   * 【22†4 List of rulers】 Toggle List of rulers subsection
+L54:     * 【23†4.1 Rulers】
+L55:   * 【24†5 See also】
+L56:   * 【25†6 References】
+L57:   * 【26†7 External links】
+L58: 
+L59: [Input] Toggle the table of contents
+L60: # Junagadh State
+L61: 
+L62: [Input] 23 languages
+L63:   * 【27†العربية†ar.wikipedia.org】
+L64:   * 【28†বাংলা†bn.wikipedia.org】
+L65:   * 【29†Català†ca.wikipedia.org】
+L66:   * 【30†Deutsch†de.wikipedia.org】
+L67:   * 【31†Español†es.wikipedia.org】
+L68:   * 【32†Suomi†fi.wikipedia.org】
+L69:   * 【33†Français†fr.wikipedia.org】
+L70:   * 【34†ગુજરાતી†gu.wikipedia.org】
+L71:   * 【35†हिन्दी†hi.wikipedia.org】
+L72:   * 【36†Bahasa Indonesia†id.wikipedia.org】
+L73:   * 【37†Italiano†it.wikipedia.org】
+L74:   * 【38†한국어†ko.wikipedia.org】
+L75:   * 【39†मराठी†mr.wikipedia.org】
+L76:   * 【40†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L77:   * 【41†پنجابی†pnb.wikipedia.org】
+L78:   * 【42†Português†pt.wikipedia.org】
+L79:   * 【43†Русский†ru.wikipedia.org】
+L80:   * 【44†Simple English†simple.wikipedia.org】
+L81:   * 【45†தமிழ்†ta.wikipedia.org】
+L82:   * 【46†తెలుగు†te.wikipedia.org】
+L83:   * 【47†اردو†ur.wikipedia.org】
+L84:   * 【48†Tiếng Việt†vi.wikipedia.org】
+L85:   * 【49†中文†zh.wikipedia.org】
+L86: 【50†Edit links†www.wikidata.org】
+L87: 
+L88:   * 【51†Article】
+L89:   * 【52†Talk】
+L90: 
+L91: [Input] English
+L92: 
+L93:   * 【51†Read】
+L94:   * 【53†View source】
+L95:   * 【54†View history】
+L96: 
+L97: [Input] Tools
+L98: 
+L99: Tools
+L100: 
+L101: [Button: move to sidebar] [Button: hide]
+L102: 
+L103: Actions
+L104: 
+L105:   * 【51†Read】
+L106:   * 【53†View source】
+L107:   * 【54†View history】
+L108: 
+L109: General
+L110: 
+L111:   * 【55†What links here】
+L112:   * 【56†Related changes】
+L113:   * 【57†Upload file】
+L114:   * 【58†Permanent link】
+L115:   * 【59†Page information】
+L116:   * 【60†Cite this page】
+L117:   * 【61†Get shortened URL】
+L118:   * 【62†Switch to legacy parser】
+L119: 
+L120: Print/export
+L121:   * 【63†Download as PDF】
+L122:   * Printable version
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【64†Wikimedia Commons†commons.wikimedia.org】
+L127:   * 【65†Wikidata item†www.wikidata.org】
+L128: 
+L129: Appearance
+L130: 
+L131: [Button: move to sidebar] [Button: hide]
+L132: 
+L133: 【66†Coordinates】: 【67†21°31′N 70°28′E﻿ / ﻿21.52°N 70.47°E﻿ / 21.52; 70.47†geohack.toolforge.org】
+L134:  | This article needs 【68†more citations】. Please help 【69†improve this article】 by 【70†adding citations to reliable sources】. Unsourced material may be challenged and 【71†removed】.
+L135: Find sources: 【72†"Junagadh State"†www.google.com】 – 【73†news†www.google.com】 · 【74†newspapers†www.google.com】 · 【75†books†www.google.com】 · 【76†scholar†scholar.google.com】 · 【77†JSTOR†www.jstor.org】 (December 2015) (【78†Learn how and when to remove this message】)
+L136: State of Junagadh
+L137: ---
+L138: 1730–1948
+L139: Flag (1947–48) Emblem ^{【79†[2]】}
+L140: Location of the State of Junagarh,
+L141: among all districts (in dark green)
+L142: Status  | State Within the 【80†Maratha Confederacy】 (1731–1807)
+L143: 【81†Protectorate】 of the 【82†East India Company】 (1807–1857)
+L144: 【83†Princely State】 of the 【84†British Raj】 (1857–1947)
+L145: Capital  | 【85†Junagadh】
+L146: 【86†Nawab】  |
+L147: • 1730– 1758 (first)  | Mohammad Bahadur Khanji I
+L148: • 1911–1948 (last)  | 【87†Muhammad Mahabat Khan III】
+L149: History  |
+L150: • Founded  | 1730
+L151: • 【88†Annexation of Junagarh】  | 1948
+L152: Area
+L153: ---
+L154: 1921  | 8,643 km^{2} (3,337 sq mi)
+L155: Population
+L156: ---
+L157: • 1921  | 465,493
+L158: Preceded by Succeeded by
+L159: 【89†Image†upload.wikimedia.org】 【90†Maratha Empire】
+L160: 【91†Saurashtra】 【92†Image†thumb.wikimedia.org】
+L161: Today part of  | 【93†Gujarat】, 【94†India】
+L162: Modern state of 【93†Gujarat】, shown within modern borders of India
+L163: The State of Junagadh was a 【95†princely state】 in the 【96†Kathiawar Peninsula】 of western India, located in present-day 【93†Gujarat】.
+L164: Ruled by the 【97†Babi dynasty】 of Muslim Nawabs since 1654, it was one of the larger princely states in the region firstly within the 【90†Maratha Empire】 and later by 【98†British India】.^{【99†[3]】} In 1947, following the 【100†partition of India】, Junagadh became the subject of a political dispute when its ruler, Nawab Mahabat Khan III, acceded to 【101†Pakistan】 despite the state's predominantly Hindu population and its geographical contiguity with India.^{【102†[4]】} This decision led to unrest and the eventual 【103†intervention】 of the Government of India.
+L165: After a plebiscite held in 1948, in which an overwhelming majority voted in favor of accession to 【104†India】, Junagadh was integrated into the Indian Union and later became part of the state of Gujarat.^{【105†[5]】}^{【106†[6]】} Pakistan claims sovereignty over the erstwhile princely state to this day.^{【107†[7]】}^{【108†[8]】}
+L166: ## History
+L167: 
+L168: Junagadh Museum
+L169: 
+L170: The state of Junagadh was established by the Maharaja of 【109†Parmar】 【110†Rajputs】. Muhammad Sher Khan Babai was the founder of the 【97†Babi Pashtun dynasty】 of Junagarh in 1654. His descendants, the Babi Nawabs of Junagarh, conquered large territories in southern 【111†Saurashtra】.
+L171: However, during the collapse of the 【112†Mughal Empire】, the Babis became involved in a struggle with the 【113†Gaekwad dynasty】 of the 【90†Maratha Empire】 over control of 【93†Gujarat】, during the reign of the local Mohammad Mahabat Khanji I. Mohammad Khan Bahadur Khanji I declared independence from the Mughal governor of Gujarat subah, and founded the state of Junagarh in 1730. This allowed the Babi to retain sovereignty of Junagarh and other princely states.
+L172: During the reign of his heir Junagarh was a tributary to the Maratha Empire,^{【114†[9]】} until it came under 【115†British suzerainty】 in 1807 under Mohammad Hamid Khanji I,^{【99†[3]】} following the 【116†Second Anglo-Maratha War】.
+L173: In 1807, Junagarh became a British protectorate and the 【82†East India Company】 took control of the state. By 1818, the 【91†Saurashtra】 area, along with other 【117†princely states】 of 【118†Kathiawar】, were separately administered under the 【119†Kathiawar Agency】 by 【98†British India】.
+L174: In 1947, during the 【100†partition of India】, the last Babi dynasty ruler of the state, 【120†Muhammad Mahabat Khanji III】, decided to accede to the 【101†Dominion of Pakistan】 but 【88†Junagarh was annexed】 by India which was followed by a plebiscite in which the locals voted to stay with India.
+L175: ## Koli Rebellion
+L176: 
+L177: A coat of arms was granted to Muhammed Mahabat Khanji II at the Durbar in Delhi of 1877, used until 1947.
+L178: There was a 【121†Koli】 rebellion in Junagarh by Mansa Khant during the reign of 【86†Nawab】 Sher Khan (the first ruler of Junagarh). He revolted against the ongoing 【112†Mughal Rule】, with 【122†Uparkot Fort】 serving as his centre of operations. He made a series of raids into the surrounding villages and cities. Nawab Sher Khan was unsuccessful in suppressing the rebellion. Mansa Khant occupied Uparkot for 13 months and continued to carry out numerous raids mostly in the countryside.
+L179: The nawab was assisted by the ruler of 【123†Gondal State】, Thakur Sahib Haloji 【124†Jadeja】 and Arab Jamadar Sheikh Abdullah Zubeidi in his campaign against the rebellion. The combined forces defeated Mansa Khant, captured Uparkot and crushed the rebellion.^{【125†[10]】}^{【126†[11]】}
+L180: ## Annexation by India
+L181: 
+L182: Main article: 【88†Annexation of Junagarh】
+L183: 
+L184: In 1947, 【127†Shah Nawaz Bhutto】 joined the council of ministers of Nawab 【87†Muhammad Mahabat Khan III】, and in May became his 【128†dewan】 or prime minister.
+L185: 
+L186: With the 【100†partition of India】 in 1947, the princely states were left by the British to decide whether to accede to one of the newly independent Union of India or Dominion of Pakistan, or become a separate country.^{【129†[12]】}
+L187: The Constitutional Advisor to the Nawab, Nabi Baksh, indicated to 【130†Lord Mountbatten】 that he was recommending that Junagarh should join India. However, upon the advice of Dewan Bhutto, on 15 August 1947, the Nawab announced that Junagarh had acceded to Pakistan. On 16 September, the Government of Pakistan accepted the accession.^{【102†[4]】}
+L188: India sent its military into Junagarh while the Nawab of Junagarh was in Pakistan and captured the State of Junagarh. The annexation of Junagarh by India led to the Nawab 【87†Muhammad Mahabat Khan III】 of Junagarh (of the erstwhile Babi Nawab dynasty of Junagarh) living in exile in 【131†Sindh】, Pakistan.^{【132†[13]】}
+L189: ### Pakistan's claim
+L190: 
+L191: Pakistan's government has maintained its territorial claim on Junagadh, along with 【133†Manavadar】 and 【134†Sir Creek】 in Gujarat, on its official political maps.^{【135†[14]】}^{【107†[7]】}^{【108†[8]】}^{【136†[15]】} On 10 December 2020, 【137†Sultan Ahmed Ali】 took oath as the Dewan of Junagadh State.^{【138†[16]】}
+L192: ## List of rulers
+L193: 
+L194:  | This article needs 【68†more citations】. Please help 【69†improve this article】 by 【70†adding citations to reliable sources】. Unsourced material may be challenged and 【71†removed】.
+L195: Find sources: 【72†"Junagadh State"†www.google.com】 – 【73†news†www.google.com】 · 【74†newspapers†www.google.com】 · 【75†books†www.google.com】 · 【76†scholar†scholar.google.com】 · 【77†JSTOR†www.jstor.org】 (March 2025) (【78†Learn how and when to remove this message】)
+L196: ### Rulers
+L197: 
+L198: Main article: 【139†Nawab of Junagarh】
+L199: 
+L200: Tomb of Mahabat Khan
+L201: 
+L202: The 【86†Nawabs】 of Junagarh belonged to 【140†Pathan】 Babi or 【141†Babai (Pashtun tribe)】. They were granted a 13 【142†gun salute】 by the British authorities:^{【143†[17]】}
+L203:   * 1730–1758 : Mohammad Bahadur Khanji I or 【144†Mohammad Sher Khanji Babai】^{【145†[18]】}
+L204:   * 1758–1774: Mohammad Mahabat Khan I
+L205:   * 1774–1811: Mohammad Hamid Khan I
+L206:   * 1811–1840: Mohammad Bahadur Khan II
+L207:   * 1840–1851: Mohammad Hamid Khan II
+L208:   * 1851–1882: Mohammad Mahabat Khan II
+L209:   * 1882–1892: Mohammad Bahadur Khan III
+L210:   * 1892–1911: Mohammad Rasul Khan
+L211:   * 1911–1948: 【87†Mohammad Mahabat Khan III】 (last ruler before the 【88†integration of Junagarh into India】)
+L212:   * Junagarh Nawabs and state officials, 19th century
+L213: 
+L214:   * Mohammad Mahabat Khanji II, the Nawab of Junagarh, with young, Mohammad Bahadur Khanji III, 1870s
+L215: 
+L216:   * Bahadur Khanji II (r. 1882–1892), Nawab of Junagarh, and state officials, 1880s
+L217: 
+L218:   * Mohammad Rasul Khanji, Nawab of Junagarh, Bahaduddinbhai Hasainbhai, Wazier, Junagarh, 1890s
+L219: ## See also
+L220: 
+L221:   * 【146†Manavadar State】
+L222:   * 【147†V. P. Menon】
+L223:   * 【148†Political integration of India】
+L224:   * 【149†Pathans of Gujarat】
+L225:   * 【150†Junagadh State Railway】
+L226: ## References
+L227:   1. Khamir, Kathiyawadi (11 January 2014). 【151†"coat-of-arms-emblem-junagadh | કાઠિયાવાડી ખમીર"†kathiyawadikhamir.com】.
+L228:   2. 【152†↑】 Khamir, Kathiyawadi (11 January 2014). 【151†"coat-of-arms-emblem-junagadh | કાઠિયાવાડી ખમીર"†kathiyawadikhamir.com】.
+L229:   3. 【153†1】 【154†2】 【155†Chisholm, Hugh】, ed. (1911). 【156†"Junagarh" †en.wikisource.org】. 【157†Encyclopædia Britannica】. Vol. 15 (11th ed.). Cambridge University Press. pp. 554–555.
+L230:   4. 【158†1】 【159†2】 Menon, V. P. (1956). 【160†The Story of Integration of the Indian States†hidf1.files.wordpress.com】 (PDF). Orient Longman. pp. 85–87.
+L231:   5. 【161†↑】 Collins, Larry (2011). Freedom at Midnight (Seventh ed.). Vikas Publishing House. pp. 556–557. 【162†ISBN】 【163†978-8125931867】.
+L232:   6. 【164†↑】 【165†"Explained: When Junagadh voted to join India, and Pakistan got just 91 votes"†indianexpress.com】. The Indian Express. 5 August 2020. Retrieved 17 July 2023.
+L233:   7. 【166†1】 【167†2】 Philip Jagessar, 【168†Pakistan, India and mapping the contested accession of South Asia’s princely states†blogs.nottingham.ac.uk】, University of Nottingham, 3 October 2019.
+L234:   8. 【169†1】 【170†2】 【171†"After Nepal, Pakistan unveils new political map; Jammu & Kashmir and Ladakh claimed, India retorts"†thehimalayantimes.com】. The Himalayan Times. 4 August 2020. Retrieved 4 August 2020.
+L235:   9. 【172†↑】 【173†Georg Pfeffer】; Deepak Kumar Behera (1997), 【174†Contemporary Society: Concept of tribal society†books.google.com】, Concept Publishing Company, p. 198, 【162†ISBN】 【175†9788170229834】
+L236:   10. 【176†↑】 Williams, Raymond Brady; Trivedi, Yogi (12 May 2016). 【177†Swaminarayan Hinduism: Tradition, Adaptation, and Identity†books.google.com】. Oxford University Press. 【162†ISBN】 【178†9780199089598】.
+L237:   11. 【179†↑】 【180†"KOLIS: A FRINGE CATEGORY"†shodhganga.inflibnet.ac.in】 (PDF). shodhganga.inflibnet.ac.in. Retrieved 1 January 2019.
+L238:   12. 【181†↑】 Copland, Ian (1991). 【182†"The Princely States, the Muslim League, and the Partition of India in 1947"†www.jstor.org】. The International History Review. 13 (1): 38–69. 【183†doi】:【184†10.1080/07075332.1991.9640572†doi.org】. 【185†ISSN】 【186†0707-5332†search.worldcat.org】. 【187†JSTOR】 【182†40106322†www.jstor.org】.
+L239:   13. 【188†↑】 【189†"Welcome to Junagadh Municipal Corporation"†web.archive.org】. Archived from 【190†the original†www.junagadhmunicipal.org】 on 25 February 2013. Retrieved 5 July 2016.
+L240:   14. 【191†↑】 Devirupa Mitra, 【192†Pakistan Objects to India's Map Bill But its Own 2014 Law Regulates Geospatial Data Too†thewire.in】, The Wire, 18 May 2016.
+L241:   15. 【193†↑】 【194†"Illegal occupation of Junagadh was an act of brazen aggression"†www.nation.com.pk】. The Nation. 20 March 2021. Retrieved 30 October 2024.
+L242:   16. 【195†↑】 news.desk (12 December 2020). 【196†"New prime minister of Junagadh sworn in"†tribune.com.pk】. The Express Tribune. Retrieved 9 December 2024.
+L243:   17. 【197†↑】 Soszynski, Henry. 【198†"JUNAGADH"†web.archive.org】. Archived from 【199†the original†members.iinet.net.au】 on 20 May 2017. Retrieved 27 June 2014.
+L244:   18. 【200†↑】 【201†Nawabs of Junagarh†www.collectbritain.co.uk】 【202†Archived†web.archive.org】 9 February 2012 at the 【203†Wayback Machine】 British Library.
+L245: ## External links
+L246: 
+L247: Wikimedia Commons has media related to 【204†Junagadh State†commons.wikimedia.org】.
+L248: 
+L249:   * 【205†Official website†www.junagadhstate.org】
+L250:   * 【206†Classic Gallery of Indian Numismatics†indiannumismatics.com】
+L251:   * 【207†Heraldry of the princely states of Gujarat†www.hubert-herald.nl】
+L252: 
+L253: 【67†21°31′N 70°28′E﻿ / ﻿21.52°N 70.47°E﻿ / 21.52; 70.47†geohack.toolforge.org】
+L254: 
+L255: 【208†Image】
+L256: 
+L257: Retrieved from "【58†https://en.wikipedia.org/w/index.php?title=Junagadh_State&oldid=1370887874】"
+L258: 
+L259: 【209†Categories】:
+L260:   * 【210†1730 establishments in India】
+L261:   * 【211†1948 disestablishments in India】
+L262:   * 【212†Bombay Presidency】
+L263:   * 【213†Former protectorates】
+L264:   * 【214†States under the Kathiawar Agency】
+L265:   * 【215†Pashtun dynasties】
+L266:   * 【216†States and territories disestablished in 1948】
+L267: 
+L268: Hidden categories:
+L269:   * 【217†Articles with short description】
+L270:   * 【218†Short description is different from Wikidata】
+L271:   * 【219†Wikipedia extended-confirmed-protected pages】
+L272:   * 【220†Use dmy dates from April 2020】
+L273:   * 【221†Use Indian English from June 2017】
+L274:   * 【222†All Wikipedia articles written in Indian English】
+L275:   * 【223†Articles needing additional references from December 2015】
+L276:   * 【224†All articles needing additional references】
+L277:   * 【225†Pages with non-numeric formatnum arguments】
+L278:   * 【226†All articles with unsourced statements】
+L279:   * 【227†Articles with unsourced statements from July 2025】
+L280:   * 【228†Pages using infobox country or infobox former country with the flag caption or type parameters】
+L281:   * 【229†Pages using infobox country or infobox former country with the symbol caption or type parameters】
+L282:   * 【230†Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference】
+L283:   * 【231†Articles needing additional references from March 2025】
+L284:   * 【232†Webarchive template wayback links】
+L285:   * 【233†Commons category link from Wikidata】
+L286:   * 【234†Official website not in Wikidata】
+L287:   * 【235†Pages using gadget WikiMiniAtlas】
+L288:   * 【236†Coordinates on Wikidata】
+L289:   * This page was last edited on 23 August 2026, at 16:10 (UTC).
+L290:   * Page was rendered with 【237†Parsoid†www.mediawiki.org】.
+L291:   * Text is available under the 【238†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【239†Terms of Use†foundation.wikimedia.org】 and 【240†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【241†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L292:   * 【240†Privacy policy†foundation.wikimedia.org】
+L293:   * 【5†About Wikipedia】
+L294:   * 【242†Disclaimers】
+L295:   * 【6†Contact Wikipedia】
+L296:   * 【243†Legal & safety contacts†foundation.wikimedia.org】
+L297:   * 【244†Code of Conduct†foundation.wikimedia.org】
+L298:   * 【245†Developers†developer.wikimedia.org】
+L299:   * 【246†Statistics†stats.wikimedia.org】
+L300:   * 【247†Cookie statement†foundation.wikimedia.org】
+L301:   * Search
+L302: 
+L303: [Input: Search Wikipedia]
+L304: 
+L305: [Input]
+L306: 
+L307: [Button: Search]
+L308: 
+L309: [Input] Toggle the table of contents
+L310: 
+L311: Junagadh State
+L312: 23 languages 【17†Add topic】

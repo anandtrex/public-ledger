@@ -1,0 +1,367 @@
+Shah dynasty - Wikipedia (https://en.wikipedia.org/wiki/Shah_dynasty)
+citeturn107view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Shah_dynasty","lineno":null}); Total lines: 529
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】
+L49:   * 【19†2 Coronation of Dravya Shah】
+L50:   * 【20†3 Absolute monarchy (1768–1846)】
+L51:   * 【21†4 Hereditary prime ministers (1846–1951)】
+L52:   * 【22†5 Constitutional monarchy (1990–2008)】 Toggle Constitutional monarchy (1990–2008) subsection
+L53:     * 【23†5.1 Massacre of the royal family】
+L54:   * 【24†6 Abolition of the Shah monarchy】
+L55:   * 【25†7 Post-Abolition Loyalism】
+L56:   * 【26†8 Monarchs of Shah dynasty (1559–2008)】 Toggle Monarchs of Shah dynasty (1559–2008) subsection
+L57:     * 【27†8.1 Monarchs of Shah dynasty of Gorkha (1559–1768)】
+L58:     * 【28†8.2 Monarchs of Shah dynasty of Patan (1761–1765)】
+L59:     * 【29†8.3 Monarchs of Shah dynasty of Nepal (1768–2008)】
+L60:   * 【30†9 Paternal roots of Shah dynasty】
+L61:   * 【31†10 See also】
+L62:   * 【32†11 Notes】
+L63:   * 【33†12 References】
+L64:   * 【34†13 Books】
+L65:   * 【35†14 External links】
+L66: [Input] Toggle the table of contents
+L67: # Shah dynasty
+L68: 
+L69: [Input] 22 languages
+L70:   * 【36†Català†ca.wikipedia.org】
+L71:   * 【37†Dansk†da.wikipedia.org】
+L72:   * 【38†डोटेली†dty.wikipedia.org】
+L73:   * 【39†Español†es.wikipedia.org】
+L74:   * 【40†Eesti†et.wikipedia.org】
+L75:   * 【41†فارسی†fa.wikipedia.org】
+L76:   * 【42†Français†fr.wikipedia.org】
+L77:   * 【43†हिन्दी†hi.wikipedia.org】
+L78:   * 【44†Italiano†it.wikipedia.org】
+L79:   * 【45†日本語†ja.wikipedia.org】
+L80:   * 【46†한국어†ko.wikipedia.org】
+L81:   * 【47†मैथिली†mai.wikipedia.org】
+L82:   * 【48†नेपाली†ne.wikipedia.org】
+L83:   * 【49†پنجابی†pnb.wikipedia.org】
+L84:   * 【50†Русский†ru.wikipedia.org】
+L85:   * 【51†Simple English†simple.wikipedia.org】
+L86:   * 【52†தமிழ்†ta.wikipedia.org】
+L87:   * 【53†ไทย†th.wikipedia.org】
+L88:   * 【54†اردو†ur.wikipedia.org】
+L89:   * 【55†Tiếng Việt†vi.wikipedia.org】
+L90:   * 【56†吴语†wuu.wikipedia.org】
+L91:   * 【57†中文†zh.wikipedia.org】
+L92: 【58†Edit links†www.wikidata.org】
+L93: 
+L94:   * 【59†Article】
+L95:   * 【60†Talk】
+L96: 
+L97: [Input] English
+L98: 
+L99:   * 【59†Read】
+L100:   * 【61†Edit】
+L101:   * 【62†View history】
+L102:   * 【17†Save】
+L103: 
+L104: [Input] Tools
+L105: 
+L106: Tools
+L107: 
+L108: [Button: move to sidebar] [Button: hide]
+L109: 
+L110: Actions
+L111: 
+L112:   * 【59†Read】
+L113:   * 【61†Edit】
+L114:   * 【62†View history】
+L115:   * 【17†Save】
+L116: 
+L117: General
+L118: 
+L119:   * 【63†What links here】
+L120:   * 【64†Related changes】
+L121:   * 【65†Upload file】
+L122:   * 【66†Permanent link】
+L123:   * 【67†Page information】
+L124:   * 【68†Cite this page】
+L125:   * 【69†Get shortened URL】
+L126:   * 【70†Switch to legacy parser】
+L127: Print/export
+L128: 
+L129:   * 【71†Download as PDF】
+L130:   * Printable version
+L131: 
+L132: In other projects
+L133: 
+L134:   * 【72†Wikidata item†www.wikidata.org】
+L135: 
+L136: Appearance
+L137: 
+L138: [Button: move to sidebar] [Button: hide]
+L139: 
+L140: This article is about the Nepali dynasty. For other dynasties which used the title "Shah", see 【73†Shah】.
+L141:  | This article needs 【74†more citations】. Please help 【75†improve this article】 by 【76†adding citations to reliable sources】. Unsourced material may be challenged and 【77†removed】.
+L142: Find sources: 【78†"Shah dynasty"†www.google.com】 – 【79†news†www.google.com】 · 【80†newspapers†www.google.com】 · 【81†books†www.google.com】 · 【82†scholar†scholar.google.com】 · 【83†JSTOR†www.jstor.org】 (April 2012) (【84†Learn how and when to remove this message】)
+L143: 【85†Image†thumb.wikimedia.org】  | This article may require 【86†copy editing】 for grammar issues, especially tense (consistent use of present tense when past tense is meant). You can assist by 【75†editing it】. (October 2026) (【84†Learn how and when to remove this message】)
+L144: Shah dynasty
+L145: शाह वंश
+L146: ---
+L147: The royal coat of arms of Nepal during the Shah dynasty (adopted in 1962), featuring the Shree Paanch crown, crossed Gurkha khukris, and the royal motto at the base.
+L148: Parent house  |
+L149:   * 【87†Thakuri】
+L150: Country  | 【88†Kingdom of Nepal】
+L151: Founded  | 15th century
+L152: Founder  | 【89†Kulamandan Shah Khad】
+L153: Current head  | 【90†Gyanendra Bir Bikram Shah】
+L154: Final ruler  | 【90†Gyanendra Bir Bikram Shah】
+L155: Titles  |
+L156:   * King of 【91†Kaski】
+L157:   * King of 【92†Lamjung】
+L158:   * King of 【93†Gorkha】
+L159:   * King of 【94†Nuwakot】
+L160:   * King of 【95†Tanahun】
+L161:   * King of 【96†Makwanpur】
+L162:   * King of 【97†Hariharpur】
+L163:   * King of 【98†Kirtipur】
+L164:   * King of 【99†Kathmandu】
+L165:   * King of 【100†Lalitpur】
+L166:   * King of 【101†Bhaktapur】
+L167:   * King of 【102†Sataunkot】
+L168:   * King of 【103†Bajhang】
+L169:   * King of 【104†Bhirkot】
+L170:   * King of 【88†Nepal】
+L171: 【105†Styles】  |
+L172:   * 【106†Maharaja】 (1467–1768)
+L173:   * 【107†Maharajadhiraja】 (1768–1856)
+L174:   * 【108†Shri Panch】 【107†Maharajadhiraja】 (1856–2008)
+L175: Motto  | “विद्या मै छ महाशक्ति; कर्म मै छ सुपूजन।”
+L176: ("Great power lies in knowledge; Better worship lies in action.")
+L177: Dissolution  | 28 May 2008^{【109†[1]】}
+L178: Cadet branches  | 【110†Chautariya】
+L179: The Shah dynasty (【111†Nepali】: शाह वंश, romanized: Shāh Vaṃśa), also known as the Shahs of Gorkha or the Royal House of Gorkha, was a Nepalese 【87†Thakuri】 dynasty that ruled the 【112†Gorkha Kingdom】, one of the 【113†Chaubise】 principalities, from 1559 to 1768. Following the 【114†unification of Nepal】 under 【115†Prithvi Narayan Shah】, the dynasty ruled the 【88†Kingdom of Nepal】 from 25 September 1768 until the 【116†monarchy】 was abolished on 28 May 2008.^{【117†[2]】}
+L180: The Shah kings claimed descent from 【118†Rajput】 chiefs who migrated to the Himalayan hills during the 【119†medieval period】. According to the genealogical chronicles (lit.
+L181: (literal translation) 'vamsavalis') of Nepal, the Shahs were descendants of the rulers of 【120†Chittaur】 who fled from 【121†Central India】 during the 【122†Muslim invasions of the twelfth and thirteenth centuries】.^{【123†[3]】} 【124†Dravya Shah】, the youngest son of Yasho Brahma Shah of 【125†Lamjung】, seized control of the small hill state of Gorkha in 1559, establishing the dynasty's rule over the 【126†principality】.^{【127†[4]】} Over the following two centuries, the Shah rulers consolidated their position in the Gorkha region, and by the mid-eighteenth century, Gorkha had emerged as one of the most ambitious state of the Chaubisi principalities.
+L182: The dynasty's most transformative period began with the accession of 【115†Prithvi Narayan Shah】 to the Gorkha throne in 1743.
+L183: He launched a campaign to unify the fragmented hill states of present-day Nepal, beginning with the annexation of the Chaubisi principalities and culminating in the conquest of the 【128†Kathmandu Valley】 in 1768.^{【123†[3]】} Rather than annexing the newly acquired territories to Gorkha, Prithvi Narayan Shah moved his capital to Kathmandu, establishing the Shah dynasty as the ruling house of a unified Nepal.
+L184: His successors expanded the kingdom's borders, but the Shah monarchs' power was later seized by the hereditary 【129†Rana】 prime ministers, who dominated Nepal from 1846 to 1951.^{【123†[3]】} The dynasty continued as a 【130†constitutional monarchy】 until 2008, when the 【131†Constituent Assembly】 voted to abolish the monarchy, ending 240 years of Shah rule.^{【132†[5]】} The last Shah king, 【90†Gyanendra】, was given fifteen days to vacate the royal palace, which was subsequently converted into a museum.^{【132†[5]】}
+L185: ## History
+L186: 
+L187: [【133†edit】]
+L188: 
+L189: The Shah dynasty traces its historical ancestry to King of 【134†Kaski】, 【135†Kulamandan Khand Shah】, whose grandson 【124†Dravya Shah】 conquered the 【136†Liglig】 from local 【137†Magar】 King Dalsur Ghale Magar^{【138†[6]】} with the help of accomplices from six resident clans of Majhkot and Liglig. Dravya Shah named his new kingdom 【112†Gorkha】.
+L190: The origins of the Shah dynasty are deeply rooted in the historical landscape of 【139†Magarat】 and Tamuwan, an ancient confederation in western Nepal inhabited primarily by the 【137†Magars】 in the Western and Central hills (【140†Palpa】, 【141†Tanahu】, 【142†Gulmi】, Arghakhanchi, Syangja, 【143†Myagdi】, Parbat, 【144†Baglung】, 【145†Pyuthan】, 【146†Rukum】, 【147†Rolpa】, Kushma, Musikot, Ghiring, Rising, 【136†Liglig】, and Gorkha, which were historically part of the Magarat region as it was known as the Magar homeland before the unification of Nepal), and 【148†Gurung】 in the Central hills (Lamjung, Gorkha, Kaski, Tanahu).
+L191: Before the Shah came to power, 12 Magarat—located in the Western and Central hills—was ruled by various Magar kings, including the powerful Magar kings of Palpa.^{【149†[7]】}^{【150†[8]】}^{【151†[9]】} Meanwhile, 18 Magarat, located west of the Kali 【152†Gandaki river】 and primarily inhabited by the 【153†Kham Magar】, was governed by Magar rulers,^{【154†[10]】}^{【155†[11]】} alongside Malla-Khas influence in some areas, and Tamuwan was ruled by a Native Gurung tribal chief.
+L192: After the decline of 【139†Magarat】's unity, the region fragmented into two groups of small kingdoms: the 【156†Baise Rajya】 (22 principalities) in the far west and the 【113†Chaubisi Rajya】 (24 principalities) in central Nepal. These kingdoms were mostly ruled by local 【87†Thakuri】 and 【157†Magar】 chieftains. Among the 【113†Chaubisi Rajya】 states was 【112†Gorkha】, where the Shah dynasty rose to power by replacing a local chief.
+L193: In 1559 CE, Dravya Shah, the son of a Lamjung ruler, seized control of 【112†Gorkha】 by defeating the Magar king 【158†Mansingh Khadka Magar】 with the support of local elites. The Shah dynasty combined their Khas-Thakuri heritage with the martial traditions of 【139†Magarat】, gradually expanding their influence by conquering neighboring principalities.
+L194: This process of unification culminated in 1768 CE under 【115†Prithvi Narayan Shah】, who established the modern Kingdom of Nepal, marking the Shah dynasty as both inheritors and transformants of 【139†Magarat】's legacy.
+L195: ## Coronation of Dravya Shah
+L196: 
+L197: [【159†edit】]
+L198: 【124†Dravya Shah】 was the youngest son of 【160†Yasho Brahma Shah】, 【161†Raja】 (king) of Lamjung and grandson of 【89†Kulamandan Shah Khad】, Raja of Kaski.^{【162†[12]】} He became the king of 【112†Gorkha】 with the help of his accomplices: Gangaram Rana Magar, Narayan Das Arjyal, Kaji Ganesh Pandey. He ascended the throne of Gorkha in 1559 A.D. The loose translation of the Nepali work known as the "Wright Chronicle"^{【163†[13]】} describes the coronation of Dravya Shah thus:
+L199: > On Wednesday the 8th of 【164†Bhadon】 Badi, 【165†Saka】 1481 (A.D. 1559) 【166†Rohini Nakshatra】 (i.e. the moon in the Rohini mansion) being an auspicious day, Drabya Shah aided by Bhagirath Panth, 【167†Ganesa Pande】, Gangaram Rana Magar, Narayan Das Arjyal, Khanal Bohra and Murli Khawas of Gorkha, concealed himself in a hut.
+L200: Ganesa Pande had collected all the people of who wore the brahmanical thread such as the 【168†Thapas】, Busals, Ranas and Maski Ranas of the 【137†Magar】 tribe, they went by the Dahya Gauda route and the Durbar. Drabya Shah killed the King 【158†Mansingh Khadka Magar】^{【162†[12]】} his own hand, with a sword, during the battle ensued. At the same auspicious moment Drabya took his seat on the 【169†gaddi】, amidst the clash music.
+L201: — History of Nepal^{【162†[12]】}
+L202: ## Absolute monarchy (1768–1846)
+L203: 
+L204: [【170†edit】]
+L205: 
+L206: King 【115†Prithvi Narayan Shah】, the last king of 【112†Gorkha Kingdom】 (1743–1768) and the first Shah king of 【171†Nepal】 (1768–1775)
+L207: In 1743, 【115†Prithvi Narayan Shah】 became the ruler of Gorkha. He declared war on other principalities, defeating them one by one. On 25 September 1768, he established the 【114†unified kingdom of Gorkha】. He became the first king of the unified kingdom named as 【172†Asal Hindustan】. He, his sons and their successors continued fighting and defeating other kingdoms and enlarging the kingdom of Gorkha. In 1814, the 【173†Anglo–Nepalese War】 between 【174†Gorkha】 and the 【175†East India Company】 began.
+L208: By 1815, the Shah king had been thoroughly defeated. By 1816, Gorkha had lost one-third of its territory. The Shah kings continued to rule as absolute monarchs until 1846, when the political order changed from 【176†absolute monarchy】 to 【130†constitutional monarchy】.
+L209: ## Hereditary prime ministers (1846–1951)
+L210: 
+L211: [【177†edit】]
+L212: In 1846, the 【129†Rana dynasty】 gained power in Nepal. The Ranas became prime ministers and reduced the King's status to a figurehead position. The Ranas ruled Nepal as hereditary prime ministers though in the name of the figurehead king. In 1950, the Shah king 【178†King Tribhuvan】 went into exile in India. He and his family, including the crown prince 【179†Mahendra】, later returned.
+L213: After India became a 【180†secular state】 in 1950, and the remaining rajas retired, Nepal was the only remaining 【181†Hindu】 kingdom. In 1951, with the help of India, a popular politician common man 【182†Matrika Prasad Koirala】 became the prime minister of Nepal. Tribhuvan returned to Kathmandu. The Shah dynasty regained control and the prime minister, 【183†Mohan Shamsher Jang Bahadur Rana】, resigned. 【178†King Tribhuvan】 ruled until 1955 and King 【179†Mahendra】 ruled until 1972.
+L214: Mahendra's son, 【184†Birendra】, became king.
+L215: ## Constitutional monarchy (1990–2008)
+L216: 
+L217: [【185†edit】]
+L218: 
+L219: King 【186†Birendra Bir Bikram Shah】; the first constitutional monarch of Nepal
+L220: 
+L221: In 1990, under King 【184†Birendra】, Nepal became a 【130†constitutional monarchy】 after a mass movement from people forced Birendra Shah to restore democracy.^{【187†[14]】}
+L222: ### Massacre of the royal family
+L223: 
+L224: [【188†edit】]
+L225: On 1 June 2001, some members of the Shah dynasty were 【189†murdered in the royal palace】. A High Commission inquiry report concluded that the royal family was slaughtered by Crown Prince 【190†Dipendra】. This remains controversial.^{【191†[15]】} Among the dead were the Crown Prince's father, King Birendra and his brother, 【192†Prince Nirajan】. After the attack, Dipendra was in a coma and was declared king for a short time. He died a few days later.
+L226: 【90†Gyanendra Bir Bikram Shah Dev】, Dipendra's uncle, took the throne. In February 2005, he dismissed the parliament in order to govern in his own right.
+L227: ## Abolition of the Shah monarchy
+L228: 
+L229: [【193†edit】]
+L230: 
+L231: 【90†King Gyanendra Bir Bikram Shah】; The Last Monarch of Nepal. After a decade of 【194†Civil War】, monarchy was abolished. (2001-2008)
+L232: After Jana Andolan II, the King Gyanendra restore the assembly which was dissolved in 1999 ad, and following it, the parliament unilaterally strip power enshrined in 1990 constitution, and by it, it marked de facto end of 1990 constitution(which was formed after Jana Andolan I).^{【195†[16]】} On 24 December 2007, 【196†Nepal's Provisional Parliament】 met.
+L233: It was decided that the monarchy would be abolished in 2008 after the 【197†Constituent Assembly elections】.^{【198†[17]】} The motion enjoyed overwhelming support in the chamber, passing by a 270-vote majority. Of the 329 sitting members of parliament, only three voted against abolishing the monarchy.^{【199†[18]】} It was decided that for the time being, Gyanendra would retain his title and continue residing in the Royal Palace, albeit stripped of all political power and authority.^{【199†[18]】}
+L234: On 28 May 2008, following scheduled elections, the 【131†1st Nepalese Constituent Assembly】 declared Nepal a 【200†Federal Democratic Republic】 and the monarchy was abolished, removing the Shah dynasty from power. 【201†Kul Bahadur Gurung】 said of the 601 member assembly, 560 voted in favour, 4 were against and 37 were absent or abstained.
+L235: Following an Assembly agreement involving the 【202†Nepali Congress】 and both Nepalese Communist parties, (the 【203†Leninists】 and the much larger 【204†Maoist faction】), Gyanendra stepped down.
+L236: Gyanendra vacated the palace in 【99†Kathmandu】 which later became a museum. Until they could find permanent accommodation, the royal couple were offered residence as commoners at the Nagarjuna Palace, a former royal summer residence. The Nagarjuna palace lies in forested hills about eight kilometres (five miles) northwest of Kathmandu.
+L237: ## Post-Abolition Loyalism
+L238: 
+L239: [【205†edit】]
+L240: The dynasty was conclusively deposed in 2008 due to the 【189†Nepalese royal massacre】 and the subsequent 【194†Nepalese Civil War】. However, there are still loyalists to the dynasty, as evidenced by the 【206†Rastriya Prajatantra Party】, the 【207†2023 Nepalese pro-monarchy protests】 and 【208†2025 Nepalese pro-monarchy protests】.
+L241: During the 【209†2025 Nepalese Gen Z protests】, a group of protesters also expressed loyalty to the abolished monarchy and rallied in support of its restoration.^{【210†[19]】}^{【211†[20]】}
+L242: ## Monarchs of Shah dynasty (1559–2008)
+L243: 
+L244: [【212†edit】]
+L245: ### Monarchs of Shah dynasty of Gorkha (1559–1768)
+L246: 
+L247: [【213†edit】]
+L248: 
+L249: The following is list of all ten kings of 【112†Gorkha hill principality】.^{【214†[21]】}
+L250: 
+L251: Name  | Lifespan  | Reign start  | Reign end  | Notes  | Family  | Image
+L252: --- | --- | --- | --- | --- | --- | ---
+L253: 【124†Dravya Shah】
+L254: 
+L255:   * राजा द्रव्य शाह
+L256:  | died 1570  | 1559  | 1570  | Son of 【160†Yasho Brahma Shah】  | Shah  |
+L257: 【215†Purna Shah】/Purendra Shah
+L258:   * पूर्ण शाह/ पूरेन्द्र शाह
+L259:  | died 1605  | 1570  | 1605  | Son of Dravya Shah  | Shah  |
+L260: 【216†Chatra Shah】
+L261: 
+L262:   * छत्र शाह
+L263:  | died 1609 (heirless)  | 1605  | 1609  | First son of Purendra/Purna Shah  | Shah  |
+L264: 【217†Ram Shah】
+L265: 
+L266:   * Ram Shah The Just
+L267:   * श्रीमन्त महाराजधिराज राम शाह
+L268:  | died 1636  | 1609  | 1633 (abdicated)  | Second son of Purna/Purendra Shah
+L269: adopted title of Svasti Sri Giriraj  | Shah  |
+L270: 【218†Dambar Shah】
+L271:   * डम्वर शाह
+L272:  | died 1645  | 1633  | 1645  | Son of Ram Shah  | Shah  |
+L273: 【219†Krishna Shah】
+L274: 
+L275:   * श्रीकृष्ण शाह
+L276:  | died 1661  | 1645  | 1661  | Son of Dambar Shah  | Shah  |
+L277: 【220†Rudra Shah】
+L278: 
+L279:   * रुद्र शाह
+L280:  | died 1673  | 1661  | 1673  | Son of Krishna Shah  | Shah  |
+L281: 【221†Prithvipati Shah】
+L282: 
+L283:   * पृथ्वीपत्ति शाह
+L284:  | died 1716  | 1673  | 1716  | Son of Rudra Shah  | Shah  |
+L285: 【222†Nara Bhupal Shah】
+L286:   * नरभूपाल शाह
+L287:  | 1697 – 3 April 1743  | 1716  | 1743  | Grandson of Prithvipati Shah and Son of Prince 【223†Birbhadra Shah】  | Shah  |
+L288: 【115†Prithvi Narayan Shah】
+L289: 
+L290:   * बडामहाराजधिराज पृथ्वीनारायण शाह
+L291:  | (1723-01-07)7 January 1723 – 11 January 1775(1775-01-11) (aged 52)  | 1743  | 25 September 1768  | Son of Nara Bhupal Shah  | Shah  |
+L292: ### Monarchs of Shah dynasty of Patan (1761–1765)
+L293: 
+L294: [【224†edit】]
+L295: 
+L296: Name  | Lifespan  | Reign start  | Reign end  | Notes  | Family  | Image
+L297: --- | --- | --- | --- | --- | --- | ---
+L298: 【225†Dal Mardan Shah】
+L299: 
+L300:   * राजा दल मर्दन शाह
+L301:  | ?—?  | 1761  | 1765  | Son of 【222†Nara Bhupal Shah】  | Shah  |
+L302: ### Monarchs of Shah dynasty of Nepal (1768–2008)
+L303: 
+L304: [【226†edit】]
+L305: 
+L306: Name  | Lifespan  | Reign start  | Reign end  | Notes  | Family  | Image
+L307: --- | --- | --- | --- | --- | --- | ---
+L308: 【115†Prithvi Narayan Shah】
+L309: 
+L310:   * बडामहाराजधिराज पृथ्वीनारायण शाह
+L311:  | (1723-01-07)7 January 1723^{【227†[22]】}– 11 January 1775(1775-01-11) (aged 52)  | 25 September 1768  | 11 January 1775  | Son of Nara Bhupal Shah  | Shah  |
+L312: 【228†Pratap Singh Shah】
+L313:   * प्रतापसिंह शाह
+L314:  | (1751-04-16)16 April 1751 – 17 November 1777(1777-11-17) (aged 26)  | 11 January 1775  | 17 November 1777  | Son of Prithvi Narayan Shah  | Shah  |
+L315: 【229†Rana Bahadur Shah】
+L316: 
+L317:   * रण बहादुर शाह
+L318:  | (1775-05-25)25 May 1775 – 25 April 1806(1806-04-25) (aged 30)  | 17 November 1777  | 8 March 1799
+L319: (abdicated)  | Son of Pratap Singh Shah  | Shah  |
+L320: 【230†Girvan Yuddha Bikram Shah】
+L321:   * गीर्वाणयुद्ध विक्रम शाह
+L322:  | (1797-10-19)19 October 1797 – 20 November 1816(1816-11-20) (aged 19)  | 8 March 1799  | 20 November 1816  | Son of Rana Bahadur Shah  | Shah  |
+L323: 【231†Rajendra Bikram Shah】
+L324: 
+L325:   * राजेन्द्र बिक्रम शाह
+L326:  | (1813-12-03)3 December 1813 – 10 July 1881(1881-07-10) (aged 67)  | 20 November 1816  | 12 May 1847
+L327: (abdicated)  | Son of Girvan Yuddha Bikram Shah  | Shah  |
+L328: 【232†Surendra Bikram Shah】
+L329:   * सुरेन्द्र बिक्रम शाह
+L330:  | (1829-10-20)20 October 1829 – 17 May 1881(1881-05-17) (aged 51)  | 12 May 1847  | 17 May 1881  | Son of Rajendra Bikram Shah  | Shah  |
+L331: 【233†Prithvi Bir Bikram Shah】
+L332: 
+L333:   * पृथ्वी वीर बिक्रम शाह
+L334:  | (1875-08-18)18 August 1875 – 11 December 1911(1911-12-11) (aged 36)  | 17 May 1881  | 11 December 1911  | Grandson of Surendra Bikram Shah  | Shah  |
+L335: 【178†Tribhuvan Bir Bikram Shah】
+L336: (1st reign)
+L337:   * त्रिभुवन वीर बिक्रम शाह
+L338:  | (1900-06-30)30 June 1900 – 13 March 1955(1955-03-13) (aged 54)  | 11 December 1911  | 7 November 1950
+L339: (went into exile)  | Son of Prithvi Bir Bikram Shah  | Shah  |
+L340: 【90†Gyanendra Bir Bikram Shah】
+L341: (1st reign)
+L342: 
+L343:   * ज्ञानेन्द्र वीर बिक्रम शाह
+L344:  | (1947-07-07) 7 July 1947  | 7 November 1950  | 7 January 1951
+L345: (stepped down)  | Grandson of Tribhuvan Bir Bikram Shah  | Shah  |
+L346: 【178†Tribhuvan Bir Bikram Shah】
+L347: (2nd reign)
+L348:   * त्रिभुवन वीर बिक्रम शाह
+L349:  | (1900-06-30)30 June 1900 – 13 March 1955(1955-03-13) (aged 54)  | 7 January 1951  | 13 March 1955  | Son of Prithvi Bir Bikram Shah  | Shah  |
+L350: 【179†Mahendra Bir Bikram Shah】
+L351: 
+L352:   * महेन्द्र वीर बिक्रम शाह
+L353:  | (1920-06-11)11 June 1920 – 31 January 1972(1972-01-31) (aged 51)  | 14 March 1955  | 31 January 1972  | Son of Tribhuvan Bir Bikram Shah  | Shah  |
+L354: 【184†Birendra Bir Bikram Shah】
+L355:   * वीरेन्द्र वीर बिक्रम शाह
+L356:  | (1945-12-28)28 December 1945 – 1 June 2001(2001-06-01) (aged 55)  | 31 January 1972  | 1 June 2001
+L357: (assassinated)  | Son of Mahendra Bir Bikram Shah  | Shah  |
+L358: 【190†Dipendra Bir Bikram Shah】
+L359: 
+L360:   * दीपेन्द्र वीर बिक्रम शाह
+L361:  | (1971-06-27)27 June 1971 – 4 June 2001(2001-06-04) (aged 29)  | 1 June 2001  | 4 June 2001
+L362: (declared braindead)  | Son of Birendra Bir Bikram Shah  | Shah  |
+L363: 【90†Gyanendra Bir Bikram Shah】
+L364: (2nd reign)

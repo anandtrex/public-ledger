@@ -1,0 +1,322 @@
+Cutch State - Wikipedia (https://en.wikipedia.org/wiki/Cutch_State)
+citeturn126view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Cutch_State","lineno":null}); Total lines: 402
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 Rulers】 Toggle Rulers subsection
+L51:     * 【20†2.1 List of rulers】
+L52:     * 【21†2.2 Titular Maharaos】
+L53:   * 【22†3 Religion】
+L54:   * 【23†4 Demographics and economy】
+L55:   * 【24†5 Currency】
+L56:   * 【25†6 Rulers and chiefs gallery】
+L57:   * 【26†7 See also】
+L58:   * 【27†8 References】 Toggle References subsection
+L59:     * 【28†8.1 Bibliography】
+L60:   * 【29†9 External links】
+L61: 
+L62: [Input] Toggle the table of contents
+L63: # Cutch State
+L64: 
+L65: [Input] 18 languages
+L66:   * 【30†বাংলা†bn.wikipedia.org】
+L67:   * 【31†Català†ca.wikipedia.org】
+L68:   * 【32†Deutsch†de.wikipedia.org】
+L69:   * 【33†Euskara†eu.wikipedia.org】
+L70:   * 【34†Français†fr.wikipedia.org】
+L71:   * 【35†ગુજરાતી†gu.wikipedia.org】
+L72:   * 【36†Bahasa Indonesia†id.wikipedia.org】
+L73:   * 【37†Italiano†it.wikipedia.org】
+L74:   * 【38†日本語†ja.wikipedia.org】
+L75:   * 【39†Norsk bokmål†no.wikipedia.org】
+L76:   * 【40†پنجابی†pnb.wikipedia.org】
+L77:   * 【41†Русский†ru.wikipedia.org】
+L78:   * 【42†Simple English†simple.wikipedia.org】
+L79:   * 【43†Svenska†sv.wikipedia.org】
+L80:   * 【44†தமிழ்†ta.wikipedia.org】
+L81:   * 【45†اردو†ur.wikipedia.org】
+L82:   * 【46†Tiếng Việt†vi.wikipedia.org】
+L83:   * 【47†中文†zh.wikipedia.org】
+L84: 【48†Edit links†www.wikidata.org】
+L85: 
+L86:   * 【49†Article】
+L87:   * 【50†Talk】
+L88: 
+L89: [Input] English
+L90: 
+L91:   * 【49†Read】
+L92:   * 【51†Edit】
+L93:   * 【52†View history】
+L94:   * 【17†Save】
+L95: 
+L96: [Input] Tools
+L97: 
+L98: Tools
+L99: 
+L100: [Button: move to sidebar] [Button: hide]
+L101: 
+L102: Actions
+L103: 
+L104:   * 【49†Read】
+L105:   * 【51†Edit】
+L106:   * 【52†View history】
+L107:   * 【17†Save】
+L108: 
+L109: General
+L110: 
+L111:   * 【53†What links here】
+L112:   * 【54†Related changes】
+L113:   * 【55†Upload file】
+L114:   * 【56†Permanent link】
+L115:   * 【57†Page information】
+L116:   * 【58†Cite this page】
+L117:   * 【59†Get shortened URL】
+L118:   * 【60†Switch to legacy parser】
+L119: Print/export
+L120: 
+L121:   * 【61†Download as PDF】
+L122:   * Printable version
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【62†Wikimedia Commons†commons.wikimedia.org】
+L127:   * 【63†Wikidata item†www.wikidata.org】
+L128: 
+L129: Appearance
+L130: 
+L131: [Button: move to sidebar] [Button: hide]
+L132: 
+L133: 【64†Coordinates】: 【65†23°54′54″N 70°22′01″E﻿ / ﻿23.915°N 70.367°E﻿ / 23.915; 70.367†geohack.toolforge.org】
+L134: 
+L135: For the post-independence administrative division, see 【66†Kutch State】.
+L136: Kingdom of Kutch
+L137: ---
+L138: 1147–1948
+L139: Flag Coat of arms
+L140: Cutch State, 1878
+L141: Capital  | Lakhiarviro (1147―1548)
+L142: 【67†Bhuj】 (1549―1947)
+L143: Common languages  | 【68†Kutchi】, 【69†Gujarati】, 【70†Sindhi】
+L144: Religion  | 【71†Hinduism】 (official)
+L145: Government  | Monarchy
+L146: History  |
+L147: • Established  | 1147
+L148: • came under 【72†Cutch Agency】 of 【73†Company】  | 1819
+L149: • 【74†Merged into India】 as 【66†Kutch State】  | 1 June 1948
+L150: Area
+L151: ---
+L152: 1901^{【75†[1]】}  | 19,725 km^{2} (7,616 sq mi)
+L153: Population
+L154: ---
+L155: • 1901^{【75†[1]】}  | 488,022
+L156: Currency  | 【76†Kutch kori】
+L157: Preceded by Succeeded by
+L158: 【77†Image†upload.wikimedia.org】 【78†Chawda dynasty】
+L159: 【77†Image†upload.wikimedia.org】 【79†Chaulukya dynasty】
+L160: 【66†Kutch State】 【80†Image†thumb.wikimedia.org】
+L161: Today part of  | 【81†India】
+L162: Cutch State, also spelled Kutch or Kachchh and also historically known as the Kingdom of Kutch, was a kingdom in the 【82†Kutch】 region from 1147 to 1819 and a princely state under British rule from 1819 to 1948. Its territories covered the present day 【83†Kutch】 region of 【84†Gujarat】 north of the 【85†Gulf of Kutch】. Bordered by 【86†Sindh】 in the north, Cutch State was one of the few princely states with a coastline.
+L163: The state had an area of 7,616 square miles (19,725 km^{2}) and a population estimated at 488,022 in 1901.^{【75†[1]】} During the 【87†British Raj】, the state was part of the 【72†Cutch Agency】 and later the 【88†Western India States Agency】 within the 【89†Bombay Presidency】. The rulers maintained an army of 354 cavalry, 1,412 infantry and 164 guns.
+L164: ## History
+L165: 
+L166: [【90†edit】]
+L167: 
+L168: Main article: 【91†History of Kutch】
+L169: 
+L170: Sindh and Kutch map 1827 Merchant Flag of Cutch State
+L171: A predecessor state known as the Kingdom of Kutch was founded around 1147 by Lakho Jadani of the 【92†Samma】 tribe who had arrived from 【86†Sindh】. He was adopted by Jam Jada and hence known as Lakho Jadani.
+L172: He ruled eastern Cutch from 1147 to 1175 from a new capital, which he named Lakhiarviro (near present-day 【93†Nakhatrana】) after his twin brother Lakhiar.^{【94†[2]】} Prior to this time, Eastern Cutch was ruled by the 【78†Chawda dynasty】, whose last noted ruler was Vagham Chawda, who was killed in the 9th century by his nephews Mod and Manai, who later assumed power of his territories and established the first Samma Dynasty of Kutch.^{【95†[3]】} At the same time, Central and Western Kutch were under the control of different tribes such as the 【96†Kathi】, 【97†Chaulukya】 and 【98†Waghela】.^{【95†[3]】} After the death of Raydhan Ratto in 1215 his territories were divided between his four sons.
+L173: Othaji, Dedaji, Hothiji and Gajanji and they were given the Kutch territories of Lakhirviro, 【99†Kanthkot】, Gajod and Bara respectively.
+L174: Silver 5 Kori coin of Kutch, struck in 1919 in the name of 【100†Khengarji III】.
+L175: As Othaji was the eldest he ascended to the head throne of Lakhirviro and the rest became a part of Bhayyat or the Brotherhood in a federal system of government. However, internal rivalry between them escalated over the generations and until they merged into the two groups of Othaji and Gajanji of Bara.
+L176: The first incident among the rivals which changed the history of Kutch was the murder of Jam Hamirji of Lakhiarviro, chief of the eldest branch of the Jadejas and descendant of Othaji, by 【101†Jam Rawal】 of Bara.
+L177: It is believed that Jam Rawal attributed the murder of his father Jam Lakhaji to Hamirji, as he was killed within the territory of Lakhiarviro by Deda Tamiachi at the instigation of Hamirji.^{【102†[4]】} 【101†Jam Rawal】, in revenge treacherously killed his elder brother Rao Hamirji, (father of 【103†Khengarji】) and ruled Cutch for more than two decades till Khenagrji I, reconquered Cutch from him, when he grew up.
+L178: Jam Rawal escaped out of Cutch and founded the 【104†Nawanagar】 as per advice given by 【105†Ashapura Mata】 in a dream to him.^{【102†[4]】} Later his descendants branched out to form the state of 【106†Rajkot】, 【107†Gondal】 【108†Dhrol】 and 【109†Virpur】.^{【110†[5]】} The Genealogy is still maintained today, by the 【111†Barots】 of respective Jadeja branches and every single person in Jadeja clan can trace their ancestry through to Rato Rayadhan.^{【110†[5]】}
+L179: Lakhiarviro remained the capital of Cutch from its foundation in 1147 until the time of Jam Raval in 1548.
+L180: ## Rulers
+L181: 
+L182: [【112†edit】]
+L183: 
+L184: Family Tree of Jadeja dynasty of Cutch State
+L185: Cutch was ruled by the 【113†Jadeja】 【114†Rajput】 dynasty of the 【92†Samma tribe】^{【75†[1]】} from its formation in 1147 until 1948 when it acceded to newly formed India. The rulers had migrated from 【86†Sindh】 into Kutch in late 12th century. They were entitled to a 17-gun salute by the British authorities. The title of rulers was earlier Ja'am, which during British Raj changed to 【115†Maharao】 made hereditary from 1 Jan 1918.^{【116†[6]】}
+L186: 【117†Khengarji I】, is noted as the founder of Cutch State, who united Eastern Central and Western Cutch into one dominion, which before him was ruled partially by other Rajput tribes like 【78†Chawda】 and 【118†Solanki dynasty】,^{【119†[7]】} apart from the 【113†Jadejas】.^{【75†[1]】} Khenagarji I was given fiefdom of Morbi and an army by Sultan 【120†Mahmud Begada】 of 【121†Ahmedabad】, whose life he had saved from a lion.
+L187: Khengarji waged a war for several years till he re-conquered Cutch from Jam Raval and integrated Cutch into one large dominion in 1549. Jam Raval had to escape out of Cutch to save his life. Khengarji I was able to capture his father's past capital Lakhiarviro and Jam Raval's capital Bara, and formally ascended throne at 【122†Rapar】 in year 1534^{【123†[8]】} but later shifted his capital to 【67†Bhuj】.^{【75†[1]】} Khengarji also founded the port city of 【124†Mandvi】.
+L188: Durbar Hall at 【125†Prag Mahal】, Bhuj, built by 【126†Pragmalji II】
+L189: After the demise of Rayadhan II in 1698, the regularity of succession was again deviated, Raydhunji had three sons, Ravaji, Nagulji and Pragji.Ravaji the eldest son was murdered by Sodha 【114†Rajputs】, his second brother Nagulji had died of natural causes before, both the brothers, however had left sons, who by right were entitled to succeed the throne of Kutch, but as they were young, Pragji, the third son of Rao Raydhunji eventually usurped the throne of Cutch and became Maharao Pragmulji I.^{【127†[9]】}
+L190: Kanyoji, the eldest son of murdered Ravaji escaped and established himself at 【128†Morbi】, which before that formed part of Kingdom of Kutch. Kanyoji made 【129†Morvi】 independent of Cutch and from there he tried unsuccessfully many a times to regain his rightful throne of Cutch. The descendants of Kanyoji Jadeja thus settled in Morvi and were called Kaynani.^{【75†[1]】}
+L191: 
+L192: Living quarters of Maharao Lakhpatji 【130†Aina Mahal】, Bhuj
+L193: Bhuj was later fortified by 【131†Bhujia Fort】 under reign of Rao 【132†Godji I】 (1715–19). The major work and completion of fort was done during the rule of his son, Maharao 【133†Deshalji I】 (1718–1741). In 1719 during reign of Deshalji I, Khan, who was 【134†Mughal】 Viceroy of Gujarat invaded Kutch. The army of Kutch was in a precarious condition, when a group of 【135†Naga Bawas】 joined them and Mughal army was defeated.
+L194: 
+L195: Cenotaph of Rao Lakhpatji at Bhuj.
+L196: Deshalji was succeeded by his son Rao 【136†Lakhpatji】 (1741–61), who appointed 【137†Ram Singh Malam】, to build the famous 【130†Aina Mahal】. Ram Singh Malam also started a glass and ceramic factory near 【138†Madhapar】. During reign of Lakhpatji maritime business of Cutch flourished and it was during his regime, Cutch issued its own currency, 【76†Kutch kori】, which remained valid even during 【87†British Raj】 till 1948, when they were abolished by independent India.
+L197: Later, during the rule of Rao 【139†Godji II】 (1761–1778), the state faced its biggest defeat at hands of 【140†Mian Ghulam Shah Kalhoro】 of 【86†Sindh】, who attacked Cutch twice once in 1763–64, (when hundreds of 【141†Kutchi people】 died in the battle near 【142†Jara, Kutch】) and again in 1765. Godji had to make a truce with him after losing several territories.
+L198: Later in 1770, a daughter of his cousin Wesuji was married to the Mian Kalhoro and the marriage was celebrated with great pomp and splendor on both the sides. In consideration of this relationship, the towns of Busta Bandar and 【143†Lakhpat】 and others territories that had been conquered by the Mián Kalhoro, were returned to the Rao of Cutch.
+L199: His successor, 【144†Rayadhan III】 (1778–86) became a religious fanatic and began forcibly converting all its pupils to 【145†Islam】. At that time Raydhan was curtailed when in 1785, 【146†Anjar】's Meghji Seth lead the revolt and the local chief of armies Dosal Ven and 【147†Fateh Muhamad】 also joined him in the coup.^{【148†[10]】} Raydhan was put under house arrest and the state was ruled under a council of the twelve members, 【149†Bar Bhayat ni Jamat】, under minor titular king, 【150†Prithvirajji】.
+L200: Fateh Muhammad was made ruler by these council who ably ruled Cutch from 1786 to 1813. After his death Rao Raydhan was again made a king by the council for a month but was replaced by Husain Miyan, as Rao had still not changed his ways. Husain Miyan ruled from 1813 to 1814 and later 【151†Bharmalji II】, eldest son of Raydhan was made ruler in 1814 by the council keeping the army under control of Husain Miyan.^{【148†[10]】}
+L201: On 15 December 1815, the army of Cutch state was defeated near 【152†Bhadreswar, Kutch】 by the combined armies of British and 【153†Gaekwads】 of 【154†Baroda State】. The nearest major fortified town of 【146†Anjar】, 【155†Port of Tuna】 and district of Anjar thus came under British occupation on 25 December 1815. This led to negotiations between rulers of Kutch and British.
+L202: The Jadeja rulers of Kutch accepted the suzerainty of British in 1819 and Captain 【156†James MacMurdo】 was posted as British Political Resident stationed at 【67†Bhuj】. The Anjar District, however, remained under direct occupation of British forces for seven years till 25 December 1822, when it was territory reverted to Cutch by an agreement.^{【75†[1]】}^{【157†[11]】}
+L203: After the victory the British deposed the ruling king Jam Bharmulji II and his son 【158†Deshalji II】, a minor was made the ruler of Cutch State. During his minority the affairs of the State were managed by Council of Regency, which was composed of Jadeja chiefs and headed by Captain MacMurdo.^{【159†[12]】}^{【160†[13]】}^{【161†[14]】}
+L204: 
+L205: 【162†Vijaya Vilas Palace】 standing at sea shore of 【124†Mandvi】, built for 【163†Vijayaraji】, the current residence of decedents of Rao.
+L206: During his reign Kutch suffered a 【164†severe earthquake in 1819】 followed by severe famine in 1823, 1825 and 1832. Further, Kutch was attacked by marauding band from 【86†Sindh】. 【158†Deshalji II】 although 18 years of age took the management of law in his own hands and defeated aggressor from Sindh. His reign saw maritime trade with Africa, Oman and especially 【165†Zanzibar】 improve significantly.
+L207: Slowly and steadily the industrialisation in Cutch got a set back which was started by Lakhpatji and Godji.^{【166†[15]】} He was succeeded by his son 【126†Pragmalji II】 in 1860.
+L208: During later half of the 19th century and first half of the 20th century state progressed under leadership of 【126†Pragmalji II】 and his successor 【100†Khengarji III】. The educational, judiciary and administrative reforms, which were started by Pragmulji II, were carried further by Khengarji III, who also laid foundation of 【167†Cutch State Railway】, 【168†Kandla port】 and many schools. Khengarji III was the 【169†longest ruling king】 of Cutch.
+L209: Khengarji also served as Aide-De-Campe to 【170†Queen Victoria】 for some years. Under him state was elevated to status of 17-gun salute state and title of rulers of Cutch also was elevated as 【115†Maharao】.
+L210: 【100†Khengarji III】 was succeeded by his son 【163†Vijayaraji】 in 1942 and ruled for a few years until India became independent. During the reign of Vijayaraji the Kutch High Court was instituted, village councils were elected and irrigation facilities were expanded greatly and agricultural development in the state during short span of six years of his rule.
+L211: He took keen interest in irrigation matters and it was during his reign the Vijaysagar reservoir was built together with another 22 dams.^{【171†[16]】} Cutch became the third princely state after Hyderabad and Travancore to start its own bus transport services beginning in year 1945.^{【172†[17]】} Additionally, 【173†a set】 of specimen banknotes was printed for the state of Cutch in 1946, but was never put into production.
+L212: Cutch was one of the first 【174†princely states】 to accede to India upon its independence on 15 August 1947. Vijayraji was away for medical treatment at London.
+L213: Upon his order 【175†Madansinhji】, on behalf of his father, signed the 【74†Instrument of Accession】 of Kutch, on 16 August 1947, in his capacity as attorney of Maharao of Kutch.^{【176†[18]】} Later, Madansinhji acceded the throne, upon death of his father Vijayaraji on 26 January 1948 and became the last Maharao of Cutch, for a short period of time till 4 May 1948, when the administration of the state was completely merged in to the 【177†Union of India】.
+L214: Cutch, part of Bombay Presidency, 1909
+L215: 
+L216: The princely State of Cutch upon merger into India, was made a separate centrally administered Class-C state by the name 【66†Kutch State】 in 1948.
+L217: ### List of rulers
+L218: 
+L219: [【178†edit】]
+L220: Rulers regional name  | Accession year (CE)
+L221: --- | ---
+L222: Lakho Jadani  | 1147–1175
+L223: Ratto Rayadhan  | 1175–1215
+L224: Othaji  | 1215–1255
+L225: Rao Gaoji  | 1255–1285
+L226: Rao Vehanji  | 1285–1321
+L227: Rao Mulvaji  | 1321–1347
+L228: Rao Kaiyaji  | 1347–1386
+L229: Rao Amarji  | 1386–1429
+L230: Rao Bhhemji  | 1429–1472
+L231: Rao Hamirji  | 1472–1536
+L232: 【179†Jam Raval】  | 1540–1548
+L233: 【117†Khengarji I】  | 1548–1585
+L234: Bharmalji I  | 1585–1631
+L235: Bhojrajji  | 1631–1645
+L236: Khengarji II  | 1645–1654
+L237: Tamachi  | 1654–1665
+L238: Rayadhan II  | 1665–1698
+L239: 【180†Pragmalji I】  | 1698–1715
+L240: 【132†Godji I】  | 1715–1719
+L241: 【133†Deshalji I】  | 1719–1741
+L242: 【136†Lakhpatji】 (regent)  | 1741–1752
+L243: Lakhpatji  | 1752–1760
+L244: 【139†Godji II】  | 1760–1778
+L245: 【144†Rayadhan III】 (1st time)  | 1778–1786
+L246: 【150†Prithvirajji】  | 1786–1801
+L247: 【181†Fateh Muhammad】 (regent)  | 1801–1813
+L248: 【144†Rayadhan III】 (2nd time)  | 1813
+L249: Husain Miyan (regent)  | 1813–1814
+L250: 【151†Bharmalji II】  | 1814–1819
+L251: 【158†Deshalji II】  | 1819–1860
+L252: 【126†Pragmalji II】  | 1860–1875
+L253: 【100†Khengarji III】  | 1875–1942
+L254: 【163†Vijayaraji】  | 1942–1948
+L255: 【175†Madansinhji】  | 1948
+L256: ### Titular Maharaos
+L257: 
+L258: [【182†edit】]
+L259: 
+L260:   * 【175†Madansinhji】 — 1948–1991
+L261:   * 【183†Pragmulji III】 — 1991–2021
+L262:   * 【184†Hanvantsinji】 — since 2021
+L263: 
+L264: ## Religion
+L265: 
+L266: [【185†edit】]
+L267: 
+L268: The Jadejas were followers of Hinduism and worshiped 【105†Ashapura Mata】, who is the 【186†kuldevi】 of Jadeja clan and also the State deity. The main temple of goddess is located at 【187†Mata no Madh】.
+L269: ## Demographics and economy
+L270: 
+L271: [【188†edit】]
+L272: There were eight main towns in the State − 【67†Bhuj】, 【124†Mandvi】, 【189†Anjar】, 【190†Mundra】, 【191†Naliya】, 【192†Jakhau】, 【193†Bhachau】 and 【122†Rapar】 and 937 villages.^{【75†[1]】} Apart from it there were other port towns of 【155†Tuna】, 【194†Lakhpat】, 【195†Sandhan】, Sindri, 【196†Bhadresar】 on its coastline, which boosted the maritime trade, the main revenue earner of State.
+L273: There are also other towns like 【197†Roha】, 【198†Virani Moti】, 【199†Devpur】, 【200†Tera】, 【201†Kothara】, 【202†Bara】, 【99†Kanthkot】, which were overlooked by Bhayaat (brothers) of the Kings as their 【203†jagirs】.
+L274: The various 【141†Kutchi community】 were known for their trades with 【204†Muscat】, 【205†Mombasa】, 【206†Mzizima】, 【165†Zanzibar】, and others, and also for their shipbuilding skills. 【168†Kandla】 was developed by 【100†Khengarji III】 in 1930 as a new port. 【167†Cutch State Railway】 was also laid during his reign, during the years 1900–1908, which connected main towns like Bhuj, Anjar, Bachau to the ports of Tuna and Kandla.
+L275: The railways enhanced business a lot as it paved the way for movement of goods and passengers.
+L276: Hindus numbered around 300,000, Mohammedans around 110,000 and 【207†Jains】 were 70,000 in population as per 1901 census.^{【75†[1]】} About 9% of population were 【114†Rajputs】 and 【208†Brahmins】 & other Hindu caste formed another 24% of population of State.^{【75†[1]】} The most common language spoken was 【68†Kutchi language】 and 【69†Gujarati language】. Gujarati was the language used in writings and courts & documents.^{【75†[1]】}
+L277: Agriculture was the main occupation of people, who take produce of wheat, 【209†Jowar】, 【210†Bajra】, 【211†Barley】, etc. apart from cattle raising being the other main occupation.^{【75†[1]】}
+L278: ## Currency
+L279: 
+L280: [【212†edit】]
+L281: 
+L282: Main article: 【76†Kutch kori】
+L283: The currency of Kutch state was known as 'kori', a silver coin of 4.6 grams. The kori was subdivided into smaller units, such as the adhiyo (1/2 kori), payalo (1/4 kori), dhabu (1/8 kori), dhinglo (1/16 kori), dokdo (1/24 kori) and trambiyo (1/48 kori). Higher denominations included silver coins of 2.5 kori and 5 kori, and gold coins of 25 kori, 50 kori and 100 kori.
+L284: Coins of Kutch state traditionally carried the name of the local ruler on one side, and the British rulers on the other side (from 1858 onward). The last coins of Kutch, minted in 1947 (【213†V.S.】 2004), at the time of kingdom's merger with India, replaced the British monarch with the words 【214†Jai Hind】.
+L285: ## Rulers and chiefs gallery
+L286: 
+L287: [【215†edit】]
+L288: 
+L289:   * Maharaos of Cutch
+L290:   * 【136†Lakhpatji】 : r - 1741–1760.
+L291: 
+L292:   * 【158†Deshalji II】 : r -1819-1860.
+L293: 
+L294:   * 【126†Pragmalji II】 : r-1860-1875.
+L295: 
+L296:   * 【100†Khengarji III】 : r-1875-1942.
+L297: 
+L298:   * 【183†Pragmulji III】 : titular Maharao from 1991 to 2021
+L299: 
+L300:   * A 【113†Jadeja】 Chief in 【141†Kutchi】 attire during reign of Deshalji II : A sketch drawn in 1838
+L301: ## See also
+L302: 
+L303: [【216†edit】]
+L304: 
+L305:   * 【217†List of Rajput dynasties】
+L306:   * 【76†Kutch kori】
+L307:   * 【68†Kutchi language】
+L308:   * 【141†Kutchi people】
+L309: ## References
+L310: 
+L311: [【218†edit】]
+L312:   1. 【219†1】 【220†2】 【221†3】 【222†4】 【223†5】 【224†6】 【225†7】 【226†8】 【227†9】 【228†10】 【229†11】 【230†12】 【231†13】 【232†"Cutch"†dsal.uchicago.edu】. 【233†The Imperial Gazetteer of India】. 11: 75–80. 1908.
+L313:   2. 【234†↑】 Dilipsinh, K. S. (2004). 【235†Kutch in Festival and Custom†www.google.co.in】. Har-Anand Publications. p. 28. 【236†ISBN】 【237†978-81-241-0998-4】. Retrieved 25 April 2026.
+L314:   3. 【238†1】 【239†2】 Panhwar, M.H. (1983). 【240†Chronological Dictionary Of Sind†archive.org】. Jamshoro: 【241†Institute of Sindhlogy, University of Sind】. pp. 170–171. "The eldest son Unar born of Gaud Rani succeeded him but was murdered by his step brothers Mod and Manai. Gaud Rani managed the succession of her grandson and therefore Mod and Manai escaped to Cutch with a few followers and took refuge with their Chawra maternal uncle at Patogh (6 miles West of Lakhpat, now in ruins).
+L315: Finding an opportunity they killed him and seized his city and surrounding territories with the help of their clansmen from Sind. They then subdued Guntn, which was ruled by Vaghelas. Finally they annexed Anahilapataka"
+L316:   4. 【242†1】 【243†2】 【244†The Land of 'Ranji' and 'Duleep', by Charles A. Kincaid by Charles Augustus Kincaid†books.google.com】. William Blackwood & Sons, Limited. 1931. pp. 11–15.
+L317:   5. 【245†1】 【246†2】 The Paramount Power and the Princely States of India, 1858–1881 – Page 287
+L318:   6. 【247†↑】 Princely states of India: a guide to chronology and rulers – Page 54
+L319:   7. 【248†↑】 Katariya, Adesh (2007). 【249†Ancient History of Central Asia: Yuezhi origin Royal Peoples: Kushana, Huna, Gurjar and Khazar Kingdoms†books.google.com】. Adesh Katariya. p. 348. Retrieved 10 November 2017.

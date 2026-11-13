@@ -1,0 +1,278 @@
+Chandra dynasty - Wikipedia (https://en.wikipedia.org/wiki/Chandra_dynasty)
+citeturn71view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Chandra_dynasty","lineno":null}); Total lines: 276
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】
+L50:   * 【19†2 Conquest of Kamarupa】
+L51:   * 【20†3 Maritime relations】
+L52:   * 【21†4 Marital relations】
+L53:   * 【22†5 Archaeology】
+L54:   * 【23†6 Education】
+L55:   * 【24†7 List of Chandra rulers】
+L56:   * 【25†8 References】
+L57:   * 【26†9 Further reading】
+L58: 
+L59: [Input] Toggle the table of contents
+L60: # Chandra dynasty
+L61: 
+L62: [Input] 7 languages
+L63: 
+L64:   * 【27†বাংলা†bn.wikipedia.org】
+L65:   * 【28†Català†ca.wikipedia.org】
+L66:   * 【29†हिन्दी†hi.wikipedia.org】
+L67:   * 【30†한국어†ko.wikipedia.org】
+L68:   * 【31†मैथिली†mai.wikipedia.org】
+L69:   * 【32†தமிழ்†ta.wikipedia.org】
+L70:   * 【33†తెలుగు†te.wikipedia.org】
+L71: 
+L72: 【34†Edit links†www.wikidata.org】
+L73: 
+L74:   * 【35†Article】
+L75:   * 【36†Talk】
+L76: 
+L77: [Input] English
+L78: 
+L79:   * 【35†Read】
+L80:   * 【37†Edit】
+L81:   * 【38†View history】
+L82:   * 【17†Save】
+L83: 
+L84: [Input] Tools
+L85: 
+L86: Tools
+L87: 
+L88: [Button: move to sidebar] [Button: hide]
+L89: 
+L90: Actions
+L91:   * 【35†Read】
+L92:   * 【37†Edit】
+L93:   * 【38†View history】
+L94:   * 【17†Save】
+L95: 
+L96: General
+L97: 
+L98:   * 【39†What links here】
+L99:   * 【40†Related changes】
+L100:   * 【41†Upload file】
+L101:   * 【42†Permanent link】
+L102:   * 【43†Page information】
+L103:   * 【44†Cite this page】
+L104:   * 【45†Get shortened URL】
+L105:   * 【46†Switch to legacy parser】
+L106: 
+L107: Print/export
+L108: 
+L109:   * 【47†Download as PDF】
+L110:   * Printable version
+L111: 
+L112: In other projects
+L113: 
+L114:   * 【48†Wikidata item†www.wikidata.org】
+L115: 
+L116: Appearance
+L117: 
+L118: [Button: move to sidebar] [Button: hide]
+L119: 
+L120: Not to be confused with 【49†Lunar dynasty】.
+L121: 【50†Image†thumb.wikimedia.org】  | This article includes a list of 【51†general references】 but lacks sufficient corresponding 【52†inline citations】. Please help 【37†improve this article】 by 【53†introducing】 more precise citations. (April 2015) (【54†Learn how and when to remove this message】)
+L122: Chandra dynasty
+L123: ---
+L124: 370–1050
+L125: Status  | 【55†Empire】
+L126: Religion  | 【56†Hinduism】, 【57†Buddhism】
+L127: Government  | 【58†Monarchy】
+L128: History  |
+L129: • Established  | 370
+L130: • Disestablished  | 1050
+L131: Preceded by Succeeded by
+L132: 【59†Image†upload.wikimedia.org】 【60†Annaveta dynasty】
+L133: 【61†Pala Empire】 【59†Image†upload.wikimedia.org】
+L134: Today part of  | Bangladesh, Myanmar, India
+L135: The Chandra dynasty was a 【62†Buddhist】 dynasty, originating from the South-east 【63†Bengal】 region of 【64†Indian subcontinent】, which ruled the 【65†Samatata】 area of Bengal, as well as parts of 【66†Arakan】 Later it was a neighbour to the 【61†Pala Empire】 to the north. Rulers of Chandra kingdom were adherents of 【57†Buddhism】.
+L136: The Kings of Chandra dynasty were identified as the kings of Vangaladesha in the Tirumulai inscription of 【67†Chola dynasty】.^{【68†[1]】} The dynasty was founded around the 4th century AD.
+L137: ## History
+L138: 
+L139: [【69†edit】]
+L140: 
+L141: The Anandachandra Inscription (729 AD) mentions that the Chandra dynasty was established by Dvenchandra (or Mahataing Chandra) in 370 AD. He had assumed the throne after the end of the Annaveta dynasty.^{【70†[2]】} The ye Dhamma inscriptions of the Queen of Niti Chandra are dated to early 6th century AD based on paleographic grounds.^{【71†[3]】}
+L142: The Chandra kingdom was one of the last 【62†Buddhist】 strongholds in the 【64†Indian subcontinent】. The kingdom flourished as a center of the Tantric schools of Buddhism. It played a role in the diffusion of 【72†Mahayana】 Buddhism to Southeast Asia.^{【73†[4]】}
+L143: During the reign of 【74†Srichandra】 (c 930–975 AD), the administrative centre of the Chandra kingdom was established in 【75†Bikrampur】 in 【76†Vanga】.^{【77†[5]】} He led invasions into 【78†Kamarupa】. The Chandras played an important role in the regional politics and military history of erstwhile 【63†Bengal】.
+L144: 
+L145: In the reign of King 【79†Govindachandra】, the Chandras were eventually annexed by the 【80†Pala dynasty】 of 【81†Varendra】.^{【77†[5]】}
+L146: ## Conquest of Kamarupa
+L147: 
+L148: [【82†edit】]
+L149: 
+L150: Verse 12 of the 【83†Sylhet】 plate informs us that 【74†Sricandra】 conquered 【78†Kamrupa】. The description of the land of Kmarupa with its pigeons, monkeys, plantain tress, deers and black aloe-woods, as given in the verse, shows us that the composer was familiar with the country.^{【84†[6]】}
+L151: The next verse indicates that his victorious army went beyond the Lohitya(Brahmaputra) river to the north of Gauhati, where flows the puspabhadra river and proceeded through Uttarapatha to the mountainous region.^{【84†[6]】}
+L152: ## Maritime relations
+L153: 
+L154: [【85†edit】]
+L155: 
+L156: The coastal kingdom had trade networks with states in what is now Myanmar, Thailand, Indonesia and Vietnam. 10th century shipwrecks around the coast of 【86†Java】 provide evidence of maritime links between southeastern Bengal and Southeast Asia. Bronze sculptures may have been imported by the Javanese from the Chandra kingdom in southeastern Bengal. 【87†Arab】 merchants also traded with the kingdom.^{【73†[4]】}
+L157: King Anandachandra mentions mission he sent to 【88†Sinhalese King】 Silamegha (【89†Aggabodhi IV】) (727–766)
+L158: ## Marital relations
+L159: 
+L160: [【90†edit】]
+L161: 
+L162: According to king Anandachandra's (22nd King of this dynasty) inscription, the Chandra dynasty had marital relations with the Tamralipta royal family (【91†Tamluk Royal Family】). The Bengali King Anandachandra of Arakan was married to Princess Dhenda of Tamralipta.^{【92†[7]】}^{【93†[8]】}
+L163: ## Archaeology
+L164: 
+L165: [【94†edit】]
+L166: 
+L167: There are numerous inscriptions dating from the period of the Chandra dynasty. The three archaeological sites associated with the dynasty include 【75†Bikrampur】 and 【95†Mainamati】 in Bangladesh and 【96†Waithali】 in 【97†Rakhine State】, Myanmar.
+L168: ## Education
+L169: 
+L170: [【98†edit】]
+L171: 【99†Chandrapur University】 in Shrihatta was as large as other religious institutions like 【100†Nalanda】, 【101†Taxila】, 【102†Mahasthangarh】^{【103†[9]】} or 【104†Odantapuri】 and was established before 【105†Oxford】, and 【106†Cambridge】 universities or even the 【107†Jagaddala Vihara】.^{【108†[10]】}^{【109†[11]】}^{【110†[12]】} It was made by king Srichandra. Its exact location has not been found.
+L172: Chandrapur university was unique in contrast with other universities and the viharas established by Buddhist kings in India. Its curriculum included almost all of the subjects from the Hindu Shastra except the grammar of Chandragomin who was Buddhist by religion. Moreover, the students of this university were also Hindu Brahmins.
+L173: The nine monasteries were overseen mainly by Hindu Brahmins.^{【103†[9]】} This is because the Buddhist king, Srichandra, granted lands in Paschimbhag in the name of 【111†Buddha】 for nine Brahmin monasteries where the Chaturvedas were mainly taught. Kamalakanta Gupta referred to this grant as "unique among other Buddhist kings" since it implies Srichandra's favouritism towards Brahmins.
+L174: Land distribution among 25 classes of people, guests, and students indicates an efficient administration in the universities. According to Zafir Setu, this administrative arrangement is more consistent with the present-day university system.^{【109†[11]】}
+L175: ## List of Chandra rulers
+L176: 
+L177: [【112†edit】]
+L178: #  | King  | Period  | Reign (CE)
+L179: --- | --- | --- | ---
+L180: Ruling from 【113†Dhanyawadi】 and 【96†Waithali】
+L181: 1  | Dvenchandra^{【70†[2]】}^{【114†[13]】}^{【115†[14]】}  | 55  | 370–425
+L182: 2  | Rajachandra  | 20  | 425–445
+L183: 3  | Kalachandra  | 9  | 445–454
+L184: 4  | Devachandra  | 22  | 454-476
+L185: 5  | Yajnachandra  | 7  | 476-483
+L186: 6  | Chandrabandu  | 6  | 483-489
+L187: 7  | Bhumichandra  | 7  | 489–496
+L188: 8  | Bhutichandra  | 24  | 496–520
+L189: 9  | Nitichandra  | 55  | 520–575
+L190: 7  | Virachandra  | 3  | 575–578
+L191: 11  | Pritichandra  | 12  | 578-90
+L192: 12  | Prithvichandra  | 7  | 590–597
+L193: 13  | Dhirtichandra  | 3  | 597–600
+L194: 14  | Mahavira*  | 12  | 600-12
+L195: 15  | Virayajap*  | 12  | 612-24
+L196: 16  | Sevinren*  | 12  | 624-36
+L197: 17  | Dharmasura*  | 13  | 636-49
+L198: 18  | Vajrashakti*  | 16  | 649-65
+L199: 19  | Dharmavijaya*  | 36  | 665–701
+L200: 20  | Narendravijaya*  | 2 yr 9 months  | 701–703
+L201: 21  | Dharmachandra*  | 16  | 703–720
+L202: 22  | Anandachandra*  | 9+  | 720-729+
+L203: Ruling from 【116†Harikela】^{【117†[15]】}
+L204: 1  | 【118†Traillokyachandra】  | 30  | 900–930
+L205: 2  | 【74†Srichandra】  | 45  | 930–975
+L206: 3  | 【119†Kalyanachandra】  | 25  | 975–1000
+L207: 4  | 【120†Ladahachandra】  | 20  | 1000–1020
+L208: 5  | 【79†Govindachandra】  | 30  | 1020–1050
+L209: *Note- These rulers may or may not be related to the Chandra dynasty.^{【114†[13]】}^{【70†[2]】}
+L210: ## References
+L211: 
+L212: [【121†edit】]
+L213:   1. 【122†↑】 【123†Sirajul Islam】; Miah, Sajahan; 【124†Khanam, Mahfuza】; Ahmed, Sabbir, eds. (2012). 【125†"Govindachandra"†en.banglapedia.org】. 【126†Banglapedia: the National Encyclopedia of Bangladesh】 (Online ed.). Dhaka, Bangladesh: Banglapedia Trust, 【127†Asiatic Society of Bangladesh】. 【128†ISBN】 【129†984-32-0576-6】. 【130†OCLC】 【131†52727562†search.worldcat.org】. 【132†OL】 【133†30677644M†openlibrary.org】. Retrieved 5 November 2026.
+L214:   2. 【134†1】 【135†2】 【136†3】 Singer, Noel F. (2008). 【137†Vaishali and the Indianization of Arakan†books.google.com】. APH Publishing. p. 50. 【128†ISBN】 【138†978-81-313-0405-1】.
+L215:   3. 【139†↑】 Manguin, Pierre-Yves; Mani, A.; Wade, Geoff (2011). 【140†Early Interactions Between South and Southeast Asia: Reflections on Cross-cultural Exchange†books.google.com】. Institute of Southeast Asian Studies. pp. 387–. 【128†ISBN】 【141†978-981-4345-10-1】.
+L216:   4. 【142†1】 【143†2】 Ghosh, Suchandra (2013). "Locating South Eastern Bengal in the Buddhist Network of Bay of Bengal (C. 7th Century CE-13th Century CE)". Proceedings of the Indian History Congress. 74: 148–153. 【144†JSTOR】 【145†44158810†www.jstor.org】.
+L217:   5. 【146†1】 【147†2】 【123†Sirajul Islam】; Miah, Sajahan; 【124†Khanam, Mahfuza】; Ahmed, Sabbir, eds. (2012). 【148†"Chandra Dynasty, The"†en.banglapedia.org】. 【126†Banglapedia: the National Encyclopedia of Bangladesh】 (Online ed.). Dhaka, Bangladesh: Banglapedia Trust, 【127†Asiatic Society of Bangladesh】. 【128†ISBN】 【129†984-32-0576-6】. 【130†OCLC】 【131†52727562†search.worldcat.org】. 【132†OL】 【133†30677644M†openlibrary.org】. Retrieved 5 November 2026.
+L218:   6. 【149†1】 【150†2】 Chowdhury, Abdul Momin (1967). 【151†Dynastic History Of Bengal†archive.org】. p. 171.
+L219:   7. 【152†↑】 Singer, Noel F. (2008). 【137†Vaishali and the Indianization of Arakan†books.google.com】. APH Publishing. p. 62. 【128†ISBN】 【138†978-81-313-0405-1】.
+L220:   8. 【153†↑】 Braginsky, Vladimir (18 March 2014). 【154†Classical Civilizations of South-East Asia†books.google.com】. Routledge. p. 379. 【128†ISBN】 【155†978-1-136-84879-7】.
+L221:   9. 【156†1】 【157†2】 Islam, Mohammad Mazharul (17 August 2020). 【158†"প্রাচীন 'চন্দ্রপুর বিশ্ববিদ্যালয়'"†samakal.com】 (in Bengali). Samakal. Retrieved 31 August 2020.
+L222:   10. 【159†↑】 Shakil, Mahfouz (20 July 2020). 【160†"জুড়ীতে প্রাচীন বিশ্ববিদ্যালয়? অনুসন্ধানে যাচ্ছে প্রত্নতত্ত্বের দল"†www.kalerkantho.com】 (in Bengali). Kulaura, Moulvibazar: Kaler Kantha. Retrieved 12 April 2021.
+L223:   11. 【161†1】 【162†2】 Choedhury, Dwoha (24 July 2020). 【163†"চন্দ্রপুর: যেখানে লুকিয়ে আছে দশম শতাব্দীর বিদ্যাপীঠ"†www.thedailystar.net】. The Daily Star (in Bengali). Sylhet. Retrieved 27 August 2020.
+L224:   12. 【164†↑】 Islam, Nurul (18 August 2020). 【165†"শুস্ক মৌসুমে খননকাজ: মৌলভীবাজারে প্রাচীন চন্দ্রপুর বিশ্ববিদ্যালয়ের সন্ধানে"†samakal.com】 (in Bengali). Moulvibazar: samakal. Retrieved 12 April 2021.
+L225:   13. 【166†1】 【167†2】 Wicks, Robert S. (31 May 2018). 【168†Money, Markets, and Trade in Early Southeast Asia: The Development of Indigenous Monetary Systems to AD 1400†books.google.com】. Cornell University Press. p. 87. 【128†ISBN】 【169†978-1-5017-1947-9】.
+L226:   14. 【170†↑】 Johnston, E. H. (1944). "Some Sanskrit Inscriptions of Arakan". Bulletin of the School of Oriental and African Studies, University of London. 11 (2): 357–385. 【171†doi】:【172†10.1017/S0041977X00072529†doi.org】. 【173†ISSN】 【174†0041-977X†search.worldcat.org】. 【144†JSTOR】 【175†609320†www.jstor.org】. 【176†S2CID】 【177†191758063†api.semanticscholar.org】.
+L227:   15. 【178†↑】 【179†Chowdhury, Abdul Momin】 (1967). 【180†Dynastic History of Bengal (c. 750—1200 A.D.)†archive.org】. Dacca: The Asiatic Society of Pakistan. pp. 156, 159, 170.
+L228: ## Further reading
+L229: 
+L230: [【181†edit】]
+L231: 
+L232:   * Singh, Nagendra Kr. (2003). Encyclopaedia of Bangladesh. Anmol Publications Pvt Ltd. pp. 7–21. 【128†ISBN】 【182†81-261-1390-1】.
+L233: 
+L234: 【183†Image】
+L235: 
+L236: Retrieved from "【42†https://en.wikipedia.org/w/index.php?title=Chandra_dynasty&oldid=1375915736】"
+L237: 
+L238: 【184†Categories】:
+L239: 
+L240:   * 【185†Chandra dynasty】
+L241:   * 【186†Medieval Bengal】
+L242:   * 【187†Dynasties of Bengal】
+L243:   * 【188†Buddhist dynasties of India】
+L244: 
+L245: Hidden categories:
+L246:   * 【189†Articles with short description】
+L247:   * 【190†Short description is different from Wikidata】
+L248:   * 【191†Articles lacking in-text citations from April 2015】
+L249:   * 【192†All articles lacking in-text citations】
+L250:   * 【193†Use dmy dates from June 2020】
+L251:   * 【194†CS1 Bengali-language sources (bn)】
+L252:   * This page was last edited on 20 September 2026, at 21:13 (UTC).
+L253:   * Page was rendered with 【195†Parsoid†www.mediawiki.org】.
+L254:   * Text is available under the 【196†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【197†Terms of Use†foundation.wikimedia.org】 and 【198†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【199†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L255:   * 【198†Privacy policy†foundation.wikimedia.org】
+L256:   * 【5†About Wikipedia】
+L257:   * 【200†Disclaimers】
+L258:   * 【6†Contact Wikipedia】
+L259:   * 【201†Legal & safety contacts†foundation.wikimedia.org】
+L260:   * 【202†Code of Conduct†foundation.wikimedia.org】
+L261:   * 【203†Developers†developer.wikimedia.org】
+L262:   * 【204†Statistics†stats.wikimedia.org】
+L263:   * 【205†Cookie statement†foundation.wikimedia.org】
+L264:   * Search
+L265: 
+L266: [Input: Search Wikipedia]
+L267: 
+L268: [Input]
+L269: 
+L270: [Button: Search]
+L271: 
+L272: [Input] Toggle the table of contents
+L273: 
+L274: Chandra dynasty
+L275: 7 languages 【17†Add topic】

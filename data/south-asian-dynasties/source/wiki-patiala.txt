@@ -1,0 +1,252 @@
+Patiala State - Wikipedia (https://en.wikipedia.org/wiki/Patiala_State)
+citeturn123view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Patiala_State","lineno":null}); Total lines: 583
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Family background】
+L51:     * 【21†2.2 Founding and territorial evolution】
+L52:     * 【22†2.3 British suzerainty】
+L53:     * 【23†2.4 Independence and abolition】
+L54:   * 【24†3 Role of women in Patiala State】
+L55:   * 【25†4 Rulers and titles】 Toggle Rulers and titles subsection
+L56:     * 【26†4.1 Raja】
+L57:     * 【27†4.2 Raja-e-Rajgan】
+L58:     * 【28†4.3 Maharaja】
+L59:   * 【29†5 Administration】 Toggle Administration subsection
+L60:     * 【30†5.1 Administrative divisions】
+L61:   * 【31†6 Demographics】
+L62:   * 【32†7 Transport】 Toggle Transport subsection
+L63:     * 【33†7.1 Railways】
+L64:   * 【34†8 Orders and decorations】
+L65:   * 【35†9 Patronage of the arts】
+L66:   * 【36†10 Sports】
+L67:   * 【37†11 Gallery】
+L68:   * 【38†12 See also】
+L69:   * 【39†13 Notes】
+L70:   * 【40†14 References】
+L71:   * 【41†15 Further reading】
+L72:   * 【42†16 External links】
+L73: [Input] Toggle the table of contents
+L74: # Patiala State
+L75: 
+L76: [Input] 19 languages
+L77:   * 【43†বাংলা†bn.wikipedia.org】
+L78:   * 【44†Català†ca.wikipedia.org】
+L79:   * 【45†Čeština†cs.wikipedia.org】
+L80:   * 【46†Deutsch†de.wikipedia.org】
+L81:   * 【47†Español†es.wikipedia.org】
+L82:   * 【48†Français†fr.wikipedia.org】
+L83:   * 【49†हिन्दी†hi.wikipedia.org】
+L84:   * 【50†Bahasa Indonesia†id.wikipedia.org】
+L85:   * 【51†Italiano†it.wikipedia.org】
+L86:   * 【52†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L87:   * 【53†پنجابی†pnb.wikipedia.org】
+L88:   * 【54†Русский†ru.wikipedia.org】
+L89:   * 【55†سنڌي†sd.wikipedia.org】
+L90:   * 【56†Simple English†simple.wikipedia.org】
+L91:   * 【57†سرائیکی†skr.wikipedia.org】
+L92:   * 【58†Svenska†sv.wikipedia.org】
+L93:   * 【59†தமிழ்†ta.wikipedia.org】
+L94:   * 【60†اردو†ur.wikipedia.org】
+L95:   * 【61†中文†zh.wikipedia.org】
+L96: 【62†Edit links†www.wikidata.org】
+L97: 
+L98:   * 【63†Article】
+L99:   * 【64†Talk】
+L100: 
+L101: [Input] English
+L102: 
+L103:   * 【63†Read】
+L104:   * 【65†View source】
+L105:   * 【66†View history】
+L106:   * 【17†Save】
+L107: 
+L108: [Input] Tools
+L109: 
+L110: Tools
+L111: 
+L112: [Button: move to sidebar] [Button: hide]
+L113: 
+L114: Actions
+L115: 
+L116:   * 【63†Read】
+L117:   * 【65†View source】
+L118:   * 【66†View history】
+L119:   * 【17†Save】
+L120: 
+L121: General
+L122:   * 【67†What links here】
+L123:   * 【68†Related changes】
+L124:   * 【69†Upload file】
+L125:   * 【70†Permanent link】
+L126:   * 【71†Page information】
+L127:   * 【72†Cite this page】
+L128:   * 【73†Get shortened URL】
+L129:   * 【74†Switch to legacy parser】
+L130: 
+L131: Print/export
+L132: 
+L133:   * 【75†Download as PDF】
+L134:   * Printable version
+L135: 
+L136: In other projects
+L137: 
+L138:   * 【76†Wikimedia Commons†commons.wikimedia.org】
+L139:   * 【77†Wikidata item†www.wikidata.org】
+L140: 
+L141: Appearance
+L142: 
+L143: [Button: move to sidebar] [Button: hide]
+L144: 【78†Coordinates】: 【79†31°07′N 77°38′E﻿ / ﻿31.117°N 77.633°E﻿ / 31.117; 77.633†geohack.toolforge.org】
+L145: 
+L146: This article is about the former princely state. For the settlement, see 【80†Patiala】. For the district, see 【81†Patiala district】. For the division, see 【82†Patiala division】.
+L147: 
+L148: Patiala State
+L149: ---
+L150: 1762–1948
+L151: 【83†Flag】 【84†Coat of arms】
+L152: Map of Patiala during the colonial era Map of Punjab, including Patiala and other princely states
+L153: Capital  | 【80†Patiala】
+L154: Religion (1941)  |
+L155:   * 46.28% 【85†Sikhism】
+L156:   * 30.86% 【86†Hinduism】
+L157:   * 22.55% 【87†Islam】
+L158:   * 0.16% 【88†Jainism】
+L159:   * 0.08% 【89†Christianity】
+L160:   * 0.08% 【31†others】
+L161: 【90†Maharaja】  |
+L162: • 1763–1765  | 【91†Ala Singh】 (first)
+L163: • 1938–1948  | 【92†Yadavindra Singh】 (last)
+L164: History  |
+L165: • 【21†Founded】  | 1762
+L166: • 【93†Treaty of Amritsar】  | 25 April 1809
+L167: • 【23†Accession to the Union of India】  | August 1947
+L168: • 【23†Dissolved】  | 15 July 1948
+L169: Area
+L170: ---
+L171: Total  | 15,389 km^{2} (5,942 sq mi)
+L172: Population
+L173: ---
+L174: • 1941  | 1,936,259
+L175: • 1931  | 1,625,520
+L176: • 1921  | 1,499,739
+L177: • 1911  | 1,407,659
+L178: Preceded by Succeeded by
+L179: 【94†Image†upload.wikimedia.org】 【95†Mughal Empire】
+L180: 【94†Image†upload.wikimedia.org】 【96†Durrani Empire】
+L181: 【97†Patiala and East Punjab States Union】 【94†Image†upload.wikimedia.org】
+L182: Today part of  | 【98†India】
+L183: Patiala was a kingdom and later a 【99†princely state】 of India. It was one of the 【100†Phulkian States】 that 【101†acceded】 to the 【102†Union of India】 upon 【103†Indian independence】 and 【104†partition】 in 1947.
+L184: It was founded as a kingdom by 【91†Ala Singh】 in 1762.^{【105†[1]】}^{【106†[2]】}^{【107†[3]】} During the reign of 【90†Maharaja】 【108†Karam Singh】 from 1813 to 1845, Patiala was the second-largest 【109†Sikh state】 in 【110†Punjab】.^{【111†[4]】} After the collapse of the 【112†Sikh Empire】, Patiala emerged in the mid-19th century as a powerful state, leading to greater revenue and territory, with the patronage of the arts.^{【113†[5]】} The state's ruler, the Maharaja of Patiala, was entitled to a 17-【114†gun salute】 and held precedence over all other princes in Punjab during the 【115†British Raj】.^{【105†[1]】} The state was ruled by 【116†Jat Sikhs】 of the 【117†Sidhu】 clan.^{【106†[2]】}
+L185: The kingdom's imperial troops also fought in 【118†World War I】 and 【119†World War II】 on behalf of the 【115†British Indian Empire】.
+L186: ## Etymology
+L187: 
+L188: The state took its name from its principal city and capital, 【80†Patiala】, from 【120†Punjabi】 patti ("strip of land") and ala (referring to Ala Singh), together meaning a strip of land belonging to 【91†Ala Singh】, founder of the city and state.^{【121†[6]】}^{【122†[7]】}^{【123†[8]】}
+L189: 
+L190: ## History
+L191: ### Family background
+L192: 
+L193: Further information: 【124†Maharaja of Patiala § Origins and lineage】
+L194: The ruling family traced their origin to 【125†Krishna】, via 【126†Yadu】.^{【127†[9]】} The Patiala ruling family remotely claimed origins from 【128†Bhati Rajputs】 of 【129†Jaisalmer】 in the 12th century, specifically the Jadon Bhati chief 【130†Jaisal】 who was the founder and first ruler of Jaisalmer.^{【131†[10]】}^{【122†[7]】}^{【132†[11]】}^{: 89 }^{【133†[12]】} Based on this, the 【134†Phulkian rulers】 claimed Rajput status up-to the 20th century.^{【135†[13]】} At some point, their ancestors moved from Jaisalmer in Rajasthan to Phul in Punjab.^{【122†[7]】} The ruling house claims descent from Rao Hem Hel of Jaisalmer, the third son of Jaisal, who settled in 1185 at 【136†Bhatinda】.^{【137†[note 1]】}^{【138†[14]】} Other sources describe Hem Hel as being the grandson of Jaisal.
+L195: Hem Hel would expand to Hisar, where he was pushed back to Bhatinda by 【139†Prithviraj Chauhaun】.^{【140†[15]】} Hem Hel managed to take control of territory located south of Muktsar and expelled the previous Punwar rulers from the tract. Hem Hel died in 1214 and was succeeded by his son Jaidrath (Jundar).^{【141†[16]】}
+L196: Between 1526 and 1560, the ancestral family of the later Patiala rulers was headed by 【142†chaudhary】 Bariam, a Phulkian Jat.^{【106†[2]】}^{【135†[13]】} Bariam was awarded with a chaudhriyat grant by the 【143†Mughal emperor】 【144†Babur】 in 1526 due to his actions in supporting the Mughal invader at the 【145†First Battle of Panipat】. This grant allowed Bariam to collect revenue from the 【146†badlands】 located to the southwest of 【147†Delhi】.^{【135†[13]】}
+L197: In 1560, custodianship over the family was then led by Mehraj, who was followed by Pukko. Pukko was followed by Mohan, who led the family until 1618.^{【106†[2]】} Mohan and his son Rup Chand were killed in circa 1618 during a skirmish with Bhattis.^{【132†[11]】}^{: 89 }
+L198: From 1618 onwards, the family was led by Kala, who was the second-son of Mohan.
+L199: Kala was succeeded by Phul, a son of Rup Chand.^{【148†[note 2]】}^{【106†[2]】}^{【132†[11]】}^{: 89 } According to lore, Phul met with 【149†Guru Hargobind】, with the guru prophesying that Phul's descendants would spread-out and be successful.^{【111†[4]】}^{【135†[13]】} This was through the Sikh guru making a pun on Phul name, which means "flower", and that Phul's descendants would "bear many blossoms" and "satisfy the hunger of many".^{【135†[13]】} Phul had seven sons and two wives, with two prominent sons being Rama and Tiloka, with both being born to the same mother.^{【150†[17]】}^{【135†[13]】} The progeny of Tiloka would form the houses of Nabha and Jind whilst Rama's descendants became the Patiala ruling-house.^{【131†[10]】} Phul headed the family until 1652, being succeeded by Rama Chand.^{【106†[2]】} Rama's son was Ala Singh.^{【131†[10]】} According to Kavita Singh, the family converted to Sikhism in the generation before Ala Singh.^{【127†[9]】}
+L200: Guru Gobind Singh, damaged fresco from Qila Mubarak, Patiala, circa 19th century
+L201: In 1696, Guru Gobind Singh is believed to have blessed the family, having issued a 【151†hukamnama】 edict on 2 August 1696 (2 【152†Bhadon】 1753 【153†Bk.】)^{【150†[17]】}^{【123†[8]】} addressed to Rama Chand and Tiloka Chand of the family urging them to visit the guru's court and bring with them men and horses.^{【122†[7]】}^{【150†[17]】} The Sikh guru also gifted Rama and Tiloka a battle-standard and eleven weapons, which is seen as bestowing a special accord onto the family.
+L202: In 1702, Rama and Tiloka underwent the 【154†pahul】 ceremony at 【155†Damdama Sahib】, with their Khalsa baptism being conducted by 【156†Guru Gobind Singh】 himself.
+L203: Thus-after, the family started appending the 【157†Singh】 title to their name.^{【122†[7]】} However, according to 【158†Barbara Ramusack】, Ala Singh was the first member to adopt the Singh title.^{【135†[13]】} Out of the six sons of Rama, two of them also appended their name with Singh (with one of these two being Ala Singh).^{【122†[7]】} Rama Chand was succeeded as head of the family by Ala Singh in 1714.^{【106†[2]】}^{【122†[7]】} Whilst Rama's descendants formed the ruling house of Patiala State, the descendants of Tiloka formed the ruling house of Nabha and Jind states.^{【159†[18]】}^{【135†[13]】}
+L204: 【91†Ala Singh】, the founder of Patiala State, was a descendant of the 【117†Sidhu】 clan of 【160†Jats】. He was born into the Phulkian dynasty, a confederacy established by Chaudhary Phul Sidhu-Brar. Ala was the third-son of his father Rama.^{【135†[13]】} Ala Singh's leadership and military prowess enabled him to establish Patiala as a significant princely state in the Punjab region.^{【161†[19]】}^{【162†[20]】}
+L205: ### Founding and territorial evolution
+L206: The state originated as one of the many chiefdoms the Sikhs had established in the former 【163†Mughal province of Delhi】 after the collapse of Mughal and Afghan authority in the region.^{【164†[21]】} According to 【165†Giani Gian Singh】's 【166†Twarikh Guru Khalsa】, Ala Singh was bestowed the title of raja by emperor 【167†Muhammad Shah】 of the Mughal Empire in 1725 C.E. (1781 Bk.) at the Delhi Durbar to recognize Ala Singh's efforts toward fighting insurgents.
+L207: Ala Singh was awarded the title by Wasiyar Khan of Sirhind. Afterwards, Ala Singh would expand and consolidate his power.^{【132†[11]】}^{: 73 } Ala Singh, establisher of Patiala, had been conquering territory since around 1730.^{【168†[22]】}
+L208: Equestrian painting of Maharaja Ala Singh of Patiala, gouache heightened with gold on paper
+L209: The locality of Patiala was founded by 【169†sardar】 Ala Singh in 1752.^{【106†[2]】} Ala Singh's rule is characterized by careful statecraft that allowed him to build his revenue and political status through careful geopolitical navigation, balancing both allegiance and independence vis-a-vis the Mughals and Durranis, much to the dismay of the 【170†Dal Khalsa】.^{【123†[8]】} In 1761, the Afghans defeated the forces of Ala Singh at Barnala.^{【122†[7]】} Ahmad Shah Abdali had targeted Barnala locality of the Patiala chief due to Ala Singh assisting the Marathas by providing them supplies.
+L210: Mai Fatto, Ala Singh's wife, responded diplomatically to the situation and managed to arrange a meeting between Ala Singh and Ahmad Shah Abdali through negotiations with Shah Wali Khan, the wazir of Abdali. Ala Singh was captured by the Afghans and taken to Ahmad Shah Abdali. This was the first meeting between Abdali and Ala Singh.
+L211: The Afghans demanded a four lakh rupee ransom to secure Ala Singh's release.^{【122†[7]】}^{【171†[23]】} Abdali wanted to win-over Ala Singh to his cause and Ala Singh became a vassal of the Afghans.^{【106†[2]】}^{【171†[23]】} In a 【172†firman】 issued by Ahmad Shah Abdali to 【173†Zain Khan Sirhindi】 on 29 March 1761, it is noted that Ala Singh possessed 726 villages, particularly in the parganas of Sunam (224), Samana (266), Sirhind (52), Sanaur (89), Chhat (8), Masigan (17), Kohram (6), Banur (37), and Mansurpur (23), and there were four villages in other locations.
+L212: Aside from the confirmation of the villages in his possession, Ala Singh also received a robe-of-honour from Abdali. The firman commanded Zain Khan to recognize Ala Singh as an independent chief and an ally of the Afghans.^{【171†[23]】} Mir Taqi was appointed to obtain tribute from Ala Singh.^{【171†[23]】} Thus, Ala Singh in 1761 was bestowed with a sanad giving him 【174†chaudhari】 rights and the 【175†raja】 title from the Durranis.^{【123†[8]】}
+L213: Patiala State was founded by Ala Singh as a chiefship slightly later in March 1762 after Ahmad Shah Abdali bestowed Ala Singh with the 【175†raja】 title, gifting him with a robe-of-honour, nagadas (war drums), the right to coin money, and an embrace.^{【122†[7]】} Yet Ala Singh was expected to bestow an annual tribute on the Afghan ruler.
+L214: Ramusack dates this bestowal several years later in 1765.^{【135†[13]】} In 1763, after the 【176†Battle of Sirhind】, the 【177†Sikh Confederation】 partitioned the Sirhind area and gave the territory to Ala Singh.^{【105†[1]】}^{【106†[2]】} The areas in Sirhind, along with Ala Singh's other conquered territories, formed the initial territories of the Patiala state.^{【178†[24]】} Also in 1763, Ala Singh constructed a mud-fortress (kachigarhi^{【123†[8]】}) around a mound, known as the 【179†Qila Mubarak】 (meaning "blessed fort"),^{【122†[7]】} which may have been established to ward off Afghan invasions.^{【123†[8]】} Human settlements and 【180†bazaars】 would form around this fort, leading to the formation of Patiala as a population centre.^{【123†[8]】} Ala Singh established the rules for the right of succession based on primogeniture.^{【122†[7]】} Indu Banga describes Ala Singh as being politically expedient in his external relations, where local Sikh leaders benefited from a complex series of relations in a region where various parties were vying for dominance.^{【131†[10]】}^{【181†[25]】} Ala Singh relied more on negotiation rather than aggression to expand his territory.
+L215: However, his diplomatic approach toward the Mughals and Afghans differed from that of the Sikh Misls in the Majha region, which brought him into conflict with the Majha Sikhs, who were more militaristic toward their perceived enemies.^{【123†[8]】}
+L216: After Ala Singh reconciled with the Afghan ruler, becoming his vassal and receiving a 【182†robe-of-honour】, he was criticized by his fellow Sikh chiefs of the Dal Khalsa as a traitor. Ala Singh defended himself by stating that he only had two options, fight Abdali and lose, meaning a loss of Sikh control over the cis-Sutlej region, or become his vassal and preserve Sikh power in the area.
+L217: Jassa Singh Ahluwalia helped Ala Singh make his case to the rest of the Sikh leaders, and the other Sikh chiefs accepted Ala Singh once again. After Abdali's departure, the cis-Sutlej region was embroiled in-conflict again, with the Sikhs launching raids and extracting tribute from the Sirhind region and its governor, Zain Khan Sirhindi, being unable to get the situation under control.
+L218: The diwan of Zain Khan, named Lakshami Narain, was attacked by Sikhs while en-route during revenue-collection, who stole the funds. Aside from Sirhind, the situation in 【183†Lahore province】 was also dire for the Afghans, as the governor Khwaja Obed was killed by the Sikhs under Charat Singh.
+L219: Thus, Abdali decided to act and punish the Sikhs for their antics, which would lead up into a mass-killing known as the 【184†Vadda Ghalughara】, in-which around 12,000–15,000 Sikh men were slaughtered by the Afghan forces.^{【171†[23]】}
+L220: According to many, Ala Singh failed to assist his religious kin during the massacre. He stayed neutral during the events and did not initiate hostilities against the Durranis. However, this neutrality would not save Ala Singh as Abdali, whom had been told that Ala Singh was a "secret ally of the 【185†Majhi】 Sikhs" by Zain Khan and Bikhan Khan, would later burn down Barnala and advanced upon 【186†Bhawanigarh】, where Ala Singh was holed up.
+L221: Ala Singh sought out the help of 【187†Najib-ud-Daula】 and was forced to pay a humiliating fee of "five lakhs of rupees as tribute and a hundred and twenty-five thousand rupees more for permission to appear before him with his 【188†long hair】 intact" to placate Abdali. After this, Ala Singh was detained for a short-while but was released on the promise that his polity would pay an annual tribute to the Durranis.^{【189†[26]】}
+L222: Kirpal Singh argues that Ala Singh did assist his co-religionists during the massacre. He states that the 【190†vakil】 of Ala Singh, named Sekhu Singh Hambalka, was with the surrounded Sikhs during the massacre at Kup. He claims that Sekhu Singh and Sangu Singh were ordered to lead the Sikh women and children to Barnala and Thikriwala for safety, which were within Ala Singh's territory.
+L223: This is evidenced in the Khazana-i-Amara, which states that a report of 200,000 fleeing Sikhs sought safety in Sirhind and near the territory of "Ala Singh Jat" was made when Abdali reached Lahore. By the time Abdali reached Barnala, Ala Singh had already managed to escape. This damaged Ala Singh's relations with Abadali, whom was already being told negativities about Ala Singh by the diwan Lakhshami Narain. Thus, Ala Singh was arrested and nearly had his hair cut-off but managed to pay a fee instead.
+L224: When Abdali demanded that Ala Singh's hair be cut, Ala Singh responded that he was prepared to die rather than sacrifice his hair. Ala Singh offered to pay one lakh rupees instead, with Abdali accepting a payment of 125,000 rupees. After the massacre, Ala Singh joined a coalition of Sikh forces to punish Zain Khan, to prove he was still with the Dal Khalsa.
+L225: This led to the 【176†Battle of Sirhind on 13 January 1764】, in-which the Sikh forces defeated the forces of Zain Khan, paving the way for Sikh domination of this tract of land for the foreseeable future.^{【191†[27]】}
+L226: Patiala State continued to expand during the rule of Ala Singh's successor, Raja-Rajgan Amar Singh.^{【192†[28]】}^{【106†[2]】} He was the first ruler to receive the Raja-e-Rajgan title.^{【123†[8]】}
+L227: 
+L228: Amar Singh of Patiala
+L229: Ala Singh's successor, Amar Singh (b. 1748, r.
+L230: 1765–1782), took-on the Raja-i-Rajagan Bahadur title in 1767.^{【106†[2]】} Amar Singh became a baptized Sikh and expanded the polity through crafty alliances and strategic conquests,^{【131†[10]】} expanding at the expense of the Mughals and other Sikh states.^{【111†[4]】} After Amar Singh's death, there were a series of succession dispute in Patiala, with the north-ward expanding Marathas and other regional, rival Sikh chiefs taking advantage of it to advance their own interests in the region.
+L231: However, during the 1790s, women of the Patiala ruling-house, notably 【193†Rani Rajinder Kaur】 (d. 1791, cousin of Amar Singh) and 【194†Rani Sahib Kaur】 (d. 1799, sister of Sahib Singh) defended the political entity from the Marathas through their leadership.^{【131†[10]】} In 1783, the state's territory reached the outskirts of 【147†Delhi】 but receded afterwards back to the Punjab due to the 【195†Chalisa famine】.^{【111†[4]】}
+L232: Farman issued by the Mughal emperor Akbar II to the ruler of Patiala, ca.1806–07
+L233: Maharaja Sahib Singh (the first ruler to hold the title of Maharaja), expanded the kingdom further,^{【192†[28]】}^{【106†[2]】} but he was also aware of the expanding Sikh Empire of Lahore.
+L234: Therefore, he became an ally of the British East India Company.^{【111†[4]】} Patiala State, which initially had recognized the suzerainty of the Sikh Empire to its north, became a British protectorate in 1809 via treaty in-order to protect itself from annexation by Ranjit Singh,^{【106†[2]】}^{【131†[10]】} with the Sikh Empire and East India Company signing the 【93†1809 Treaty of Amritsar】.
+L235: Seventy other principalities signed treaties with the British around this time after Patiala.^{【111†[4]】} The treaty effectively made Patiala and the cis-Sutlej region a buffer area between the Sikh Empire and the East India Company. Despite signing a treaty with the British, the Patiala rulers maintained internal autonomy.^{【123†[8]】}
+L236: Map created by the British East India Company of the Malwa region of Punjab showing the various polities, borders, and settlements of the area, ca.1829–1835. The state of Patiala dwarfed other cis-Sutlej states in-size.
+L237: The next major expansion of Patiala State's territory occurred during and after 1814, under 【108†Karam Singh】,^{【192†[28]】}^{【106†[2]】} the first Patiala ruler to be crowned under British suzerainty.^{【111†[4]】} For Karam Singh's support during the 【196†Anglo-Nepalese War】,^{【111†[4]】} which took place between 1814 and 1816, the 【197†British Empire】 awarded him territory in the hill states, extending Patiala State's territory to areas in what is now 【198†Himachal Pradesh】, including 【199†Shimla】 and 【200†Chail】.^{【192†[28]】}^{【201†[29]】} Under Karam Singh, a number of reforms were introduced, such as ending petty disputes with other chiefs, increasing centralization such as via land revenue policy, and improving the power and independence of the treasury by reducing the influence of moneylenders.
+L238: Another reform was that after 1829, the Diwans of Patiala began recording state revenue records in 【202†Persian】 rather than 【203†Landa】 script, as had been the case.
+L239: Furthermore, there was a patronage of the arts under Karam Singh.^{【111†[4]】} After the 【204†First Anglo-Sikh war】, which took place between 1845 and 1846, the state expanded again when, in return for its support during the war, the British Empire confiscated land from 【205†Nabha State】 and rewarded it to Patiala State.^{【192†[28]】}^{【131†[10]】}
+L240: After 1857 and during the rule of 【206†Narinder Singh】, Patiala State's territory was expanded for the final time. Narinder Singh's services and the support to the British Empire resulted in Patiala State gaining 【207†sovereign】 rights in the 【208†Narunal】 division of 【209†Jhajjar】, in modern 【210†Haryana】, and he purchased the 【211†taluka】 of Khamanu. Narinder Singh was also granted administrative jurisdiction over 【212†Bhadaur】 and the annual revenue from the area.^{【192†[28]】}
+L241: ### British suzerainty
+L242: In 1809, Patiala State entered into an alliance with the British Empire, whereby the state was given internal autonomy with certain restrictions, and the rulers of Patiala state recognised the British Empire as their 【213†suzerains】.^{【192†[28]】}^{【106†[2]】} The death of Maharaja Karam Singh is mysterious, with there existing different theories.
+L243: According to one claim suggested by 【214†The Illustrated London News】 (April 1846 issue), Karam Singh was executed by the British via hanging for supporting the Sikh Empire during the First Anglo-Sikh War in 1845–46. Another theory is that he was poisoned by his durbaris (courtiers) for refusing to support the Sikh Empire during the war.
+L244: A third belief is that he died from illness.^{【111†[4]】} His successor, 【206†Narinder Singh】, deepened ties with the British and provided them assistance, such as during the 【215†1857 rebellion】, with Patiala being recognized as a 17-gun salute state.^{【123†[8]】} At the Ambala Darbar held in 【216†Ambala】 between 18 and 20 January 1860, a decision to exempt Patiala, Nabha, and Jind states from the 【217†doctrine-of-lapse】.^{【218†[30]】} During the 【115†British Raj】, the rulers of Patiala State were entitled to a 17-【114†gun salute】 and held precedence over every other 【99†princely state】 in the 【219†Punjab Province】.^{【105†[1]】} In 1891, Dewan Gurmukh Singh, Finance Minister of Patiala State, authored the Guru Nanak Parkash, covering the Patiala ruling dynasty, a manual of princely conduct, and also a commentary on 【220†Sikh scripture】.^{【221†[31]】}
+L245: 【222†Maharaja Bhupinder Singh】 developed an elaborate, courtly culture and was involved with the 【223†Chamber of Princes】, patronized sports, and was involved in international matters.^{【123†[8]】}
+L246: ### Independence and abolition
+L247: 
+L248: 1946 map of India showing the various states; Patiala is found in the middle of eastern Punjab
+L249: In 1947, 【92†Yadavindra Singh】, the last Maharaja of Patiala, agreed to the 【101†accession】 of Patiala State into the 【103†independent】 【102†Dominion of India】.^{【224†[32]】}^{【123†[8]】} Patiala became the capital of the 【225†Patiala and East Punjab States Union (PEPSU)】.

@@ -1,0 +1,323 @@
+Travancore - Wikipedia (https://en.wikipedia.org/wiki/Travancore)
+citeturn99view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Travancore","lineno":null}); Total lines: 893
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 Geography】
+L50:   * 【20†3 History】 Toggle History subsection
+L51:     * 【21†3.1 Medieval Kerala】
+L52:     * 【22†3.2 Venad Swaroopam】
+L53:     * 【23†3.3 Formation and development of Travancore】
+L54:     * 【24†3.4 Mysore invasion】
+L55:     * 【25†3.5 Velu Thampi Dalawa's rebellion】
+L56:     * 【26†3.6 Cessation of mahādānams】
+L57:     * 【27†3.7 19th and early 20th centuries】
+L58:     * 【28†3.8 Formation of Kerala】
+L59:     * 【29†3.9 Merger of Kanyakumari with Madras State】
+L60:     * 【30†3.10 Retainment of Devikulam and Peerumedu Taluks in Kerala】
+L61:   * 【31†4 Politics】 Toggle Politics subsection
+L62:     * 【32†4.1 Rulers of Travancore】
+L63:     * 【33†4.2 Titular Maharajahs of Travancore since 1991】
+L64:     * 【34†4.3 Prime ministers of Travancore】
+L65:       * 【35†4.3.1 Dalawas】
+L66:       * 【36†4.3.2 Dewans】
+L67:     * 【37†4.4 Prime ministers of Travancore (1948–49)】
+L68:   * 【38†5 Administrative divisions】 Toggle Administrative divisions subsection
+L69:     * 【39†5.1 Divisions according to the 1911 Census of Travancore】
+L70:       * 【40†5.1.1 1. Padmanabhapuram Division】
+L71:       * 【41†5.1.2 2. Thiruvananthapuram Division】
+L72:       * 【42†5.1.3 3. Quilon Division】
+L73:       * 【43†5.1.4 4. Kottayam Division】
+L74:       * 【44†5.1.5 5. Devikulam Division】
+L75:   * 【45†6 Demographics】 Toggle Demographics subsection
+L76:     * 【46†6.1 Religions】
+L77:     * 【47†6.2 Languages】
+L78:   * 【48†7 Currency】
+L79:   * 【49†8 Culture】
+L80:   * 【50†9 Notable people】
+L81:   * 【51†10 See also】
+L82:   * 【52†11 Notes】
+L83:   * 【53†12 References】 Toggle References subsection
+L84:     * 【54†12.1 Citations】
+L85:     * 【55†12.2 Bibliography】
+L86:   * 【56†13 Further reading】 Toggle Further reading subsection
+L87:     * 【57†13.1 Census reports】
+L88:   * 【58†14 External links】
+L89: [Input] Toggle the table of contents
+L90: # Travancore
+L91: 
+L92: [Input] 38 languages
+L93:   * 【59†العربية†ar.wikipedia.org】
+L94:   * 【60†भोजपुरी†bh.wikipedia.org】
+L95:   * 【61†Brezhoneg†br.wikipedia.org】
+L96:   * 【62†Català†ca.wikipedia.org】
+L97:   * 【63†Čeština†cs.wikipedia.org】
+L98:   * 【64†Deutsch†de.wikipedia.org】
+L99:   * 【65†Español†es.wikipedia.org】
+L100:   * 【66†Euskara†eu.wikipedia.org】
+L101:   * 【67†فارسی†fa.wikipedia.org】
+L102:   * 【68†Suomi†fi.wikipedia.org】
+L103:   * 【69†Français†fr.wikipedia.org】
+L104:   * 【70†עברית†he.wikipedia.org】
+L105:   * 【71†हिन्दी†hi.wikipedia.org】
+L106:   * 【72†Bahasa Indonesia†id.wikipedia.org】
+L107:   * 【73†Italiano†it.wikipedia.org】
+L108:   * 【74†日本語†ja.wikipedia.org】
+L109:   * 【75†ಕನ್ನಡ†kn.wikipedia.org】
+L110:   * 【76†한국어†ko.wikipedia.org】
+L111:   * 【77†മലയാളം†ml.wikipedia.org】
+L112:   * 【78†Bahasa Melayu†ms.wikipedia.org】
+L113:   * 【79†Nederlands†nl.wikipedia.org】
+L114:   * 【80†Norsk nynorsk†nn.wikipedia.org】
+L115:   * 【81†Norsk bokmål†no.wikipedia.org】
+L116:   * 【82†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L117:   * 【83†پنجابی†pnb.wikipedia.org】
+L118:   * 【84†Português†pt.wikipedia.org】
+L119:   * 【85†Русский†ru.wikipedia.org】
+L120:   * 【86†Simple English†simple.wikipedia.org】
+L121:   * 【87†Svenska†sv.wikipedia.org】
+L122:   * 【88†தமிழ்†ta.wikipedia.org】
+L123:   * 【89†తెలుగు†te.wikipedia.org】
+L124:   * 【90†ไทย†th.wikipedia.org】
+L125:   * 【91†Türkçe†tr.wikipedia.org】
+L126:   * 【92†Українська†uk.wikipedia.org】
+L127:   * 【93†اردو†ur.wikipedia.org】
+L128:   * 【94†Tiếng Việt†vi.wikipedia.org】
+L129:   * 【95†閩南語 / Bân-lâm-gí†zh-min-nan.wikipedia.org】
+L130:   * 【96†中文†zh.wikipedia.org】
+L131: 【97†Edit links†www.wikidata.org】
+L132: 
+L133:   * 【98†Article】
+L134:   * 【99†Talk】
+L135: 
+L136: [Input] English
+L137: 
+L138:   * 【98†Read】
+L139:   * 【100†Edit】
+L140:   * 【101†View history】
+L141:   * 【17†Save】
+L142: 
+L143: [Input] Tools
+L144: 
+L145: Tools
+L146: 
+L147: [Button: move to sidebar] [Button: hide]
+L148: 
+L149: Actions
+L150: 
+L151:   * 【98†Read】
+L152:   * 【100†Edit】
+L153:   * 【101†View history】
+L154:   * 【17†Save】
+L155: 
+L156: General
+L157:   * 【102†What links here】
+L158:   * 【103†Related changes】
+L159:   * 【104†Upload file】
+L160:   * 【105†Permanent link】
+L161:   * 【106†Page information】
+L162:   * 【107†Cite this page】
+L163:   * 【108†Get shortened URL】
+L164:   * 【109†Switch to legacy parser】
+L165: 
+L166: Print/export
+L167: 
+L168:   * 【110†Download as PDF】
+L169:   * Printable version
+L170: 
+L171: In other projects
+L172: 
+L173:   * 【111†Wikimedia Commons†commons.wikimedia.org】
+L174:   * 【112†Wikidata item†www.wikidata.org】
+L175: 
+L176: Appearance
+L177: 
+L178: [Button: move to sidebar] [Button: hide]
+L179: 【113†Coordinates】: 【114†8°26′N 76°55′E﻿ / ﻿8.433°N 76.917°E﻿ / 8.433; 76.917†geohack.toolforge.org】
+L180: 
+L181: For other uses, see 【115†Travancore (disambiguation)】.
+L182: Kingdom of Travancore തിരുവിതാംകൂർ
+L183: ---
+L184: 1729–1949
+L185: Flag Coat of arms
+L186: Motto: ധർമോസ്മത്ത് കുലദൈവതം
+L187: Dharmōsmat Kuladaivatam
+L188: (【116†English】: "Charity is our household divinity")
+L189: Anthem: വഞ്ചീശ മംഗളം
+L190: 【117†Vancheesha Mangalam】
+L191: (1937–1949)
+L192: (【116†English】:"Hail the Lord of Vanchi")
+L193: Location of the kingdom of Travancore (red) in 1940's British India (green)
+L194: Official languages  | 【116†English】,
+L195: 【118†Malayalam】
+L196: Recognized regional languages  | 【119†Tamil】 (in 【120†Southern Division】)
+L197: Religion  | Majority: 【121†Hinduism】 (official)
+L198: Minority:
+L199: Chiefly 【122†Christianity】 and 【123†Islam】
+L200: Small communities of 【124†Jews】, 【125†Jains】, 【126†Sikhs】, 【127†Buddhists】, and 【128†Zoroastrians】
+L201: Government  | 【129†Monarchy】
+L202: 【130†Maharaja】  |
+L203: • 1729–1758 (first)  | 【131†Marthanda Varma】
+L204: • 1829–1846 (peak)  | 【132†Swathi Thirunal】
+L205: • 1931–1949 (last)  | 【133†Chithira Thirunal】
+L206: 【134†Diwan】  |
+L207: • 1729–1736  | Arumukan Pillai
+L208: • 1838–1839 (peak)  | 【135†R. Venkata Rao】
+L209: • 1947–1949 (last)  | 【136†P. G. N. Unnithan】
+L210: Historical era  | 【137†Age of Imperialism】
+L211: • Established  | 1729
+L212: • Subsidiary alliance with the 【138†East India Company】  | 1795
+L213: • Vassal of 【139†India】  | 1947
+L214: • Merger with 【140†kingdom of Cochin】  | 1 July 1949
+L215: • Disestablished  | 1949
+L216: Area
+L217: ---
+L218: 1941^{【141†[1]】}  | 19,844 km^{2} (7,662 sq mi)
+L219: Population
+L220: ---
+L221: • 1941^{【141†[1]】}  | 6,070,018
+L222: Currency  | 【142†Travancore Rupee】
+L223: Preceded by Succeeded by
+L224: 【143†Image†thumb.wikimedia.org】 【144†Venad】
+L225: 【145†Travancore–Cochin】 【146†Image†thumb.wikimedia.org】
+L226: Today part of  | 【147†India】
+L227: The Kingdom of Travancore (【148†/ˈ t r æ v ə ŋ k ɔːr/】), also known as the Thiruvithamkoor Kingdom (Malayalam: 【149†[t̪iɾuʋid̪aːŋɡuːr]】) and Travancore State, was a 【150†princely state】 in the Indian subcontinent that lasted from c. (circa) 1729 until 1949. It was ruled by the 【151†Travancore royal family】 from 【152†Padmanabhapuram】, and later 【153†Thiruvananthapuram】.
+L228: At its zenith, the kingdom covered most of the south of modern-day 【154†Kerala】 (【155†Idukki】, 【156†Kottayam】, 【157†Alappuzha】, 【158†Pathanamthitta】, 【159†Kollam】, and 【160†Thiruvananthapuram】 districts, major portions of 【161†Ernakulam district】, 【162†Puthenchira】 village of 【163†Thrissur district】) and the southernmost part of modern-day 【164†Tamil Nadu】 (【165†Kanyakumari district】 and some parts of 【166†Tenkasi district】) with the 【167†Thachudaya Kaimal】's enclave of 【168†Irinjalakuda】 【169†Koodalmanikyam temple】 in the neighbouring 【140†kingdom of Cochin】.^{【170†[2]】} However, the 【171†Tangasseri】 area of 【172†Kollam】 City and 【173†Anchuthengu】 near 【174†Attingal】 in Thiruvananthapuram were parts of 【175†British India】.
+L229: Geographically, 【176†Malabar District】 of 【177†Madras Presidency】 was to the north,^{【178†[3]】} the 【179†Madurai】 and 【180†Tirunelveli】 districts of 【181†Pandya Nadu】 region in Madras Presidency to the east, and the 【182†Indian Ocean】 to the south, and the 【183†Arabian Sea】 to the west.^{【184†[4]】}
+L230: Travancore was divided into five divisions: 【152†Padmanabhapuram】, 【153†Thiruvananthapuram】, 【172†Quilon】, 【185†Kottayam】, and 【186†Devikulam】. Padmanabhapuram and Devikulam divisions were predominantly 【119†Tamil】-speaking regions with small 【118†Malayalam】-speaking minorities.^{【187†[5]】} Thiruvananthapuram, Kollam, and Kottayam divisions were predominantly Malayalam-speaking regions with small Tamil-speaking minorities.^{【187†[5]】}
+L231: King 【131†Marthanda Varma】 inherited the small feudal state of 【144†Venad】 in 1723, and built it into Travancore. Marthanda Varma led the Travancorean forces during the 【188†Travancore–Dutch War】 of 1739–46, which culminated in the 【189†Battle of Colachel】.
+L232: The defeat of the Dutch by Travancore is considered the earliest example of an organised power from Asia overcoming European military technology and tactics.^{【190†[6]】} Marthanda Varma went on to conquer most of the smaller principalities of the native rulers.
+L233: The Travancore royal family signed a treaty with the British in 1788, thereby accepting British dominance. Later, in 1805, they revised the treaty, leading to a diminution of royal authority and the loss of political independence for Travancore.^{【191†[7]】}^{【192†[8]】} They had to give up their ruling rights over the common people in 1949 when Travancore was forced to merge with independent India.
+L234: ## Etymology
+L235: 
+L236: [【193†edit】]
+L237: 
+L238: The kingdom takes its name from 【194†Thiruvithamcode】 in the present-day 【165†Kanyakumari district】 of 【164†Tamil Nadu】.
+L239: The region had many small independent kingdoms. Later, at the peak of the 【195†Chera】–【196†Chola】–【197†Pandya】 rule, this region became part of the Chera Kingdom (except for the Ay kingdom, which always remained independent). When the region was part of the 【198†Chera empire】, it was still known as Thiruvazhumkode. It was contracted to Thiruvankode, and anglicised by the English to Travancore.^{【199†[9]】}^{【200†[10]】}^{【201†[11]】}
+L240: In the course of time, the 【202†Ay clan】, part of the Chera empire, which ruled the Thiruvazhumkode area, became an independent kingdom, and the land was called Aayi Desam or Aayi Rajyam, meaning 'Aayi territory'. The Aayis controlled the land from the present-day Kollam district in the north, through 【160†Thiruvananthapuram district】 to 【165†Kanyakumari district】 in the south.
+L241: There were two capitals, the major one at Kollam (Venad Swaroopam or Desinganadu) and a subsidiary one at Thrippapur (Thrippapur Swaroopam or 【203†Nanjinad】). The kingdom was thus also called 【144†Venad】. Kings of Venad had built residential palaces in Thiruvithamcode and 【204†Kalkulam】.
+L242: Thiruvithamcode became the capital of the Thrippapur Swaroopam, and the country was referred to as Thiruvithamcode by Europeans even after the capital had been moved in 1601 to 【152†Padmanabhapuram】, near Kalkulam.^{【205†[12]】}
+L243: The Chera empire had dissolved by around 1100 and thereafter the territory comprised numerous small kingdoms until the time of 【131†Marthanda Varma】 who, as king of Venad from 1729, employed brutal methods to unify them.^{【206†[13]】} During his reign, Thiruvithamkoor (anglicised as Travancore) became the official name.
+L244: ## Geography
+L245: 
+L246: [【207†edit】]
+L247: 
+L248:   * Map of Travancore in 1871
+L249: 
+L250:   * Historic scene of canal in Travancore
+L251: 
+L252:   * 【208†Anantha Padmanabhaswamy】 was the 【209†national deity】 of the kingdom of Travancore.^{【210†[14]】}
+L253: The kingdom of Travancore was located at the extreme southern tip of the 【211†Indian subcontinent】. Geographically, Travancore was divided into three climatically distinct regions: the eastern highlands (rugged and cool mountainous terrain), the central midlands (rolling hills), and the western lowlands (coastal plains).
+L254: ## History
+L255: 
+L256: [【212†edit】]
+L257: 
+L258: Due to the geographical isolation of the 【213†Malabar Coast】 from the rest of the Indian peninsula, attributed to the presence of the 【214†Western Ghats】 mountain ranges lying parallel to the coast, the population and language spoken in Kerala differed from those in neighboring states such as 【164†Tamil Nadu】 and 【215†Karnataka】.
+L259: According to the religious text "【216†Keralolpathi】" by the 【217†Nambudhiri Brahmins】, the region from 【218†Gokarna】 to 【165†Kanyakumari district】 was created when 【219†Parashurama】 threw his axe and claimed this land, known as Parashuramakshetra.^{【220†[15]】}^{【221†[16]】}^{【222†[17]】}
+L260: ### Medieval Kerala
+L261: 
+L262: [【223†edit】]
+L263: 
+L264: India in 1320 CE. The 【172†Kollam】–【153†Thiruvananthapuram】–【224†Kanyakumari】 area, located at the southernmost tip of the 【211†Indian subcontinent】 was the main seat of the Ay dynasty and was under the influence of the Pandya dynasty.
+L265: The 【195†Chera dynasty】 governed the 【213†Malabar Coast】 between 【225†Alappuzha】 in the south and 【226†Kasaragod】 in the north. The region around Coimbatore was ruled by the Cheras during the 【227†Sangam period】 roughly between the first and the fourth centuries CE and served as the eastern entrance to the Palakkad Gap, the principal trade route between the Malabar Coast and Tamil Nadu.^{【228†[18]】} However the southern region of the present-day Kerala state was under the 【229†Ay dynasty】.
+L266: During the Ay dynasty, they spoke a language known as 【230†Middle Tamil】.^{【231†[19]】} When the Ay dynasty was conquered and succeeded by the 【232†Kulashekara Perumals】,^{【233†[20]】} based in 【159†Kollam】 (later known as 【234†Venad】),^{【235†[21]】} during the period of the Chera Kulashekara Perumal (Keralaputras) dynasty,^{【235†[21]】} the language evolved into 【236†Old Malayalam】.^{【237†[22]】} The 【238†Quilon copper plates】 (849/850 CE) are considered the oldest available inscription written in Old Malayalam.^{【239†[23]】}^{【240†[24]】} Later, the northern districts of Thiruvananthapuram, Kollam, Alapuzha, and Pathanamthitta became proper 【118†Malayalam-speaking】 populations in 【154†Kerala】, while the other districts showed influences from 【241†Arabic】, 【119†Tamil】 and 【242†Kannada】 languages.
+L267: During the period of 【243†Pattom Thanu Pillai】, Travancore was referred to as Malayalam state or the land of proper 【244†Malayalis】.^{【245†[25]】}^{【246†[26]】}^{【247†[27]】}
+L268: ### Venad Swaroopam
+L269: 
+L270: [【248†edit】]
+L271: 
+L272: Main article: 【144†Venad】
+L273: 
+L274: 【249†Thambiran Vanakkam】 was printed at Kollam, the capital of Venad in 1578, during the Portuguese Era. It is the first book printed in any Indian language. It was written in the language 【250†Lingua Malabar Tamul】, which was spoken in southern Kerala (Kollam–【153†Thiruvananthapuram】–【224†Kanyakumari】 area) during the medieval period.
+L275: Located at the tip of the Indian subcontinent, the former state of Venad was traditionally ruled by 【251†rajas】 known as the Venattadis. Until the end of the 11th century AD, it was a small principality in the Ay Kingdom. The Ays were the earliest ruling dynasty in southern Kerala, who, at their zenith, ruled over a region from 【252†Nagercoil】 in the south to Thiruvananthapuram in the north.
+L276: Their capital during the first 【253†Sangam age】 was in Aykudi and later, towards the end of the eighth century AD, at 【254†Quilon (Kollam)】.
+L277: Though a series of attacks by the resurgent Pandyas between the seventh and eighth centuries caused the decline of the Ays, the dynasty was powerful until the beginning of the tenth century.^{【255†[28]】} 【256†Sulaiman al-Tajir】, a 【257†Persian】 merchant who visited Kerala during the reign of 【258†Sthanu Ravi Varma】 (9th century CE), recorded the existence of extensive trade between Kerala and China, based at the port of Kollam.^{【259†[29]】}
+L278: The 【260†British Residency】 in Quilon, where the resident of Travancore resided
+L279: When the Ay diminished, Venad became the southernmost principality of the 【261†Second Chera Kingdom】.^{【262†[30]】} An invasion of the Cholas into Venad caused the destruction of Kollam in 1096.
+L280: However, the Chera capital, 【263†Mahodayapuram】, also fell in the subsequent Chola attack, which compelled the Chera king, Rama Varma Kulasekara, to shift his capital to Kollam.^{【264†[31]】} Thus, Rama Varma Kulasekara, the last emperor of the Chera dynasty, was probably the founder of the Venad royal house, and the title of the Chera kings, Kulasekara, was thenceforth kept by the rulers of Venad. Thus the end of the Second Chera dynasty in the 12th century marks the independence of Venad.^{【265†[32]】}
+L281: In the second half of the 12th century, two branches of the Ay dynasty, the Thrippappur and Chirava, merged in the Venad family, which set up the tradition of designating the ruler of Venad as Chirava Moopan and the heir-apparent as Thrippappur Moopan.
+L282: While the Chrirava Moopan had his residence at Kollam, the Thrippappur Moopan resided at his palace in Thrippappur, nine miles north of Thiruvananthapuram, and was vested with authority over the temples of Venad kingdom, especially the 【266†Sri Padmanabhaswamy temple】.^{【262†[30]】}
+L283: ### Formation and development of Travancore
+L284: 
+L285: [【267†edit】]
+L286: A map of the Malabar Coast in 1733. At that time, Travancore was only a small territory wedged between Kollam and 【224†Kanyakumari】, as shown in the map (Present-day districts of 【160†Thiruvananthapuram district】 and Kanyakumari only). The vast region of the Malabar Coast between 【268†Kannur】 and Kollam was under the control of the 【269†Zamorin of Calicut】 then. In the latter half of the 18th century Travancore inherited the kingdoms as far as 【140†Cochin】 and became a powerful kingdom.
+L287: 【270†Padmanabhapuram Palace】 【271†Eustachius De Lannoy】 of the 【272†Dutch East India Company】 surrenders to 【131†Marthanda Varma】 of the kingdom of Travancore after the 【189†Battle of Colachel】. Depiction at 【270†Padmanabhapuram Palace】.
+L288: In the early 18th century CE, the 【151†Travancore royal family】 adopted some members from the royal family of 【273†Kolathunadu】 based at 【268†Kannur】, and 【274†Parappanad】 in present-day 【275†Malappuram district】.^{【276†[33]】} The history of Travancore began with Marthanda Varma, who inherited the kingdom of Venad (Thrippappur), and expanded it into Travancore during his reign (1729–1758).
+L289: After defeating a union of feudal lords and establishing internal peace, he expanded the kingdom of Venad through a series of military campaigns from 【224†Kanyakumari】 in the south to the borders of 【277†Kochi】 in the north during his 29-year rule.^{【278†[34]】}
+L290: During his rule occurred the 【188†Travancore–Dutch War】 (1739–1753) between Travancore and the 【272†Dutch East India Company】, which had been allied to some of these kingdoms. In 1741, Travancore won the 【189†Battle of Colachel】 against the Dutch, resulting in the complete eclipse of Dutch power in the region.
+L291: In this battle Travancore forces captured the Dutch Captain, 【271†Eustachius De Lannoy】; he later defected to Travancore.^{【279†[35]】} De Lannoy was appointed captain of His Highness' bodyguard^{【279†[35]】} and later Senior Admiral ("Valiya kappittan")^{【280†[36]】} and modernised the 【281†Travancore army】 by introducing firearms and artillery.^{【279†[35]】} From 1741 to 1758, De Lannoy remained in command of the Travancore forces and was involved in annexation of small principalities.^{【282†[37]】}
+L292: Travancore became the most dominant state in the Kerala region by defeating the powerful 【283†Zamorin】 of 【284†Kozhikode】 in the battle of 【285†Purakkad】 in 1755.^{【280†[36]】} 【286†Ramayyan Dalawa】, the prime minister (1737–1756) of Marthanda Varma, also played an important role in this consolidation and expansion.
+L293: On 3 January 1750, (5 【287†Makaram】, 925 【288†Kollavarsham】), Marthanda Varma virtually "dedicated" Travancore to his tutelary deity 【289†Padmanabha】, one of the aspects of the Hindu God 【290†Vishnu】 with a lotus issuing from his navel on which 【291†Brahma】 sits. From then on the rulers of Travancore ruled as the "servants of Padmanabha" (the Padmnabha-dasar).^{【292†[38]】}
+L294: 
+L295: Early flag used by Marthanda Varma
+L296: At the Battle of Ambalapuzha, Marthanda Varma defeated the union of the deposed kings and the king of the 【293†Cochin kingdom】.
+L297: ### Mysore invasion
+L298: 
+L299: [【294†edit】]
+L300: 
+L301: Main article: 【295†Mysore invasion of Kerala】
+L302: 
+L303: 【296†Tipu Sultan】 at the lines of Travancore. Illustration from Cassell's Illustrated History of India by James Grant (c. 1896).
+L304: Marthanda Varma's successor Karthika Thirunal Rama Varma (1758–1798), who was popularly known as 【297†Dharma Raja】, shifted the capital in 1795 from 【270†Padmanabhapuram】 to 【153†Thiruvananthapuram】. Dharma Raja's period is considered a golden age in the history of Travancore. He not only retained the territorial gains of his predecessor, but also improved and encouraged social development. He was greatly assisted by a very efficient administrator, 【298†Raja Kesavadas】, the Diwan of Travancore.
+L305: Travancore often allied with the 【299†English East India Company】 in military conflicts.^{【300†[39]】} During Dharma Raja's reign, 【296†Tipu Sultan】, the de facto ruler of 【301†Mysore】 and the son of 【302†Hyder Ali】, attacked Travancore in 1789 as a part of the 【295†Mysore invasion of Kerala】. Dharma Raja had earlier refused to hand over the Hindu political refugees from the 【295†Mysore occupation of Malabar】 who had been given asylum in Travancore.
+L306: The Mysore army entered the Cochin kingdom from Coimbatore in November 1789 and reached 【303†Thrissur】 in December. On 28 December 1789 Tipu Sultan attacked the Nedunkotta (northern lines) from the north, causing the 【304†Battle of Nedumkotta】 and the defeat of the Mysore army.
+L307: ### Velu Thampi Dalawa's rebellion
+L308: 
+L309: [【305†edit】]
+L310: 
+L311: Main article: 【306†Travancore Rebellion】
+L312: 
+L313: A language map of India prepared in 1822. Note that a major portion of Travancore was included in 【119†Tamil】-spoken region.
+L314: 
+L315: On Dharma Raja's death in 1798, 【307†Balarama Varma】 (1798–1810), the weakest ruler of the dynasty, took over at the age of sixteen. A treaty brought Travancore under a 【308†subsidiary alliance】 with the English 【138†East India Company】 in 1795.^{【300†[39]】}
+L316: Travancore State 【309†Merchant Flag】
+L317: The prime ministers (【310†dalawas】 or dewans) started to take control of the kingdom beginning with 【311†Velu Thampi Dalawa】 (Velayudhan Chempakaraman Thampi) (1799–1809), who was appointed as the dewan following the dismissal of 【312†Jayanthan Sankaran Nampoothiri】 (1798–1799). Initially, 【313†Velayudhan Chempakaraman Thampi】 and the East India Company got along very well.
+L318: When a section of the Travancore army mutinied in 1805 against Velu Thampi, he sought refuge with the British Resident Colonel (later General) 【314†Colin Macaulay】 and later used company troops to crush the mutiny. Velu Thampi also played a key role in negotiating a new treaty between Travancore and the East India Company.
+L319: However, the company's demands for compensating payment for their involvement in the Travancore–Mysore War (1791) on behalf of Travancore led to tension between the dewan and Colonel Macaulay. Velu Thampi and the dewan of Cochin kingdom, 【315†Paliath Achan】 Govindan Menon, who was unhappy with Macaulay for granting asylum to his enemy Kunhi Krishna Menon, declared "war" on the East India Company.
+L320: Adoption 【316†Durbar】, Trivandrum

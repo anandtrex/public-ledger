@@ -1,0 +1,191 @@
+Khadga dynasty - Wikipedia (https://en.wikipedia.org/wiki/Khadga_dynasty)
+citeturn69view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Khadga_dynasty","lineno":null}); Total lines: 189
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 List of rulers】
+L50:   * 【19†2 References】
+L51: 
+L52: [Input] Toggle the table of contents
+L53: # Khadga dynasty
+L54: 
+L55: [Input] 2 languages
+L56: 
+L57:   * 【20†বাংলা†bn.wikipedia.org】
+L58:   * 【21†Català†ca.wikipedia.org】
+L59: 
+L60: 【22†Edit links†www.wikidata.org】
+L61: 
+L62:   * 【23†Article】
+L63:   * 【24†Talk】
+L64: 
+L65: [Input] English
+L66: 
+L67:   * 【23†Read】
+L68:   * 【25†Edit】
+L69:   * 【26†View history】
+L70: 
+L71: [Input] Tools
+L72: 
+L73: Tools
+L74: 
+L75: [Button: move to sidebar] [Button: hide]
+L76: 
+L77: Actions
+L78: 
+L79:   * 【23†Read】
+L80:   * 【25†Edit】
+L81:   * 【26†View history】
+L82: 
+L83: General
+L84:   * 【27†What links here】
+L85:   * 【28†Related changes】
+L86:   * 【29†Upload file】
+L87:   * 【30†Permanent link】
+L88:   * 【31†Page information】
+L89:   * 【32†Cite this page】
+L90:   * 【33†Get shortened URL】
+L91:   * 【34†Switch to legacy parser】
+L92: 
+L93: Print/export
+L94: 
+L95:   * 【35†Download as PDF】
+L96:   * Printable version
+L97: 
+L98: In other projects
+L99: 
+L100:   * 【36†Wikidata item†www.wikidata.org】
+L101: 
+L102: Appearance
+L103: 
+L104: [Button: move to sidebar] [Button: hide]
+L105: Khadga dynasty
+L106: ---
+L107: 625 CE–716 CE
+L108: Capital  | Karmanta Vasaka
+L109: (present-day 【37†Barakamata】, 【38†Comilla district】)
+L110: Religion  | 【39†Buddhism】^{【40†[1]】}
+L111: Government  | Monarchy
+L112: 【41†Raja】  |
+L113: • 625–640  | Khadgodyama (first)
+L114: • 716–?  | Udirnakhadga (last)
+L115: Historical era  | 【42†Classical period】
+L116: • Established  | 625 CE
+L117: • Disestablished  | 716 CE
+L118: Preceded by Succeeded by
+L119: 【43†Image†upload.wikimedia.org】 【44†Gauda Kingdom】
+L120: 【43†Image†upload.wikimedia.org】 【45†Bhadra dynasty】
+L121: 【46†Deva Dynasty】 【43†Image†upload.wikimedia.org】
+L122: 【47†Pala Empire】 【43†Image†upload.wikimedia.org】
+L123: Today part of  | 【48†Bangladesh】
+L124: 【49†India】
+L125: Khadga dynasty (Bengali: 【50†[kʰɔɽɡo rad͡ʒbɔŋʃo]】), was a 【51†Buddhist】 dynasty which ruled the areas of 【52†Vanga】 and 【53†Samatata】 in ancient Bengal from 625 CE to 716 CE.^{【54†[2]】} Chronologically, the dynasty emerged as a powerful kingdom of Bengal between the fall of 【44†Gauda Kingdom】 and the rise of the 【47†Pala Empire】.
+L126: Their ascendancy may have been immediately preceded by the overthrow of a previously ruling 【45†Bhadra dynasty】.^{【55†[3]】} While they did not assume imperial titles, the Khadgas retained sovereignty over the ancient kingdom of Vanga and later conquered Samatata.^{【56†[4]】} It was succeeded by the 8th-9th century Buddhist 【57†Deva dynasty】.^{【58†[5]】}
+L127: ## List of rulers
+L128: 
+L129: [【59†edit】]
+L130: 
+L131: Titular Name  | Reign  | Notes
+L132: --- | --- | ---
+L133: Khadgodyama (খড়্গোদ্যম)  | 625–640  | Father of Jatakhadga
+L134: Jatakhadga (জাতখড়্গ)  | 640–658  | Father of Devakhadga
+L135: Devakhadga (দেবখড়্গ)  | 658–673  | Queen Prabhavati (প্রভাবতী)
+L136: Rajabhatta (রাজভট্ট)  | 673–707  | Son of Devakhadga
+L137: Balabhatta (বলভট্ট)  | 707–716  | Son of Devakhadga
+L138: Udirnakhadga (উদীর্ণখড়্গ)  | ??  |
+L139: ## References
+L140: 
+L141: [【60†edit】]
+L142:   1. 【61†↑】 【62†"Khaḍga dynasty"†www.oxfordreference.com】. Oxford Dictionary of Buddhism. 2004.
+L143:   2. 【63†↑】 Sailendra Nath Sen (1 January 1999). 【64†Ancient Indian History And Civilization†books.google.com】. New Age International. p. 277. 【65†ISBN】 【66†978-81-224-1198-0】. Retrieved 18 April 2012.
+L144:   3. 【67†↑】 Bari, Latiful, ed. (1979). 【68†Bangladesh District Gazetteers: Jessore†books.google.com】. Bangladesh Government Press. p. 39.
+L145:   4. 【69†↑】 Ray, Krishnendu (2012). 【70†"Khadga Dynasty"†en.banglapedia.org】. In 【71†Sirajul Islam】; Miah, Sajahan; 【72†Khanam, Mahfuza】; Ahmed, Sabbir (eds.). 【73†Banglapedia: the National Encyclopedia of Bangladesh】 (Online ed.). Dhaka, Bangladesh: Banglapedia Trust, 【74†Asiatic Society of Bangladesh】. 【65†ISBN】 【75†984-32-0576-6】. 【76†OCLC】 【77†52727562†search.worldcat.org】. 【78†OL】 【79†30677644M†openlibrary.org】. Retrieved 30 October 2026.
+L146:   5. 【80†↑】 Singer, Noel F. (2008). Vaishali and the Indianization of Arakan. New Delhi: APH Publishing Corp. 【65†ISBN】 【81†978-81-313-0405-1】. 【76†OCLC】 【82†244247519†search.worldcat.org】.
+L147: 【83†Image】
+L148: 
+L149: Retrieved from "【30†https://en.wikipedia.org/w/index.php?title=Khadga_dynasty&oldid=1369660685】"
+L150: 
+L151: 【84†Categories】:
+L152: 
+L153:   * 【85†Medieval Bengal】
+L154:   * 【86†Dynasties of Bengal】
+L155:   * 【87†Buddhist dynasties of India】
+L156:   * 【88†States and territories disestablished in the 8th century】
+L157: 
+L158: Hidden categories:
+L159:   * 【89†Articles with short description】
+L160:   * 【90†Short description is different from Wikidata】
+L161:   * 【91†Use British English from November 2025】
+L162:   * 【92†All Wikipedia articles written in British English】
+L163:   * 【93†Use dmy dates from November 2025】
+L164:   * 【94†Pages with Bengali IPA】
+L165:   * This page was last edited on 16 August 2026, at 09:36 (UTC).
+L166:   * Page was rendered with 【95†Parsoid†www.mediawiki.org】.
+L167:   * Text is available under the 【96†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【97†Terms of Use†foundation.wikimedia.org】 and 【98†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【99†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L168:   * 【98†Privacy policy†foundation.wikimedia.org】
+L169:   * 【5†About Wikipedia】
+L170:   * 【100†Disclaimers】
+L171:   * 【6†Contact Wikipedia】
+L172:   * 【101†Legal & safety contacts†foundation.wikimedia.org】
+L173:   * 【102†Code of Conduct†foundation.wikimedia.org】
+L174:   * 【103†Developers†developer.wikimedia.org】
+L175:   * 【104†Statistics†stats.wikimedia.org】
+L176:   * 【105†Cookie statement†foundation.wikimedia.org】
+L177:   * Search
+L178: 
+L179: [Input: Search Wikipedia]
+L180: 
+L181: [Input]
+L182: 
+L183: [Button: Search]
+L184: 
+L185: [Input] Toggle the table of contents
+L186: 
+L187: Khadga dynasty
+L188: 2 languages 【17†Add topic】

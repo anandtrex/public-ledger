@@ -1,0 +1,293 @@
+Mewar - Wikipedia (https://en.wikipedia.org/wiki/Mewar)
+citeturn115view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Mewar","lineno":null}); Total lines: 291
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Background】
+L50:   * 【19†2 Etymology】
+L51:   * 【20†3 Geography】
+L52:   * 【21†4 Settlements】 Toggle Settlements subsection
+L53:     * 【22†4.1 Urban areas】
+L54:     * 【23†4.2 Villages】
+L55:   * 【24†5 See also】
+L56:   * 【25†6 References】
+L57:   * 【26†7 External links】
+L58:   * 【27†8 Further reading】
+L59: 
+L60: [Input] Toggle the table of contents
+L61: # Mewar
+L62: 
+L63: [Input] 25 languages
+L64:   * 【28†العربية†ar.wikipedia.org】
+L65:   * 【29†বাংলা†bn.wikipedia.org】
+L66:   * 【30†Deutsch†de.wikipedia.org】
+L67:   * 【31†Français†fr.wikipedia.org】
+L68:   * 【32†हिन्दी†hi.wikipedia.org】
+L69:   * 【33†Bahasa Indonesia†id.wikipedia.org】
+L70:   * 【34†Italiano†it.wikipedia.org】
+L71:   * 【35†日本語†ja.wikipedia.org】
+L72:   * 【36†한국어†ko.wikipedia.org】
+L73:   * 【37†मैथिली†mai.wikipedia.org】
+L74:   * 【38†മലയാളം†ml.wikipedia.org】
+L75:   * 【39†मराठी†mr.wikipedia.org】
+L76:   * 【40†नेपाली†ne.wikipedia.org】
+L77:   * 【41†Norsk nynorsk†nn.wikipedia.org】
+L78:   * 【42†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L79:   * 【43†Polski†pl.wikipedia.org】
+L80:   * 【44†پنجابی†pnb.wikipedia.org】
+L81:   * 【45†Português†pt.wikipedia.org】
+L82:   * 【46†Русский†ru.wikipedia.org】
+L83:   * 【47†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L84:   * 【48†Simple English†simple.wikipedia.org】
+L85:   * 【49†தமிழ்†ta.wikipedia.org】
+L86:   * 【50†తెలుగు†te.wikipedia.org】
+L87:   * 【51†ไทย†th.wikipedia.org】
+L88:   * 【52†اردو†ur.wikipedia.org】
+L89: 【53†Edit links†www.wikidata.org】
+L90: 
+L91:   * 【54†Article】
+L92:   * 【55†Talk】
+L93: 
+L94: [Input] English
+L95: 
+L96:   * 【54†Read】
+L97:   * 【56†Edit】
+L98:   * 【57†View history】
+L99: 
+L100: [Input] Tools
+L101: 
+L102: Tools
+L103: 
+L104: [Button: move to sidebar] [Button: hide]
+L105: 
+L106: Actions
+L107: 
+L108:   * 【54†Read】
+L109:   * 【56†Edit】
+L110:   * 【57†View history】
+L111: 
+L112: General
+L113: 
+L114:   * 【58†What links here】
+L115:   * 【59†Related changes】
+L116:   * 【60†Upload file】
+L117:   * 【61†Permanent link】
+L118:   * 【62†Page information】
+L119:   * 【63†Cite this page】
+L120:   * 【64†Get shortened URL】
+L121:   * 【65†Switch to legacy parser】
+L122: 
+L123: Print/export
+L124:   * 【66†Download as PDF】
+L125:   * Printable version
+L126: 
+L127: In other projects
+L128: 
+L129:   * 【67†Wikimedia Commons†commons.wikimedia.org】
+L130:   * 【68†Wikiquote†en.wikiquote.org】
+L131:   * 【69†Wikidata item†www.wikidata.org】
+L132: 
+L133: Appearance
+L134: 
+L135: [Button: move to sidebar] [Button: hide]
+L136: 
+L137: Not to be confused with 【70†Marwar】.
+L138: 
+L139: This article is about the natural and historical region. For the independent state in India prior to the formation of the Republic of India, see 【71†Kingdom of Mewar】. For other uses, see 【72†Mewar (disambiguation)】.
+L140: Mewar मेवाड़
+L141: ---
+L142: Historical region (【71†Kingdom of Mewar】)
+L143: 【73†City Palace, Udaipur】【74†Rajsamand Lake】, 【75†Rajsamand】【76†Chittor Fort】, 【77†Chittorgarh】【78†Bijolia Parshvanath temple】, 【79†Bhilwara】
+L144: Top: 【71†Kingdom of Mewar】 within 【80†Rajputana】 c.1907-1909
+L145: Bottom: Mewar region in 【81†Rajasthan】, 【82†India】
+L146: Country  | 【83†Image†thumb.wikimedia.org】 【82†India】
+L147: State  | 【81†Rajasthan】
+L148: Districts  | 【84†Udaipur】, 【85†Rajsamand】, 【86†Bhilwara】, 【87†Chittorgarh】 and 【88†Pratapgarh】
+L149: Area
+L150: ---
+L151:  • Total  | 33,517 km^{2} (12,941 sq mi)
+L152: Population (2011)
+L153: ---
+L154:  • Total  | 9,045,726
+L155:  • Density  | 269.88/km^{2} (699.00/sq mi)
+L156: 【89†Demonym】  | Mewaris
+L157: Largest city  | 【90†Udaipur】
+L158: Regional Language or dialect  | 【91†Mewari】 (【92†Rajasthani】)
+L159: Mewar, also spelled as Mewad, is a historical region located in the south-eastern part of the 【93†Indian state】 of 【81†Rajasthan】.
+L160: It includes the present-day districts of 【84†Udaipur】, 【85†Rajsamand】, 【86†Bhilwara】, 【87†Chittorgarh】 and 【88†Pratapgarh】 in Rajasthan.^{【94†[1]】} The language of this region is known as 【91†Mewari】, one of the 【95†dialects】 of the 【96†Rajasthani language】 spoken as a 【97†lingua franca】 by the different ethnic groups assembled altogether in one identity called the Mewaris.^{【98†[2]】}
+L161: ## Background
+L162: 
+L163: [【99†edit】]
+L164: 
+L165: For centuries, the region was ruled by 【100†Rajputs】 as 【71†Kingdom of Mewar】. During the period of 【101†British East India Company】, it became a 【102†princely state】 as 【103†Udaipur】. It emerged as an administrative unit during the period governance in India and remained until the end of the 【104†British Raj】 era.
+L166: The Mewar region lies between the 【105†Aravali Range】 to the northwest, 【106†Ajmer】 to the north, Gujarat and the 【107†Vagad】 region of Rajasthan to the south, the 【108†Malwa】 region of Madhya Pradesh state to the south and the 【109†Hadoti】 region of Rajasthan to the east.
+L167: ## Etymology
+L168: 
+L169: [【110†edit】]
+L170: The word "Mewar" is vernacular form of "Medapata" (【111†IAST】: Medapāṭa), the ancient name of the region. The earliest epigraph that mentions the word "Medapata" is a 996–997 CE (1053 【112†VS】) inscription discovered at Hathundi (【113†Bijapur】). The word "pata" or "pataka" refers to an administrative unit. According to the historian G. C.
+L171: Raychaudhuri, Medapata was named after the Meda tribe, which has been mentioned in 【114†Varāhamihira】's Brihat-Samhita.^{【115†[3]】} The 1460 【116†Kumbhalgarh】 inscription associates the Medas with Vardhana-giri (modern 【117†Badnor】 in Mewar region).^{【118†[4]】} Historian Sashi Bhusan Chaudhuri associates the ancient Medas with the modern 【119†Mer people】.^{【120†[5]】}
+L172: The 1285 CE (1342 VS) 【121†Mount Abu】 (【122†Achaleshwar】) inscription of the 【123†Guhila】 king 【124†Samarasimha】 provides the following etymology while describing the military conquests of his ancestor 【125†Bappa Rawal】 (Bappaka): and the [MEWAR] name was given by 'lord' [SHIVA] to the [Bappaka] then this dynesty got new name that is known as [ MEWAR] till now .
+L173: "This country which was, in battle, totally submerged in the dripping fat ('medas' in 【126†Sanskrit】) of wicked people by Bappaka bears the name of Śrī Medapāṭa." Historian Anil Chandra Banerjee dismisses this as a "poetic fancy", but acknowledges the 'terrible' battles fought between the Rajputs and the Arabs.^{【127†[6]】}
+L174: ## Geography
+L175: 
+L176: [【128†edit】]
+L177: The northern and eastern portions of Mewar are made up of an elevated plateau while the western and southern portions were rocky and hilly with dense forests.^{【129†[7]】} The watershed divide between drainage of the 【130†Bay of Bengal】 and drainage of the 【131†Gulf of Khambhat】 runs almost through the centre of Mewar.^{【132†[8]】} The northern and eastern part of Mewar is a gently sloping plain, drained by the Bedach and 【133†Banas River】 and its tributaries, which empty northwest into the 【134†Chambal River】, a tributary of the 【135†Yamuna River】.
+L178: The southern and western part of the region is hilly, and marks the divide between the Banas and its tributaries and the headwaters of the 【136†Sabarmati】 and 【137†Mahi】 rivers and their tributaries, which drain south into the 【131†Gulf of Khambhat】 through 【138†Gujarat】 state. The 【139†Aravalli Range】, which forms the northwestern boundary of the region, is composed mostly of sedimentary rocks, like 【140†marble】 and 【141†Kota Stone】, which has traditionally been an important construction material.
+L179: The region is part of the 【142†Khathiar-Gir dry deciduous forests】' 【143†ecoregion】. Protected areas include the 【144†Jaisamand Wildlife Sanctuary】, the 【145†Kumbhalgarh Wildlife Sanctuary】, the 【146†Bassi Wildlife Sanctuary】, the 【147†Gandhi Sagar Sanctuary】 and the 【148†Sita Mata Wildlife Sanctuary】.
+L180: Mewar has a 【149†tropical】 climate. Rainfall averages 660 mm/year, and is generally higher in the southwest and lower in the northeast of the region. Over 90% of the rain typically falls in the period of June to September every year, during the 【150†southwest monsoon】.
+L181: 
+L182: According to the 2011 Census of India this region has a population of 9,045,726 people.
+L183: ## Settlements
+L184: 
+L185: [【151†edit】]
+L186: 
+L187: ### Urban areas
+L188: 
+L189: [【152†edit】]
+L190: 
+L191:   * 【153†Bari Sadri】
+L192:   * 【154†Bhindar】
+L193:   * 【155†Dhariawad】
+L194:   * 【156†Gogunda】
+L195:   * 【157†Kanor】
+L196: 
+L197: ### Villages
+L198: 
+L199: [【158†edit】]
+L200: 
+L201:   * 【159†Baansi】
+L202: 
+L203: ## See also
+L204: 
+L205: [【160†edit】]
+L206: 
+L207:   * 【70†Marwar】
+L208:   * 【161†Shekhawati】
+L209:   * 【162†Bagar】
+L210:   * 【163†Dhundhar】
+L211:   * 【109†Hadoti】
+L212:   * 【107†Vagad】
+L213:   * 【164†Ajmer-Merwara】
+L214: ## References
+L215: 
+L216: [【165†edit】]
+L217:   1. 【166†↑】 Khan, Aakib. 【167†Complete Rajasthan GK (English)†books.google.com】. SI Publication.
+L218:   2. 【168†↑】 【169†"Dialects Of Rajasthan And Its Cultural Significance - Rajasthan Studio"†rajasthanstudio.com】. rajasthanstudio.com. 22 October 2020. Retrieved 12 July 2025.
+L219:   3. 【170†↑】 G. C. Raychaudhuri (1940). 【171†History of Mewar from the Earliest Times to 1303 A.D.†books.google.com】 Kanjilal, Calcutta University Press. p. 8. 【172†OCLC】 【173†917040797†search.worldcat.org】.
+L220:   4. 【174†↑】 Dineschandra Sircar (1963). 【175†The Guhilas of Kiṣkindhā†books.google.com】. 【176†Sanskrit College】. p. 38. 【172†OCLC】 【177†161579†search.worldcat.org】.
+L221:   5. 【178†↑】 Sashi Bhusan Chaudhuri (1955). 【179†Ethnic settlements in ancient India†archive.org】. Calcutta: General. p. 【180†26†archive.org】. 【172†OCLC】 【181†2278769†search.worldcat.org】.
+L222:   6. 【182†↑】 Anil Chandra Banerjee (1958). 【183†Medieval studies†archive.org】. A. Mukherjee & Co. p. 【184†19†archive.org】. 【172†OCLC】 【185†254699661†search.worldcat.org】.
+L223:   7. 【186†↑】 【187†Imperial Gazetteer of India : Provincial Series Rajputana†catalog.hathitrust.org】. Calcutta: Superintendent of Government Printing. 1908. pp. 106–168.
+L224:   8. 【188†↑】 Gupta, R.K.; Bakshi, S.R., eds. (2008). 【189†Studies in Indian History: Rajasthan Through the Ages Vol. 5†archive.org】. New Delhi: Sarup & Sons. pp. 【190†64†archive.org】–77. 【191†ISBN】 【192†978-81-7625-841-8】.
+L225: ## External links
+L226: 
+L227: [【193†edit】]
+L228: 
+L229: Media related to 【67†Mewar†commons.wikimedia.org】 at Wikimedia Commons
+L230: 
+L231: 【194†Image†thumb.wikimedia.org】
+L232: 
+L233: Wikiquote has quotations related to 【195†Mewar†en.wikiquote.org】.
+L234: ## Further reading
+L235: 
+L236: [【196†edit】]
+L237: 
+L238:   * Mewar through the ages, by D. L. Paliwal. Sahitya Sansthan, Rajasthan Vidyapeeth, 1970
+L239:   * The Kingdom of Mewar: great struggles and glory of the world's oldest ruling dynasty, by Irmgard Meininger. D.K. Printworld, 2000. 【191†ISBN】 【197†81-246-0144-5】.
+L240:   * Costumes of the rulers of Mewar: with patterns and construction techniques, by Pushpa Rani Mathur. Abhinav Publications, 1994. 【191†ISBN】 【198†81-7017-293-4】.
+L241: 
+L242: 【199†Image】
+L243: Retrieved from "【61†https://en.wikipedia.org/w/index.php?title=Mewar&oldid=1379583226】"
+L244: 
+L245: 【200†Categories】:
+L246: 
+L247:   * 【201†Mewar】
+L248:   * 【202†Regions of Rajasthan】
+L249:   * 【203†Historical regions in India】
+L250: 
+L251: Hidden categories:
+L252:   * 【204†Articles with short description】
+L253:   * 【205†Short description matches Wikidata】
+L254:   * 【206†Use Indian English from November 2023】
+L255:   * 【207†All Wikipedia articles written in Indian English】
+L256:   * 【208†Use dmy dates from November 2023】
+L257:   * 【209†Short description is different from Wikidata】
+L258:   * 【210†Pages using multiple image with auto scaled images】
+L259:   * 【211†All articles with unsourced statements】
+L260:   * 【212†Articles with unsourced statements from December 2024】
+L261:   * 【213†Pages using infobox settlement with no coordinates】
+L262:   * 【214†Commons category link from Wikidata】
+L263:   * 【215†Rajasthan articles missing geocoordinate data】
+L264:   * 【216†All articles needing coordinates】
+L265:   * 【217†Articles missing coordinates with coordinates on Wikidata】
+L266:   * This page was last edited on 10 October 2026, at 21:07 (UTC).
+L267:   * Page was rendered with 【218†Parsoid†www.mediawiki.org】.
+L268:   * Text is available under the 【219†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【220†Terms of Use†foundation.wikimedia.org】 and 【221†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【222†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L269:   * 【221†Privacy policy†foundation.wikimedia.org】
+L270:   * 【5†About Wikipedia】
+L271:   * 【223†Disclaimers】
+L272:   * 【6†Contact Wikipedia】
+L273:   * 【224†Legal & safety contacts†foundation.wikimedia.org】
+L274:   * 【225†Code of Conduct†foundation.wikimedia.org】
+L275:   * 【226†Developers†developer.wikimedia.org】
+L276:   * 【227†Statistics†stats.wikimedia.org】
+L277:   * 【228†Cookie statement†foundation.wikimedia.org】
+L278:   * Search
+L279: 
+L280: [Input: Search Wikipedia]
+L281: 
+L282: [Input]
+L283: 
+L284: [Button: Search]
+L285: 
+L286: [Input] Toggle the table of contents
+L287: 
+L288: Mewar
+L289: 
+L290: 25 languages 【17†Add topic】

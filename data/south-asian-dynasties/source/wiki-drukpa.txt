@@ -1,0 +1,265 @@
+History of Bhutan - Wikipedia (https://en.wikipedia.org/wiki/History_of_Bhutan)
+citeturn108view0 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/History_of_Bhutan","lineno":null}); Total lines: 482
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origins and early settlement, 600–1600】 Toggle Origins and early settlement, 600–1600 subsection
+L49:     * 【19†1.1 Arrival of Buddhism】
+L50:     * 【20†1.2 Sectarian rivalry】
+L51:   * 【21†2 Theocratic government, 1616–1907】 Toggle Theocratic government, 1616–1907 subsection
+L52:     * 【22†2.1 Consolidation and defeat of Tibetan invasions, 1616–51】
+L53:     * 【23†2.2 Administrative integration and conflict with Tibet, 1651–1728】
+L54:       * 【24†2.2.1 Bhutan exclaves in western Tibet】
+L55:     * 【25†2.3 Civil conflict, 1728–1772】
+L56:     * 【26†2.4 British intrusion, 1772–1907】
+L57:   * 【27†3 Establishment of the hereditary monarchy, 1907】
+L58:   * 【28†4 Development of centralized government, 1926–1952】
+L59:   * 【29†5 Modernization under King Jigme Dorji, 1952–72】
+L60:   * 【30†6 International relations, 1972–present】 Toggle International relations, 1972–present subsection
+L61:     * 【31†6.1 Assamese separatists】
+L62:     * 【32†6.2 Military action against Assamese separatists December 2003】
+L63:     * 【33†6.3 Refugee community】
+L64:   * 【34†7 Formalized democracy】 Toggle Formalized democracy subsection
+L65:     * 【35†7.1 Constitution】
+L66:     * 【36†7.2 Jigme Khesar Namgyel Wangchuck】
+L67:   * 【37†8 See also】
+L68:   * 【38†9 References】 Toggle References subsection
+L69:     * 【39†9.1 Bibliography】
+L70:   * 【40†10 Further reading】
+L71:   * 【41†11 External links】
+L72: [Input] Toggle the table of contents
+L73: # History of Bhutan
+L74: 
+L75: [Input] 44 languages
+L76:   * 【42†Afrikaans†af.wikipedia.org】
+L77:   * 【43†العربية†ar.wikipedia.org】
+L78:   * 【44†Asturianu†ast.wikipedia.org】
+L79:   * 【45†Azərbaycanca†az.wikipedia.org】
+L80:   * 【46†Башҡортса†ba.wikipedia.org】
+L81:   * 【47†Български†bg.wikipedia.org】
+L82:   * 【48†বাংলা†bn.wikipedia.org】
+L83:   * 【49†Català†ca.wikipedia.org】
+L84:   * 【50†Čeština†cs.wikipedia.org】
+L85:   * 【51†Deutsch†de.wikipedia.org】
+L86:   * 【52†Español†es.wikipedia.org】
+L87:   * 【53†Euskara†eu.wikipedia.org】
+L88:   * 【54†فارسی†fa.wikipedia.org】
+L89:   * 【55†Suomi†fi.wikipedia.org】
+L90:   * 【56†Français†fr.wikipedia.org】
+L91:   * 【57†हिन्दी†hi.wikipedia.org】
+L92:   * 【58†Bahasa Indonesia†id.wikipedia.org】
+L93:   * 【59†Ido†io.wikipedia.org】
+L94:   * 【60†Italiano†it.wikipedia.org】
+L95:   * 【61†ქართული†ka.wikipedia.org】
+L96:   * 【62†ಕನ್ನಡ†kn.wikipedia.org】
+L97:   * 【63†한국어†ko.wikipedia.org】
+L98:   * 【64†Lietuvių†lt.wikipedia.org】
+L99:   * 【65†Македонски†mk.wikipedia.org】
+L100:   * 【66†മലയാളം†ml.wikipedia.org】
+L101:   * 【67†Bahasa Melayu†ms.wikipedia.org】
+L102:   * 【68†नेपाली†ne.wikipedia.org】
+L103:   * 【69†Nederlands†nl.wikipedia.org】
+L104:   * 【70†Norsk bokmål†no.wikipedia.org】
+L105:   * 【71†Occitan†oc.wikipedia.org】
+L106:   * 【72†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L107:   * 【73†پنجابی†pnb.wikipedia.org】
+L108:   * 【74†Português†pt.wikipedia.org】
+L109:   * 【75†Русский†ru.wikipedia.org】
+L110:   * 【76†Slovenščina†sl.wikipedia.org】
+L111:   * 【77†Српски / srpski†sr.wikipedia.org】
+L112:   * 【78†Svenska†sv.wikipedia.org】
+L113:   * 【79†Kiswahili†sw.wikipedia.org】
+L114:   * 【80†தமிழ்†ta.wikipedia.org】
+L115:   * 【81†తెలుగు†te.wikipedia.org】
+L116:   * 【82†Türkçe†tr.wikipedia.org】
+L117:   * 【83†Українська†uk.wikipedia.org】
+L118:   * 【84†吴语†wuu.wikipedia.org】
+L119:   * 【85†中文†zh.wikipedia.org】
+L120: 【86†Edit links†www.wikidata.org】
+L121: 
+L122:   * 【87†Article】
+L123:   * 【88†Talk】
+L124: 
+L125: [Input] English
+L126: 
+L127:   * 【87†Read】
+L128:   * 【89†Edit】
+L129:   * 【90†View history】
+L130:   * 【17†Save】
+L131: 
+L132: [Input] Tools
+L133: 
+L134: Tools
+L135: 
+L136: [Button: move to sidebar] [Button: hide]
+L137: 
+L138: Actions
+L139: 
+L140:   * 【87†Read】
+L141:   * 【89†Edit】
+L142:   * 【90†View history】
+L143:   * 【17†Save】
+L144: 
+L145: General
+L146: 
+L147:   * 【91†What links here】
+L148:   * 【92†Related changes】
+L149:   * 【93†Upload file】
+L150:   * 【94†Permanent link】
+L151:   * 【95†Page information】
+L152:   * 【96†Cite this page】
+L153:   * 【97†Get shortened URL】
+L154:   * 【98†Switch to legacy parser】
+L155: Print/export
+L156: 
+L157:   * 【99†Download as PDF】
+L158:   * Printable version
+L159: 
+L160: In other projects
+L161: 
+L162:   * 【100†Wikimedia Commons†commons.wikimedia.org】
+L163:   * 【101†Wikidata item†www.wikidata.org】
+L164: 
+L165: Appearance
+L166: 
+L167: [Button: move to sidebar] [Button: hide]
+L168: 
+L169: "Drukyul" redirects here. For other uses, see 【102†Drukyul (disambiguation)】.
+L170: 
+L171: View of 【103†Tashichoedzong】, Thimphu. The 17th-century fortress-【104†monastery】 on the northern edge of the city, has been the seat of 【105†Bhutan's government】 since 1952.
+L172: 【106†Bhutan】's early history is steeped in 【107†mythology】 and remains obscure. Some of the structures provide evidence that the region has been settled as early as 2000 BC. In the 12th century, the 【108†Drukpa Kagyupa】 school was established and remains the dominant form of Buddhism in Bhutan today. The country's political history is intimately tied to its religious history and relations among the various monastic schools and monasteries.^{【109†[1]】}
+L173: Since at least the tenth century, no outside power has ever occupied or governed Bhutan (notwithstanding occasional nominal tributary status).^{【110†[2]】}
+L174: The consolidation of Bhutan occurred in 1616 when 【111†Ngawang Namgyal】, a 【112†lama】 from western Tibet known as the 【113†Zhabdrung Rinpoche】, defeated three Tibetan invasions, subjugated rival religious schools, codified the 【114†Tsa Yig】, an intricate and comprehensive system of law, and established himself as ruler over a system of ecclesiastical and civil administrators. After his death, infighting and civil war eroded the power of the Zhabdrung for the next 200 years.
+L175: In 1885, 【115†Ugyen Wangchuck】 was able to consolidate power, and began cultivating closer ties with the 【116†British】 in the subcontinent.^{【109†[1]】}
+L176: In December 1907, 【115†Ugyen Wangchuck】 (【106†Bhutan】:འབྲུག་རྒྱལ་དང་པ་ཨོ་རྒྱན་དབང་ཕྱུག) was enthroned as the first hereditary king of Bhutan. In 1910, King Ugyen and the British signed the 【117†Treaty of Punakha】 which provided that British India would not interfere in the internal affairs of Bhutan if the country accepted external advice in its external relations.
+L177: When Ugyen Wangchuck died in 1926, his son 【118†Jigme Wangchuck】 became the second king, and when India gained independence in 1947, the new Indian Government recognized Bhutan as an independent country. In 1949, India and Bhutan signed the Treaty of Peace and Friendship, which provided that India would not interfere in Bhutan's internal affairs, but would guide its foreign policy.
+L178: Succeeded in 1952 by his son 【119†Jigme Dorji Wangchuck】, Bhutan began to slowly emerge from its isolation and began a program of planned development. The 【120†National Assembly of Bhutan】, the 【121†Royal Bhutanese Army】, and the 【122†Royal Court of Justice】 were established, along with a new code of law.^{【109†[1]】} Bhutan became a member of the 【123†United Nations】 in 1971.
+L179: In 1972, 【124†Jigme Singye Wangchuck】 ascended the throne at age 16. He emphasized modern education, decentralization of governance, the development of hydroelectricity and tourism and improvements in rural developments. He was perhaps best known internationally for his overarching development philosophy of "【125†gross national happiness】." It recognizes that there are many dimensions to development and that economic goals alone are not sufficient.
+L180: Satisfied with Bhutan's transitioning democratization process, he abdicated in December 2006 rather than wait until the promulgation of the new constitution in 2008. His son, 【126†Jigme Khesar Namgyel Wangchuck】, became King upon his abdication.^{【109†[1]】}
+L181: ## Origins and early settlement, 600–1600
+L182: 
+L183: [【127†edit】]
+L184: 
+L185: 【128†Image†thumb.wikimedia.org】  | This section may contain 【129†original research】. Please 【89†improve it】 by 【130†verifying】 the claims made and adding 【131†inline citations】. Statements consisting only of original research should be removed. (August 2022) (【132†Learn how and when to remove this message】)
+L186: A state of Lhomon (literally, southern darkness) or Monyul (dark land, a reference to the 【133†Monpa】, one of the 【134†Tibeto-Burman】 peoples of Bhutan), that was then beyond the pale of Buddhist teachings. Monyul is thought to have existed between about 1000 BC and AD 600.
+L187: The names Lhomon Tsendenjong (southern Mon sandalwood country) and Lhomon Khazhi (southern Mon country of four approaches), found in ancient Bhutanese and Tibetan chronicles, may also have credence and have been used by some Bhutanese scholars when referring to their homeland.
+L188: Variations of the 【135†Sanskrit】 words Bhota-ant (end of Bhot) or Bhu-uttan (meaning highlands) have been suggested by historians as origins of the name Bhutan, which came into common foreign use in the late 19th century and is used in Bhutan only in English-language official correspondence.
+L189: The traditional name of the country since the 17th century has been Drukyul—country of the 【136†Drukpa】, the Dragon people, or the Land of the Thunder Dragon, a reference to the country's dominant Buddhist sect.^{【137†[3]】}
+L190: Some scholars believe that during the early historical period the inhabitants were fierce mountain aborigines, the 【133†Monpa】, who were of neither the Tibetan or 【138†Mongol】 stock that later overran northern Bhutan. The people of Monyul practiced a shamanistic religion, which emphasized worship of nature and the existence of good and evil spirits.
+L191: During the latter part of this period, historical legends relate that the mighty king of Monyul invaded a southern region known as the Duars, subduing the regions of modern 【139†Assam】, 【140†West Bengal】, and 【141†Bihar】 in India.^{【137†[3]】}
+L192: ### Arrival of Buddhism
+L193: 
+L194: [【142†edit】]
+L195: Buddhism was possibly first introduced to Bhutan as early as the 2nd century AD.^{【143†[4]】}^{【144†[5]】}^{【145†[6]】}^{【146†[7]】} 【147†Tibetan Buddhism】 was first introduced to Bhutan in the 7th century.
+L196: Tibetan king 【148†Songtsän Gampo】^{【149†[8]】} (reigned 627–649), a Buddhist convert, constructed 108 Buddhist temples in the Himalayan region, including a few temples at 【150†Bumthang】 in central Bhutan, 【151†Haa】, 【152†Lhuentse】 and at 【153†Kyichu】 (near 【154†Paro】) in the 【155†Paro Valley】.^{【156†[9]】}^{【157†[10]】}^{【158†[11]】} Buddhism was propagated in earnest^{【149†[8]】} in 746^{【159†[12]】} under King Sindhu Rāja (also Künjom;^{【160†[13]】} Sendha Gyab; Jakar Gyalpo), an exiled 【161†Indian】 king who had established a government in Bumthang at 【162†Jakar】 Gutho Palace.^{【163†[14]】}^{: 35 }^{【164†[15]】}^{: 13 }
+L197: Buddhism replaced but did not eliminate the 【165†Bon】 religious practices that had also been prevalent in Tibet until the late 6th century. Instead, Buddhism absorbed Bon and its believers. As the country developed in its many fertile valleys, Buddhism matured and became a unifying element. It was Buddhist literature and chronicles that began the recorded history of Bhutan.^{【156†[9]】}
+L198: In 810AD, a Buddhist saint, 【166†Padmasambhava】 (known in Bhutan as 【167†Guru Rinpoche】 and sometimes referred to as the Second Buddha), came to Bhutan from Nepal at the invitation of King Sindhu Rāja.^{【168†[16]】} After reportedly subduing 【169†eight classes of gods and demons】 and converting the king, Guru Rimpoche moved on to Tibet. Upon his return from Tibet, he oversaw the construction of new monasteries in the 【155†Paro Valley】 and set up his headquarters in 【150†Bumthang】.
+L199: According to tradition, he founded the 【170†Nyingmapa】 sect—also known as the "old sect" or Red Hat sect—of 【171†Mahayana Buddhism】, which became for a time the dominant religion of Bhutan. Guru Rimpoche plays a great historical and religious role as the national patron saint who revealed the 【172†tantras】—manuals describing forms of devotion to natural energy—to Bhutan.
+L200: Following the guru's sojourn, Indian influence played a temporary role until increasing Tibetan migrations brought new cultural and religious contributions.^{【156†[9]】}
+L201: There was no central government during this period. Instead, small independent monarchies began to develop by the early 9th century. Each was ruled by a deb (king), some of whom claimed divine origins. The 【173†kingdom of Bumthang】 was the most prominent among these small entities.
+L202: At the same time, Tibetan Buddhist monks (lam in 【174†Dzongkha】, Bhutan's official national language) had firmly rooted their religion and culture in Bhutan, and members of joint Tibetan-Mongol military expeditions settled in fertile valleys. By the 11th century, all of Bhutan was occupied by Tibetan-Mongol military forces.^{【156†[9]】}^{【175†[17]】}
+L203: ### Sectarian rivalry
+L204: 
+L205: [【176†edit】]
+L206: By the 10th century, Bhutan's political development was heavily influenced by its religious history. Following a period in which 【177†Buddhism】 was in decline in 【178†Tibet】 in the 11th century, contention among a number of subsects emerged. The 【179†Yuan dynasty】 overlords of 【180†Tibet】 and Bhutan patronized a sequence of subsects until their own political decline in the 14th century.
+L207: By that time, the 【181†Gelugpa】 or Yellow Hat school had, after a period of anarchy in Tibet, become a powerful force resulting in the flight to Bhutan of numerous monks of various minor opposing sects. Among these monks was the founder of the 【182†Lhapa】 subsect of the 【183†Kargyupa】 school, to whom is attributed the introduction of strategically built 【184†dzong】.
+L208: Although the Lhapa subsect had been successfully challenged in the 12th century by another Kargyupa subsect—the 【185†Drukpa】—led by Tibetan monk 【186†Phajo Drugom Zhigpo】, it continued to proselytize until the 17th century. The Drukpa spread throughout Bhutan and eventually became a dominant form of religious practice. Between the 12th century and the 17th century, the two Kargyupa subsects vied with one another from their respective dzong as the older form of Nyingmapa Buddhism was eclipsed.^{【187†[18]】}
+L209: ## Theocratic government, 1616–1907
+L210: 
+L211: [【188†edit】]
+L212: ### Consolidation and defeat of Tibetan invasions, 1616–51
+L213: 
+L214: [【189†edit】]
+L215: 
+L216: A 17th-century Italian map showing a large "Kingdom of Barantola or Boutan" bordering on Nepal and 【178†Tibet】, as well as, surprisingly, 【190†Yunnan】, 【191†Sichuan】, and the 【192†Kingdom of Tanguts】
+L217: In the 17th century, a 【193†theocratic government】 independent of 【178†Tibetan】 political influence was established, and premodern Bhutan emerged. The theocratic government was founded by an expatriate Drukpa monk, 【111†Ngawang Namgyal】, who arrived in Bhutan in 1616 seeking freedom from the domination of the Gelugpa subsect led by the 【194†Dalai Lama】 (Ocean Lama) in Lhasa.
+L218: After a series of victories over rival subsect leaders and Tibetan invaders, Ngawang Namgyal took the title Zhabdrung (At Whose Feet One Submits, or, in many Western sources, Dharma Raja), becoming the temporal and spiritual leader of Bhutan. Considered the first great historical figure of Bhutan, he united the leaders of powerful Bhutanese families in a land called Drukyul.
+L219: He promulgated a code of law and built a network of impregnable forts (dzong), a system that helped bring local lords under centralized control and strengthened the country against Tibetan invasions. Many forts were extant in the late 20th century.^{【195†[19]】}
+L220: During the first war with Tibet, c. 1627, 【196†Portuguese】 【197†Jesuits】 【198†Estêvão Cacella】 and 【199†João Cabral】 were the first recorded Europeans to visit Bhutan on their way to Tibet.
+L221: They met with Ngawang Namgyal, presented him with firearms, 【200†gunpowder】 and a 【201†telescope】, and offered him their services in the war against Tibet, but the Zhabdrung declined the offer.^{【195†[19]】} After a stay of nearly eight months Cacella wrote a long letter from the 【202†Chagri Monastery】 reporting the travel. This is a rare report of the Zhabdrung remaining.^{【203†[20]】}
+L222: Tibetan armies invaded Bhutan around 1629, in 1631, and again in 1639, hoping to throttle Ngawang Namgyal's popularity before it spread too far. In 1634 Ngawang Namgyal defeated 【204†Karma Tenkyong】's army in the 【205†Battle of Five Lamas】. The invasions were thwarted, and the Drukpa subsect developed a strong presence in western and central Bhutan, leaving Ngawang Namgyal supreme.
+L223: In recognition of the power he accrued, goodwill missions were sent to Bhutan from 【206†Cooch Behar】 in the Duars (present-day northeastern West Bengal), Nepal to the west, and 【207†Ladakh】 in western Tibet. The ruler of Ladakh even gave a number of villages in his kingdom to Ngawang Namgyal.
+L224: Bhutan's troubles were not over, however. In 1643, a joint Mongol-Tibetan force sought to destroy Nyingmapa refugees who had fled to Bhutan, 【208†Sikkim】, and Nepal. The Mongols had seized control of religious and civil power in Tibet in the 1630s and established 【181†Gelugpa】 as the state religion. Bhutanese rivals of Ngawang Namgyal encouraged the Mongol intrusion, but the Mongol force was easily defeated in the humid lowlands of southern Bhutan.
+L225: Another Tibetan invasion in 1647 also failed.^{【195†[19]】}
+L226: During 【111†Ngawang Namgyal】's rule, administration comprised a state monastic body with an elected head, the 【209†Je Khenpo】 (lord abbot), and a theocratic civil government headed by the 【210†Druk Desi】 (regent of Bhutan, also known as Deb Raja in Western sources). The Druk Desi was either a monk or a member of the 【211†laity】—by the 19th century, usually the latter; he was elected for a three-year term, initially by a monastic council and later by the State Council (【212†Lhengye Zhungtshog】).
+L227: The State Council was a central administrative organ that included regional rulers, the Zhabdrung's chamberlains, and the 【210†Druk Desi】. In time, the Druk Desi came under the political control of the State Council's most powerful faction of regional administrators. The Zhabdrung was the head of state and the ultimate authority in religious and civil matters. The seat of government was at 【213†Thimphu】, the site of a 13th-century dzong, in the spring, summer, and fall.
+L228: The winter capital was at 【214†Punakha Dzong】, a 【215†dzong】 established northeast of Thimphu in 1527. The kingdom was divided into three regions (east, central, and west), each with an appointed 【216†ponlop】, or governor, holding a seat in a major dzong. Districts were headed by 【217†dzongpon】, or district officers, who had their headquarters in lesser 【215†dzong】. The ponlop were combination tax collectors, judges, military commanders, and procurement agents for the central government.
+L229: Their major revenues came from the trade between 【178†Tibet】 and India and from land taxes.^{【195†[19]】}
+L230: 【111†Ngawang Namgyal】's regime was bound by a legal code called the 【114†Tsa Yig】, which described the spiritual and civil regime and provided laws for government administration and for social and moral conduct. The duties and virtues inherent in the Buddhist 【218†dharma】 (religious law) played a large role in the new legal code, which remained in force until the 1960s.^{【195†[19]】}
+L231: ### Administrative integration and conflict with Tibet, 1651–1728
+L232: 
+L233: [【219†edit】]
+L234: To keep Bhutan from disintegrating, 【111†Ngawang Namgyal】's death in 1651 apparently was kept a carefully guarded secret for fifty-four years. Initially, Ngawang Namgyal was said to have entered into a religious retreat, a situation not unprecedented in Bhutan, Sikkim, or Tibet during that time. During the period of Ngawang Namgyal's supposed retreat, appointments of officials were issued in his name, and food was left in front of his locked door.^{【220†[21]】}
+L235: 【111†Ngawang Namgyal】's son and 【221†stepbrother】, in 1651 and 1680, respectively, succeeded him. They started their reigns as minors under the control of religious and civil regents and rarely exercised authority in their own names.
+L236: For further continuity, the concept of multiple reincarnation of the first Zhabdrung—in the form of either his body, his speech, or his mind—was invoked by the 【209†Je Khenpo】 and the 【210†Druk Desi】, both of whom wanted to retain the power they had accrued through the 【193†dual system of government】.
+L237: The last person recognized as the bodily reincarnation of Ngawang Namgyal died in the mid-18th century, but speech and mind reincarnations, embodied by individuals who acceded to the position of 【113†Zhabdrung Rinpoche】, were in the early 1990s. The compulsory admission to monastic life of at least one son from any family having three or more sons was instituted in the late 17th century.
+L238: In time, however, the State Council became increasingly secular as did the successive Druk Desi, 【216†ponlop】, and 【217†dzongpon】, and intense rivalries developed among the ponlop of 【222†Tongsa】 and 【223†Paro】 and the 【217†dzongpon】 of 【224†Punakha】, 【225†Thimphu】, and 【226†Wangdue Phodrang】.^{【220†[21]】}
+L239: During the first period of succession and further internal consolidation under the Druk Desi government, there was conflict with 【178†Tibet】 and 【208†Sikkim】. Internal opposition to the central government resulted in overtures by the opponents of the Druk Desi to Tibet and Sikkim. In the 1680s, Bhutan invaded Sikkim in pursuit of a rebellious local lord. In 1700, Bhutan again invaded Sikkim, and in 1714 Tibetan forces, aided by 【227†Mongolia】, invaded Bhutan but were unable to gain control.^{【220†[21]】}
+L240: #### Bhutan exclaves in western Tibet
+L241: 
+L242: [【228†edit】]
+L243: During the 17th century Bhutan maintained close relations with 【207†Ladakh】, and assisted Ladakh in its 1684 war with Tibet. Ladakh had earlier granted Bhutan several 【229†enclaves】 near 【230†Mount Kailash】 in western Tibet; these were monasteries of the Southern branch of the Drukpa sect and so fell under the authority of the Bhutanese Je Khenpo and the Zhabdrung.
+L244: These enclaves persisted under Bhutanese control even after the rest of western Tibet came under the control of the Dalai Lama and his Gelugpa sect, until 1959 when the Bhutanese enclaves were seized by the Chinese.^{【231†[22]】} In addition to these outposts in Tibet, Bhutan for a time held monastic fiefs in Ladakh, 【232†Zanskar】, and 【233†Lahul】 (now part of India), as well as in 【234†Lo Manthang】 and 【235†Dolpo】 (now part of Nepal).^{【236†[23]】}^{【237†[24]】}
+L245: ### Civil conflict, 1728–1772
+L246: 
+L247: [【238†edit】]
+L248: 
+L249: Though the invaders were unable to take control, the political system remained unstable. Regional rivalries contributed to the gradual disintegration of Bhutan at the time the first British agents arrived.^{【239†[25]】}
+L250: In the early 18th century, Bhutan had successfully developed control over the principality of 【240†Cooch Behar】. The 【241†raja】 of Cooch Behar had sought assistance from Bhutan against the Indian 【242†Mughals】 in 1730, and Bhutanese political influence was not long in following. By the mid-1760s, Thimphu considered Cooch Behar its dependency, stationing a garrison force there and directing its civil administration.
+L251: When the 【210†Druk Desi】 invaded 【243†Sikkim】 in 1770, Cooch Behari forces joined their Bhutanese counterparts in the offensive. In a succession dispute in 【240†Cooch Behar】 two years later, however, the Druk Desi's nominee for the throne was opposed by a rival who invited British troops, and, in effect, Cooch Behar became a dependency of the British East India Company.^{【239†[25]】}
+L252: ### British intrusion, 1772–1907
+L253: 
+L254: [【244†edit】]
+L255: Under the Cooch Behari agreement with the 【245†British】, a British expeditionary force drove the Bhutanese garrison out of Cooch Behar and invaded Bhutan in 1772–73. The Druk Desi petitioned Lhasa for assistance from the 【246†Panchen Lama】, who was serving as regent for the youthful Dalai Lama. In correspondence with the British governor general of India, however, the Panchen Lama instead punished the Druk Desi and invoked Tibet's claim of suzerainty over Bhutan.^{【247†[26]】}
+L256: Failing to receive help from Tibet, the Druk Desi signed a Treaty of Peace with the 【248†British East India Company】 on 25 April 1774. Bhutan agreed to return to its pre-1730 boundaries, paid a symbolic tribute of five horses to Britain, and, among other concessions, allowed the British to harvest timber in Bhutan. Subsequent missions to Bhutan were made by the British in 1776, 1777, and 1783, and commerce was opened between British India and Bhutan, and, for a short time, Tibet.
+L257: In 1784, the British turned over to Bhutanese control Bengal Duars territory, where boundaries were poorly defined. As in its other foreign territories, Bhutan left administration of the Bengal 【249†Duars】 territory to local officials and collected its revenues. Although major trade and political relations failed to develop between Bhutan and Britain, the British had replaced the Tibetans as the major external threat.^{【247†[26]】}
+L258: Boundary disputes plagued Bhutanese–British relations. To reconcile their differences, Bhutan sent an emissary to 【250†Calcutta】 in 1787, and the British sent missions to 【213†Thimphu】 in 1815 and 1838. The 1815 mission was inconclusive. The 1838 mission offered a treaty providing for extradition of Bhutanese officials responsible for incursions into 【139†Assam】, free and unrestricted commerce between India and Bhutan, and settlement of Bhutan's debt to the British.
+L259: In an attempt to protect its independence, Bhutan rejected the British offer. Despite increasing internal disorder, Bhutan had maintained its control over a portion of the Assam Duars more or less since its reduction of Cooch Behar to a dependency in the 1760s. After the British gained control of 【251†Lower Assam】 in 1826, tension between the countries began to rise as Britain exerted its strength. Bhutanese payments of annual tribute to the British for the Assam Duars gradually fell into arrears.
+L260: British demands for payment led to military incursions into Bhutan in 1834 and 1835, resulting in defeat for Bhutan's forces and a temporary loss of territory.^{【247†[26]】}
+L261: The British proceeded in 1841 to annex the formerly Bhutanese-controlled Assam Duars, paying a compensation of 10,000 【252†rupees】 a year to Bhutan. In 1842, Bhutan gave to the British control of some of the troublesome Bengal Duars territory it had administered since 1784.^{【247†[26]】}
+L262: Charges and countercharges of border incursions and protection of fugitives led to an unsuccessful Bhutanese mission to Calcutta in 1852. Among other demands, the mission sought increased compensation for its former Duars territories; instead the British deducted nearly 3,000 rupees from the annual compensation and demanded an apology for alleged plundering of British-protected lands by members of the mission.

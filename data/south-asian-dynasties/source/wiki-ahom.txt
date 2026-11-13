@@ -1,0 +1,297 @@
+Ahom kingdom - Wikipedia (https://en.wikipedia.org/wiki/Ahom_kingdom)
+citeturn76view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Ahom_kingdom","lineno":null}); Total lines: 830
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Mong Dun Shun Kham (1228–1401)】
+L50:     * 【20†1.2 Assam (1401–1510)】
+L51:     * 【21†1.3 Full state and expansion (1510–1609)】
+L52:     * 【22†1.4 Maturing state (1609–1682)】
+L53:       * 【23†1.4.1 Koch relations】
+L54:       * 【24†1.4.2 Mughal relations】
+L55:     * 【25†1.5 Tungkhungia regime (1682–1826)】
+L56:     * 【26†1.6 Decline】
+L57:   * 【27†2 Economy】 Toggle Economy subsection
+L58:     * 【28†2.1 Trade】
+L59:       * 【29†2.1.1 Trade with Tibet】
+L60:   * 【30†3 Geography】
+L61:   * 【31†4 Demographics】 Toggle Demographics subsection
+L62:     * 【32†4.1 Population】
+L63:     * 【33†4.2 Urbanization】
+L64:   * 【34†5 Administration】 Toggle Administration subsection
+L65:     * 【35†5.1 Swargadeo and Patra Mantris】
+L66:     * 【36†5.2 Other officials】
+L67:     * 【37†5.3 Governors】
+L68:     * 【38†5.4 Judicial administration】
+L69:     * 【39†5.5 Vassals】
+L70:     * 【40†5.6 Paik officials】
+L71:     * 【41†5.7 Land survey】
+L72:   * 【42†6 Military】
+L73:   * 【43†7 Social classes】
+L74:   * 【44†8 Culture】 Toggle Culture subsection
+L75:     * 【45†8.1 Architecture】
+L76:       * 【46†8.1.1 Temples】
+L77:       * 【47†8.1.2 Tanks】
+L78:     * 【48†8.2 Painting】
+L79:     * 【49†8.3 Music and dance】
+L80:     * 【50†8.4 Symbol】
+L81:   * 【51†9 See also】
+L82:   * 【52†10 Notes】
+L83:   * 【53†11 References】
+L84: [Input] Toggle the table of contents
+L85: # Ahom kingdom
+L86: 
+L87: [Input] 31 languages
+L88:   * 【54†العربية†ar.wikipedia.org】
+L89:   * 【55†অসমীয়া†as.wikipedia.org】
+L90:   * 【56†বাংলা†bn.wikipedia.org】
+L91:   * 【57†Čeština†cs.wikipedia.org】
+L92:   * 【58†Esperanto†eo.wikipedia.org】
+L93:   * 【59†فارسی†fa.wikipedia.org】
+L94:   * 【60†ગુજરાતી†gu.wikipedia.org】
+L95:   * 【61†हिन्दी†hi.wikipedia.org】
+L96:   * 【62†Bahasa Indonesia†id.wikipedia.org】
+L97:   * 【63†Íslenska†is.wikipedia.org】
+L98:   * 【64†Italiano†it.wikipedia.org】
+L99:   * 【65†日本語†ja.wikipedia.org】
+L100:   * 【66†한국어†ko.wikipedia.org】
+L101:   * 【67†मराठी†mr.wikipedia.org】
+L102:   * 【68†नेपाली†ne.wikipedia.org】
+L103:   * 【69†Nederlands†nl.wikipedia.org】
+L104:   * 【70†Norsk bokmål†no.wikipedia.org】
+L105:   * 【71†Polski†pl.wikipedia.org】
+L106:   * 【72†پنجابی†pnb.wikipedia.org】
+L107:   * 【73†Português†pt.wikipedia.org】
+L108:   * 【74†Русский†ru.wikipedia.org】
+L109:   * 【75†ᱥᱟᱱᱛᱟᱲᱤ†sat.wikipedia.org】
+L110:   * 【76†Simple English†simple.wikipedia.org】
+L111:   * 【77†Српски / srpski†sr.wikipedia.org】
+L112:   * 【78†Svenska†sv.wikipedia.org】
+L113:   * 【79†தமிழ்†ta.wikipedia.org】
+L114:   * 【80†తెలుగు†te.wikipedia.org】
+L115:   * 【81†ไทย†th.wikipedia.org】
+L116:   * 【82†Українська†uk.wikipedia.org】
+L117:   * 【83†اردو†ur.wikipedia.org】
+L118:   * 【84†中文†zh.wikipedia.org】
+L119: 【85†Edit links†www.wikidata.org】
+L120: 
+L121:   * 【86†Article】
+L122:   * 【87†Talk】
+L123: 
+L124: [Input] English
+L125: 
+L126:   * 【86†Read】
+L127:   * 【88†Edit】
+L128:   * 【89†View history】
+L129: 
+L130: [Input] Tools
+L131: 
+L132: Tools
+L133: 
+L134: [Button: move to sidebar] [Button: hide]
+L135: 
+L136: Actions
+L137: 
+L138:   * 【86†Read】
+L139:   * 【88†Edit】
+L140:   * 【89†View history】
+L141: 
+L142: General
+L143: 
+L144:   * 【90†What links here】
+L145:   * 【91†Related changes】
+L146:   * 【92†Upload file】
+L147:   * 【93†Permanent link】
+L148:   * 【94†Page information】
+L149:   * 【95†Cite this page】
+L150:   * 【96†Get shortened URL】
+L151:   * 【97†Switch to legacy parser】
+L152: 
+L153: Print/export
+L154:   * 【98†Download as PDF】
+L155:   * Printable version
+L156: 
+L157: In other projects
+L158: 
+L159:   * 【99†Wikimedia Commons†commons.wikimedia.org】
+L160:   * 【100†Wikivoyage†en.wikivoyage.org】
+L161:   * 【101†Wikidata item†www.wikidata.org】
+L162: 
+L163: Appearance
+L164: 
+L165: [Button: move to sidebar] [Button: hide]
+L166: 
+L167: 【102†Coordinates】: 【103†26°55′59″N 94°44′53″E﻿ / ﻿26.93306°N 94.74806°E﻿ / 26.93306; 94.74806†geohack.toolforge.org】
+L168:  | This article needs 【104†more citations】. Please help 【105†improve this article】 by 【106†adding citations to reliable sources】. Unsourced material may be challenged and 【107†removed】.
+L169: Find sources: 【108†"Ahom kingdom"†www.google.com】 – 【109†news†www.google.com】 · 【110†newspapers†www.google.com】 · 【111†books†www.google.com】 · 【112†scholar†scholar.google.com】 · 【113†JSTOR†www.jstor.org】 (October 2026) (【114†Learn how and when to remove this message】)
+L170: 【115†Image†thumb.wikimedia.org】  | This article may require 【116†cleanup】 to meet Wikipedia's 【117†quality standards】. The specific problem is: Certain points could be expanded, others condensed, many words from other languages need to be translated, need the source language identified, are Romanized in multiple ways, etc. Please help 【105†improve this article】 if you can. (October 2026) (【114†Learn how and when to remove this message】)
+L171: Kingdom of Assam
+L172: Ahom kingdom
+L173: ---
+L174: 1228–1826^{【118†[1]】}
+L175: Ngi-ngao-kham^{【119†[3]】}(Royal insignia)
+L176: The Ahom kingdom, 1826.
+L177: Status  | 【120†Kingdom】
+L178: Capital  |
+L179: 
+L180:   * 【121†Charaideo】
+L181: (1253–1397)
+L182:   * Charagua
+L183: (1397–?)
+L184:   * 【122†Bakata】
+L185:   * 【123†Garhgaon】
+L186: (1540–1707)
+L187:   * 【124†Rangpur】
+L188: (1707–1794)
+L189:   * 【125†Jorhat】
+L190: (1794–1826)
+L191: Common languages  |
+L192:   * 【126†Assamese】 (【127†lingua franca】, court language)
+L193:   * 【128†Sanskrit】 (【129†literary language】)^{【130†[4]】}
+L194:   * 【131†Ahom】 (court language, dynastic language)
+L195: And other native languages
+L196: Religion  |
+L197:   * 【132†Ahom religion】 (1228–1648)^{【133†[a]】}^{【134†[5]】}
+L198:   * 【135†Hinduism】 (1648–1826)
+L199:   * 【136†Ekasarana Dharma】
+L200:   * 【137†Shaktism】
+L201:   * 【138†Shaivism】
+L202:   * 【139†Tribal religions】
+L203: 【140†Demonym】  | 【141†Ahom】 • 【142†Assamese】
+L204: Government  | 【143†Bureaucratic】 【144†feudalism】^{【145†[6]】} and 【146†Aristocratic】 【120†monarchy】^{【147†[7]】}
+L205: 【148†Chao Pha】, Swargadeo^{【149†[8]】}  |
+L206: • 1228–1268  | 【150†Sukaphaa】
+L207: • 1497–1539  | 【151†Suhungmung】
+L208: • 1603–1641  | 【152†Susenghphaa】
+L209: • 1696–1714  | 【153†Sukhrungphaa】
+L210: • 1833–1838  | 【154†Purandar Singha】
+L211: Historical era  | 【155†Middle Age】 and 【156†Colonial Age】
+L212: • Established by 【157†Sukapha】  | 1228
+L213: • 【151†Re-organization under King Suhungmung】  | 1497
+L214: • 【158†Koch-Ahom conflicts】  | 1543–68
+L215: • 【159†Ahom–Mughal Wars】  | 1615–1682
+L216: • 【160†Moamaria rebellion】  | 1769
+L217: • 【161†Burmese invasion of Assam】  | 1817
+L218: • 【162†Treaty of Yandabo】  | 1826^{【118†[1]】}
+L219: Area
+L220: ---
+L221: 1826^{【163†[9]】}  | 41,957.807 km^{2} (16,200.000 sq mi)
+L222: Population
+L223: ---
+L224: • 1711^{【164†[10]】}  | 2,880,000
+L225: • 1833^{【165†[11]】}  | 2,500,000
+L226: Currency  | 【166†Ahom coinage】
+L227: Preceded by Succeeded by
+L228: 【167†Image†upload.wikimedia.org】 【168†Kamarupa Kingdom】
+L229: 【167†Image†upload.wikimedia.org】 【169†Möng Mao】
+L230: 【170†Konbaung dynasty】 【171†Image†thumb.wikimedia.org】
+L231: 【172†Colonial Assam】 【173†Image†thumb.wikimedia.org】
+L232: Today part of  | 【174†India】
+L233: 【175†Myanmar】
+L234: The Ahom kingdom (【176†/ˈ ɑː h ɔː m/】; 1228–1826), or Kingdom of Assam, was a 【177†late medieval】 kingdom in the 【178†Brahmaputra Valley】 that existed from 1228 until 1826 and came to incorporate large parts of modern 【179†Assam】. Established by 【150†Sukaphaa】, a 【180†Tai】 prince from 【169†Möng Mao】 (present-day 【181†Dehong】, 【182†China】), it began as a small 【183†Mueang】 in the upper reaches of the Brahmaputra based on 【184†wet-rice agriculture】.
+L235: The kingdom expanded under 【151†Suhungmung】 in the 16th century, and became multi-ethnic in character, accelerating a process of social change, 【185†ethnogenesis】, and inter-ethnic interactions under the ruling 【148†Ahom dynasty】. During the 17th century, the kingdom defeated multiple 【186†attempts】 by the 【187†Mughal Empire】 to expand into 【188†Northeast India】. Central authority collapsed following the 【189†Moamoria rebellion】 in the late 18th century.
+L236: Internal conflicts between dynastic claimants led to 【190†Burmese】 intervention, and the kingdom faced multiple 【191†Burmese invasions】 after 1817. 【192†British】 intervention led to the 【193†First Anglo-Burmese War】, and the control of the kingdom passed into the hands of the 【194†East India Company】 through the 【162†Treaty of Yandabo】 in 1826.
+L237: The kingdom was largely multi-ethnic, with the ethnic 【141†Tai Ahom】 people constituting less than 10% of the population according to the 1872 and 1881 censuses of 【195†British India】.^{【196†[12]】} People from different ethnic groups became a part of the Ahom population due to a process known as 【197†Ahomisation】.
+L238: The identity of the 【141†Ahom people】 in the kingdom was fluid, with the king controlling who belonged to it and who did not.^{【198†[13]】} The 【141†Ahoms】 initially called their kingdom Mong Dun Shun Kham till 1401 (【126†Assamese】: xunor-xophura; English: casket of gold), but adopted Assam in the 15th century.^{【199†[14]】} The kingdom maintained close political ties with other Tai states, especially 【200†Möng Kawng】 (Nara), till the end of its rule in the 19th century.^{【201†[15]】}
+L239: ## History
+L240: 
+L241: [【202†edit】]
+L242: 
+L243: See also: 【148†Ahom dynasty】
+L244: The Ahom kingdom was established in 1228 when 【150†Sukaphaa】, a Tai prince, entered the 【203†Brahmaputra】 valley having crossed the 【204†Patkai】 mountain range from 【169†Möng Mao】.^{【205†[16]】} Sukaphaa probably started his journey from his homeland with a small number, but he was supported and joined by other Tai chiefs and common followers along the way^{【206†[17]】} and entered Assam with approximately 9,000 persons.^{【207†[18]】}^{【208†[19]】} They arrived in 【209†Upper Assam】, earlier the domain of the 【210†Kamarupa】 kingdom which had since lapsed into deteriorating conditions.^{【211†[20]】} His intention was not to conquer and raid but to permanently settle in fallow land and practice agriculture^{【212†[21]】} At the time of their arrival in the Brahmaputra valley, the Ahom practiced forms of Buddhism and the 【132†Ahom religion】.^{【213†[22]】} As Hinduism gained influence in the kingdom during the reign of 【151†Suhungmung】, the Ahom adapted by identifying their god Lengdon with 【214†Indra】.^{【215†[23]】}^{【216†[24]】}
+L245: The Ahoms were primarily responsible for converting the undulating alluvial forest and marshy plains in upper Assam to flat rice fields able to hold plain water for rice cultivation via a network of embankments.^{【217†[25]】} The Tai 【218†Shans】 had with them the basic political structures for state-building (Mung), surplus producing technologies such as sedentary wet-rice cultivation and hydrology, a patriarchal social organisation based on clans (foid), and a 【129†literary】 form of 【131†their language】.^{【219†[26]】} Whereas the earlier state formations (【210†Kamarupa】) borrowed political structures from 【220†North India】 that led to Indo-Aryan domination, the Ahom state formation provided an alternate model built on 【221†Southeast Asian】 political structures, and which provided the space for the development of a distinct political, social and cultural identity.^{【222†[27]】} The early kings of the Ahom dynasty claimed descent from Lengdon, the lord of heaven in the Ahom religion.^{【223†[28]】} The later 【224†Tungkhungia kings】 converted to 【225†Shaktism】^{【226†[29]】} and the persecution of the 【227†shudra】 Mahantas and their laity that began during the reign of 【228†Siva Singha】 led to the 【189†Moamoria rebellion】 and ultimately to the end of the kingdom.^{【229†[30]】}
+L246: ### Mong Dun Shun Kham (1228–1401)
+L247: 
+L248: [【230†edit】]
+L249: 
+L250: The early Ahom territories.
+L251: Sukaphaa (1228–1268) spent a couple of decades moving from 【231†place to place】 establishing colonies and finally settled down in 【121†Charaideo】 in 1253.^{【232†[31]】}^{【233†[32]】} He established the offices of the Dangarias— the 【234†Burhagohain】 (Chao-Phrungmung) and the 【235†Borgohain】 (Chao-Thaonmung).^{【236†[33]】} In the 1280s, these two offices were given independent regions of control; partly hereditary and partly elected, the king and the two counsellors held each other in check and balance.^{【236†[33]】} These institutions of checks and balances thus seeded held fast for six hundred years—in the 18th century John Peter Wade, a British officer, observed these unique institutions and novel system of government.^{【237†[34]】} Sukaphaa had instructed that events during his rule be chronicled, a practice sustained by his successors; and there emerged the institution of 【238†Buranji】 writing, a practice of historiography rare elsewhere in India.^{【239†[35]】} In the late medieval era, the Ahom kingdom was known to be a kaghazi raj (a kingdom with records) just as the 【187†Mughal Empire】 was.^{【240†[36]】}
+L252: At the time of their arrival in Assam, the Ahoms came with advanced technologies of rice cultivation, and it was their belief that they were divinely ordained to turn fallow land to agriculture and also to absorb stateless and shifting agriculturists to their own ways.^{【241†[37]】} The Ahom called non-Ahom who practiced 【242†shifting cultivation】 Kha, meaning "slave" or "【243†culturally inferior foreigner】".
+L253: Kha could become part of Ahom culture by switching to wet-rice cultivation, and being ritually adopted into Ahom clans, in a process known as Ahomisation.
+L254: The process of the Ahom assimilating neighboring ethnic groups was facilitated by similarities in religion between them and the Ahom.^{【244†[38]】} Sukaphaa befriended those among the Morans and Barahi who were willing to join him and killed those who opposed him.^{【245†[39]】} Many others were incorporated into Ahom clans.^{【246†[40]】} The Ahoms were aware of their smaller numbers, and avoided confrontations with larger groups.^{【247†[41]】} Ahomisation increased the Ahom numbers significantly.
+L255: This process of Ahomisation was particularly significant till the 16th century when under 【151†Suhungmung】, the kingdom made large territorial expansions at the cost of the 【248†Chutiya】 and the 【249†Kachari】 kingdoms.^{【250†[42]】}^{【232†[31]】}
+L256: At this stage the kingdom was still not fully sovereign.
+L257: Sukaphaa sent his word of allegiance and tributes to 【169†Möng Mao】, a practice that was continued by some of his successors till about the early 14th century when the power of Möng Mao faded to be replaced the power of 【200†Möng Kawng】, at which point the Ahoms stopped the tributes.^{【251†[43]】} The Ahoms began to call their domain Mong Dun Sun Kham ("a country of golden gardens").^{【252†[44]】} Though Sukaphaa had avoided the Namdang region, being mindful of the numerically small Ahom contingent,^{【253†[45]】} during the reign of his son 【254†Suteuphaa】, the Kacharis withdrew from the region and the Ahoms expanded into it;^{【255†[46]】}^{【256†[47]】}^{: 76 } but no further expansions of the Ahom domain occurred for the next two hundred years.
+L258: The Ahom kingdom, for most of its history, had been closed and population movement closely monitored. The kingdom did have relations with 【257†Chutia kingdom】 that turned into a conflict, and a marriage alliance with the 【258†Kamata kingdom】.^{【259†[48]】} At the end of the 14th century, the nascent Ahom polity faced crises of succession, two regicides, and three interregnum periods when the kingdom was without a king.^{【260†[49]】}
+L259: Charaideo Maidams – UNESCO World Heritage Site, Assam
+L260: ### Assam (1401–1510)
+L261: 
+L262: [【261†edit】]
+L263: 【262†Sudangphaa】 Bamuni Konwar (r.
+L264: (reigned) 1397–1407), born and raised in a Brahmin household in 【263†Habung】, was identified as a descendant of a past king and installed on the throne by the Burhagohain and Borgohain to end the period of crisis.^{【264†[50]】} He established Brahmin officers, advisors and communities near the capital and the Brahmin influence, though negligible, was felt for the first time.^{【265†[51]】} A number of rebellions erupted purportedly against this influence but Sudangphaa was able to suppress them and solidify his rule.^{【266†[52]】} One of the rebels invited a military expedition from Mong Kwang (called Nara in the Buranjis, the successor state of Mong Mao to which the early Ahom kings used to send tribute) resulting in a clash in 1401—but Sudangphaa defeated the expedition and concluded the conflict with a treaty that fixed the boundary between the two polities at 【204†Patkai】.^{【267†[53]】} This event was significant since it moved the Ahom polity from implicit subordination to explicit sovereignty, and this was accompanied by the transition of the name of the polity from Mong-Dun-Sun-Kham to "Assam",^{【199†[14]】} a derivative from 【218†Shan】/Shyam.^{【268†[54]】} Sudangphaa established a new capital at Charagua, broke the clan allegiances that held the Ahom polity together earlier replacing it with political authority of the king, and introduced the tradition of the 【269†singarigharutha】 ceremony, the state coronation of the Ahom kings that symbolised royal Ahom sovereignty, authority and legitimacy.^{【270†[55]】}
+L265: Sudangphaa settled Habung brahmins close his capital, settled the sons of his adopted Brahmin family in frontier areas, dismantled the tribal allegiances that held the polity together earlier and brought the Ahom kingdom very close to a full-fledged state.^{【271†[56]】}
+L266: The next hundred years saw the kingdom mostly suppressing rebellious Naga groups, but a conflict with the 【272†Dimasa kingdom】 in 1490 saw the Ahoms, not strong enough to take them on frontally, suing for peace.^{【273†[57]】} The Ahom royalty continuously improved their relationship with the Brahmans which enabled them to gain goodwill with the Indo-Aryanized tribal groups and consolidate power.^{【274†[58]】}
+L267: ### Full state and expansion (1510–1609)
+L268: 
+L269: [【275†edit】]
+L270: 
+L271: Main articles: 【276†Turbak's invasion of Assam】, 【257†Chutia kingdom】, 【277†Baro-Bhuyan】, and 【249†Kachari kingdom】
+L272: The Ahom kingdom transitioned into a full state rather dramatically in a short period during the reign of 【151†Suhungmung】 Dihingia Raja (r.
+L273: (reigned) 1497–1539).^{【278†[59]】} It began first with a consolidation of the militia in 1510,^{【279†[60]】} followed by an expansion into the region of Panbari at Habung (a Chutia dependency) in 1512^{【280†[61]】}^{【281†[62]】}^{【282†[63]】} probably with the help of the descendants of the Habungia Brahmans settled during Sudangpha's time.^{【283†[64]】} A clash with the Hinduized 【257†Chutia kingdom】^{【284†[65]】} began in 1513,^{【285†[66]】}^{【286†[67]】} followed by its annexation in 1523^{【287†[68]】} and the kingdom's nobility, commanders, professional classes, warriors and technologies were absorbed into the Ahom kingdom.^{【288†[69]】}^{【289†[70]】} In 1527, the 【277†Baro-Bhuyans】 ruling in central Assam region of Rowta-Temoni were relocated to the north-bank of Upper-Assam and absorbed into the lower echelons of the growing state as scribes and warriors.
+L274: It was this formation of the Ahom kingdom that met the aggression from Bengal under Turbak in 1532 and it was able to eliminate the aggressive leadership (with significant loss to itself) and pursue the retreating invaders to the 【290†Karatoya river】.^{【291†[71]】} In 1536, after the series of contacts with the 【272†Kachari kingdom】, the Ahom rule extended up to the 【292†Kolong River】 in Nagaon;^{【293†[72]】} and by the end of Suhungmung's reign, the size of the kingdom had effectively doubled.^{【294†[73]】}
+L275: These expansions created significant changes in the kingdom—the Assamese-speaking Hinduized subjects outnumbered the Ahoms themselves;^{【295†[74]】} and the absorption of the Chutia kingdom meant a wide range of artisan skills became available to it increasing the scope for division of labour.^{【296†[75]】} To provide legitimacy to the rule of the Ahom kings among the new subjects Suhungmung assumed the title Swarganarayana (Swargadeo),^{【297†[76]】} though nothing like the 【298†Rajputisation】 process occurred with the Ahoms.^{【299†[77]】} The nature of the kings institutional relationship to the ministers changed with the creation of a new position, the Borpatrogohain, named after a Chutia office;^{【300†[78]】}^{【301†[79]】} and the creation of the offices of Sadiyakhowa Gohain (frontier region acquired from the Chutia kingdom)^{【302†[80]】} and the Marangikhowa Gohain (territories acquired from the Kachari kingdom),^{【293†[72]】} both of which were reserved for the Borgohain and Burhagohain lineages.^{【303†[81]】} The traditional nobles (Chao) now aligned with the Brahmin literati and an expanded ruling class developed.^{【304†[82]】} And when the Ahoms under Ton Kham 【235†Borgohain】^{【305†[83]】} pursued the invaders and reached the 【306†Karatoya】 river^{【307†[84]】} they began to see themselves as the rightful heir of the erstwhile 【308†Kamarupa kingdom】.^{【309†[85]】}
+L276: ### Maturing state (1609–1682)
+L277: 
+L278: [【310†edit】]
+L279: 
+L280: Main articles: 【311†Koch-Ahom relations】, 【312†Ahom-Mughal conflicts】, and 【313†Battle of Saraighat】
+L281: The Ahom kingdom became more broad-based and took many features of its mature form under 【314†Pratap Singha】 (r.
+L282: (reigned) 1603–1641), primarily to meet the sustained attacks from the Mughals.^{【315†[86]】} The 【316†Paik system】 was reorganized in 1609 under the professional khel system, replacing the kinship-based phoid system; and paiks could be permanently alienated to non-royal institutions via royal grants.^{【317†[87]】} Under the same king, the offices of the 【318†Borphukan】 (viceroy of territories acquired from the Koches and the Mughals), and the 【319†Borbarua】 (the "secretary" of the royal government) were established to increase the number of Patra Mantris to five, along with other smaller offices.^{【315†[86]】} The practices of using Brahmins solely for diplomatic missions,^{【320†[88]】} the Ahom kings adopting a Hindu name in addition to their Ahom names, and patronising Hindu establishments began with Pratap Singha, though formal initiation of the Ahom kings into Hinduism did not occur till 1648.^{【321†[89]】} The Assamese language entered the Ahom court for the first time and briefly coexisted with and eventually replaced the Ahom language.^{【322†[90]】}
+L283: #### Koch relations
+L284: 
+L285: [【323†edit】]
+L286: After the division of the Koch kingdom between two branches of the Koch dynasty in 1581, the Ahoms allied with their immediate western neighbor, the 【324†Koch Hajo】 branch, from 1603 to prop them as a buffer against the Mughals who had extended their rule to 【325†Bengal】 by 1576. The collapse of the Koch Hajo power in 1614 resulted in the Mughals coming to power up to the Barnadi River.
+L287: The Mughals attempted further ingress to the east in 1616 with the 【326†Battle of Samdhara】 which marked the beginning of the 【186†Ahom–Mughal conflicts】 which lasted the till 1682 in the 【327†Battle of Itakhuli】, when the Ahoms were able to push the Mughals back to the west of the 【328†Manas River】 permanently.^{【329†[91]】}^{【330†[92.1]】}
+L288: #### Mughal relations
+L289: 
+L290: [【331†edit】]
+L291: In 1657, owing to the 'War of succession' among the sons of 【332†Shah Jahan】, Ahom king 【333†Jayadhwaj Singha】 extended his authority, occupied 【334†Kamrup】, preventing the other rebellious Koch king Pran Narayan from securing his footing. He extended his authority over the whole of western Assam. He brought under his domain the whole Brahmaputra Valley, from Sadiya in the east and 【335†Sherpur】 on the south. Thus, the Ahom state attained its greatest territorial extent.^{【329†[91]】}
+L292: In 1662, 【336†Aurangzeb】 to bring the lost tracts and to punish the rebels elements in that quarter, launched an invasion under his chief lieutenant 【337†Mir Jumla II】, in this invasion the Ahoms could not resist up well, and the Mughals occupied the capital, Garhgaon. Unable to keep it, and in at the end of the 【313†Battle of Saraighat】, the Ahoms not only fended off a major Mughal invasion but extended their boundaries west, up to the 【328†Manas River】.
+L293: The western border was fixed at the 【338†Manas river】 after the 【327†Battle of Itakhuli】, which remained the same till the annexation by the British.^{【256†[47]】}^{【329†[91]】}
+L294: ### Tungkhungia regime (1682–1826)

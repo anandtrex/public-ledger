@@ -1,0 +1,255 @@
+Thanjavur Nayak kingdom - Wikipedia (https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom)
+citeturn95view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom","lineno":null}); Total lines: 368
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origins】
+L49:   * 【19†2 Literature and arts】
+L50:   * 【20†3 History】 Toggle History subsection
+L51:     * 【21†3.1 Sevappa Nayaka (1532–1580)】
+L52:     * 【22†3.2 Achuthappa Nayaka (1560-1614)】
+L53:       * 【23†3.2.1 Military campaigns and foreign relations】
+L54:       * 【24†3.2.2 Infrastructure and temple patronage】
+L55:     * 【25†3.3 Raghunatha Nayaka (1600–1634)】
+L56:       * 【26†3.3.1 Civil war and the Battle of Toppur】
+L57:     * 【27†3.4 Vijaya Raghava Nayaka (1634–1673) and fall of the dynasty】
+L58:   * 【28†4 See also】
+L59:   * 【29†5 References】
+L60:   * 【30†6 Bibliography】
+L61:   * 【31†7 External links】
+L62: [Input] Toggle the table of contents
+L63: # Thanjavur Nayak kingdom
+L64: 
+L65: [Input] 10 languages
+L66: 
+L67:   * 【32†Català†ca.wikipedia.org】
+L68:   * 【33†Español†es.wikipedia.org】
+L69:   * 【34†हिन्दी†hi.wikipedia.org】
+L70:   * 【35†日本語†ja.wikipedia.org】
+L71:   * 【36†മലയാളം†ml.wikipedia.org】
+L72:   * 【37†Português†pt.wikipedia.org】
+L73:   * 【38†Русский†ru.wikipedia.org】
+L74:   * 【39†සිංහල†si.wikipedia.org】
+L75:   * 【40†தமிழ்†ta.wikipedia.org】
+L76:   * 【41†తెలుగు†te.wikipedia.org】
+L77: 
+L78: 【42†Edit links†www.wikidata.org】
+L79: 
+L80:   * 【43†Article】
+L81:   * 【44†Talk】
+L82: 
+L83: [Input] English
+L84:   * 【43†Read】
+L85:   * 【45†Edit】
+L86:   * 【46†View history】
+L87:   * 【17†Save】
+L88: 
+L89: [Input] Tools
+L90: 
+L91: Tools
+L92: 
+L93: [Button: move to sidebar] [Button: hide]
+L94: 
+L95: Actions
+L96: 
+L97:   * 【43†Read】
+L98:   * 【45†Edit】
+L99:   * 【46†View history】
+L100:   * 【17†Save】
+L101: 
+L102: General
+L103: 
+L104:   * 【47†What links here】
+L105:   * 【48†Related changes】
+L106:   * 【49†Upload file】
+L107:   * 【50†Permanent link】
+L108:   * 【51†Page information】
+L109:   * 【52†Cite this page】
+L110:   * 【53†Get shortened URL】
+L111:   * 【54†Switch to legacy parser】
+L112: 
+L113: Print/export
+L114: 
+L115:   * 【55†Download as PDF】
+L116:   * Printable version
+L117: 
+L118: In other projects
+L119:   * 【56†Wikidata item†www.wikidata.org】
+L120: 
+L121: Appearance
+L122: 
+L123: [Button: move to sidebar] [Button: hide]
+L124: Thanjavur Nayak Dynasty
+L125: ---
+L126: 1532–1673
+L127: Approximate extent of the Thanjavur Nayaka Dynasty c. 1572
+L128: Capital  | 【57†Thanjavur】
+L129: Common languages  | 【58†Telugu】, 【59†Tamil】
+L130: Religion  | 【60†Hinduism】
+L131: Government  | 【61†Monarchy】
+L132: King  |
+L133: History  |
+L134: • Established  | 1532
+L135: • Disestablished  | 1673
+L136: Preceded by Succeeded by
+L137: 【62†Image†upload.wikimedia.org】 【63†Chola Empire】
+L138: 【62†Image†upload.wikimedia.org】 【64†Vijayanagara Empire】
+L139: 【65†Thanjavur Marathas】 【62†Image†upload.wikimedia.org】
+L140: The Thanjavur Nayak Dynasty, established by 【66†Sevappa Nayaka】 around 1532, was a ruling lineage that governed 【57†Thanjavur】 between 16th and 17th centuries.^{【67†[1]】} Hailing from 【68†Telugu】 【69†Balijas】 ancestry,^{【70†[2]】} the Nayaks were initially appointed as provincial governors by the 【64†Vijayanagara Emperor】 in the early 16th century, alongside governorships based at 【71†Madurai】, and 【72†Gingee】.^{【73†[3]】}^{【74†[4]】} They governed with increasing autonomy following the decline of central Vijayanagara authority after 1565.^{【75†[5]】}^{【76†[6]】} They became known for their extensive architectural and literary patronage in Tamil, Telugu and Sanskrit.^{【77†[7]】}^{【78†[8]】}^{【79†[9]】}
+L141: ## Origins
+L142: 
+L143: [【80†edit】]
+L144: The family traced its lineage to 【69†Balija】 merchant-warrior communities originating in the Telugu country (present-day 【81†Andhra Pradesh】).^{【70†[2]】}^{【82†[10]】} Epigraphical studies by archaeologist 【83†Kudavayil Balasubramanian】 identified the dynasty as members of 【84†Kavarai】 community.
+L145: A 1556 CE inscription at 【85†Arunachalesvara Temple】 in Tiruvannamalai identifies the founder's father, Timmappa Nayaka, as a member of Kavarai community, also noting that his son 【86†Sevappa Nayaka】 governed 【57†Thanjavur】.^{【87†[11]】} Kavarai is the traditional Tamil designation for Telugu-speaking Balijas settled in 【88†Tamil Nadu】.^{【89†[12]】}^{【90†[13]】} The deity Rajagoplaswamy (locally known as Mannaru) at the 【91†Mannargudi temple】 was their kula deivam (tutelary family deity).^{【92†[14]】}
+L146: ## Literature and arts
+L147: 
+L148: [【93†edit】]
+L149: 
+L150: Court patronage under the Thanjavur Nayaks saw a distinct literary tradition known in historiography as the Southern School of Telugu Literature, as well as they became known for their extensive literary patronage in Tamil and Sanskrit.^{【94†[15]】}^{【95†[16]】} The Royal court supported poets, dramatists, musicians, and Sanskrit scholars (pandits), with several rulers composing works themselves.^{【94†[15]】}^{【96†[17]】}
+L151: 【97†Raghunatha Nayaka】 (r. 1600-1634) was an accomplished scholar and a poet both in Telugu and Sanskrit. In Telugu, he composed the kavyas Valimiki Charitramu, Parijatapaharanamu, and Rukmini Parinaya Yakshaganamu.^{【98†[18]】} In Sanskrit, his court produced musical treatises Sangita Sudha (attributed to Raghunatha and his minister Govinda Dikshitar) and Bharata Sudha.
+L152: The court also had notable female literary figures, including Ramabhadramba, who wrote the historical Sanskrit kavya Raghunathabhyudayam, and the poet Madhuravani, who translated Raghunatha's Telugu Andhra Ramayana into Sanskrit.^{【99†[19]】}
+L153: The reign of his successor, 【100†Vijaya Raghava Nayak】 (r. 1634-1673), popularized the Yakshagana theatrical genre that combined verse, song and rhythmic prose. He authored over thirty Yakshagana plays—including Raghunathanayakabhyudayamu and Usha Parinayamu.
+L154: His court poet Chengalva Kalakavi composed the prabandha Rajagopla Vilasamu.^{【101†[20]】} Classical Tamil works and commentaries were also copied and preserved which laid the foundation for the palm-leaf manuscript collections later in the 【102†Saraswathi Mahal Library】.
+L155: ## History
+L156: 
+L157: [【103†edit】]
+L158: 
+L159: Following the collapse of the 【63†Chola Empire】 in 1279, Thanjavur passed to the 【104†Pandyas】 and later to 【64†Vijayanagara Empire】 during the late 14th century. In 1532 CE, 【105†Achyuta Deva Raya】—successor to 【106†Krishnadevaraya】 of the Vijayanagara Empire—granted regional governor 【66†Sevappa Nayaka】 permission to establish a hereditary feudatory kingdom.^{【107†[21]】}
+L160: ### Sevappa Nayaka (1532–1580)
+L161: 
+L162: [【108†edit】]
+L163: 【86†Sevappa Nayaka】 (r. 1532–1580) was the founder of the Thanjavur Nayak kingdom. He was the son of Timmappa Nayaka (also known as Timmabhupati), a Vijayanagara provincial commander in the 【109†Arcot】 region, and his wife Bayyambika.
+L164: Genealogical details recorded in 【110†Raghunathabhyudayam】 and local epigraphs trace the family's ancestral seat to Nedungunram in North Arcot.^{【111†[22]】} The epigraphs of all of the Tanjore Nayaks show that they belonged to Nedungunram.^{【112†[23]】} An inscription of Emperor 【106†Krishnadevaraya】 records that Timmappa served as royal door-keeper (vasal) and as a military commander (dalavay) during the Raichur campaign of 1520.^{【113†[24]】} Historian V.
+L165: Vriddhagirisan identifies Timmappa as the brother of Nagama Nayaka, the father of 【114†Vishwanatha Nayaka】 (founder of the Madurai Nayaks),^{【115†[25]】} establishing Viswanatha and Sevappa as first cousins.
+L166: Sevappa married Murtimamba, the sister of Vijayanagara queen Tirumalamba and sister-in-law of 【105†Achyuta Deva Raya】. Various historians suggest that Thanjavur was bestowed as 【116†Stridhana】 (marital gift) in connection with this union.^{【117†[26]】} Sevappa had also served as the emperor's personal 【118†betel】-bearer (adaiappan or thambul karandivan), which was an intimate position customarily reserved for trusted family members.^{【119†[27]】}
+L167: His civic and architectural works included the construction of prakaras (enclosure walls) at the Vridhachalam and Kanchipuram temples, gilding the Vimanas of temples at Srisailam and Thirumala (Tirupati) with gold, construction of the eastern gopuram of the Annamalaiyar Temple at Tiruvannamalai, and repairing the Sivaganga Fort and the tank at Thanjavur.^{【120†[28]】}^{【121†[29]】}^{【122†[30]】}
+L168: ### Achuthappa Nayaka (1560-1614)
+L169: 
+L170: [【123†edit】]
+L171: 
+L172: Sevappa was succeeded by his son, 【124†Achuthappa Nayaka】 (r. 1560–1614), named after Emperor Achyuta Deva Raya. Achuthappa functioned as a co-regent (yuvaraja) with his father until 1580. After ascending the throne in 1580, he ruled jointly with his son and heir, 【97†Raghunatha Nayaka】. His administration was guided by his prime minister, 【125†Govinda Dikshitar】.
+L173: #### Military campaigns and foreign relations
+L174: 
+L175: [【126†edit】]
+L176: After the defeat of the Vijayanagara army at the 【127†Battle of Talikota】 (1565), the capital was re-established at 【128†Penukonda】 and later at 【129†Chandragiri】 under the 【130†Aravidu dynasty】. Later when the Nayaks of Madurai and Gingee withheld tribute, Achuthappa maintained loyalty to Aravidu emperors Sriranga I and Venkata II.^{【131†[31]】} This loyal alignment led to armed conflict with Madurai.
+L177: At the Battle of Vallamprakara, Thanjavur troops, allied with Aravidu imperial troops, defeated the army of Virappa Nayaka of Madurai. Elsewhere, along the coastline, when Portuguese incursions threatened the Jaffna Kingdom in northern 【132†Ceylon】, the king of Jaffna sought military assistance from Thanjavur.^{【133†[32]】}^{【134†[33]】}
+L178: #### Infrastructure and temple patronage
+L179: 
+L180: [【135†edit】]
+L181: Achuthappa Nayak was deeply religious and he directed significant funds to temple architecture and irrigation infrastructure.
+L182: At the 【136†Ranganathaswamy Temple at Srirangam】, he funded the northern and western 【137†Gopurams】, the eighth prakara wall, several pillared halls, gilded the central sanctum's vimana, and presented the murti of God studded with Crown jewels.^{【67†[1]】}^{【138†[34]】} He constructed riverfront pavilions (pushya-mandapas) along the Kaveri at 【139†Mayiladuthurai】, 【140†Thiruvidaimarudur】, 【141†Thiruvaiyaru】, and 【142†Kumbakonam】.
+L183: He endowed village land revenues to temple trusts in Tiruvidaimarudur and 【143†Chidambaram】.
+L184: In agriculture, he commissioned a masonry barrage across the Kaveri River near Thiruvaiyaru to improve canal water distribution. He also established several 【144†Agraharams】 across the Kaveri delta region.^{【145†[35]】} Towards the end of his reign, dynastic succession disputes broke out in the royal court at 【146†Vellore】, which drew the southern Nayak kingdoms into active war.
+L185: ### Raghunatha Nayaka (1600–1634)
+L186: 
+L187: [【147†edit】]
+L188: 【97†Raghunatha Nayaka】 (r. 1600–1634) expanded the political influence and cultural impact of the kingdom. Early in his reign, he provided military support to Emperor 【148†Venkata II】 to counter incursions by 【149†Sultanate of Golconda】. In 1620, Raghunatha concluded a 【150†treaty】 with the 【151†Danish East India Company】 permitting them to establish a trading post and 【152†Fort Dansborg】 at 【153†Tarangambadi】 (Tranquebar).
+L189: This encouraged the English to seek trade with the Thanjavur Nayaks.^{【154†[36]】} Mettalurgical collaboration with the Danish engineers led to the casting of the massive forged-iron Thanjavur cannon (the Raghunatha cannon), which was mounted on the eastern ramparts of the city fort.^{【155†[37]】}^{【156†[38]】}
+L190: 【157†Thanjavur cannon】 installed during ^{【155†[37]】}Raghunatha's reign
+L191: Raghunatha was an active author and musical theorist in 【158†Sanskrit】, 【159†Kannada】 and 【58†Telugu languages】. His court included female literary figures such as 【160†Ramabhadramba】 and 【161†Madhuravani】, along with 【162†Dvaita】 philosophers 【163†Sudhindra Tirtha】 and 【164†Raghavendra Tirtha】.^{【165†[39]】} The biographical kavya Sahitya Ratnakara, composed by 【166†Govinda Dikshita】's son Yajnanarayana, has detailed accounts of Raghunatha's reign and military expansions.
+L192: In music, Raghunatha authored the Sanskrit treatise Sangita Sudha (in collaboration with Govinda Dikshitar), and introduced new raagas and talas, including Jayantasena and Ramananda, Sargita vidya and Raghunatha (Mela).
+L193: His Telugu literary compositions include Valmiki Charitramu, Parijatapaharanamu, Achyutendrabhyudayam, Gajendramoksham, Nala Caritiam, and dance-drama Rukmini Krishna Vivaha Yakshagana.^{【167†[40]】}^{【168†[41]】}Manuscripts of works authored by his court scholars were catalogued in the royal library (Sarasvati Bhandar). This laid the foundation for the modern 【169†Saraswati Mahal Library】 developed further under 【170†Thanjavur Marathas】 (【171†Serfoji II】).^{【79†[9]】}^{【172†[42]】}
+L194: #### Civil war and the Battle of Toppur
+L195: 
+L196: [【173†edit】]
+L197: Ater the death of Emperor Venkata II in 1614, a succession dispute broke the Vijayanagara Empire. The rebel faction led by Gobburi Jagga Raya executed Emperor 【174†Sriranga II】 and his family in Vellore prison, supporting their putative son as claimant to the throne.
+L198: The loyalist general Yachama Nayaka of 【175†Kalahasti】 smuggled Sriranga's surviving son, Rama Deva Raya, out of captivity and sought assistance from Raghunatha.^{【176†[43]】} Jagga Raya formed an alliance with the 【72†Nayak of Gingee】 and Muttu Virappa Nayaka of 【177†Madurai】.
+L199: Main article: 【178†Battle of Toppur】
+L200: 
+L201: In late 1616, the opposing coalitions met at the Battle of Toppur. They fought on an open plain along the northern banks of the Kaveri River between 【179†Tiruchirappalli】 and 【180†Grand Anicut】. Seventeenth-century Jesuit accounts, like those of Manuel Barradas, described the battle as one of the largest pitched in South Indian history.
+L202: The loyalist forces under Raghunatha and Yachama routed the rebel coalition. Jagga Raya was killed in action, the Gingee forces were driven back and Muttu Virappa was forced to yield and retreat. Following the victory, Raghunatha crowned the then fifteen year old Rama Deva Raya as Emperor at Kumbakonam in early 1617.^{【181†[44]】}
+L203: ### Vijaya Raghava Nayaka (1634–1673) and fall of the dynasty
+L204: 
+L205: [【182†edit】]
+L206: 【100†Vijaya Raghava Nayaka】 (r. 1634–1673) was the final ruler of the Thanjavur Nayak line. He was popularly known by the epithet Mannaru Dasa and had sponsored extensive construction projects at the Rajagopalaswamy Temple in Mannargudi. These included prakaras, gopurams, mandapams and tanks.^{【183†[45]】}^{【184†[46]】} He had authored over thirty Telugu works—primarily Yakshagana plays. His royal court supported with several vernacular and musical compositions.^{【165†[39]】}
+L207: Escalating conflicts with Madurai Nayaks ended up in the siege of Thanjavur by 【185†Chokkanatha Nayaka】 in 1673. When the defence of the fort became untenable, he ordered the royal women's quarters blown up with gunpowder to prevent capture. He died in the battle along with his son Chengamala Dasa. Madurai briefly ruled the city till 1675 when the Maratha general Venkoji (Ekoji I) captured Thanjavur, founding the Thanjavur Maratha Kingdom.^{【186†[47]】}
+L208: ## See also
+L209: 
+L210: [【187†edit】]
+L211: 
+L212:   * 【71†Madurai Nayak dynasty】
+L213:   * 【72†Nayaks of Gingee】
+L214: ## References
+L215: 
+L216: [【188†edit】]
+L217:   1. 【189†1】 【190†2】 Vriddhagirisan, V. (1995). 【191†The Nayaks of Tanjore†books.google.com】.
+L218:   2. 【192†1】 【193†2】
+L219:      * 【194†Sheldon Pollock】, ed. (2003). 【195†Literary Cultures in History: Reconstructions from South Asia†books.google.com】. 【196†University of California Press】. p. 413. 【197†ISBN】 【198†9780520228214】. ".... in the seventeenth century, when warriors/traders from the Balija caste acquired kingship of the southern kingdoms of Madurai and Tanjavur."
+L220:      * 【199†David Dean Shulman】, ed. (2020). 【200†Classical Telugu Poetry†books.google.com】. 【196†University of California Press】. p. 57. 【197†ISBN】 【201†9780520344525】. "..... in the Tamil country, where Telugu Balija families had established local Nāyaka states (in Senji, Tanjavur, Madurai, and elsewhere) in the course of the sixteenth century."
+L221:      * 【202†Eugene F. Irschick】, ed. (1969). 【203†Politics and Social Conflict in South India†books.google.com】. 【196†University of California Press】. p. 8. "The successors of the Vijayanagar empire, the Nayaks of Madura and Tanjore, were Balija Naidus"
+L222:      * Dr. B.Ramachndra Reddy R. Nata Rajan, ed. (2007). 【204†"Identity and Crisis of Telugu Migrants of Tamil Region"†books.google.com】. Itihas. 33. Andhra Pradesh State Archives and Research Institute: 145. "....It is told that the Nayak Kings of Madurai and Tanjore were Balijas , who had marital relations among themselves and with the Vijaya Nagara rulers, and so were appointed as the rulers of these regions."
+L223:      * 【205†G. S. Ghurye】, ed. (1969). 【206†Caste and Race in India†books.google.com】. 【207†Popular Prakashan】. p. 106. 【197†ISBN】 【208†9788171542055】. "The Nayak kings of Madura and Tanjore were Balijas, traders by caste"
+L224:      * A. Satyanarayana, Mukkamala Radhakrishna Sarma, ed. (1996). 【209†Castes, Communities, and Culture in Andhra Desa, 17th & 18th Centuries, A.D†books.google.com】. Osmania University. p. 145. "After the fall of the dynasty several Balija Nayudu chieftains rose into prominence. Tanjore and Madura kingdoms were the most important of such new kingdoms"
+L225:      * 【210†Francine R. Frankel】, 【211†M. S. A. Rao】, ed. (1989). 【212†Dominance and State Power in Modern India: Decline of a Social Order†books.google.com】. 【213†Oxford University Press】. p. 30. 【197†ISBN】 【214†9780195620986】. "The Nayak kings of Madura and Tanjore were balijas ( traders )"
+L226:      * 【215†Muzaffar Alam】, ed. (1998). 【216†The Mughal State, 1526-1750†books.google.com】. Oxford University Press. p. 35. 【197†ISBN】 【217†978-0-19-563905-6】. "As an arrangement, the Golconda practice in the first half of the seventeenth century was quite similar in crucial respects to what obtained further south, in the territories of the Chandragiri ruler, and the Nayaks of Senji, Tanjavur and Madurai.
+L227: Here too revenue-farming was common, and the ruling families were closely allied to an important semi-commercial, semi-warrior caste group, the Balija Naidus."
+L228:      * Velcheru Narayana Rao; David Dean Shulman; Sanjay Subrahmanyam, eds. (1992). 【218†Symbols of Substance Court and State in Nāyaka Period Tamilnadu†books.google.com】. 【213†Oxford University Press】. p. 10. 【197†ISBN】 【219†978-0-19-563021-3】. "Originally part of the great Telugu migrations southward into the Tamil country in the 15th and 16th centuries, the Balija merchant- warriors reveal the rise of hitherto marginal, and only recently politicized..
+L229: These mobile, aggressive, land-hungry, Telugu-speaking warriors...helped to build the Nāyaka state-system and to impregnate it with their particular cultural vision; strong surviving traditions; supported by contemporary evidence, assert Balija origins and / or marital connections for the major Nāyaka dynasties in the Tamil country quite apart from the well-known Balija role in restructuring the revenue systems of Nāyaka Tanjavur and Madurai"
+L230:   3. 【220†↑】
+L231:      * 【221†Mukund, Kanakalatha】 (1999). 【222†The Trading World of the Tamil Merchant: Evolution of Merchant Capitalism in the Coromandel†books.google.com】. Orient Blackswan. p. 43. 【197†ISBN】 【223†978-81-250-1661-8】. "Perhaps in order to extend more centralised control over the major resource regions, between 1500 and 1550, the Tamil country was reorganised into three major principalities, at Tanjavur, Madurai and Gingee (Senji), with Telugu nayakas as viceroys appointed by the emperor."
+L232:      * George Michell, ed. (1995). 【224†Architecture and Art of Southern India: Vijayanagara and the Successor States 1350-1750†books.google.com】. Cambridge University Press. p. 13. 【197†ISBN】 【225†978-0-521-44110-0】. "It was under the Tuluvas in the first half of the sixteenth century that the first of the warrior chiefs from the Telugu region were posted as Nayakas at the strategic centres of Gingee , Thanjavur and Madurai."
+L233:   4. 【226†↑】 Subrahmanyam, Sanjay (1990). The Political Economy of Commerce: Southern India 1500–1650. Cambridge University Press. pp. 182–186. 【197†ISBN】 【227†978-0521371803】.
+L234:   5. 【228†↑】 Harmony of Religions: Vedānta Siddhānta Samarasam of Tāyumānavar, Thomas Manninezhath
+L235:   6. 【229†↑】 Stein, Burton (1989). The New Cambridge History of India: Vijayanagara. Cambridge University Press. pp. 112–116. 【197†ISBN】 【230†978-0521266932】.
+L236:   7. 【231†↑】 【232†Thanjavur Nayak kings†www.sarasvatimahallibrary.tn.nic.in】 【233†Archived†web.archive.org】 18 June 2006 at the 【234†Wayback Machine】
+L237:   8. 【235†↑】 Tanjore History^{[【236†link removed】]}
+L238:   9. 【237†1】 【238†2】 "The colourful world of the Nayaks". The Hindu. 5 August 2005.
+L239:   10. 【239†↑】 Rao, Velcheru Narayana; Shulman, David; Subrahmanyam, Sanjay (1992). Symbols of Substance: Court and State in Nayaka Period Tamilnadu. Oxford University Press. pp. 36–42. 【197†ISBN】 【240†978-0195630213】.
+L240:   11. 【241†↑】
+L241:      * 【83†Kudavayil Balasubramanian】, ed. (1999). 【242†Thanjavur Nayakkar Varalaru ( 1535 - 1675AD )†books.google.com】. 【102†Thanjavur Maharaja Serfoji's Saraswathi Mahal Library】. p. 5.
+L242:      * 【243†P. R. Srinivasan】, ed. (1989). 【244†Tiruvannamalai: A Saiva Sacred Complex of South India†books.google.com】. 【245†French Institute of Pondicherry】. p. 523.
+L243:      * Kalladan, ed. (2003). 【246†Varalatru vayilgal†books.google.com】. Kuzhali publication. p. 37.
+L244:   12. 【247†↑】
+L245:      * 【221†Mukund, Kanakalatha】 (1999). 【222†The Trading World of the Tamil Merchant: Evolution of Merchant Capitalism in the Coromandel†books.google.com】. Orient Blackswan. p. 46. 【197†ISBN】 【223†978-81-250-1661-8】. "Kavarai (the Tamil word for Balija merchants)"
+L246:      * Niels Brimnes, ed. (2019). 【248†Constructing the Colonial Encounter: Right and Left Hand Castes in Early Colonial South India†books.google.com】. Routledge. p. 189. 【197†ISBN】 【249†9781136819209】. "The deserters, who defined themselves as maga nadu tesattar, consisted of right hand castes and were headed by Vellalas and Tamilized Balijas, known as Kavarais."
+L247:      * R. Nagaswamy, ed. (1997). 【250†Studies in South Indian History and Culture†books.google.com】. V.R. Ramachandra Dikshitar Centenary Committee. p. 321. "Turning now to another Telugu group, the Balijas, also called Kavarai, it appears that although this was a trading caste, members could also take to textile manufacture."
+L248:      * Jawaharlal Nehru University. Centre for Historical Studies, ed. (1995). 【251†Studies in History†books.google.com】. Vol. 11, 6. Sage. p. 8. "English trade in Madras, the much sought after, and obviously lucrative, exclusive contracts for trading with the English Company (both for supplying textiles and other goods and buying the European goods) had been cornered by the Right side merchants, especially the Balijas (often referred to as the Kavarai in Tamil)."
+L249:      * 【252†Ananda Ranga Pillai】, 【253†John Frederick Price】, ed. (1984). 【254†The Private Diary of Ananda Ranga Pillai, Dubash to Joseph François Dupleix, Governor of Pondicherry: A Record of Matters, Political, Historical, Social, and Personal, from 1736-1761†books.google.com】. Vol. 2. Asian Educational Services. p. 67. "The Kavarais, known also as Balijas, are the trading caste of the Telugus, and belong to the right hand."
+L250:      * R. Roque, K. Wagner, ed. (2011). 【255†Engaging Colonial Knowledge: Reading European Archives in World History†books.google.com】. Springer. p. 170. 【197†ISBN】 【256†9780230360075】. "Within the right hand division the leading individuals were from the communities of Vellalas and Kavarais. The former constituted, as in other parts of Tamil Nadu, the established agricultural elite, while the latter were Telugu-speaking Balija Chetties, who had settled in Tamil country."
+L251:      * 【257†Christopher John Baker】, 【258†D. A. Washbrook】, ed. (1976). 【259†South India: Political Institutions and Political Change. 1880-1940†books.google.com】. Springer. p. 223. 【197†ISBN】 【260†978-1-349-02746-0】. "Kavarai was merely the Tamil equivalent of the Telugu word Balija"
+L252:   13. 【261†↑】 Balasubramanian, Kudavayil (1999). Thanjavur Nayakkar Varalaru [History of the Thanjavur Nayaks] (in Tamil). Thanjavur: Anjana Pathippagam. pp. 24–28.

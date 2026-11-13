@@ -1,0 +1,329 @@
+Somavamshi dynasty - Wikipedia (https://en.wikipedia.org/wiki/Somavamshi_dynasty)
+citeturn68view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Somavamshi_dynasty","lineno":null}); Total lines: 425
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Origin】
+L50:   * 【19†2 Political history】 Toggle Political history subsection
+L51:     * 【20†2.1 Janmejaya I】
+L52:     * 【21†2.2 Yayati I】
+L53:     * 【22†2.3 Foreign invasions】
+L54:     * 【23†2.4 Revival】
+L55:     * 【24†2.5 Final decline】
+L56:   * 【25†3 List of rulers】
+L57:   * 【26†4 Religion】
+L58:   * 【27†5 Inscriptions】
+L59:   * 【28†6 Gallery】
+L60:   * 【29†7 See also】
+L61:   * 【30†8 References】 Toggle References subsection
+L62:     * 【31†8.1 Bibliography】
+L63:   * 【32†9 External links】
+L64: [Input] Toggle the table of contents
+L65: # Somavamshi dynasty
+L66: 
+L67: [Input] 5 languages
+L68: 
+L69:   * 【33†हिन्दी†hi.wikipedia.org】
+L70:   * 【34†ଓଡ଼ିଆ†or.wikipedia.org】
+L71:   * 【35†தமிழ்†ta.wikipedia.org】
+L72:   * 【36†తెలుగు†te.wikipedia.org】
+L73:   * 【37†اردو†ur.wikipedia.org】
+L74: 
+L75: 【38†Edit links†www.wikidata.org】
+L76: 
+L77:   * 【39†Article】
+L78:   * 【40†Talk】
+L79: 
+L80: [Input] English
+L81: 
+L82:   * 【39†Read】
+L83:   * 【41†Edit】
+L84:   * 【42†View history】
+L85:   * 【17†Save】
+L86: 
+L87: [Input] Tools
+L88: 
+L89: Tools
+L90: 
+L91: [Button: move to sidebar] [Button: hide]
+L92: 
+L93: Actions
+L94: 
+L95:   * 【39†Read】
+L96:   * 【41†Edit】
+L97:   * 【42†View history】
+L98:   * 【17†Save】
+L99: 
+L100: General
+L101:   * 【43†What links here】
+L102:   * 【44†Related changes】
+L103:   * 【45†Upload file】
+L104:   * 【46†Permanent link】
+L105:   * 【47†Page information】
+L106:   * 【48†Cite this page】
+L107:   * 【49†Get shortened URL】
+L108:   * 【50†Switch to legacy parser】
+L109: 
+L110: Print/export
+L111: 
+L112:   * 【51†Download as PDF】
+L113:   * Printable version
+L114: 
+L115: In other projects
+L116: 
+L117:   * 【52†Wikidata item†www.wikidata.org】
+L118: 
+L119: Appearance
+L120: 
+L121: [Button: move to sidebar] [Button: hide]
+L122: 
+L123: For the legendary dynasty mentioned in ancient Indian texts, see 【53†Lunar dynasty】.
+L124: Somavamshi dynasty
+L125: ---
+L126: c. 9th century CE–c. 12th century CE
+L127: 【54†South Asia1000 CE】
+L128: 【55†KARAKHANIDKHANATE】【56†KHOTAN】
+L129: 【57†GHAZNAVIDEMPIRE】
+L130: 【58†MULTANEMIRATE】【59†PALA EMPIRE】【60†KAMARUPA】
+L131: 【61†HINDUSHAHIS】【62†MARYUL】
+L132: 【63†UTPA-LAS】【64†GUHILAS】
+L133: 【65†CHUDA-SAMAS】
+L134: 【66†HABBARIDEMIRATE】【67†CHAHAMANAS】【68†TOMARAS】
+L135: 【69†MAKRANSULTANATE】【70†PARAMARAS】
+L136: 【71†SHILA-HARAS】
+L137: 【72†WESTERNCHALUKYAS】
+L138: 【73†EASTERNCHALUKYAS】【74†CHOLAS】【75†KADAMBAS】【76†CHANDELAS】【77†KALACHURIS】【39†SOMAVAMSHIS】【78†KALINGAS】【79†GUGE】Location of the Somavamshis and neighbouring South Asian polities in 1000, on the eve of the 【80†Ghaznavid】 invasions of the subcontinent.^{【81†[1]】}^{【82†[2]】}
+L139: Capital  | Yayatinagara (modern 【83†Binka】); Abhinava-Yayatinagara (modern 【84†Jajpur】)
+L140: Official languages  | 【85†Sanskrit】
+L141: Religion  | 【86†Hinduism】
+L142: 【87†Jainism】
+L143: Government  | Monarchy
+L144: Historical era  | 【88†Classical India】
+L145: • Established  | c. 9th century CE
+L146: • Disestablished  | c. 12th century CE
+L147: Preceded by Succeeded by
+L148: 【89†Image†upload.wikimedia.org】 【90†Bhauma-Kara dynasty】
+L149: 【89†Image†upload.wikimedia.org】 【91†Panduvamshis of Dakshina Kosala】
+L150: 【78†Eastern Ganga dynasty】 【89†Image†upload.wikimedia.org】
+L151: 【92†Chakrakota kingdom】 【89†Image†upload.wikimedia.org】
+L152: 【93†Kalachuris of Ratnapura】 【89†Image†upload.wikimedia.org】
+L153: The Somavamshi (【94†IAST】: Somavaṃśī, "Lunar dynasty") or Keshari (IAST: Keśarī) dynasty ruled parts of present-day 【95†Odisha】 in eastern India between the 9th and the 12th centuries. Their capitals included Yayatinagara (modern 【83†Binka】) and Abhinava-Yayatinagara (modern 【84†Jajpur】).
+L154: The 【96†Somavamshis】 may have been related to the 【91†Panduvamshis】, who ruled the 【97†Dakshina Kosala】 region in central India. They were probably driven out from this region by the 【77†Kalachuris】, following which they conquered the 【98†Kalinga】 and the 【99†Utkala】 regions in present-day 【95†Odisha】, supplanting the 【90†Bhauma-Karas】.
+L155: The Somavamshis introduced a new style of art and architecture in 【95†Odisha】, and their rule saw a remarkable shift from 【100†Buddhism】 to 【101†Brahmanism】 in the region. The Somavamshi rule ended in the early 12th century, when the 【78†Eastern Ganga】 ruler 【102†Anantavarman Chodaganga】 captured their territories.
+L156: ## Origin
+L157: 
+L158: [【103†edit】]
+L159: The Somavamshis may have been related to the 【91†Panduvamshis of Dakshina Kosala】, whose rule in the 【97†Dakshina Kosala】 region seems to have declined in the 8th century. Both dynasties claimed 【53†lunar lineage】; the early Panduvamshi kings also claimed descent from the legendary Pandavas, unlike the Somavamshi, but this was not the case with the later Panduvamshi kings.
+L160: The later Panduvamshis, like the Somavamshis, adopted names ending in -gupta.^{【104†[3]】} The Panduvamshi kings Tivaradeva and Balarjuna bore the regnal titles "Maha-shiva" and "Maha-shiva-gupta" respectively; multiple Somavamshi rulers bore the regnal name "Maha-shiva-gupta".^{【105†[4]】} While the Panduvamshi copper-plate inscriptions are inscribed using "box-headed" characters, all the stone inscriptions starting from the reign of Balarjuna are inscribed in the 【106†Nagari script】, which is also the script of the Somavamshi inscriptions.^{【107†[5]】} The early Somavamshi kings ruled in western Odisha, which once formed the eastern part of Dakshina Kosala,^{【104†[3]】} and the Chaudwar inscription of the earliest known Somavamshi king Mahashivagupta I (alias Janamejaya) describes him as Kosalendra ("lord of Kosala").^{【108†[6]】} Several Somavamshi inscriptions record grants to people from Kosala, grants of villages located in Kosala, and appointment of Kosala-specific officers.^{【109†[7]】}
+L161: All these similarities indicate that the Somavamshis were related to the Panduvamshis, but this cannot be said with certainty.^{【110†[8]】} According to one theory, the Panduvamshis were driven out of Kosala by the 【77†Kalachuris】, and migrated eastward. There, they established their capital at Vinitapura (modern 【83†Binka】) on the banks of the 【111†Mahanadi River】.
+L162: The rulers whose territory was limited to the area around Vinitapura are termed as "early" Somavamshis, as opposed to the "later" Somavamshis who ruled a bigger part of Odisha.^{【112†[9]】}
+L163: ## Political history
+L164: 
+L165: [【113†edit】]
+L166: 
+L167: Lingaraj Temple
+L168: ### Janmejaya I
+L169: 
+L170: [【114†edit】]
+L171: 
+L172: Janmejaya I (c. 882–922) probably controlled a part of coastal Odisha, & appears to have made inroads into the neighboring 【90†Bhauma-Kara】 kingdom, through his daughter, who married the Bhauma-Kara king Shubhakara IV. After Shubhakara IV, the kingdom was ruled by his brother Shivakara III. Subsequently, Janmejaya's daughter ascended the Bhauma-Kara throne as Tribhuvana-Devi II around 894 (with her father's support, according to most historians).^{【112†[9]】}
+L173: A 【115†Brahmeswara Temple】 inscription states that the king of the 【116†Odra】 country was killed by Janmejaya's kunta (spear) in a battle. Historian 【117†Krishna Chandra Panigrahi】 identified this king of Odra as Shivakara III, and theorized that Janmejaya placed his daughter on the Bhauma-Kara throne after killing him.
+L174: However, other historians disagree with this theory, stating that Odra in this context refers not to the whole of present-day Odisha, but only a small 【118†vishaya】 (district) centered around the present-day 【119†Dhenkanal district】. According to this theory, the king of Odra referred to in the inscription was probably a rebel Bhanja vassal.^{【120†[10]】}
+L175: During his long reign of 34 years, Janmejaya issued a number of grants (recorded in form of copper-plate inscriptions) at various "victorious camps". This suggests that Janmejaya consolidated the Somavamshi rule in western Odisha moving from place to place. During his 31st regnal year, he issued three grants from Kataka, which has been identified as Chaudwar near modern Cuttack. This suggests that his influence extended to eastern Odisha by the end of his reign.^{【120†[10]】}
+L176: ### Yayati I
+L177: 
+L178: [【121†edit】]
+L179: 
+L180: 【122†Find spots】 of the inscriptions issued during the Somavamshi reign (Map of India)
+L181: Yayati I (c. 922–955), the son of Janmejaya I, made a large number of village grants in the Dakshina Kosala region, which was the traditional stronghold of his family.
+L182: These grants are recorded on the inscriptions issued at Yayatinagara, which was probably same as the former Somavamshi capital Vinitapura, and which Yayati may have renamed after himself.^{【120†[10]】} The capital was later moved to the Bhauma-Kara capital Guheshvarapataka (modern 【84†Jajpur】), which was renamed to Abhinava-Yayatinagara ("the new city of Yayati").^{【123†[11]】}
+L183: It is not clear when the Somavamshis gained control over most of Odisha, but this may have happened by the time of Yayati I. Yayati I seems to have continued the expansionist policies of his father, further consolidating the kingdom. This is apparent from his inscriptions, which record grants of villages that were formerly not part of the Somavamshi territory.
+L184: For example, Chandagrama (modern Changan south-east of Cuttack) used to be a part of the Bhauma-Kara territory, while Gandatapati (modern 【124†Gandharadi】) used to be located in the Bhanja territory.^{【120†[10]】}
+L185: Before the Somavamshi conquest of Odisha, an image of 【125†Jagannatha】 had been removed from 【126†Puri】, during the 【127†Rashtrakuta】 invasion of c. 800. Yayati I is credited with building a new temple at Puri, and re-installing the image of Purushottama (Jagannatha) there. His reign marks the beginning of the Somavamshi style of temple architecture, which features form, ornamentation and iconography not previously seen in Odisha.
+L186: This new style can probably be attributed to the dynasty's central Indian origins.^{【128†[12]】}
+L187: ### Foreign invasions
+L188: 
+L189: [【129†edit】]
+L190: 
+L191: Little is known about Yayati I's successors Bhimaratha, Dharmaratha, and Nahusha. Dharmaratha seems to have died without an heir, and Nahusha was probably his brother. By the time of Dharmaratha, the Somavamshis had taken control of the former Bhauma-Kara territories, although it is not known how exactly this happened. The Somavamshi lost these territories soon after his death.^{【128†[12]】}
+L192: During this period, the Somavamshi kingdom suffered several foreign invasions, the most notable of which was the 1021 【130†Chola】 invasion of their capital Yayatinagara. There is some evidence that the 【131†Paramaras】 of 【132†Malwa】 and the 【77†Kalachuris of Tripuri】 also invaded the Somavamshi kingdom.^{【128†[12]】}
+L193: ### Revival
+L194: 
+L195: [【133†edit】]
+L196: Nahusha was succeeded by his younger cousin Yayati II a.k.a. (also known as) Chandihara, who was a descendant of Janmejaya I through Vichitravirya (grandfather) and Abhimanyu (father). The 【115†Brahmeswara Temple】 inscription suggests that Yayati II restored order to the kingdom after being appointed as the king by the ministers. He re-established the Somavamshi control over 【97†Kosala】 and Utkala, which had been lost to rival chiefs.
+L197: One of his inscriptions describes him as the lord of Kalinga, Kosala, and Utkala. The Somavamshi records also credit him with conquering distant regions like 【134†Gurjara】 and 【135†Lata】, but these claims appear to be poetic hyperbole, and are not supported by historical evidence.^{【128†[12]】}
+L198: Yayati II was succeeded by his son Uddyotakeshari, whose reign was relatively peaceful. Uddyotakeshari championed the cause of 【101†Brahmanism】, and restored a number of temples and ponds.
+L199: During the 18th year of his reign, his mother Kolavati Devi dedicated the Brahmeshvara (Brahmeswara) Temple at modern 【136†Bhubaneswar】.^{【128†[12]】} The construction of the 【137†Lingaraja Temple】 probably began during the later part of his reign, and completed during the reign of his successor Janmejaya II.^{【138†[13]】} Uddyotakeshari also patronized the 【139†Jains】 of 【140†Udayagiri】.^{【128†[12]】}
+L200: ### Final decline
+L201: 
+L202: [【141†edit】]
+L203: After Uddyotakeshari, the Somavamshi kingdom declined gradually. The 【93†Kalachuris of Ratnapura】 conquered some western parts of the Somavamshis and reached their height around that period. The dynasty lost its territories to the Nagas in the north-west, and the 【78†Gangas】 in the south. The kingdom of the last Somavamshi ruler Karnadeva was confined to the coastal tract between the present-day 【142†Balasore】 and 【143†Puri】 districts.
+L204: By 1114, the Somavamshi king had fallen to the Ganga king 【102†Anantavarman Chodaganga】.^{【138†[13]】}
+L205: ## List of rulers
+L206: 
+L207: [【144†edit】]
+L208: 
+L209: Historian 【117†Krishna Chandra Panigrahi】 provides the following chronology of the later Somavamshis:^{【145†[14]】}
+L210: Sr.nu.  | Titular name (【94†IAST】)  | Regnal name (IAST)  | Reign (in CE)
+L211: --- | --- | --- | ---
+L212: 1.  | Janmejaya I  | Mahābhavagupta I  | c. 882–922
+L213: 2.  | Yayāti I  | Mahāśivagupta I (Mahashivagupta)  | c. 922–955
+L214: 3.  | Bhīmaratha  | Mahābhavagupta II  | c. 955–980
+L215: 4.  | Dharmaratha  | Mahāśivagupta II  | c. 980–1005
+L216: 5.  | Nahuṣa (Nahusha)  | Mahābhavagupta III  | c. 1005–1021
+L217: 6.  | Yayāti II  | Candihara (Chandihara) Mahāśivagupta III  | c. 1021–1040
+L218: 7.  | Uddyotakeśarī (Uddyotakeshari)  | Mahābhavagupta IV  | c. 1040–1065
+L219: 8.  | Janmejaya II  | Mahāśivagupta IV  | c. 1065–1085
+L220: 9.  | Purañjaya  | Mahābhavagupta V  | c. 1085–1110
+L221: 10.  | Karṇadeva  | Mahāśivagupta V  | c. 1100–1110
+L222: ## Religion
+L223: 
+L224: [【146†edit】]
+L225: 
+L226: 【115†Brahmeswara Temple】 Mukteshwar Temple Side View
+L227: 
+L228: The Somavamshi kings were 【147†Shaivite】 【148†Hindus】, as evident from their inscriptions.^{【138†[13]】} The 【149†Pashupata】 and the Mattamayura schools of Shaivism appear to have been popular during their time.^{【150†[15]】}
+L229: A gradual move from Buddhism to 【101†Brahmanism】 (the precursor of modern Hinduism) had started during the preceding 【90†Bhauma-Kara】 period, and this development accelerated during the Somavamshi reign.^{【151†[16]】} The traditional accounts of Odisha credit the Somavamshis with making great contributions towards the propagation of 【86†Hinduism】.^{【138†[13]】}
+L230: The Somavamshi kings were great temple builders according to the traditional accounts, but there is little inscriptional evidence to confirm this belief.
+L231: The legendary chronicle 【152†Madala Panji】 credits Yayati Keshari with building most of the temples in 【136†Bhubaneswar】.^{【138†[13]】} The text seems to have combined the Somavanshi rulers Yayati I and Yayati II into "Yayati Keshari".^{【153†[17]】} Multiple temples, including the 【154†Mukteshvara Temple】, 【155†Lingaraj Temple】, and the 【156†Rajarani Temple】, are dated to the Somavamshi period.^{【157†[18]】} However, 【115†Brahmeswara Temple】 is the only shrine that bears an inscription explicitly attributing its construction to the Somavamshis.^{【138†[13]】}
+L232: According to one legend, Yayati Keshari brought 10,000 Brahmins from 【158†Kanyakubja】 to his kingdom for an 【159†ashvamedha】 (horse sacrifice) ceremony.^{【150†[15]】}
+L233: ## Inscriptions
+L234: 
+L235: [【160†edit】]
+L236: 
+L237: A number of copper-plate inscriptions, and a smaller number of stone inscriptions, issued during the Somavamshi reign have been discovered, all of them in present-day Odisha.^{【161†[19]】} The copper-plate inscriptions are similar to those of the 【162†Śarabhapuriyas】 and the Panduvaṃśīs: each inscription is a set of three copper-plates.^{【163†[20]】}
+L238: 
+L239: The following inscriptions of the Somavamshis, all in 【85†Sanskrit】 language have been discovered:^{【164†[21]】}
+L240: Find spot  | Issuer  | Issued at  | Regnal Year  | Source
+L241: --- | --- | --- | --- | ---
+L242: Gopalpur (near Loisingha)  | Janmejaya I  | Suvarnapura  | 1  | ^{【165†[22]】}
+L243: 【166†Sonepur State】 (grant of village Vakratentali)  | Janmejaya I  | Suvarnapura  | 3  | ^{【167†[23]】}
+L244: Patna (【168†Patnagarh】)  | Janmejaya I  | Murasima  | 6  | ^{【169†[24]】}
+L245: Patna (【168†Patnagarh】)  | Janmejaya I  |  | 6  | ^{【170†[25]】}
+L246: Kalibhana  | Janmejaya I  | Murasima  | 6  | ^{【171†[26]】}
+L247: Satalma  | Janmejaya I  | Murasima  | 8  | ^{【172†[27]】}
+L248: Gopalpur (near Loisingha)  | Janmejaya I  | Suvarnapura  | 10  | ^{【165†[22]】}
+L249: Gopalpur (near Loisingha)  | Janmejaya I  | Murasima-kataka  | 12  | ^{【165†[22]】}
+L250: 【173†Sonepur】  | Janmejaya I  | Arama  | 17  | ^{【174†[28]】}
+L251: Gaintala  | Janmejaya I  | Arama  | 17  | ^{【175†[29]】}
+L252: Unknown (now at Sambalpur University Museum)  | Janmejaya I's feudatory  |  | 24  | ^{【176†[30]】}
+L253: Chaudwar  | Janmejaya I  | Arama  | 31  | ^{【177†[31]】}
+L254: Kalibhana  | Janmejaya I  | Suvarnapura  | 34  | ^{【178†[32]】}
+L255: Deogaon  | Janmejaya I's feudatory Mugdhagondaladeva  |  |  | ^{【179†[33]】}
+L256: Unknown (now at Orissa Museum)  | Yayati I  | Vinitapura  | 4  | ^{【180†[34]】}
+L257: Patna (【168†Patnagarh】)  | Yayati I  | Vinitapura  | 8  | ^{【181†[35]】}
+L258: Cuttack  | Yayati I  | Vinitapura  | 9  | ^{【182†[36]】}
+L259: Nibinna  | Yayati I  | Vinitapura  | 15  | ^{【183†[37]】}
+L260: Patna (【168†Patnagarh】)  | Yayati I  | Yayatinagara  | 24  | ^{【184†[38]】}
+L261: Patna (【168†Patnagarh】)  | Yayati I  | Yayatinagara  | 28  | ^{【185†[39]】}
+L262: Cuttack  | Bhimaratha  | Yayatinagara  | 3  | ^{【186†[40]】}
+L263: Kudopali  | Bhimaratha's feudatory  | Yayatinagara  | 13  | ^{【187†[41]】}
+L264: Mahulapada or Mahulpara (near Khandapada)  | Dharmaratha  | Yayatinagara  | 11  | ^{【188†[42]】}
+L265: 【189†Banapur】 (Banpur)  | Indraratha (usurper)  | Yayatinagara  | 6  | ^{【190†[43]】}
+L266: Jetsinga-Dungri village boundary in former Bolangir district.  | Yayati II  | Suvarnapura  | 3  | ^{【191†[44]】}
+L267: Balijhari (near Narasinghpur)  | Uddyotakeshari  | Yayatinagara  | 4  | ^{【192†[45]】}
+L268: Lalatendu-Keshari cave, 【193†Khandagiri】  | Uddyotakeshari  |  | 5  | ^{【194†[46]】}
+L269: Unknown (later at Mahakosala Historical Society)  | Uddyotakeshari  | Kisarakella  | 11  | ^{【195†[47]】}
+L270: Navamuni cave, 【193†Khandagiri】  | Uddyotakeshari  |  | 18  | ^{【196†[48]】}
+L271: 【115†Brahmeshvara Temple】  | Uddyotakeshari  |  | 18  | ^{【197†[49]】}
+L272: Sankhameri  | Uddyotakeshari  |  | 4  | ^{【198†[50]】}
+L273: Mahada  | Uddyotakeshari  |  |  | ^{【199†[51]】}
+L274: 【200†Nuapatna】  | Janmejaya II  |  | 5  | ^{【201†[52]】}
+L275: 【200†Nuapatna】  | Yuvaraja Dharmaratha (prince)  |  | 5 (of Janamejaya II)  | ^{【202†[53]】}
+L276: 【203†Ratnagiri】  | Karnadeva  | Yayatinagara  | 6  | ^{【204†[54]】}
+L277: Gandibeda or Gandhibedha (Surya image, now at Orissa Museum)  | Karnadeva  |  |  | ^{【205†[55]】}
+L278: Kamalpur  | Karnadeva  |  | 4  | ^{【206†[56]】}
+L279: Kelga  | Kumara Somesvaradeva (Somavamshi or 【207†Telugu Choda】 prince)  | Suvarnapura  | 1  | ^{【208†[57]】}
+L280: Ranakesarin, who issued the Govindapur inscription, may have belonged to the Kesari (Somavamshi), but this cannot be confirmed in absence of any corroborating evidence.^{【209†[58]】}
+L281: 
+L282: The Lingaraja temple inscription of Viranarakesari has been wrongly ascribed to the Somavamshi reign. The name of the issuer was misread as "Viravarakesari", and it was suggested that he belonged to Kesari (Somavamshi) dynasty. However, Viranarakesari is actually the Ganga king 【210†Narasimha】.^{【209†[58]】}
+L283: ## Gallery
+L284: 
+L285: [【211†edit】]
+L286: 
+L287:   * Mukteswar Temple
+L288: 
+L289:   * Mukteshwar temple arched gateway view
+L290: 
+L291:   * The Arched Gateway to the Mukteswara Temple
+L292: 
+L293:   * Mukteswar temple Sikhara
+L294: 
+L295:   * Rajarani Temple
+L296: 
+L297:   * Lingaraj Temple Complex
+L298: 
+L299: ## See also
+L300: 
+L301: [【212†edit】]
+L302: 
+L303:   * 【213†List of rulers of Odisha】
+L304: ## References
+L305: 
+L306: [【214†edit】]
+L307:   1. 【215†↑】 【216†Chandra, Satish】 (2004). 【217†Medieval India: From Sultanat to the Mughals-Delhi Sultanat (1206-1526) - Part One†books.google.com】. Har-Anand Publications. pp. 19–20. 【218†ISBN】 【219†978-81-241-1064-5】.
+L308:   2. 【220†↑】 Schwartzberg, Joseph E. (1978). 【221†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. pp. 32, 146. 【218†ISBN】 【222†0226742210】.
+L309:   3. 【223†1】 【224†2】 【225†A. M. Shastri I 1995】, p. 172.
+L310:   4. 【226†↑】 【225†A. M. Shastri I 1995】, p. 173.
+L311:   5. 【227†↑】 【225†A. M. Shastri I 1995】, p. 175.
+L312:   6. 【228†↑】 【225†A. M. Shastri I 1995】, p. 174.
+L313:   7. 【229†↑】 【225†A. M. Shastri I 1995】, pp. 174–175.
+L314:   8. 【230†↑】 【225†A. M. Shastri I 1995】, pp. 172–175.
+L315:   9. 【231†1】 【232†2】 【233†Walter Smith 1994】, p. 23.
+L316:   10. 【234†1】 【235†2】 【236†3】 【237†4】 【233†Walter Smith 1994】, p. 24.
+L317:   11. 【238†↑】 【239†Thomas E. Donaldson 2001】, p. 51.
+L318:   12. 【240†1】 【241†2】 【242†3】 【243†4】 【244†5】 【245†6】 【233†Walter Smith 1994】, p. 25.
+L319:   13. 【246†1】 【247†2】 【248†3】 【249†4】 【250†5】 【251†6】 【233†Walter Smith 1994】, p. 26.
+L320:   14. 【252†↑】 【233†Walter Smith 1994】, pp. 23–24.
+L321:   15. 【253†1】 【254†2】 【233†Walter Smith 1994】, p. 27.
+L322:   16. 【255†↑】 【256†Kailash Chandra Dash 2010】, p. 168.
+L323:   17. 【257†↑】 【256†Kailash Chandra Dash 2010】, p. 165.
+L324:   18. 【258†↑】 【233†Walter Smith 1994】, p. 28.
+L325:   19. 【259†↑】 【225†A. M. Shastri I 1995】, pp. 47–48.
+L326:   20. 【260†↑】 【225†A. M. Shastri I 1995】, p. 49.

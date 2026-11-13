@@ -1,0 +1,273 @@
+Hindu Shahis - Wikipedia (https://en.wikipedia.org/wiki/Hindu_Shahis)
+citeturn63view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Hindu_Shahis","lineno":null}); Total lines: 703
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Name】
+L49:   * 【19†2 Sources】 Toggle Sources subsection
+L50:     * 【20†2.1 Literature】
+L51:     * 【21†2.2 Coins】
+L52:     * 【22†2.3 Inscriptions】
+L53:     * 【23†2.4 Archaeology】
+L54:   * 【24†3 Origins】
+L55:   * 【25†4 History】 Toggle History subsection
+L56:     * 【26†4.1 Kallar or Kalarapāla】
+L57:     * 【27†4.2 Samantadeva】
+L58:       * 【28†4.2.1 Loss of Kabul】
+L59:       * 【29†4.2.2 Khudarayaka: Governor of the Kabul Valley】
+L60:     * 【30†4.3 Lalliya】
+L61:       * 【31†4.3.1 Re-conquest of Kabul and invasion of Ghazna】
+L62:       * 【32†4.3.2 Conflict with the Utpala dynasty】
+L63:     * 【33†4.4 Kamaluka or Kamalavarman】
+L64:     * 【34†4.5 Bhimadeva】
+L65:       * 【35†4.5.1 Victory over the Samanid Empire】
+L66:     * 【36†4.6 Jayapaladeva】
+L67:       * 【37†4.6.1 Resisting the Ghaznavids】
+L68:       * 【38†4.6.2 Annexation of Lahore】
+L69:       * 【39†4.6.3 Death】
+L70:     * 【40†4.7 Anandapala】
+L71:     * 【41†4.8 Trilochanapala and Bhimapala】
+L72:     * 【42†4.9 Unsuccessful renaissance】
+L73:   * 【43†5 Culture and architecture】 Toggle Culture and architecture subsection
+L74:     * 【44†5.1 Culture】
+L75:     * 【45†5.2 Architecture】
+L76:   * 【46†6 Scholarship】
+L77:   * 【47†7 See also】
+L78:   * 【48†8 Notes】
+L79:   * 【49†9 References】
+L80:   * 【50†10 Sources】
+L81: [Input] Toggle the table of contents
+L82: # Hindu Shahis
+L83: 
+L84: [Input] 18 languages
+L85:   * 【51†العربية†ar.wikipedia.org】
+L86:   * 【52†বাংলা†bn.wikipedia.org】
+L87:   * 【53†Català†ca.wikipedia.org】
+L88:   * 【54†Deutsch†de.wikipedia.org】
+L89:   * 【55†فارسی†fa.wikipedia.org】
+L90:   * 【56†हिन्दी†hi.wikipedia.org】
+L91:   * 【57†Italiano†it.wikipedia.org】
+L92:   * 【58†한국어†ko.wikipedia.org】
+L93:   * 【59†नेपाली†ne.wikipedia.org】
+L94:   * 【60†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L95:   * 【61†پنجابی†pnb.wikipedia.org】
+L96:   * 【62†پښتو†ps.wikipedia.org】
+L97:   * 【63†سنڌي†sd.wikipedia.org】
+L98:   * 【64†Slovenščina†sl.wikipedia.org】
+L99:   * 【65†தமிழ்†ta.wikipedia.org】
+L100:   * 【66†Türkçe†tr.wikipedia.org】
+L101:   * 【67†اردو†ur.wikipedia.org】
+L102:   * 【68†中文†zh.wikipedia.org】
+L103: 【69†Edit links†www.wikidata.org】
+L104: 
+L105:   * 【70†Article】
+L106:   * 【71†Talk】
+L107: 
+L108: [Input] English
+L109: 
+L110:   * 【70†Read】
+L111:   * 【72†View source】
+L112:   * 【73†View history】
+L113: 
+L114: [Input] Tools
+L115: 
+L116: Tools
+L117: 
+L118: [Button: move to sidebar] [Button: hide]
+L119: 
+L120: Actions
+L121: 
+L122:   * 【70†Read】
+L123:   * 【72†View source】
+L124:   * 【73†View history】
+L125: 
+L126: General
+L127: 
+L128:   * 【74†What links here】
+L129:   * 【75†Related changes】
+L130:   * 【76†Upload file】
+L131:   * 【77†Permanent link】
+L132:   * 【78†Page information】
+L133:   * 【79†Cite this page】
+L134:   * 【80†Get shortened URL】
+L135:   * 【81†Switch to legacy parser】
+L136: 
+L137: Print/export
+L138:   * 【82†Download as PDF】
+L139:   * Printable version
+L140: 
+L141: In other projects
+L142: 
+L143:   * 【83†Wikimedia Commons†commons.wikimedia.org】
+L144:   * 【84†Wikiquote†en.wikiquote.org】
+L145:   * 【85†Wikidata item†www.wikidata.org】
+L146: 
+L147: Appearance
+L148: 
+L149: [Button: move to sidebar] [Button: hide]
+L150: Hindu Shahis
+L151: ---
+L152: c. (circa) 822–1026
+L153: 【86†[】【87†1000】【88†]】
+L154: 【89†KARAKHANIDKHANATE】【90†Cumans】
+L155: 【91†KIEVANRUS'】【92†Pechenegs】【93†Kimeks】【94†KHITAN EMPIRE】【95†Kyrgyzs】【96†SRIVIJAYA】【97†QOCHO】【98†KHOTAN】
+L156: 【99†GHAZNAVIDEMPIRE】
+L157: 【70†HINDUSHAHIS】【100†BUYIDS】
+L158: 【101†WESTERNCHALUKYAS】
+L159: 【102†PALAEMPIRE】
+L160: 【103†OGHUZYABGUS】
+L161: 【104†SONGDYNASTY】【105†PAGAN】【106†DALI】【107†KHMER】
+L162: 【108†FATIMIDCALIPHATE】
+L163: 【109†BYZANTINEEMPIRE】
+L164: 【110†GO-RYEO】Location of the Hindu Shahis, and contemporary polities, c. (circa) 1000
+L165: 【111†Image: Samarkand†thumb.wikimedia.org】【112†Samarkand】【111†Image: Herat†thumb.wikimedia.org】【113†Herat】【99†GHAZNAVIDS】【111†Image: Balkh†thumb.wikimedia.org】【114†Balkh】【111†Image: Kandahar†thumb.wikimedia.org】【115†Kandahar】【111†Image: Ghazni†thumb.wikimedia.org】【116†Ghazni】【117†Image: Kabul†thumb.wikimedia.org】【118†Kabul】【111†Image: Multan†thumb.wikimedia.org】【119†Multan】【120†MULTAN EMIRATE】【121†UTPALAS】【98†KHOTAN】【122†TOMARAS】【111†Image: Bost†thumb.wikimedia.org】【123†Bost】【111†Image: Merv†thumb.wikimedia.org】【124†Merv】【111†Image: Bukhara†thumb.wikimedia.org】【125†Bukhara】Territory of the Hindu Shahis with neighbouring polities circa 1000.
+L166: 【118†Kabul】, first capital, with 【126†Udabhanda】 and 【127†Lahore】, their next capitals.^{【128†[1]】}
+L167: Capital  |
+L168:   * 【118†Kabul】 (822–870)
+L169:   * 【129†Udabhandapura】 (870–1001)^{【130†[2]】}
+L170:   * 【131†Nandana】 (1002–1014)^{【132†[3]】}
+L171:   * 【127†Lahore】 (1015–1021)
+L172:   * 【133†Nagarkot】 (1021–1026)
+L173: Religion  | 【134†Shaiva】 【135†Hinduism】
+L174: Government  | 【136†Monarchy】
+L175: 【137†Maharajadhiraja†en.wiktionary.org】  |
+L176: • c. (circa) 822  | Kalarapala
+L177: • c. (circa) 850  | Samantadeva
+L178: • c. (circa) 870  | Lalliya
+L179: • c. (circa) 902  | Kamalavarman
+L180: • c. (circa) 921  | 【138†Bhimadeva】
+L181: • c. (circa) 964  | 【139†Jayapala】
+L182: • 1001  | Anandapala
+L183: • 1010  | Trilochanapala
+L184: • 1021  | Bhimapala
+L185: Historical era  | 【140†Early Middle Ages】
+L186: • Established  | c. (circa) 822
+L187: • 【141†Battle of Peshawar】  | 27 November 1001
+L188: • 【142†Battle of Chach】  | 31 December 1008
+L189: • 【143†Battle of Nandana】  | March 1014
+L190: • 【144†Battle of River Tausi】  | March 1014
+L191: • Annexed by the 【99†Ghaznavids】  | 1026
+L192: • Disestablished  | 1026
+L193: Preceded by Succeeded by
+L194: 【145†Image†upload.wikimedia.org】 【146†Turk Shahi】
+L195: 【99†Ghaznavids】 【145†Image†upload.wikimedia.org】
+L196: Today part of  | 【147†Pakistan】
+L197: 【148†India】
+L198: 【149†Afghanistan】
+L199: The Hindu Shahis, also referred to as the Kabul Shahis and Odi Shahis, were a dynasty that ruled 【150†Kabulistan】, 【151†Gandhara】 and 【152†Punjab】 between 822 CE and 1026 CE, succeeding the 【153†Turk Shahis】.
+L200: The dynasty was founded by Kalarapāla in c. (circa) 822 CE after overthrowing Lagaturman, the last Turk Shahi king.
+L201: His successor Samantadeva lost the region of 【118†Kabul】 to the 【154†Saffarid dynasty】,^{【155†[4]】} but Lalliya soon re-conquered Kabul and subdued the region of 【156†Zabulistan】 as well.^{【157†[5]】} He also fought against the 【121†Utpala dynasty】.^{【158†[6]】} The reign of 【138†Bhimadeva】 saw conflict with the 【159†Samanid dynasty】,^{【160†[7]】} while his successor 【139†Jayapala】 struggled against the newly formed 【161†Ghaznavid dynasty】. He was defeated and lost territories west of 【162†Indus】 in 1001 CE.
+L202: The Shahis continue to resist the Ghaznavids for over two decades but were unsuccessful, resulting in the fall of the dynasty in 1026 CE.
+L203: ## Name
+L204: The name of the dynasty, Hindu Shahis, in English comes from the epithet ascribed to them by 【163†al-Biruni】, who mentioned in his 【164†Taḥqīq mā li-l-Hind】 that Shahi of Kabul (bi-šāhiyya kābul) i.e 【153†Turk Shahis】 were succeeded by the Shahi of al-Hind (al-šāhiyya al-hindiyya), an expression which was retained by 【165†Eduard Sachau】 in his 1910 translation of Taḥqīq mā li-l-Hind as Hindu Shâhiya dynasty, and by 【166†Aurel Stein】 in his 1900 translation of 【167†Rajatarangini】 as Hindu Shâhiya dynasty or Hindu Shâhiyas, which was adopted by the later scholarship for the dynasty in general.
+L205: The Arabic adjective al-hindiyya is a geographic term and refers to something related to 【168†al-Hind】, and ultimately comes from the root sindhu,^{【169†[8]】} in reference to 【170†Indus River】.
+L206: Other names in the scholarship for the dynasty, both during medieval and modern periods, include Kabul Shāhī/Shāh, Oḍi/Uḍi Śāhi, Brāhman Śāhi, or simply as the Late Shahis and the Shahis of Gandhara.^{【169†[8]】}^{【171†[9]】}
+L207: ## Sources
+L208: ### Literature
+L209: No literature has survived from Hindu Shahi courts, unlike the case of Turk Shahis. Only fragmented information can be obtained from chronicles of neighboring powers — Kashmir and 【172†Ghaznavi】.^{【173†[10]】}^{【174†[a]】} Of the former, 【175†Kalhana】's 【167†Rajatarangini】 (1148–1149) is the only extant source.^{【173†[10]】} Of the latter, there are 【176†Tārīkh al-Hind】 by 【163†al-Biruni】 (c. 1030), 【177†Tārīkh-i Bayhaqī】 by 【178†Abu'l-Fadl Bayhaqi】 (c.
+L210: late 11th century),^{【179†[b]】} Zayn al-Akhbar by 【180†Abu Sa'id Gardezi】, and 【181†Kitab-i Yamini】 by 【182†al-Utbi】 (c. 1020).^{【173†[10]】}^{【183†[12]】}^{【184†[11]】}
+L211: ### Coins
+L212: 
+L213: Some of the earliest coinage of the Hindu Shahis. Obverse: Recumbent bull, with 【185†Nagari】 legend:
+L214: _{} Sri Spalapati
+L215: Reverse: horserider with corrupted 【186†Bactrian script】:
+L216: ςρι ςπaλaπaτι Sri Spalapati
+L217: i.e. "Lord Commander-in-chief".^{【187†[13]】}
+L218: The Hindu Shahis issued silver 【188†jital coinage】 which underwent wide circulation from nearby 【189†Sindh】^{【190†[14]】} to northeastern Europe.^{【191†[15]】} They were first "discovered" by 【192†James Tod】, a British orientalist in 1822.^{【193†[16]】} These coins exhibit progressive debasement with time, with a regular decrease of silver content, allowing for the sequencing of the coinage.^{【194†[17]】} Early issues do not mention personal names but only generic titles, thereby not matching with the names found from literature.^{【195†[18]】} The characteristic motif of a horseman on the reverse with a bull on the obverse goes back to the 【196†Indo-Scythian】 ruler 【197†Azes I】.
+L219: ### Inscriptions
+L220: Inscriptions remain scarce.^{【198†[19]】} Mostly found in 【126†Udabhanda】, they either commemorate the commissioning of temples or are affixed at the base of idol-pedestals.^{【198†[19]】} Of the former kind — 【199†Mir Ali】 Inscription, 【200†Dewal】 Inscription, Dewai Inscription, Ratnamanjari Inscription, Veka Inscription, Hund Stone Inscription, Kamesvaridevi Inscription, Barikot Inscription, and Isvara Inscription — most are disfigured to various extents due to their use as grinding stones in medieval times and are decipherable only in parts.^{【198†[19]】}^{【201†[20]】} The latter kind is relatively abundant but only provides snippets of trivia.^{【198†[19]】} The language script is exclusively 【202†Sharda】.^{【203†[21]】}^{【204†[c]】} A samvat is mentioned in all of them whose zero year is understood to correspond to 822 C.E.
+L221: based on the Zalamkot Bilingual Inscription; it has been assumed to be initiated by Kallar on his coronation, as was typically the case for most Hindu dynasties of medieval India.^{【205†[22]】}^{【206†[23]】} Copper land grants etc. are yet to be documented.^{【198†[19]】}
+L222: ### Archaeology
+L223: 
+L224: Ruins of Hindu Shahi fortress at 【207†Odigram】, also known as the fort of Raja Gira (corrupted from rajagadha, lit. 'royal seat').^{【208†[24]】}^{【209†[25]】}
+L225: A. R.
+L226: Rahman of the 【210†Quaid-i-Azam University】 and 【211†Ahmad Hasan Dani】 did rudimentary field surveys in the late 1960s.^{【173†[10]】} Afterwards, the Italian Archaeological Mission in Pakistan (IAMP) extensively surveyed the regions in and around 【212†Swat】.^{【173†[10]】} In 1996, Khan and Meister obtained a license from Department of Archaeology for an "integrated study of Hindu-Śāhi sites"; excavation at 【213†Kafir-kot】 and field-surveys of the 【214†Salt Range】 were engaged in with aid from the 【215†University of Pennsylvania】 and the American Institute of Pakistan Studies.^{【216†[26]】}
+L227: The archaeology of the Hindu Shahis remains unrecognized and poorly understood.^{【217†[27]】} Dani ascribed ruined forts to the Hindu Shahis at 【218†Pehur】, Kamala, and Bata, but without detailed reasoning.^{【219†[28]】} Hund remains the main archaeological site.^{【220†[29]】} Fragmentary evidence is located across the Peshawar Valley.^{【221†[30]】} Excavations by Rahman et al, documented a Buddhist monastery at 【222†Barikot】, which was repurposed to a Hindu Shahi fort.
+L228: ## Origins
+L229: 
+L230: Horseman on a coin of Spalapati, i.e. the "War-lord". The headgear has been interpreted as a 【223†turban】.^{【224†[31]】}
+L231: Al-Biruni, an Iranian polyglot and the sole contemporary source on the dynasty, described the Hindu Shahis as 【225†Brahmans】,^{【226†[32]】} while the 12th-century work Rajatarangini of the Kashmiri historian Kalhana suggests them to be 【227†Kshatriya】.^{【226†[32]】} According to 【228†André Wink】, all sources other than al-Biruni consider the dynasty as Kshatriyas.^{【229†[33]】} The 【230†gold coins】 of 【138†Bhīmadeva】 who reigned c.
+L232: 921–964 CE contain the legend brāhmaṇa śāhi (Brahman Shahi) on obverse, along with Brahmanical motifs.^{【171†[9]】}
+L233: According to the 10th-century Arab historian 【231†al-Masudi】, the area of Gandhara was called "country of the Rahbūt" (【232†Rājpūt】),^{【233†[34]】} while the kings of Gandhara were all called "" (which has been variously read Hajaj, J.haj or Ch'hach).
+L234: 【234†Elliot】 transliterated the character to "Hahaj" and 【235†Cunningham】 had it equated to the 【236†Janjua】 tribe/clan, who were held to be descendants of the 【237†Rouran Khaganate】.^{【238†[35]】} 【239†Abdur Rahman】 (1976) doubts this theory and instead transliterates to "J.haj", an Arabicised form of 【240†Chhachh】, which is even today the name of the region around the Hindu Shahi capital of 【241†Hund】.^{【238†[35]】} In the 10th century, this region was occupied by the tribe of 【242†Gakhars】, who formed a large part of the Hindu Shahi army according to the Persian historian 【243†Firishta】.
+L235: Hence Rahman suggested a Gakhar origin of the Hindu Shahi dynasty.^{【244†[36]】}
+L236: In a 2002 publication, Abdur Rahman accepted folklore among current inhabitants of Hund about pre-Muslim kings of the region belonging to the Hodi tribe, and proposed an Odi origin for the Hindu Shahis belonging to 【245†Oddiyana】, a region in Gandhara. He also pointed to the 【246†Senvarma inscription】 as evidence in support and suggested Odi Shahis or Uḍi Śāhis as an accurate name for the dynasty.^{【247†[37]】}^{【209†[25]】}^{【248†[d]】} 【249†Michael W.
+L237: Meister】 found Rahman's arguments to be convincing.^{【247†[37]】}
+L238: ## History
+L239: The 【250†Abbasids】 led by caliph 【251†al-Ma'mun】 defeated the Kabul branch of the Turk Shahis in 815 CE.^{【252†[39]】}^{【253†[40]】} Following the defeat, the Turk Shahis not only had to convert to Islam but also had to cede key cities and regions.^{【254†[41]】} Another campaign against the Gandhara branch seems to have followed soon, with the Caliphate reaching as far east as the Indus river and inflicting a critical defeat.^{【255†[42]】} A hefty annual tribute was imposed in territories.^{【255†[42]】}^{【256†[e]】}
+L240: ### Kallar or Kalarapāla
+L241: The Turk Shahis ended up in a precarious state and in c.
+L242: (circa) 822 CE, the last ruler Lagaturman was deposed by one of his ministers, a Brahmin vazir called Kallar by al-Biruni.^{【257†[44]】}^{【258†[45]】} The sole description of events comes from al-Biruni.^{【259†[f]】} Only al-Biruni mentions Kallar and while nothing is known about his rule or territorial extent, Rahman explicitly rejects identification of Lalliya, known only from Rajatarangini, with him.^{【260†[49]】} The epigraphic evidence from the reign of Bhimadeva supports that his complete name was Kalarapāla, as Dewai inscription mentions Bhimadeva to be śrī-kalara(pā)la-vaṃśodbhava i.e born from the lineage of Śri Kalarapāla.^{【261†[50]】} Based on Zalimkot bilingual inscription, which gives the beginning date of Shahi era in 822 CE, Noémie Verdon dates his reign to be from c.
+L243: 822 to c. 870.^{【169†[8]】}
+L244: Non-debased Spalapati series (Kabul mint) — weighs between 3.1 and 3.5 g with a uniform content of 70% silver. Obverse: Bull with 【262†trisula】 mark on the hump, with 【185†Nagari】 legend: _{} Śri Spalapatideva "Lord Commander-in-Chief". Reverse: Horseman with a in Nagari to left and symbol to right.^{【187†[13]】}
+L245: Historians such as that of Alexander Cunningham suggest that coin series bearing the obverse title 'Spalapati' ('Warlord) were minted by Kallar.^{【263†[51]】} According to 【264†Edward Clive Bayley】's misreading of the corrupted remains of a Bactrian legend as Arabic numerals, he proposed that another series of coins bearing the legend 'Samanta' ('Feudatory') were also minted by Kallar.^{【265†[52]】} He argued the 'Spalapati' series to have been minted for circulation in Persian regions of his territory and the 'Samanta' series for 【266†Sanskrit】-speaking regions.^{【265†[52]】} It has been adduced that Kallar may have felt insecure about the legitimacy of his rule as long as the imprisoned Turk Shahi ruler Lagaturman was alive, and hence affirmed his claim to leadership by such indirect titles.^{【263†[51]】}
+L246: The 'Spalapati' series may instead have been minted by the last Turk Shahi rulers, as 'Pati Dumi', who was defeated by the Abbasid Caliph al-Ma'mun, is described by 【267†al-Azraqi】 and al-Biruni as an '【268†Ispahbadh】' ('Warlord'), equivalent to the Sanskrit title Spalapati.^{【269†[53]】} Rahman therefore believes that Kallar did not initiate any changes in the currency system of the last Turk Shahis^{【270†[54]】} and the Samanta series was minted by succeeding Hindu Shahi rulers.^{【271†[55]】} Numismatist and historian 【272†Michael Alram】's publications take note of this view;^{【273†[56]】} however some scholars attribute the entirety of the bull/horserider coinage, including the Spalapati series, to the Hindu Shahis.^{【274†[57]】}
+L247: ### Samantadeva
+L248: 
+L249: Rather debased Samantadeva series (Kabul mint) — weighs between 2.9 and 3.9 g with a variable content of 60 to 70% silver. Obverse: Bull with 【262†trisula】 mark on the hump, with 【185†Nagari】 legend: 【275†Śri】 Samantadeva. Reverse: Horseman with bhī in 【185†Nagari】 to left and symbol to right.^{【187†[13]】}
+L250: Al-Biruni notes that Sāmand, or Samantadeva as known from his extensive coinage, was the successor of Kallar, and may have been his son as was the case with most Hindu Shahi successions, but their genealogical relationship is left undescribed.^{【276†[58]】} Nothing else is known about his rule, and he seems to have replicated the Turk Shahi system of producing no name on their coinage.^{【277†[59]】} The Samantadeva series prototype was followed by all future Hindu Shahi rulers and even the Muslim Ghaznavids, who succeeded Hindu Shahis, based on which Rahman suggests that he was probably viewed as a model ruler by his successors.^{【278†[60]】}^{【279†[61]】} Noémie Verdon, who identifies him with Lalliya, dates his reign to be from c.
+L251: 870 to c. 902, while Rahman who helds both individuals to be separate, dates end of his rule around 870, followed by Lalliya.^{【169†[8]】}
+L252: #### Loss of Kabul
+L253: 
+L254: Main article: 【280†Hindu Shahi-Saffarid wars】
+L255: In 870 CE, 【281†Ya'qub ibn al-Layth】, the founder of the recently formed 【154†Saffarid dynasty】 marched onto Kabul.
+L256: According to the 【282†Tarikh-i Sistan】, the Saffarids had come into conflict with the 【283†Zunbil dynasty】 based in modern day Ghazni and after having defeated them, a son of the Zunbils had fled into the area corresponding to Kabul resulting in Yaqub's invasion.^{【155†[4]】} It has been attested to by several Muslim sources that Ya'qub had brought forth idols and elephants to the Abbasid Caliph 【284†al-Mu'tamid】 from Kabul, however, it not clear whether this is indicative of the city or of the Kabul Valley, though according to Rehman the latter was most probable.^{【285†[62]】} The 【286†Rawżat aṣ-ṣafāʾ】 states that the ruler of Kabul was made prisoner, which would be Sāmantadeva in this case, although it is unknown what happened to him following the capture.^{【287†[63]】} The region was in Saffarid control until 878 CE before being recaptured by Lalliya, the successor to Samantadeva.^{【288†[64]】}
+L257: #### Khudarayaka: Governor of the Kabul Valley
+L258: 
+L259: Coinage of the Saffarid governor of Kabul after the capture of the city, issued around 870 CE in Kabul on the Hindu Shahi model. Abbasid 【289†dirham】 weight standard. Obverse: Recumbent bull with 【185†Nagari】 legend (Śrī Khūdarayakah, "The fortunate small 【290†Raja】"), 【262†trisula】 mark on the hump of the bull. Reverse: horseman with (ma) in 【185†Nagari】 to left, عدل ('adl, "【291†Justice】") in Arabic to right.^{【292†[65]】}
+L260: While it is unknown what arrangements Ya'qub made for the governance of Kabul after his victory and imprisonment of the then ruler, Tarikh-i Sistan notes that Kabul was under an unnamed Ya'qub governor as late as 878/879.^{【288†[64]】} Rahman suggests that this governor was a blood relation of Sāmantadeva who was favourably inclined to Islam and went on to take the title of Khudarayaka (lit.
+L261: Small King) as known from a series of coins.^{【293†[66]】}^{【294†[g]】} As has been the case with previous rulers, there is a lack of information including about his rule and eventual fate.^{【295†[67]】} The unavailability of his coins in or around Gandhara points to his lack of control over the region, which did not come into contact with Ya'qub's expeditions and were likely held by Samantadeva's relatives.^{【295†[67]】}
+L262: ### Lalliya
+L263: #### Re-conquest of Kabul and invasion of Ghazna
+L264: Lalliya was the first Shahi noted by Kalhana.
+L265: While he has been stated by Kalhana to be a great ruler with enormous strength to the standard where kings of other regions would seek shelter in his capital Udabhanda (Hund), transferred there from the previous capital of Kabul, this description is at odds with absence of his mention in the list of al-Biruni and that, according to Kalhana, how easily he appears to have been defeated by Utpala dynasty.^{【296†[68]】} Ya'qub is not known to have annexed or invaded the country of Gandhara and it is assumed by Rehman that it was under the kingship of Lalliya.^{【297†[69]】}
+L266: Khudrayaka, the Saffarid governor of Kabul, is noted to have ended his reign in 880 CE; while it is unknown what brought about his downfall, it is assumed Lalliya was implicated in it as when Kabul is next mentioned in 900 CE, it is described as reverting back as Shahi territory.^{【297†[69]】} 【298†Amr ibn al-Layth】 succeeded Yaqub as the Amr of the Saffarid dynasty in 879 CE.
+L267: The Tarikh-i Sistan records 'two Indian kings', reconstructed as Toramana (also known as Kamalavarman) and Asata (Āśtapāla)^{【299†[h]】} and described as governors and sons of Lalliya, who are stated to have taken advantage of Amr al-Layth's preoccupation with rebellions in Khorasan and to have successfully invaded Ghazni in 900 CE, defeating the Saffarid governor named as Fardaghin, though the Tarikh does not make it clear whether it was the region of Zabulistan or of the city.^{【157†[5]】}
+L268: #### Conflict with the Utpala dynasty
+L269: Kalhana notes that Lalliya was a significant ally of one 【300†Alakhana】 against the machinations of the 【121†Utpala dynasty】, whose ruler 【301†Samkaravarman】 invaded the Hindu Shahis c. 902 CE.
+L270: Kalhana further states that Lalliya's 'mighty glory outshone the kings of the north'.^{【302†[71]】} Samkaravarman was killed by a stray arrow in 【303†Urasā】.^{【158†[6]】} A year later, his successor 【304†Gopalavarman】 invaded Shahi territory to depose a rebellious Shahi, and installed Lalliya's son Toramana with the new name of "Kamaluka".^{【305†[72]】}^{【306†[i]】}

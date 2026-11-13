@@ -1,0 +1,287 @@
+Chera Perumals of Kerala - Wikipedia (https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai)
+citeturn96view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai","lineno":null}); Total lines: 392
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Historiography】 Toggle Historiography subsection
+L50:     * 【19†1.1 Publication of the sources】
+L51:   * 【20†2 History】
+L52:   * 【21†3 Administration】
+L53:   * 【22†4 Major chieftaincies】
+L54:   * 【23†5 Chera Perumal genealogy】 Toggle Chera Perumal genealogy subsection
+L55:     * 【24†5.1 Abhisekanama (regnal title)】
+L56:     * 【25†5.2 Chera Perumal genealogy】
+L57:   * 【26†6 Chera Perumal epigraphic records】
+L58:   * 【27†7 See also】
+L59:   * 【28†8 References】
+L60: [Input] Toggle the table of contents
+L61: # Chera Perumals of Kerala
+L62: 
+L63: [Input] 3 languages
+L64: 
+L65:   * 【29†हिन्दी†hi.wikipedia.org】
+L66:   * 【30†한국어†ko.wikipedia.org】
+L67:   * 【31†தமிழ்†ta.wikipedia.org】
+L68: 
+L69: 【32†Edit links†www.wikidata.org】
+L70: 
+L71:   * 【33†Article】
+L72:   * 【34†Talk】
+L73: 
+L74: [Input] English
+L75: 
+L76:   * 【33†Read】
+L77:   * 【35†Edit】
+L78:   * 【36†View history】
+L79: 
+L80: [Input] Tools
+L81: 
+L82: Tools
+L83: 
+L84: [Button: move to sidebar] [Button: hide]
+L85: 
+L86: Actions
+L87: 
+L88:   * 【33†Read】
+L89:   * 【35†Edit】
+L90:   * 【36†View history】
+L91: 
+L92: General
+L93:   * 【37†What links here】
+L94:   * 【38†Related changes】
+L95:   * 【39†Upload file】
+L96:   * 【40†Permanent link】
+L97:   * 【41†Page information】
+L98:   * 【42†Cite this page】
+L99:   * 【43†Get shortened URL】
+L100:   * 【44†Switch to legacy parser】
+L101: 
+L102: Print/export
+L103: 
+L104:   * 【45†Download as PDF】
+L105:   * 【46†Printable version】
+L106: 
+L107: In other projects
+L108: 
+L109:   * 【47†Wikidata item†www.wikidata.org】
+L110: 
+L111: Appearance
+L112: 
+L113: [Button: move to sidebar] [Button: hide]
+L114: 
+L115: (Redirected from 【48†Chera Perumals of Makotai】)
+L116: 
+L117: For early historic Chera rulers of south India, see 【49†Chera dynasty】.
+L118: Chera Perumals of Mahodayapuram Cheraman Perumals
+L119: ---
+L120: c. 844 CE–c. 1124 CE
+L121: Chera Perumal Kingdom with respect to the 【50†Chola Empire】
+L122: Capital  |
+L123:   * 【51†Mahodayapuram】 (present-day 【52†Kodungallur】)
+L124: Religion  | 【53†Hinduism】 (majority)
+L125: Government  | 【54†Monarchy】
+L126: Cheraman Perumal  |
+L127: • c. 844—870 (earliest recorded)  | 【55†Sthanu Ravi Kulasekhara】
+L128: • c. 905—943  | Goda Ravi
+L129: • 962—1021  | Bhaskara Ravi Manukuladitya
+L130: • c. 1089—1124 (last)  | 【56†Rama Kulasekhara】
+L131: Establishment  | c. 844 CE
+L132: History  |
+L133: • Established  | c. 844 CE
+L134: • Disestablished  | c. 1124 CE
+L135: Today part of  | 【57†Kerala】 (majority)
+L136: Cheraman Perumal dynasty, also known as the Perumal dynasty of Kerala, or the Chera Perumals of Makotai or Mahodayapuram^{【58†[1]】}^{【59†[2]】}^{【60†[a]】} (fl. c. 844—c.
+L137: 1124 CE), was a ruling dynasty in present-day 【57†Kerala】, 【61†south India】.^{【62†[4]】} Mahodayapuram, or Makotai—the capital of the 【63†Cheraman Perumals】—is identified with present-day 【52†Kodungallur】 in central 【64†Kerala】.^{【65†[5]】}^{【59†[2]】}^{【66†[6]】} Initially, their influence appears to have been limited to the area between present-day 【67†Kollam】 and 【68†Koyilandy】, but it later extended up to the 【69†Chandragiri river】 in northern Kerala and to 【70†Nagercoil】 in the south.
+L138: The medieval Cheras claimed descent from the early historic 【49†Cheras】 who flourished in pre-【71†Pallava】 south India.^{【72†[7]】} Present-day central Kerala probably detached from larger 【73†Kongu Chera or Kerala kingdom】 around 8th-9th century CE to form the Chera Perumal kingdom.^{【72†[7]】} The exact relationship between the different collateral branches of the Chera family remains unclear to scholars.^{【74†[8]】} The Chera Perumals are often described as members of the 【75†Surya Vamsa (the Solar Race)】.^{【76†[9]】}
+L139: The Chera Perumal kingdom derived most of its revenue from maritime trade (the Indian Ocean 【77†spice trade】) with the Middle East.^{【78†[10]】} The port of 【67†Kollam (Quilon)】, located within the kingdom, was a major point in overseas India trade to the West and the Southeast Asia.^{【79†[11]】} 【80†Nambudiri】-【81†Brahmin】 settlements of agriculturally rich areas (the fertile wetlands) were another major source of support for the Chera state.^{【58†[1]】}^{【82†[12]】} The Cheraman Perumals are known for primarily employing a single script (【83†Vattezhuthu】) and language (an early form of 【84†Malayalam】) in all of their records in Kerala.^{【85†[13]】} It has been speculated that the transformation of land relations, among other factors, played a crucial role in the collapse of the Chera state in the early 12th century.^{【86†[14]】}
+L140: ## Historiography
+L141: 
+L142: [【87†edit】]
+L143: 
+L144: Medieval Chera inscription from Kerala
+L145: 
+L146: An earlier version of conventional Kerala historiography held the belief that the medieval Chera state in Kerala was a highly centralized imperial monarchy (following a "unitary or imperial state model", emphasizing centralized administration).^{【59†[2]】}^{【85†[13]】}^{【88†[15]】} The state was also erroneously referred to as the "Second/Later Chera Empire" or the "Kulasekhara Empire".^{【85†[13]】}
+L147: However, critical research in the late 1960s and early 1970s offered a major corrective to these views ^{【59†[2]】}^{【85†[13]】} Accusing early Kerala historians of inventing a "Second Chera Empire" to rival the glories of the imperial 【89†Cholas】 (in the Tamil country), scholars rejected the theory of a Chera "empire" and instead proposed the existence of a traditional (medieval) monarchy in Kerala (Narayanan, 1972).^{【90†[16]】}^{【88†[15]】} It was also found that not all Chera kings bore the specific abhisekanama "Kulasekhara", and therefore the dynasty cannot accurately be referred to as the "Kulasekhara dynasty".^{【88†[15]】}
+L148: At the other end of the spectrum, suggestions emerged in the early 2000s proposing that the Chera king at Mahodayapuram only held "ritual sovereignty", while actual political power rested with "a bold and visible 【80†Brahmin】 oligarchy" (Narayanan, 2002).^{【59†[2]】}^{【91†[17]】} This perspective describes "a fragmented array of local chiefdoms... held in check by a loose 【92†Tamil】 hegemony".^{【90†[16]】}
+L149: > "The Cera kingdom was not a strong, absolute monarchy by any means, but rather a confederation of lords and powerful Brahmin communities under the mantle of the Perumal...Therefore, the portrayal of the post Cera period as a time of major political decentralization attributes a false centrality to the Cera period itself..."
+L150: 
+L151: — Donald R. Davis Jr., Classical Hindu Law in Practice in Late Medieval Kerala
+L152: According to this third model, the Chera ruler's sovereign power was largely confined to the capital, 【52†Mahodayapuram-Kodungallur】.^{【59†[2]】} His kingship was purely "ritual" and remained nominal compared to the political and military power that local chieftains (the Udaiyavar) in distant northern and southern Kerala.
+L153: 【80†Nambudiri-Brahmins】 throughout Kerala also held significant authority in social and religious matters ("ritual sovereignty combined with a bold and visible Brahmin oligarchy").^{【59†[2]】}^{【91†[17]】}
+L154: ### Publication of the sources
+L155: 
+L156: [【93†edit】]
+L157: A general catalogue of most of the so-called Chera Perumal inscriptions was found in the "Index to Chera Inscriptions", an appendix to "Perumals of Kerala" (University of Kerala PhD thesis, 1972) by noted historian 【94†M. G. S. Narayanan】.
+L158: However, this text remained unpublished and in private circulation until 2013.^{【95†[18]】} Furthermore, some recently discovered inscriptions remained unreported and undeciphered, while others were published in a form that was far from satisfactory.^{【96†[19]】} A notable recent effort to catalogue these inscriptions was the publication of South Indian Inscriptions (SII), Volume 43, edited by epigraphist M. R. Raghava Varier and published by the Archaeological Survey of India (ASI) in 2021.^{【97†[20]】}
+L159: ## History
+L160: 
+L161: [【98†edit】]
+L162: 
+L163: See also: 【73†Kongu Chera dynasty】
+L164: 
+L165: Remains of the Thillaisthanam inscription (9th century CE, Aditya Chola) 【99†Thiruvanchikkulam Shiva Temple】 (northern entrance gateway) Fragmentary laterite walls, outside Thrikulasekharapuram Temple, 【52†Kodungallur】 (10th-11th centuries)
+L166: The medieval Chera rulers of Kerala, based at the port of Mahodayapuram (identified with present-day 【52†Kodungallur】) on the Malabar Coast, were perhaps descendants of the ancient 【49†Cheras】 who flourished in pre-【71†Pallava】 (early historic) south India.^{【72†[7]】} The lineage name "Chera" notably tied the family to the high prestige of the 【100†Sangam Literature】.^{【101†[21]】} Early Tamil poems provide clear indications that different branches of the Chera family simultaneously managed various centers of power or capitals in ancient Kerala and western Tamil Nadu — 【102†Muchiri-Vanchi】, located in central Kerala at the mouth of the 【103†Periyar River】, being one of them.^{【104†[22]】}
+L167: It is speculated that Kerala's Chera rulers faced little economic pressure for territorial conquest, as the region was naturally rich and derived substantial income from maritime trade with the Middle East.^{【105†[23]】} The Chera Perumal kingdom had alternating friendly and hostile relations with the neighboring 【89†Cholas】 and the 【106†Pandyas】.^{【107†[24]】} 【108†Sthanu Ravi】, earliest recorded Chera ruler, notably assisted the 【89†Cholas】 in conquering the western Tamil country (late 9th century CE).^{【109†[25]】}^{【110†[26]】} The Chera kingdom was attacked and eventually forced into submission by the Cholas in c.
+L168: early 11th century CE, perhaps primarily to break its near-monopoly on Indian Ocean 【77†spice trade】 with the Middle East.^{【107†[24]】}
+L169: > "A [Chola] naval campaign led to the conquest of the Maldive Islands, the Malabar Coast, and northern Sri Lanka, all of which were essential to the Chola control over trade with Southeast Asia and with Arabia and eastern Africa. These were the transit areas, ports of call for the Arab traders and ships to Southeast Asia and China, which were the source of the valuable spices sold at a high profit to Europe."
+L170: 
+L171: — Romila Thapar, Encyclopædia Britannica^{【111†[27]】}
+L172: Regional rulers or chieftains, known as "nadu-udaiyavar " or "nadu-vazhumavar", wielded significant political and military power in the Chera state.^{【88†[15]】}^{【59†[2]】} Chiefdoms in Kerala under Chera rule, referred to as "nadus", were roughly comparable to the "rashtra" under the 【112†Rashtrakutas】 and "padi" under the 【89†Cholas】.^{【88†[15]】} These chieftains likely exercised considerable militaristic authority within their territories, including over 【80†Nambudiri-Brahmin】 temples and Brahmin settlements within their nadu.^{【88†[15]】} However, the udaiyavar chieftains were obligated to serve the Chera Perumal in battles — most notably against the 【89†Cholas】 — and the chiefdoms perhaps functioned as revenue collection units of the Chera kingdom.^{【88†[15]】}^{【59†[2]】} It is recorded that the "Koyil Adhikarikal" or "Al Koyil", the Chera royal representative in a chiefdom, collected regular dues (attaikkol and arantai) from the chiefdoms on behalf of the Chera Perumal at Kodungallur.^{【88†[15]】}
+L173: The Chera state in Kerala was subjugated during the reign of the Chola emperor 【113†Rajaraja I】.
+L174: However, it was during the reign of 【114†Rajendra I】 that the Chola authority was firmly established, marked by outright Chola control over Kerala.^{【115†[28]】} Kerala was subsequently separated from the Chola "patrimony", resulting in the loss of central administrative control, and for a time was held as an appanage by junior members of the Chola dynasty.^{【116†[29]】} This system of appanage (royal devolution) proved short-lived and was abandoned during the reign of 【117†Kulottunga】.^{【118†[30]】}
+L175: The 【119†Bhakti】 saints 【120†Cheraman Perumal the Nayanar】 and 【121†Kulasekhara the Alvar】 are generally identified with some of the earliest recorded Chera Perumal kings of Kerala.^{【66†[6]】}^{【59†[2]】}^{【122†[3]】} 【123†Shankara】, the founder of the 【124†advaita】 【125†Vedanta】 school of Hindu philosophy, is also traditionally associated with 8th-century Kerala.^{【59†[2]】} A vibrant culture flourished in the medieval Chera kingdom, founded on shared commercial interests and marked by cultural hybridity and confluence.^{【126†[31]】} Copper-plate charters of the Chera Perumals notably record grants made to 【127†Christian】 and 【128†Jewish】 traders from the Middle East.^{【105†[23]】} The West Asian 【129†Muslims】 had also established themselves as merchants in the kingdom.^{【130†[32]】} Renowned merchant guilds such as 【131†manigramam】 and 【132†anjuvannam】 were active in the Chera kingdom.^{【133†[33]】} The earliest attestation of 【134†Malayalam language】 (as an inscriptional variety) is also tentatively dated to the Chera Perumal period or shortly thereafter in Kerala.^{【133†[33]】} The temple architecture style known as "【135†Kerala-Dravida】" is likewise evident from the 11th century CE onward.^{【133†[33]】}
+L176: In the early 12th century, the medieval Chera kingdom of Kerala dissolved into several local powers.^{【136†[34]】} Among other factors, the gradual transformation of land relations played a crucial role in the collapse of the Chera state.^{【86†[14]】} Over time, the Chera state had gradually lost its role as the primary regulator of land ownership and transactions.^{【86†[14]】} In southern Kerala, the medieval Chera dynasty was succeeded by the rulers of 【137†Venad】 (centered on the port of Kollam), whose kings, tracing their descent from the Cheras, were variously known as the Cheras or the "Kulasekhara dynasty".^{【105†[23]】}^{【138†[35]】} In other parts of Kerala, the chieftains of Kolathunad, and the future rulers of 【139†Kozhikode (Calicut)】 and 【140†Kochi (Cochin)】 emerged as the successors to the Chera Perumals.^{【59†[2]】}
+L177: ## Administration
+L178: 
+L179: [【141†edit】]
+L180: 
+L181: 【142†Jewish copper plates of Cochin】 (plate I, side I). Chola coin of king 【143†Rajendra】, with legend "Uttama Chola", showing the Chera emblem (Bow, left to the Sitting Tiger).
+L182: The medieval Chera state in Kerala featured a range of administrative organs that reflected its structure.
+L183: The "Koyil Adhikarikal", or "Al or Ala Koyil", was a Chera royal prince appointed to individual chiefdoms, responsible for collecting regular dues — such as the attaikkol and arantai — on behalf of the Chera Perumal at Mahodayapuram.^{【88†[15]】} The managers of the four prominent 【80†Nambudiri-Brahmin】 temples around Mahodayapuram-Kodungallur, collectively known as the "Nalu Thali", likely functioned as the Chera Perumal's permanent council or ministers.^{【144†[36]】}^{【145†[37]】}
+L184: Four Temples (the Nalu Thali)^{【66†[6]】}
+L185: Temple in Mahodayapuram-Kodungallur  | 【80†Brahmin】 settlement  | Notes
+L186: --- | --- | ---
+L187: Nediya-thali or 【99†Thiruvanchikkulam Shiva Temple】  | 【146†Paravur】  | Associated with 【120†Cheraman Perumal Nayanar】
+L188: Mel-thali or Thrikkulasekharapuram Temple  | 【147†Moozhikkulam】  | Founded by 【121†Kulasekhara Alvar】.
+L189: Kizh-thali Temple  | 【148†Iranikulam】  |
+L190: Chingapuram/Sringapuram Thali  | 【149†Irinjalakuda】  |
+L191: The Ayiram ("The Thousand") served as the Chera Perumal's personal guard, composed of "a thousand Nair warriors" who acted as the king’s "Companions of Honour" and were also tasked with managing and protecting the 【150†Kodungallur Bhagavathy Temple】.^{【59†[2]】}^{【66†[6]】} The 【151†Padai-nayakar (or nayakan or Padai-nair)】 was the commander of the armed militia, either for the Chera kingdom as a whole or for individual chiefdoms.^{【144†[36]】}
+L192: Each chiefdom maintained its own militia known as The Hundred (Nutruvar), an armed contingent whose size was often indicated by the number of households within the nadu that could contribute fighters.^{【88†[15]】} The Nizhal ("The Shadow") formed the personal protection guard of the udaiyavar chiefs, serving them as loyal "Companions of Honour".^{【88†[15]】} Supporting the chiefs further was the "Prakrithi", a body of non-【80†Brahmin】 notables who assisted in administration.
+L193: Lastly, the "Adhikarar" were temple or royal functionaries responsible for local administration, including the collection of dues and arbitration of disputes.^{【88†[15]】}
+L194: ## Major chieftaincies
+L195: 
+L196: [【152†edit】]
+L197: The structure of the Chera kingdom incorporated several local chieftains.^{【153†[38]】} Through the analysis of medieval Kerala inscriptions from the Chera Perumal period, scholars have substantiated the existence of several chieftaincies or chiefdoms (the "nadus").
+L198: From north to south, they are as follows: Kolla-desam [or Kolathu-nadu?^{【154†[39]】}] or Mushika country, Purakizha-nadu, Kurumporai-nadu, Erala-nadu, Valluva-nadu,^{【155†[40]】} Kizhmalai-nadu (meaning "Eastern Hill Country"^{【156†[41]】}), Vempala-nadu, Munji-nadu, Nanruzhai-nadu,^{【155†[40]】} and 【157†Venadu】 or Kupaka country (also known by the name of its major port, 【67†Kollam】^{【154†[39]】}).^{【158†[42]】} Kolathu-nadu (in northern Kerala) came under the influence of the Chera Perumals only during the 11th century CE, while 【157†Venadu】 (in southern Kerala) was likely developed under their influence in the early 9th century CE.^{【155†[40]】}^{【158†[42]】}
+L199: The Chera Perumal held outright authority over the region extending from the 【159†Palakkad Gap】 to 【160†Vembanad Lake】, including the port of 【52†Mahodayapuram-Kodungallur】 in the 【161†Periyar Valley】.^{【155†[40]】} Within this territory, the nadus were constituted as militaristic or revenue units, with the udayaivars being chosen from among members of martial families serving the Chera king.^{【155†[40]】}
+L200: ## Chera Perumal genealogy
+L201: 
+L202: [【162†edit】]
+L203: 
+L204: Depiction of "Cherman Perumal" Nayanar in 【163†Brihadisvara Temple】, 【164†Thanjavur】
+L205: ### Abhisekanama (regnal title)
+L206: 
+L207: [【165†edit】]
+L208: An earlier version of conventional Kerala historiography believed that all the rulers of the medieval Chera dynasty of Kerala used the specific abhisekanama (regnal name) "Kulasekhara".
+L209: Hence, the ruling lineage was referred to as the "Kulasekhara dynasty".^{【166†[43]】}^{【85†[13]】}^{【155†[40]】} However, critical research conducted in the late 1960s and early 1970s provided a significant corrective to this view.^{【166†[43]】}^{【155†[40]】} It was found that not all rulers used the regnal name "Kulasekhara" — only two, 【108†Sthanu Ravi Kulasekhara】 and 【56†Rama Kulasekhara】, are known to have done so.^{【155†[40]】} The Chera rulers of Kerala were known by several common titles, as evidenced by inscriptions and literary sources.^{【167†[44]】}
+L210: The possibility of a 【168†matrilineal succession system】 among the Cheras has been proposed, but Chera inscriptions generally provide little evidence in the form of royal panegyrics (the prashastis) or genealogies.^{【169†[45]】}
+L211: ### Chera Perumal genealogy
+L212: 
+L213: [【170†edit】]
+L214: 
+L215: Originally revised by 【94†M. G. S. Narayanan】 (1972) from 【171†Elamkulam P. N. Kunjan Pillai】 (1963)^{【172†[46]】}^{【173†[47]】} Recent corrections (2014 and revised in 2020) on Narayanan by 【174†Manu V. Devadevan】 (edited by 【175†Kesavan Veluthat】) are also employed.^{【86†[14]】}
+L216: 
+L217: Lists of Chera Perumals
+L218: Chera ruler  | Regnal years (tentative) ^{【86†[14]】}^{【176†[48]】}  | Notes
+L219: --- | --- | ---
+L220: 【55†Sthanu Ravi Kulasekhara】  | 844–870^{【86†[14]】}  |
+L221:   * Earliest known medieval Chera ruler of Kerala.^{【86†[14]】}
+L222:   * Martial alliance with the Chola ruler 【177†Aditya I】.^{【178†[49]】}
+L223:   * Probably identical with 【179†Kulasekhara the Alvar】.^{【166†[43]】}^{【180†[50]】}^{【122†[3]】}
+L224: 【181†Rama Rajasekhara】  | 870–883 (revised chronology, 2020)^{【86†[14]】}  |
+L225: 
+L226:   * Probably identical with 【120†Cheraman Perumal the Nayanar】.^{【182†[51]】}^{【166†[43]】}
+L227: 【183†Vijayaraga】  | 883–895^{【86†[14]】}  |
+L228:   * Married the daughter of king Kulasekhara.^{【184†[52]】}
+L229:   * Married his two daughters to the Chola ruler 【185†Parantaka】.^{【186†[53]】}^{【187†[54]】}
+L230: Goda Goda  | 895—905^{【86†[14]】}^{【188†[55]】}  |
+L231: Kerala Kesari  |
+L232: 
+L233:   * Probably identical with king Goda Goda (above)^{【188†[55]】}
+L234: 【189†Goda Ravi】  | 905–943^{【86†[14]】}^{【188†[55]】}  |
+L235:   * Closely allied with the Chola ruler 【185†Parantaka I】.^{【190†[56]】}
+L236: Indu/Indesvaran Goda  | 943–962^{【191†[57]】}  |
+L237: Bhaskara Ravi Manukuladitya  | 962–1021^{【176†[48]】}^{【192†[58]】} (or) 959–1025 (revised chronology, 2020)^{【86†[14]】}  |
+L238: 
+L239:   * Subjugation of Kerala (the Chera kingdom) by the Chola ruler 【113†Rajaraja】.^{【190†[56]】}
+L240:   * Contemporary of the Chola ruler 【193†Rajendra】^{【192†[58]】}
+L241: Ravi Goda^{【194†[59]】}  | 1021—1089^{【195†[60]】}^{【196†[61]】}^{【194†[59]】}  |
+L242:   * Contemporary of the Chola ruler 【193†Rajendra】.^{【194†[59]】}
+L243: Rajasimha^{【194†[59]】} (disputed^{【197†[b]】})  |
+L244: 
+L245:   * Contemporary of the Chola king 【143†Rajendra】^{【194†[59]】}
+L246:   * Contemporary of the Pandya ruler Jatavarman Sundara Pandya^{【194†[59]】}
+L247:   * Probably identical with king Ravi Goda (above)^{【194†[59]】}
+L248: Raja Raja^{【196†[61]】}  |
+L249:   * Contemporary of the Pandya ruler Jatavarman Sundara Pandya.^{【196†[61]】}
+L250:   * Contemporary of the Pandya ruler Maravarman Pandya.^{【196†[61]】}
+L251: Ravi Rama^{【195†[60]】}  |
+L252: Aditya Goda Ranaditya^{【195†[60]】}  |
+L253: 【56†Rama Kulasekhara】  | 1089—1122^{【198†[64]】}  |
+L254: 
+L255:   * Crowned in c. 1089 CE.^{【198†[64]】}
+L256:   * Elder contemporary of the Chola ruler 【199†Vikrama】^{【200†[65]】}
+L257:   1. 【201†↑】 The term "Chera Perumals" is widely used by prominent south Indian and Kerala historians.^{【122†[3]】} Romila Thapar 2003 [2002] describes the medieval dynasty of the Cheras in Kerala as the "Cheras or Perumals in Kerala" (pp. 327-28) and refers to the state as the "Makotai kingdom in the Periyar Valley" (pp. 331-32). Noburu Karashima (2014) refers to the family as the "Ceraman Perumal dynasty of Mahodayapuram" (pp. 145-46).
+L258: Manu Devadevan (2020), building on a from a book edited by historian Kesavan Veluthat (2014), specifically favors the use of the term "Ceraman" over "Cera" (pp. 122).
+L259:   2. 【202†↑】 Both Rajasimha and Raja Raja, from the Pandya inscriptions at Ambasamudram, were categorically identified as Chera Perumals of Kerala by M. G. S. Narayanan (1972; "Perumals of Kerala").^{【203†[62]】} This was confirmed in a recent book (Irreverent History: Essays for M.G.S. Narayanan; with Donald R.
+L260: Davis Jr.) edited by Kesavan Veluthat (2014).^{【176†[48]】} The claim is disputed by Daud Ali (2007; A Study of the Term Veḷam in Tamil Inscriptions) ["The phrase ceramanar probably does not refer to a Chera king as such but to a title of a viceroy or subordinate at court"].^{【204†[63]】}
+L261: ## Chera Perumal epigraphic records
+L262: 
+L263: [【205†edit】]
+L264: 
+L265:   * 【206†Quilon Syrian copper plates】 (【108†Sthanu Ravi Kulasekhara】)
+L266: 
+L267:   * 【206†Quilon Syrian copper plates】 (plate 6)
+L268: 
+L269:   * 【207†Vazhappally copper plate】 (【208†Rama Rajasekhara】)
+L270: 
+L271:   * 【142†Jewish copper plates of Cochin】 (Bhaskara Ravi Manukuladitya)
+L272: 
+L273:   * 【209†Tiruvalla copper plates】
+L274: 
+L275:   * Perunna inscription (【56†Rama Kulasekhara】)
+L276: ## See also
+L277: 
+L278: [【210†edit】]
+L279: 
+L280:   * 【142†Jewish copper plates of Cochin】 (early 11th century CE)
+L281:   * 【206†Quilon Syrian copper plates】 (9th century CE)
+L282: ## References
+L283: 
+L284: [【211†edit】]

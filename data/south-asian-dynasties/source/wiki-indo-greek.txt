@@ -1,0 +1,324 @@
+Indo-Greek Kingdom - Wikipedia (https://en.wikipedia.org/wiki/Indo-Greek_Kingdom)
+citeturn50view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Indo-Greek_Kingdom","lineno":null}); Total lines: 1469
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Background】 Toggle Background subsection
+L49:     * 【19†1.1 Initial Greek presence in the Indian subcontinent】
+L50:     * 【20†1.2 Greek rule in Bactria】
+L51:     * 【21†1.3 Rise of the Shungas (185 BC)】
+L52:   * 【22†2 History】 Toggle History subsection
+L53:     * 【23†2.1 Sources】
+L54:     * 【24†2.2 Expansion of Demetrius into India】
+L55:       * 【25†2.2.1 First bilingual and multi-religion monetary system】
+L56:     * 【26†2.3 Rule of Menander I】
+L57:       * 【27†2.3.1 Western accounts】
+L58:       * 【28†2.3.2 Rule in Mathura】
+L59:         * 【29†2.3.2.1 Figurines of foreigners in Mathura】
+L60:         * 【30†2.3.2.2 Indian sources】
+L61:     * 【31†2.4 Consolidation】
+L62:       * 【32†2.4.1 Fall of Bactria and death of Menander】
+L63:       * 【33†2.4.2 Preservation of the Indo-Greek realm】
+L64:     * 【34†2.5 Interactions with Indian culture and religions】
+L65:       * 【35†2.5.1 Indo-Greeks in the regions of Vidisha and Sanchi (115 BC)】
+L66:       * 【36†2.5.2 Indo-Greeks and Bharhut (100-75 BC)】
+L67:       * 【37†2.5.3 Sanchi Yavanas (50–1 BC)】
+L68:     * 【38†2.6 Decline】
+L69:       * 【39†2.6.1 Loss of Hindu Kush territories (70 BC–)】
+L70:       * 【40†2.6.2 Loss of Central territories (48/47 BC)】
+L71:       * 【41†2.6.3 Loss of Eastern territories (10 AD)】
+L72:     * 【42†2.7 Later contributions】
+L73:       * 【43†2.7.1 Buddhist caves】
+L74:       * 【44†2.7.2 Yavana era for Buddha sculptures】
+L75:   * 【45†3 Ideology】
+L76:   * 【46†4 Religion】 Toggle Religion subsection
+L77:     * 【47†4.1 Interactions with Buddhism】
+L78:     * 【48†4.2 "Followers of the Dharma"】
+L79:     * 【49†4.3 Blessing gestures】
+L80:     * 【50†4.4 Vaishnavites】
+L81:   * 【51†5 Art】
+L82:   * 【52†6 Economy】 Toggle Economy subsection
+L83:     * 【53†6.1 Coinage】
+L84:     * 【54†6.2 Tribute payments】
+L85:     * 【55†6.3 Trade with China】
+L86:     * 【56†6.4 Indian Ocean trade】
+L87:   * 【57†7 Armed forces】 Toggle Armed forces subsection
+L88:     * 【58†7.1 Military technology】
+L89:     * 【59†7.2 Size of Indo-Greek armies】
+L90:   * 【60†8 Legacy】
+L91:   * 【61†9 Chronology】
+L92:   * 【62†10 See also】
+L93:   * 【63†11 References】 Toggle References subsection
+L94:     * 【64†11.1 Notes】
+L95:     * 【65†11.2 Citations】
+L96:     * 【66†11.3 Works cited】
+L97:   * 【67†12 Further reading】
+L98:   * 【68†13 External links】
+L99: [Input] Toggle the table of contents
+L100: # Indo-Greek Kingdom
+L101: 
+L102: [Input] 62 languages
+L103:   * 【69†العربية†ar.wikipedia.org】
+L104:   * 【70†Asturianu†ast.wikipedia.org】
+L105:   * 【71†Башҡортса†ba.wikipedia.org】
+L106:   * 【72†Български†bg.wikipedia.org】
+L107:   * 【73†বাংলা†bn.wikipedia.org】
+L108:   * 【74†Bosanski†bs.wikipedia.org】
+L109:   * 【75†Català†ca.wikipedia.org】
+L110:   * 【76†Čeština†cs.wikipedia.org】
+L111:   * 【77†Deutsch†de.wikipedia.org】
+L112:   * 【78†Ελληνικά†el.wikipedia.org】
+L113:   * 【79†Esperanto†eo.wikipedia.org】
+L114:   * 【80†Español†es.wikipedia.org】
+L115:   * 【81†Eesti†et.wikipedia.org】
+L116:   * 【82†Euskara†eu.wikipedia.org】
+L117:   * 【83†فارسی†fa.wikipedia.org】
+L118:   * 【84†Suomi†fi.wikipedia.org】
+L119:   * 【85†Français†fr.wikipedia.org】
+L120:   * 【86†עברית†he.wikipedia.org】
+L121:   * 【87†हिन्दी†hi.wikipedia.org】
+L122:   * 【88†Fiji Hindi†hif.wikipedia.org】
+L123:   * 【89†Hrvatski†hr.wikipedia.org】
+L124:   * 【90†Magyar†hu.wikipedia.org】
+L125:   * 【91†Bahasa Indonesia†id.wikipedia.org】
+L126:   * 【92†Italiano†it.wikipedia.org】
+L127:   * 【93†日本語†ja.wikipedia.org】
+L128:   * 【94†ქართული†ka.wikipedia.org】
+L129:   * 【95†한국어†ko.wikipedia.org】
+L130:   * 【96†Lietuvių†lt.wikipedia.org】
+L131:   * 【97†Latviešu†lv.wikipedia.org】
+L132:   * 【98†Malagasy†mg.wikipedia.org】
+L133:   * 【99†മലയാളം†ml.wikipedia.org】
+L134:   * 【100†Bahasa Melayu†ms.wikipedia.org】
+L135:   * 【101†Nederlands†nl.wikipedia.org】
+L136:   * 【102†Norsk nynorsk†nn.wikipedia.org】
+L137:   * 【103†Norsk bokmål†no.wikipedia.org】
+L138:   * 【104†Occitan†oc.wikipedia.org】
+L139:   * 【105†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L140:   * 【106†Polski†pl.wikipedia.org】
+L141:   * 【107†پنجابی†pnb.wikipedia.org】
+L142:   * 【108†پښتو†ps.wikipedia.org】
+L143:   * 【109†Português†pt.wikipedia.org】
+L144:   * 【110†Română†ro.wikipedia.org】
+L145:   * 【111†Русский†ru.wikipedia.org】
+L146:   * 【112†संस्कृतम्†sa.wikipedia.org】
+L147:   * 【113†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L148:   * 【114†සිංහල†si.wikipedia.org】
+L149:   * 【115†Simple English†simple.wikipedia.org】
+L150:   * 【116†Slovenčina†sk.wikipedia.org】
+L151:   * 【117†Slovenščina†sl.wikipedia.org】
+L152:   * 【118†Српски / srpski†sr.wikipedia.org】
+L153:   * 【119†Svenska†sv.wikipedia.org】
+L154:   * 【120†தமிழ்†ta.wikipedia.org】
+L155:   * 【121†Тоҷикӣ†tg.wikipedia.org】
+L156:   * 【122†ไทย†th.wikipedia.org】
+L157:   * 【123†Türkçe†tr.wikipedia.org】
+L158:   * 【124†Українська†uk.wikipedia.org】
+L159:   * 【125†اردو†ur.wikipedia.org】
+L160:   * 【126†Oʻzbekcha / ўзбекча†uz.wikipedia.org】
+L161:   * 【127†Tiếng Việt†vi.wikipedia.org】
+L162:   * 【128†მარგალური†xmf.wikipedia.org】
+L163:   * 【129†粵語†zh-yue.wikipedia.org】
+L164:   * 【130†中文†zh.wikipedia.org】
+L165: 【131†Edit links†www.wikidata.org】
+L166: 
+L167:   * 【132†Article】
+L168:   * 【133†Talk】
+L169: 
+L170: [Input] English
+L171: 
+L172:   * 【132†Read】
+L173:   * 【134†View source】
+L174:   * 【135†View history】
+L175:   * 【17†Save】
+L176: 
+L177: [Input] Tools
+L178: 
+L179: Tools
+L180: 
+L181: [Button: move to sidebar] [Button: hide]
+L182: 
+L183: Actions
+L184: 
+L185:   * 【132†Read】
+L186:   * 【134†View source】
+L187:   * 【135†View history】
+L188:   * 【17†Save】
+L189: 
+L190: General
+L191:   * 【136†What links here】
+L192:   * 【137†Related changes】
+L193:   * 【138†Upload file】
+L194:   * 【139†Permanent link】
+L195:   * 【140†Page information】
+L196:   * 【141†Cite this page】
+L197:   * 【142†Get shortened URL】
+L198:   * 【143†Switch to legacy parser】
+L199: 
+L200: Print/export
+L201: 
+L202:   * 【144†Download as PDF】
+L203:   * Printable version
+L204: 
+L205: In other projects
+L206: 
+L207:   * 【145†Wikimedia Commons†commons.wikimedia.org】
+L208:   * 【146†Wikidata item†www.wikidata.org】
+L209: 
+L210: Appearance
+L211: 
+L212: [Button: move to sidebar] [Button: hide]
+L213: "Indo-Greeks" redirects here. For more details on Ancient Greece and Ancient India including mythology, see 【147†Ancient Greece–Ancient India relations】.
+L214: Indo-Greek Kingdom
+L215: ---
+L216: 200 BC–10 AD
+L217: Coin of the Indo-Greek king 【148†Hippostratus】.
+L218: Greatest extent of the kingdom (2nd-century BCE)
+L219: Capital  | 【149†Taxila】
+L220: 【150†Sagala】
+L221: Common languages  | 【151†Koine Greek】
+L222: 【152†Gandhari】
+L223: 【153†Pali】
+L224: 【154†Sanskrit】
+L225: 【155†Prakrit】
+L226: Religion  | 【156†Greco-Buddhism】 (Ruling dynasty)
+L227: Other religions
+L228: 【157†Ancient Greek religion】
+L229: 【158†Buddhism】
+L230: 【159†Hinduism】
+L231: 【160†Jainism】
+L232: 【161†Zoroastrianism】
+L233: Government  | 【162†Monarchy】
+L234: 【163†Basileus】  |
+L235: • 200–180 BC  | 【164†Demetrius I】 (first)
+L236: • 174–165 BC  | 【165†Antimachus II】
+L237: • 165/155–130 BC  | 【166†Menander the Great】
+L238: • 25 BC–10 AD  | 【167†Strato III】 (last)
+L239: Historical era  | 【168†Antiquity】
+L240: • Established  | 200 BC
+L241: • Disestablished  | 10 AD
+L242: Area
+L243: ---
+L244: 150 BC^{【169†[1]】}  | 1,100,000 km^{2} (420,000 sq mi)
+L245: Preceded by Succeeded by
+L246: 【170†Image†upload.wikimedia.org】 【171†Greco-Bactrian Kingdom】
+L247: 【170†Image†upload.wikimedia.org】 【172†Maurya Empire】
+L248: 【173†Indo-Scythians】 【170†Image†upload.wikimedia.org】
+L249: 【174†Indo-Parthians】 【170†Image†upload.wikimedia.org】
+L250: Today part of  | 【175†Afghanistan】
+L251: 【176†Pakistan】
+L252: 【177†India】
+L253: The Indo-Greek Kingdom, also known as the Yavana Kingdom,^{【178†[a]】} were 【179†Hellenistic-era】 【180†Greek】 kingdoms in the northwestern part of the 【181†Indian subcontinent】 covering most of modern-day 【176†Pakistan】, parts of 【182†northwestern India】 and some eastern parts of 【175†Afghanistan】.^{【183†[3]】}^{【184†[4]】}^{【185†[5]】}^{【186†[6]】}^{【187†[7]】}^{【188†[8]】}
+L254: The term "Indo-Greek Kingdom" loosely describes a number of various Hellenistic states, ruling from regional capitals like 【189†Taxila】, 【150†Sagala】, 【190†Pushkalavati】, and 【191†Bagram】.^{【192†[9]】}^{【193†[10]】}^{【194†[11]】} Other centers are only hinted at; e.g. 【195†Ptolemy】's 【196†Geographia】 and the nomenclature of later kings suggest that 【197†Theophilus】 in the south of the Indo-Greek sphere of influence may also have had a royal seat there at one time.
+L255: The kingdom was founded when the 【198†Graeco-Bactrian】 king 【164†Demetrius I of Bactria】 invaded India from Bactria in about 200 BC.^{【199†[12]】} The Greeks to the east of the 【200†Seleucid Empire】 were eventually divided to the 【171†Graeco-Bactrian Kingdom】 and the Indo-Greek Kingdoms in the North Western Indian Subcontinent.^{【201†[13]】}
+L256: During the two centuries of their rule, the Indo-Greek kings 【156†combined the Greek and Indian languages and symbols】, as seen on their coins, and blended Greek and Indian ideas, as seen in the archaeological remains.^{【202†[14]】} The diffusion of Indo-Greek culture had consequences which are still felt today, particularly through the influence of 【203†Greco-Buddhist art】.^{【204†[15]】} The ethnicity of the Indo-Greek may also have been hybrid to some degree.
+L257: 【205†Euthydemus I】 was, according to Polybius,^{【206†[16]】} a 【207†Magnesian】 【208†Greek】. 【205†Euthydemus I】 was an 【209†Ionian-Greek】 from one of the Magnesias in 【210†Ionia】,^{【211†[17]】} though it is uncertain from which one (【212†Magnesia on the Maeander】 or 【213†Magnesia ad Sipylum】).^{【214†[18]】}^{【215†[19]】}^{【216†[20]】} His son, 【164†Demetrius I】, founder of the Indo-Greek kingdom, was therefore of Greek ethnicity at least by his father.
+L258: A marriage treaty was arranged for the same Demetrius with a daughter of the 【200†Seleucid】 ruler 【217†Antiochus III】. The ethnicity of later Indo-Greek rulers is sometimes less clear.^{【218†[21]】} For example, 【219†Artemidoros】 (80 BC) was supposed to have been of 【220†Indo-Scythian】 descent, although he is now seen as a regular Indo-Greek king.^{【221†[22]】}
+L259: 【166†Menander I】, being the most well known amongst the Indo-Greek kings, is often referred to simply as "Menander," despite the fact that there was indeed another Indo-Greek King known as Menander II. Menander I's capital was at Sakala in the Punjab (present-day Sialkot). Following the death of Menander, most of his empire splintered and Indo-Greek influence was considerably reduced.
+L260: Many new kingdoms and republics east of the 【222†Ravi River】 began to mint new coinage depicting military victories.^{【223†[23]】} The most prominent entities to form were the 【224†Yaudheya】 Republic, 【225†Arjunayanas】, and the 【226†Audumbaras】. The Yaudheyas and Arjunayanas both are said to have won "victory by the sword".^{【227†[24]】} The 【228†Datta dynasty】 and 【229†Mitra dynasty】 soon followed in 【230†Mathura】.
+L261: The Indo-Greeks ultimately disappeared as a political entity around 10 AD following the invasions of the 【220†Indo-Scythians】, although pockets of Greek populations probably remained for several centuries longer under the subsequent rule of the 【231†Indo-Parthians】, the 【232†Kushans】,^{【233†[b]】} and the 【173†Indo-Scythians】, whose 【234†Western Satraps】 state lingered on encompassing local 【235†Greeks】, up to 415 AD.
+L262: ## Background
+L263: ### Initial Greek presence in the Indian subcontinent
+L264: 
+L265: 【236†Pataliputra Palace capital】, showing Greek and Persian influence, early 【237†Mauryan Empire】 period, 3rd century BC.
+L266: Greeks first began to establish authority in the Northwestern part of the Indian subcontinent during the time of the 【238†Persian】 【239†Achaemenid Empire】. 【240†Darius the Great】 conquered the area, but along with his successors also conquered much of the Greek world, which at the time included all of the western 【241†Anatolian peninsula】.
+L267: When Greek villages rebelled under the Persian yoke, they were sometimes ethnically cleansed, their inhabitants relocated to the far side of the empire around today's Afghanistan. Over time they grew influential politically and rose to power establishing their own independent kingdoms and expanding their realm in all directions.
+L268: In the fourth century BC, 【242†Alexander the Great】 defeated and conquered the Persian empire. In 326 BC, this 【243†included the northwestern part】 of the Indian subcontinent as far as the 【244†Hyphasis River】.
+L269: Alexander established 【245†satrapies】 and founded several cities, including 【246†Bucephala】; he turned south when his troops refused to go further east.^{【247†[25]】} The Indian satrapies of the 【248†Punjab】 were left to the rule of 【249†Porus】 and 【250†Taxiles】, who were confirmed again at the 【251†Treaty of Triparadisus】 in 321 BC, and the remaining Greek troops in these satrapies were left under the command of Alexander's general 【252†Eudemus】.
+L270: After 321 BC Eudemus toppled Taxiles, until he left India in 316 BC. To the south, another general also ruled over the Greek colonies of the Indus: 【253†Peithon, son of Agenor】,^{【254†[26]】} until his departure for 【255†Babylon】 in 316 BC.
+L271: Around 322 BC, the Greeks (described as 【256†Yona】 or 【257†Yavana】 in Indian sources) may then have participated, together with other groups, in the uprising of 【258†Chandragupta Maurya】 against the 【259†Nanda dynasty】, and gone as far as 【260†Pataliputra】 for the capture of the city from the Nandas.
+L272: The 【261†Mudrarakshasa】 of 【262†Visakhadutta】 as well as the 【263†Jaina】 work Parisishtaparvan talk of Chandragupta's alliance with the Himalayan king Parvatka, often identified with 【249†Porus】,^{【264†[27]】} and according to these accounts, this alliance gave Chandragupta a composite and powerful army made up of 【257†Yavanas】 (Greeks), 【265†Kambojas】, 【266†Shakas】 (Scythians), 【267†Kiratas】 (Nepalese), 【268†Parasikas】 (Persians) and 【269†Bahlikas】 (Bactrians) who took 【260†Pataliputra】.^{【270†[28]】}^{【271†[29]】}^{【272†[30]】}
+L273: In 305 BC, 【273†Seleucus I】 led an army to the 【274†Indus】, where he encountered 【258†Chandragupta】. The confrontation ended with a peace treaty, and "an intermarriage agreement" (【275†Epigamia】, Greek: Ἐπιγαμία), meaning either a dynastic marriage or an agreement for intermarriage between Indians and Greeks.
+L274: Accordingly, Seleucus ceded his eastern territories to Chandragupta, possibly as far as 【276†Arachosia】 and received 500 【277†war elephants】 (which played a key role in Seleucus's victory at the 【278†Battle of Ipsus】):^{【279†[31]】}
+L275: > The Indians occupy in part some of the countries situated along the Indus, which formerly belonged to the Persians: Alexander deprived the Ariani of them, and established there settlements of his own. But 【280†Seleucus Nicator】 gave them to 【281†Sandrocottus】 in consequence of a marriage contract, and received in return five hundred elephants.
+L276: 
+L277: — 【282†Strabo】 15.2.1(9)^{【283†[32]】}
+L278: The details of the marriage agreement are not known,^{【284†[33]】} but since the extensive sources available on Seleucus never mention an Indian princess, it is thought that the marital alliance went the other way, with Chandragupta himself or his son Bindusara marrying a Seleucid princess, in accordance with contemporary Greek practices to form dynastic alliances.
+L279: An Indian 【285†Puranic】 source, the 【286†Pratisarga Parva】 of the 【287†Bhavishya Purana】, described the marriage of Chandragupta with a Greek ("【257†Yavana】") princess, daughter of Seleucus,^{【288†[34]】} before accurately detailing early Mauryan genealogy:
+L280: > "【258†Chandragupta】 married with a daughter of 【289†Suluva】, the 【257†Yavana】 king of 【290†Pausasa】. Thus, he mixed the Buddhists and the Yavanas. He ruled for 60 years. From him, 【291†Vindusara】 was born and ruled for the same number of years as his father. His son was 【292†Ashoka】."
+L281: 
+L282: — Pratisarga Parva^{【293†[35]】}^{【288†[34]】}
+L283: 
+L284: 【294†Kandahar Bilingual Rock Inscription】 (【295†Greek】 and 【296†Aramaic】) by king 【292†Ashoka】, from 【297†Kandahar】, 【175†Afghanistan】.^{【298†[36]】}
+L285: 【258†Chandragupta】, however, followed Jainism until the end of his life. He got in his court for marriage the daughter of 【280†Seleucus Nicator】, and thus, he mixed the Indians and the Greeks. His grandson 【292†Ashoka】, as Woodcock and other scholars have suggested, "may in fact have been half or at least a quarter Greek."^{【299†[37]】}
+L286: Also several Greeks, such as the historian 【300†Megasthenes】,^{【301†[38]】} followed by 【302†Deimachus】 and 【303†Dionysius】, were sent to reside at the 【172†Mauryan】 court.^{【304†[39]】} Presents continued to be exchanged between the two rulers.^{【305†[40]】} The intensity of these contacts is testified by the existence of a dedicated Mauryan state department for Greek (【257†Yavana】) and Persian foreigners,^{【306†[41]】} or the remains of 【307†Hellenistic】 pottery that can be found throughout northern India.^{【308†[42]】}
+L287: On these occasions, Greek populations apparently remained in the northwest of the Indian subcontinent under Mauryan rule. Chandragupta's grandson 【292†Ashoka】, who had converted to the Buddhist faith declared in the 【309†Edicts of Ashoka】, set in stone, some of them written in Greek,^{【310†[43]】}^{【311†[44]】} that Greek populations within his realm also had converted to Buddhism:^{【312†[45]】}
+L288: > Here in the king's domain among the Greeks, the 【265†Kambojas】, the Nabhakas, the Nabhapamkits, the Bhojas, the Pitinikas, the 【313†Andhras】 and the Palidas, everywhere people are following Beloved-of-the-Gods' instructions in 【314†Dharma】.
+L289: 
+L290: — 【309†Rock Edict Nb13】 (S. Dhammika).
+L291: In his edicts, Ashoka mentions that he had sent Buddhist emissaries to Greek rulers as far as the Mediterranean (【309†Edict No. 13】),^{【315†[46]】}^{【316†[47]】} and that he developed 【317†herbal medicine】 in their territories, for the welfare of humans and animals (【309†Edict No. 2】).^{【318†[48]】}
+L292: 
+L293: According to the 【319†Mahavamsa】, the 【320†Great Stupa】 in 【321†Anuradhapura】, 【322†Sri Lanka】, was dedicated by a 30,000-strong "【256†Yona】" (Greek) delegation from "【323†Alexandria】" around 130 BC.
+L294: The Greeks in India even seem to have played an active role in the propagation of Buddhism, as some of the emissaries of Ashoka such as 【324†Dharmaraksita】,^{【325†[49]】} or the teacher 【326†Mahadharmaraksita】,^{【327†[50]】} are described in 【153†Pali】 sources as leading Greek ("【256†Yona】", i.e., Ionian) Buddhist monks, active in Buddhist proselytism (the 【319†Mahavamsa】, XII).^{【328†[51]】} It is also thought that Greeks contributed to the sculptural work of the 【329†Pillars of Ashoka】,^{【330†[52]】} and more generally to the blossoming of Mauryan art.^{【331†[53]】} Some Greeks (Yavanas) may have played an administrative role in the territories ruled by Ashoka: the 【332†Junagadh rock inscription of Rudradaman】 records that during the rule of Ashoka, a 【257†Yavana】 King/ Governor named 【333†Tushaspha】 was in charge in the area of 【334†Girnar】, 【335†Gujarat】, mentioning his role in the construction of a water reservoir.^{【336†[54]】}^{【337†[55]】}
+L295: Again in 206 BC, the 【200†Seleucid】 emperor 【338†Antiochus】 led an army to the 【339†Kabul】 valley, where he received war elephants and presents from the local king 【340†Sophagasenus】:^{【341†[56]】}
+L296: > He (Antiochus) crossed the Caucasus (the Caucasus Indicus or Paropamisus: mod. 【342†Hindú Kúsh】) and descended into India; renewed his friendship with 【340†Sophagasenus】 the king of the Indians; received more elephants, until he had a hundred and fifty altogether; and having once more provisioned his troops, set out again personally with his army: leaving 【343†Androsthenes of Cyzicus】 the duty of taking home the treasure which this king had agreed to hand over to him.
+L297: — 【344†Polybius】, 【345†Histories】 11.39^{【346†[57]】}^{【347†[58]】}
+L298: ### Greek rule in Bactria
+L299: 
+L300: Greco-Bactrian statue of an old man or philosopher, 【348†Ai Khanoum】, 【349†Bactria】, 2nd century BC
+L301: 
+L302: Main article: 【171†Greco-Bactrian Kingdom】
+L303: Alexander had also established several colonies in neighbouring 【349†Bactria】, such as 【350†Alexandria on the Oxus】 (modern 【351†Ai-Khanoum】) and 【323†Alexandria of the Caucasus】 (medieval 【352†Kapisa】, modern 【191†Bagram】). After Alexander's death in 323 BC, Bactria came under the control of 【289†Seleucus I Nicator】, who founded the 【200†Seleucid Empire】.
+L304: The Greco-Bactrian Kingdom was founded when Diodotus I, the 【245†satrap】 of Bactria (and probably the surrounding provinces) seceded from the Seleucid Empire around 250 BC. The preserved ancient sources (see below) are somewhat contradictory and the exact date of Bactrian independence has not been settled. Somewhat simplified, there is a high chronology (c. 255 BC) and a low chronology (c.
+L305: 246 BC) for Diodotos' secession.^{【353†[59]】} The high chronology has the advantage of explaining why the Seleucid king 【354†Antiochus II】 issued very few coins in Bactria, as Diodotos would have become independent there early in Antiochus' reign.^{【355†[60]】} On the other hand, the low chronology, from the mid-240s BC, has the advantage of connecting the secession of Diodotus I with the 【356†Third Syrian War】, a catastrophic conflict for the Seleucid Empire.
+L306: > Diodotus, the governor of the thousand cities of Bactria (【357†Latin】: Theodotus, mille urbium Bactrianarum praefectus), defected and proclaimed himself king; all the other people of the Orient followed his example and seceded from the Macedonians.
+L307: 
+L308: — (【358†Justin】, XLI,4^{【359†[61]】})
+L309: The new kingdom, highly urbanized and considered one of the richest of the Orient (opulentissimum illud mille urbium Bactrianum imperium "The extremely prosperous Bactrian empire of the thousand cities" Justin, XLI,1^{【360†[62]】}), was to further grow in power and engage into territorial expansion to the east and the west:
+L310: > The Greeks who caused Bactria to revolt grew so powerful on account of the fertility of the country that they became masters, not only of 【361†Ariana】, but also of 【177†India】, as 【362†Apollodorus of Artemita】 says: and more tribes were subdued by them than by Alexander... Their cities were 【363†Bactra】 (also called Zariaspa, through which flows a river bearing the same name and emptying into the 【364†Oxus】), and Darapsa, and several others.
+L311: Among these was 【365†Eucratidia】, which was named after its ruler.
+L312: — (Strabo, XI.XI.I^{【366†[63]】})
+L313: 
+L314: 【367†Corinthian】 capital, found at 【351†Ai-Khanoum】, 2nd century BC
+L315: 
+L316: When the ruler of neighbouring 【368†Parthia】, the former satrap and self-proclaimed king 【369†Andragoras】, was eliminated by 【370†Arsaces】, the rise of the 【371†Parthian Empire】 cut off the Greco-Bactrians from direct contact with the Greek world. Overland trade continued at a reduced rate, while sea trade between 【372†Greek Egypt】 and Bactria developed.
+L317: Diodotus was succeeded by his son 【373†Diodotus II】, who allied himself with the Parthian 【374†Arsaces】 in his fight against 【375†Seleucus II】:
+L318: 
+L319: > Soon after, relieved by the death of Diodotus, Arsaces made peace and concluded an alliance with his son, also by the name of Diodotus; some time later he fought against Seleucos who came to punish the rebels, and he prevailed: the Parthians celebrated this day as the one that marked the beginning of their freedom
+L320: 
+L321: — (Justin, XLI,4)^{【376†[64]】}

@@ -1,0 +1,363 @@
+Gujarat Sultanate - Wikipedia (https://en.wikipedia.org/wiki/Gujarat_Sultanate)
+citeturn89view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Gujarat_Sultanate","lineno":null}); Total lines: 524
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Early rulers】
+L51:     * 【21†2.2 Ahmad Shah I】
+L52:     * 【22†2.3 Successors of Ahmad Shah I】
+L53:     * 【23†2.4 Mahmud Begada】
+L54:     * 【24†2.5 Muzaffar Shah II and his successors】
+L55:     * 【25†2.6 Bahadur Shah and his successors】
+L56:     * 【26†2.7 Muzaffar Shah III】
+L57:   * 【27†3 Gunpowder weapons】
+L58:   * 【28†4 List of rulers】
+L59:   * 【29†5 Administration】
+L60:   * 【30†6 Historiography】
+L61:   * 【31†7 Architecture】 Toggle Architecture subsection
+L62:     * 【32†7.1 Gallery】
+L63:   * 【33†8 References】 Toggle References subsection
+L64:     * 【34†8.1 Bibliography】
+L65:   * 【35†9 External links】
+L66: [Input] Toggle the table of contents
+L67: # Gujarat Sultanate
+L68: 
+L69: [Input] 25 languages
+L70:   * 【36†العربية†ar.wikipedia.org】
+L71:   * 【37†Asturianu†ast.wikipedia.org】
+L72:   * 【38†Azərbaycanca†az.wikipedia.org】
+L73:   * 【39†বাংলা†bn.wikipedia.org】
+L74:   * 【40†Català†ca.wikipedia.org】
+L75:   * 【41†Deutsch†de.wikipedia.org】
+L76:   * 【42†Español†es.wikipedia.org】
+L77:   * 【43†Euskara†eu.wikipedia.org】
+L78:   * 【44†فارسی†fa.wikipedia.org】
+L79:   * 【45†Français†fr.wikipedia.org】
+L80:   * 【46†ગુજરાતી†gu.wikipedia.org】
+L81:   * 【47†हिन्दी†hi.wikipedia.org】
+L82:   * 【48†Bahasa Indonesia†id.wikipedia.org】
+L83:   * 【49†日本語†ja.wikipedia.org】
+L84:   * 【50†한국어†ko.wikipedia.org】
+L85:   * 【51†Nederlands†nl.wikipedia.org】
+L86:   * 【52†پنجابی†pnb.wikipedia.org】
+L87:   * 【53†Português†pt.wikipedia.org】
+L88:   * 【54†Русский†ru.wikipedia.org】
+L89:   * 【55†Svenska†sv.wikipedia.org】
+L90:   * 【56†తెలుగు†te.wikipedia.org】
+L91:   * 【57†Türkçe†tr.wikipedia.org】
+L92:   * 【58†Українська†uk.wikipedia.org】
+L93:   * 【59†اردو†ur.wikipedia.org】
+L94:   * 【60†中文†zh.wikipedia.org】
+L95: 【61†Edit links†www.wikidata.org】
+L96: 
+L97:   * 【62†Article】
+L98:   * 【63†Talk】
+L99: 
+L100: [Input] English
+L101: 
+L102:   * 【62†Read】
+L103:   * 【64†Edit】
+L104:   * 【65†View history】
+L105:   * 【17†Save】
+L106: 
+L107: [Input] Tools
+L108: 
+L109: Tools
+L110: 
+L111: [Button: move to sidebar] [Button: hide]
+L112: 
+L113: Actions
+L114: 
+L115:   * 【62†Read】
+L116:   * 【64†Edit】
+L117:   * 【65†View history】
+L118:   * 【17†Save】
+L119: 
+L120: General
+L121: 
+L122:   * 【66†What links here】
+L123:   * 【67†Related changes】
+L124:   * 【68†Upload file】
+L125:   * 【69†Permanent link】
+L126:   * 【70†Page information】
+L127:   * 【71†Cite this page】
+L128:   * 【72†Get shortened URL】
+L129:   * 【73†Switch to legacy parser】
+L130: Print/export
+L131: 
+L132:   * 【74†Download as PDF】
+L133:   * Printable version
+L134: 
+L135: In other projects
+L136: 
+L137:   * 【75†Wikimedia Commons†commons.wikimedia.org】
+L138:   * 【76†Wikiquote†en.wikiquote.org】
+L139:   * 【77†Wikidata item†www.wikidata.org】
+L140: 
+L141: Appearance
+L142: 
+L143: [Button: move to sidebar] [Button: hide]
+L144: Sultanate of Gujarat سلطنت گجرات (【78†Persian】)
+L145: Gujarāt Saltanat (【79†Gujarati】)
+L146: ---
+L147: 1394–1573
+L148: Main territories under 【80†Mahmud Begada】 c. (circa) 1490 Greatest extent under 【81†Bahadur Shah】 c. (circa) 1532^{【82†[1]】}
+L149: Status  | 【83†Sultanate】
+L150: Capital  | 【84†Anhilwad Patan】 (1407–1411)
+L151: 【85†Ahmedabad】 (1411–1484, 1535–1573)
+L152: 【86†Champaner】 (1484–1535)
+L153: Common languages  | 【78†Persian】 (official)
+L154: 【87†Middle Gujarati】 (【88†Lingua franca】)
+L155: Religion  | 【89†Islam】
+L156: Government  | 【90†Absolute Monarchy】
+L157: 【91†Sultan】  |
+L158: • 1407–1411  | 【92†Muzaffar Shah I】 (first)
+L159: • 1561–1573, 1584  | 【93†Muzaffar Shah III】 (last)
+L160: Historical era  | 【94†Medieval India】
+L161: • Declared independence from Delhi Sultanate  | 1394
+L162: • 【95†Invasion of Malwa】  | 1407
+L163: • 【96†Konkan War】  | 1429–1431
+L164: • 【97†Conquest of Junagadh】  | 1467–1470
+L165: • 【98†Siege of Champaner】  | 1483–1484
+L166: • 【99†Conquest of Malwa】  | 1531
+L167: • 【100†Treaty of Bassein】  | 1534
+L168: • Annexed by Mughals  | 1573
+L169: • 【101†Battle of Bhuchar Mori】  | July 1591
+L170: Currency  | 【102†Taka】
+L171: Preceded by Succeeded by
+L172: 【103†Image†upload.wikimedia.org】 【104†Delhi Sultanate】
+L173: 【103†Image†upload.wikimedia.org】 【105†Malwa Sultanate】
+L174: 【103†Image†upload.wikimedia.org】 【106†Chudasama dynasty】
+L175: 【107†Mughal Empire】 【103†Image†upload.wikimedia.org】
+L176: Today part of  | 【108†India】
+L177: The Gujarat Sultanate or Sultanate of Gujarat was a late 【94†medieval Indian】 state in 【109†Western India】, primarily based in the present-day state of 【110†Gujarat】. The kingdom was established in 1394 when 【92†Muzaffar Shah I】, the governor of 【104†Gujarat】, declared independence from the 【111†Tughlaq dynasty】 of 【112†Delhi】.^{【113†[2]】}
+L178: Following 【114†Timur】's invasion of the Delhi Sultanate, Delhi was devastated and its rule weakened considerably, leading Muzaffar Shah to declare himself independent in 1394, and formally established the Sultanate in Gujarat. The next 【115†sultan】, his grandson 【116†Ahmad Shah I】, moved the capital to 【85†Ahmedabad】 in 1411. His successor 【117†Muhammad Shah II】 subdued most 【118†Rajput】 chieftains. The prosperity of the sultanate reached its zenith during the rule of 【80†Mahmud Begada】.
+L179: He also subdued most Gujarati Rajput chieftains and built a navy off the coast of 【119†Diu】. The greatest territorial extent was achieved under 【81†Bahadur Shah】.
+L180: In 1509, the 【120†Portuguese Empire】 wrested Diu from the Sultanate in the 【121†Battle of Diu】. The Mughal emperor 【122†Humayun】 attacked Gujarat in 1535 and briefly occupied it, during which 【123†Bombay, Bassein and Daman】 would become a Portuguese colony, thereafter Bahadur Shah was killed by the Portuguese while making a deal in 1537. The end of the sultanate came in 1573, when 【124†Akbar】 annexed the Gujarat Sultanate into his empire.
+L181: The last ruler, 【93†Muzaffar Shah III】, was taken a prisoner to 【125†Agra】. In 1583, he escaped from the prison, and with the help of the nobles, succeeded to regain the throne for a short period before being defeated by Akbar's minister 【126†Abdul Rahim Khan-i-Khanan】.^{【127†[3]】}
+L182: ## Origin
+L183: 
+L184: [【128†edit】]
+L185: 
+L186: The 【91†Muzaffarid dynasty】 of Gujarat was founded by Zafar Khan, later titled 【92†Muzaffar Shah I】. His ancestors were of indigenous Muslim origin,^{【129†[4]】} Zafar Khan being described as the son of a "peasant convert to Islam" by 【130†Richard M. Eaton】.^{【131†[5]】}
+L187: The main source from the period providing some details regarding his ancestry is that of the 16th-century Gujarati 【132†court historian】 Sikandar ibn Manjhu, author of the 【78†Persian】 chronicle Mir’āt-i-Sikandarī.
+L188: According to Mir’āt-i-Sikandarī, Zafar Khan belonged to a sect of 【133†Khatris】 (Persian: khtry) known as Tanks (Persian: tāk or tānk), and that Tanks and Khatris were originally single community which later separated when the former were expelled for their fondness for drinking (Persian: khumar).^{【134†[6]】}^{【129†[4]】} Sikandar also denied the local traditions that the ancestors of the dynasty were 【135†Kalal】 (Persian: khumar), a 【136†wine-brewing】 and selling caste.^{【137†[7]】} This account of descent from Tank subcaste of Khatris is repeated by ʿAlī Muḥammad Khān, an 18th-century Mughal 【138†divan】 of 【107†Gujarat】 in his Mirʾāt-i Aḥmadī, where he lists the Mirʾāt-i Sikandarī among the works he used as sources.^{【139†[8]】} Following these sources, a number of modern historians including 【140†André Wink】, S.
+L189: C. Misra and 【141†Sanjay Subrahmanyam】 describe Zafar Khan as hailing from the Tank subgroup of the Khatri caste, originally from 【142†Punjab】, although he himself was born in 【143†Delhi】.^{【144†[9]】}^{【145†[10]】}^{【146†[11]】}^{【147†[12]】}^{【148†[13]】}
+L190: A 15th-century 【149†Sanskrit】 poem Rājavinoda written by Udayaraja for Sultan 【80†Mahmud Begada】 traces his ancestry from the 【150†Solar dynasty】, hence giving him a 【151†Kshatriya】 lineage. The medieval historian Sikandar also noted the tradition among Hindu Tank subcaste of Khatris of being descended from 【152†Ramacandra】.^{【129†[4]】} Based on these traditions, some historians such as Aparna Kapadia consider the Muzaffarids to be of 【118†Rajput】 status.^{【153†[14]】}^{【154†[15]】}
+L191: According to Sikandar, their conversion to Islam was linked to a marital alliance in which Sultan 【155†Firuz Shah Tughlaq】 married Sahāran's sister, which facilitated the family’s rise in status and influence.^{【153†[14]】} Zafar Khan had a Khatri as his divan when he was appointed governor of Gujarat, and several of his prominent nobles were also Khatris.^{【156†[16]】}
+L192: ## History
+L193: 
+L194: [【157†edit】]
+L195: 
+L196: Silver Tanka of 【158†Nasir al-din Mahmud Shah III】, Sultanate of Gujarat.
+L197: ### Early rulers
+L198: 
+L199: [【159†edit】]
+L200: It is said that Zafar Khan's father Wajih-ul-Mulk (Saharan) and his brother were influential 【160†Chaudharis】 who were agriculturists by profession but could also muster thousands of fighting men on their call.^{【161†[17]】} Sahāran (also spelled Sadhāran), the father of Zafar Khan, originally lived in 【162†Thanesar】 in present-day Haryana. Delhi Sultan 【163†Firuz Shah Tughluq】 appointed Malik Mufarrah, also known as Farhat-ul-Mulk and Rasti Khan governor of Gujarat in 1377.
+L201: In 1387, Sikandar Khan was sent to replace him, but he was defeated and killed by Farhat-ul-Mulk. In 1391, Sultan Nasir-ud-Din Muhammad bin Tughluq appointed Zafar Khan, the son of Wajih-ul-Mulk as governor of Gujarat and conferred him the title of Muzaffar Khan (r. (reigned) 1391–1403, 1404–1411). In 1392, he defeated Farhat-ul-Mulk in the 【164†battle of Kamboi】, near Anhilwada Patan and occupied the city of Anhilwada Patan.^{【165†[18]】}^{【166†[19]】}^{【167†[20]】}
+L202: In 1403, Zafar Khan's son Tatar Khan urged his father to march on Delhi, which he declined. As a result, in 1403, Tatar imprisoned him in Ashawal (future Ahmedabad) and declared himself sultan under the title of 【168†Muhammad Shah I】 (r. 1403–1404). He marched towards Delhi, but on the way he was poisoned by his uncle, Shams Khan. After the death of Muhammad Shah, Muzaffar was released from the prison and he took over the control over administration.
+L203: In 1407, he declared himself as Sultan 【92†Muzaffar Shah I】, took the insignia of royalty and issued coins in his name. After his death in 1411, he was succeeded by his grandson, the son of Tatar Khan, 【116†Ahmad Shah I】.^{【169†[21]】}^{【165†[18]】}^{【167†[20]】}
+L204: ### Ahmad Shah I
+L205: 
+L206: [【170†edit】]
+L207: Soon after his accession, 【116†Ahmad Shah I】 was faced with a rebellion of his uncles. The rebellion was led by his eldest uncle Firuz Khan, who declared himself king.
+L208: Firuz Khan assembled forces at Vadodara and marched to Nadiad, where a group of rebels joined him including Husam al Mulk Bhandari, Malik Ahmad, Malik Shah, Jiwandas Khatri, and Prayagdas, after which they moved to secure Khambhat, but divisions among the insurgent leaders reportedly led to an internal scuffle in which Jiwandas Khatri was killed.
+L209: The rebels then took Bharuch in January 1411 and awaited assistance from Hoshang Shah of Malwa, while Ahmad Shah advanced from Patan to Bharuch on 28 January 1411 and attempted to end the revolt through conciliatory letters and offers of amnesty.^{【161†[17]】} During this rebellion Sultan 【171†Hushang Shah】 of 【105†Malwa Sultanate】 invaded Gujarat.
+L210: He was repelled this time but he invaded again in 1417 along with Nasir Khan, the 【172†Farooqi dynasty】 ruler of 【173†Khandesh】 and occupied Sultanpur and Nandurbar. Gujarat army defeated them and later Ahmad Shah led four expeditions into Malwa in 1419, 1420, 1422 and 1438.^{【174†[22]】}^{【167†[20]】}
+L211: In 1429, Kanha Raja of 【175†Jhalawad】 with the help of the Bahmani Sultan Ahmad Shah ravaged Nandurbar. But Ahmad Shah's army defeated the Bahmani army and they fled to Daulatabad. The Bahmani Sultan Ahmad Shah sent strong reinforcements and the Khandesh army also joined them. They were again defeated by the Gujarat army. Finally, Ahmad Shah annexed 【176†Thana】 and 【177†Mahim】 from 【178†Bahmani Sultanate】.^{【174†[22]】}^{【167†[20]】}
+L212: At the beginning of his reign, he founded the city of 【85†Ahmedabad】 which he styled as Shahr-i-Mu'azzam (the great city) on the banks of 【179†Sabarmati River】. He shifted the capital from 【180†Anhilwada Patan】 to Ahmedabad. The 【181†Jami Masjid】 (1423) in Ahmedabad were built during his reign.^{【182†[23]】} Sultan Ahmad Shah died in 1443 and succeeded by his eldest son 【117†Muhammad Shah II】.^{【174†[22]】}^{【167†[20]】}
+L213: ### Successors of Ahmad Shah I
+L214: 
+L215: [【183†edit】]
+L216: 【117†Muhammad Shah II】 (r. 1442–1451) first led a campaign against Idar and forced its ruler, Raja Hari Rai or Bir Rai to submit to his authority. He then exacted tribute from the Rawal of 【184†Dungarpur】. In 1449, he marched against 【86†Champaner】, but the ruler of Champaner, Raja Kanak Das, with the help of Malwa Sultan 【185†Mahmud Khilji】 forced him to retreat. On the return journey, he fell seriously ill and died in February 1451.
+L217: After his death, he was succeeded by his son Qutb-ud-Din 【186†Ahmad Shah II】 (r. 1451–1458).^{【187†[24]】} Ahmad Shah II defeated Khilji at the 【188†Battle of Kapadvanj】. He helped Firuz Khan ruling from 【189†Nagaur】 against 【190†Rana Kumbha】 of 【191†Chittor】's attempt to overthrow him. After death of Ahmad Shah II in 1458, the nobles raised his uncle 【192†Daud Khan】, son of Ahmad Shah I, to the throne.^{【167†[20]】}
+L218: ### Mahmud Begada
+L219: 
+L220: [【193†edit】]
+L221: 
+L222: Main article: 【80†Mahmud Begada】
+L223: 
+L224: 【194†South Asia1525 CE】
+L225: 
+L226: 【195†DELHI】
+L227: 
+L228: 【195†SULTANATE(LODIS)】
+L229: 
+L230: 【196†TIMURID EMPIRE】
+L231: 【197†(Babur)】
+L232: 
+L233: 【198†SHAH MIRSULTANATE】
+L234: 
+L235: 【199†PHAGMODRUPAS】
+L236: 
+L237: 【200†KHANDESHSULTANATE】
+L238: 
+L239: 【201†BERARSULTANATE】
+L240: 
+L241: 【105†MALWASULTANATE】
+L242: 
+L243: 【202†ARGHUNS】
+L244: 
+L245: 【203†MAKRANSULTANATE】
+L246: 
+L247: 【204†LANGAHSULTANATE】
+L248: 
+L249: 【205†AMARKOT】
+L250: 
+L251: 【206†JAISALMER】
+L252: 
+L253: 【207†SHEKHAWAT】
+L254: 
+L255: 【208†BUNDI】
+L256: 
+L257: 【209†BIKANER】
+L258: 
+L259: 【62†GUJARATSULTANATE】
+L260: 
+L261: 【210†MEWAR】
+L262: 
+L263: 【211†MARWAR】
+L264: 
+L265: 【212†AMBER】
+L266: 
+L267: 【213†KARAULI】
+L268: 
+L269: 【214†MEWAT】
+L270: 【215†SIROHI】
+L271: 
+L272: 【216†VAGAD】
+L273: 
+L274: 【217†DIMASA】
+L275: 
+L276: 【218†TRIPWA】
+L277: 
+L278: 【219†AHOM】
+L279: 
+L280: 【220†KAMATAS】
+L281: 
+L282: 【221†SUGAUNAS】
+L283: 
+L284: 【222†BENGALSULTANATE】
+L285: 
+L286: 【223†GAJAPATIEMPIRE】
+L287: 
+L288: 【224†GONDWANA】
+L289: 
+L290: 【225†AHMADNAGARSULTANATE】
+L291: 
+L292: 【226†VIJAYANAGARAEMPIRE】
+L293: 
+L294: 【227†BIJAPURSULTANATE】
+L295: 
+L296: 【228†BIDARSULTANATE】
+L297: 
+L298: 【229†GOLKONDASULTANATE】
+L299: 
+L300: Location of the Gujarat Sultanate and neighbouring polities, circa 1500 CE.^{【230†[25]】}
+L301: But within a short period of seven or twenty-seven days, the nobles deposed Daud Khan and set on the throne Fath Khan, son of Muhammad Shah II. Fath Khan, on his accession, adopted the title Abu-al Fath Mahmud Shah, popularly known as Mahmud Begada. He expanded the kingdom in all directions. He received the sobriquet Begada, which literally means the conqueror of two forts, probably after conquering 【231†Girnar】 (【232†Junagadh】) and 【86†Champaner】 (【233†Pavagadh】) forts.
+L302: Mahmud died on 23 November 1511.^{【234†[26]】}^{【167†[20]】}
+L303: ### Muzaffar Shah II and his successors
+L304: 
+L305: [【235†edit】]
+L306: 
+L307: See also: 【236†Rana Sanga's invasion of Gujarat】
+L308: Khalil Khan, son of Mahmud Begada succeeded his father with the title 【237†Muzaffar Shah II】. In 1519, 【238†Rana Sanga】 of Chittor defeated a joint army of 【105†Malwa】 and Gujarat sultanates and took Mahmud Shah II of Malwa captive. Muzaffar Shah sent an army to Malwa but their service was not required as Rana Sanga had generously restored Mahmud Shah II to the throne.
+L309: However, Rana Sanga defeated 【239†Ibrahim Lodhi】 of Delhi at 【240†Battle of Dholpur】 around the same time and Conquered Much of 【241†Malwa】 along with 【242†Chanderi】 and he bestowed it to his Vassal 【243†Medini Rai】 who ruled over 【241†Malwa】 under his lordship with 【242†Chanderi】 as his capital.^{【244†[27]】}The victory brought Rajputs within day's march of 【125†Agra】 and 【143†Delhi】 and made them contender of supremacy of 【245†Northern India】.^{【246†[28]】} Rana Sanga later invaded Gujarat and plundered the Sultanate's treasuries, greatly damaging its prestige, Sanga also annexed northern Gujarat and appointed one of his 【118†Rajput】 vassals to rule there.
+L310: The invasion of Rana weakened Gujarat, however after Rana Sanga's death, the sultans of Gujarat freed their kingdom from 【247†Rajputs】 and grew even more powerful as they sacked Chittor fort in 1535.^{【248†[29]】}^{【249†[30]】} He died on 5 April 1526 and was succeeded by his eldest son, Sikandar.^{【250†[31]】}^{【167†[20]】}
+L311: After few months, Sikandar Sháh was murdered by a noble Imád-ul-Mulk, who seated a younger brother of Sikandar, named Násir Khán, on the throne with the title of Mahmúd Shah II and governed on his behalf. Other son of Muzaffar Shah II, Bhadur Khan returned from outside of Gujarat and the nobles joined him. Bahádur marched at once on Chámpáner, captured and executed Imád-ul-Mulk and poisoning Násir Khán ascended the throne in 1527 with the title of 【81†Bahádur Sháh】.^{【167†[20]】}
+L312: ### Bahadur Shah and his successors
+L313: 
+L314: [【251†edit】]
+L315: 
+L316: See also: 【252†Gujarati–Portuguese conflicts】
+L317: 
+L318: Death of 【81†Bahadur Shah of Gujarat】 an 【253†Ottoman】 ally at the 【254†Siege of Diu】. He was killed fighting against the 【120†Portuguese】 in 1537; (Illustration from the 【255†Akbarnama】, end of 16th century). Portuguese depiction of the Sultan of Gujarat Gujarat Sultanate in 1525
+L319: 【81†Bahadur Shah】 expanded his kingdom and made expeditions to help neighbouring kingdoms. In 1532, Gujarat came under attack of the 【256†Mughal Emperor】 【122†Humayun】 and fell. Bahadur Shah regained the kingdom in 1536 but he was killed by the Portuguese on board the ship when making a deal with them.^{【167†[20]】}^{【257†[32]】}
+L320: Bahadur had no son, hence there was some uncertainty regarding succession after his death. 【258†Muhammad Zaman Mirza】, the fugitive Mughal prince made his claim on the ground that Bahadur's mother adopted him as her son. The nobles selected Bahadur's nephew 【259†Miran Muhammad Shah】 of Khandesh as his successor, but he died on his way to Gujarat.
+L321: Finally, the nobles selected Mahmud Khan, the son of Bahadur's brother Latif Khan as his successor and he ascended to the throne as 【158†Mahmud Shah III】 in 1538.^{【260†[33]】} Mahmud Shah III had to battle with his nobles who were interested in independence. He was killed in 1554 by his servant. 【261†Ahmad Shah III】 succeeded him but now the reigns of the state were controlled by the nobles who divided the kingdom between themselves. He was assassinated in 1561.
+L322: He was succeeded by 【93†Muzaffar Shah III】.^{【167†[20]】}
+L323: ### Muzaffar Shah III
+L324: 
+L325: [【262†edit】]
+L326: 
+L327: Muzaffar Shah III's army was legendary in some parts of 【263†Africa】 and the 【264†Asian mainland】 with the exception of 【265†China】, and free 【266†soldiers】, 【267†mercenaries】, and 【268†slaves】 forced to join wars alike came from these places.^{【269†[34]】} Its stealth specialists performed several duties including 【270†bodyguard】 work and skirmish combat.^{【269†[34]】} Many stealth warriors were Habshi or Africans.^{【269†[34]】}
+L328: However, Mughal Emperor 【124†Akbar】 annexed Gujarat in his empire in 1573 and Gujarat became a Mughal 【271†subah】. Muzaffar Shah III was taken prisoner to Agra. In 1583, he escaped from the prison and with the help of the nobles succeeded to regain the throne for a short period before being defeated by Akbar's general 【272†Abdul Rahim Khan-I-Khana】 in January 1584.^{【127†[3]】} He fled and finally took asylum under Jam Sataji of 【273†Nawanagar State】.
+L329: The 【101†Battle of Bhuchar Mori】 was fought between the Mughal forces led by 【274†Mirza Aziz Koka】 and the combined Kathiawar forces in 1591 to protect him. He finally committed suicide when he was surrendered to the Mughal.^{【167†[20]】}
+L330: ## Gunpowder weapons
+L331: 
+L332: [【275†edit】]
+L333: 
+L334: Main article: 【276†Tiro de Diu】
+L335: 
+L336: The Gujarat Sultanate was the second empire in the 【277†Indian subcontinent】 to utilize and invent 【278†firearms】 and gunpowder artillery extensively, following the 【178†Bahmani Sultanate】.
+L337: 
+L338:   * Image gallery
+L339:   *   * Close up of the gun
+L340: 
+L341:   * Alternate view
+L342: 
+L343:   * Arabic inscriptions
+L344: 
+L345: ## List of rulers
+L346: 
+L347: [【279†edit】]
+L348: 
+L349: Main article: 【280†Muzaffarid dynasty of Gujarat】
+L350: ## Administration
+L351: 
+L352: [【281†edit】]
+L353: Gujarat was divided politically into two main parts; one, called the khálsah or crown domain administered directly by the central authority; the other, on payment of tribute in service or in money, left under the control of its former rulers. The amount of tribute paid by the different chiefs depended, not on the value of their territory, but on the terms granted to them when they agreed to become feudatories of the king.
+L354: This tribute was occasionally collected by military expeditions headed by the king in person and called mulkgíri or country-seizing circuits.^{【167†[20]】}
+L355: The internal management of the feudatory states was unaffected by their payment of tribute. Justice was administered and the revenue collected in the same way as under the 【282†Chaulukya】 kings. The revenue consisted, as before, of a share of the crops received in kind, supplemented by the levy of special cesses, trade, and transit dues. The chief's share of the crops differed according to the locality; it rarely exceeded one-third of the produce, it rarely fell short of one-sixth.
+L356: From some parts the chief's share was realised directly from the cultivator by agents called mantris; from other parts the collection was through superior landowners.^{【167†[20]】}
+L357: Districts and crown lands
+L358: The Ahmedabad kings divided the portion of their territory which was under their direct authority into districts or sarkars. These districts were administered in one of two ways. They were either assigned to nobles in support of a contingent of troops, or they were set apart as crown domains and managed by paid officers. The officers placed in charge of districts set apart as crown domains were called muktiă. Their chief duties were to preserve the peace and to collect the revenue.
+L359: For the maintenance of order, a body of soldiers from the army headquarters at Ahmedabad was detached for service in each of these divisions, and placed under the command of the district governor. At the same time, in addition to the presence of this detachment of regular troops, every district contained certain fortified outposts called thánás, varying in number according to the character of the country and the temper of the people.
+L360: These posts were in charge of officers called thánadárs subordinate to the district governor. They were garrisoned by bodies of local soldiery, for whose maintenance, in addition to money payments, a small assignment of land was set apart in the neighbourhood of the post. On the arrival of the tribute-collecting army the governors of the districts through which it passed were expected to join the main body with their local contingents.

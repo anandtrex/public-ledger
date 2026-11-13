@@ -1,0 +1,327 @@
+Indo-Parthian kingdom - Wikipedia (https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom)
+citeturn51view0 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom","lineno":null}); Total lines: 420
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Name】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Rulers of Turan and Sakastan (160–230 CE)】
+L51:   * 【21†3 Archaeology and sources】
+L52:   * 【22†4 Religion】 Toggle Religion subsection
+L53:     * 【23†4.1 Representation of Indo-Parthian devotees】
+L54:     * 【24†4.2 Buddhist sculptures】
+L55:     * 【25†4.3 Stone palettes】
+L56:     * 【26†4.4 Silk Road transmission of Buddhism】
+L57:   * 【27†5 Main rulers】
+L58:   * 【28†6 See also】
+L59:   * 【29†7 Notes】
+L60:   * 【30†8 References】
+L61:   * 【31†9 Sources】
+L62:   * 【32†10 External links】
+L63: [Input] Toggle the table of contents
+L64: # Indo-Parthian kingdom
+L65: 
+L66: [Input] 38 languages
+L67:   * 【33†العربية†ar.wikipedia.org】
+L68:   * 【34†تۆرکجه†azb.wikipedia.org】
+L69:   * 【35†Български†bg.wikipedia.org】
+L70:   * 【36†Català†ca.wikipedia.org】
+L71:   * 【37†Čeština†cs.wikipedia.org】
+L72:   * 【38†Deutsch†de.wikipedia.org】
+L73:   * 【39†Ελληνικά†el.wikipedia.org】
+L74:   * 【40†Esperanto†eo.wikipedia.org】
+L75:   * 【41†Español†es.wikipedia.org】
+L76:   * 【42†Eesti†et.wikipedia.org】
+L77:   * 【43†Euskara†eu.wikipedia.org】
+L78:   * 【44†فارسی†fa.wikipedia.org】
+L79:   * 【45†Suomi†fi.wikipedia.org】
+L80:   * 【46†Français†fr.wikipedia.org】
+L81:   * 【47†עברית†he.wikipedia.org】
+L82:   * 【48†हिन्दी†hi.wikipedia.org】
+L83:   * 【49†Italiano†it.wikipedia.org】
+L84:   * 【50†日本語†ja.wikipedia.org】
+L85:   * 【51†한국어†ko.wikipedia.org】
+L86:   * 【52†Lietuvių†lt.wikipedia.org】
+L87:   * 【53†Malagasy†mg.wikipedia.org】
+L88:   * 【54†മലയാളം†ml.wikipedia.org】
+L89:   * 【55†Bahasa Melayu†ms.wikipedia.org】
+L90:   * 【56†Nederlands†nl.wikipedia.org】
+L91:   * 【57†Polski†pl.wikipedia.org】
+L92:   * 【58†پنجابی†pnb.wikipedia.org】
+L93:   * 【59†Русский†ru.wikipedia.org】
+L94:   * 【60†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L95:   * 【61†සිංහල†si.wikipedia.org】
+L96:   * 【62†Simple English†simple.wikipedia.org】
+L97:   * 【63†தமிழ்†ta.wikipedia.org】
+L98:   * 【64†తెలుగు†te.wikipedia.org】
+L99:   * 【65†ไทย†th.wikipedia.org】
+L100:   * 【66†Türkçe†tr.wikipedia.org】
+L101:   * 【67†Українська†uk.wikipedia.org】
+L102:   * 【68†اردو†ur.wikipedia.org】
+L103:   * 【69†Tiếng Việt†vi.wikipedia.org】
+L104:   * 【70†中文†zh.wikipedia.org】
+L105: 【71†Edit links†www.wikidata.org】
+L106: 
+L107:   * 【72†Article】
+L108:   * 【73†Talk】
+L109: 
+L110: [Input] English
+L111: 
+L112:   * 【72†Read】
+L113:   * 【74†Edit】
+L114:   * 【75†View history】
+L115:   * 【17†Save】
+L116: 
+L117: [Input] Tools
+L118: 
+L119: Tools
+L120: 
+L121: [Button: move to sidebar] [Button: hide]
+L122: 
+L123: Actions
+L124: 
+L125:   * 【72†Read】
+L126:   * 【74†Edit】
+L127:   * 【75†View history】
+L128:   * 【17†Save】
+L129: 
+L130: General
+L131: 
+L132:   * 【76†What links here】
+L133:   * 【77†Related changes】
+L134:   * 【78†Upload file】
+L135:   * 【79†Permanent link】
+L136:   * 【80†Page information】
+L137:   * 【81†Cite this page】
+L138:   * 【82†Get shortened URL】
+L139:   * 【83†Switch to legacy parser】
+L140: Print/export
+L141: 
+L142:   * 【84†Download as PDF】
+L143:   * Printable version
+L144: 
+L145: In other projects
+L146: 
+L147:   * 【85†Wikimedia Commons†commons.wikimedia.org】
+L148:   * 【86†Wikidata item†www.wikidata.org】
+L149: 
+L150: Appearance
+L151: 
+L152: [Button: move to sidebar] [Button: hide]
+L153: 
+L154: (Redirected from 【87†Indo-Parthian Kingdom】)
+L155: 
+L156: Not to be confused with 【88†Pahlavis】.
+L157: Indo-Parthian kingdom
+L158: ---
+L159: 19 CE–226 CE
+L160: 【89†South-Asia40 CE】【90†SATAVAHANAS】【91†PANDYAS】【92†AY】【93†CHOLAS】【94†CHERAS】【95†CHUTUS】【96†YUEZHI】
+L161: 【97†WESTERNSATRAPS】【98†MITRAS】【99†MALAVAS】【100†YAUDHEYAS】
+L162: 【101†MAHAMEGA-VAHANA】【102†SAMATATAS】 【103†◁】 【104†▷】 Indo-Parthian kingdom at its maximum extent, circa 40 CE, and neighbouring South Asian polities.^{【105†[1]】}
+L163: Capital  | 【106†Taxila】
+L164: Common languages  | 【107†Aramaic】
+L165: 【108†Greek】
+L166: 【109†Gandhārī Prakrit】 (【110†Kharoshthi】 script)
+L167: 【111†Sanskrit】, 【112†Prakrit】 (【113†Brahmi】 script), 【114†Parthian】
+L168: Religion  | 【115†Buddhism】
+L169: 【116†Hinduism】
+L170: 【117†Zoroastrianism】
+L171: Government  | Monarchy
+L172: 【118†King】  |
+L173: • 19–46  | 【119†Gondophares I】 (first)
+L174: • ?–226  | 【120†Farn-Sasan】 (last)
+L175: Historical era  | 【121†Antiquity】
+L176: • 【119†Gondophares I】  | 19 CE
+L177: • Disestablished  | 226 CE
+L178: Preceded by Succeeded by
+L179: 【122†Image†upload.wikimedia.org】 【123†Parthian Empire】
+L180: 【122†Image†upload.wikimedia.org】 【124†Indo-Greek Kingdom】
+L181: 【122†Image†upload.wikimedia.org】 【125†Indo-Scythians】
+L182: 【122†Image†upload.wikimedia.org】 【126†Northern Satraps】
+L183: 【127†Paratarajas】 【122†Image†upload.wikimedia.org】
+L184: 【128†Kushan Empire】 【122†Image†upload.wikimedia.org】
+L185: 【129†Sasanian Empire】 【122†Image†upload.wikimedia.org】
+L186: The Indo-Parthian kingdom, also known as Pahlavas in the ancient 【111†Sanskrit】 texts,^{【130†[2]】} was a 【131†syncretic】 state founded by 【119†Gondophares I】 in the first century CE. At its zenith, Gondophares ruled an area which today covers parts of eastern 【132†Iran】, parts of 【133†Afghanistan】, most of 【134†Pakistan】 and parts of northwestern 【135†India】. Indo-Parthians continued to rule in some areas until 226 CE, with 【127†Paratarajas】 continuing until late 3rd century.
+L187: The kingdom was founded in 19/20 when the governor of 【136†Drangiana】 (【137†Sakastan】) Gondophares I^{【138†[3]】} declared independence from the 【123†Parthian Empire】. He would later make expeditions to the east, conquer territory from the 【125†Indo-Scythians】 and 【139†Indo-Greeks】 and thus transforming his kingdom into an empire.^{【140†[a]】}^{【141†[5]】} The domains of the Indo-Parthians were greatly reduced following the invasions of the 【128†Kushans】 in the second half of the 1st century.
+L188: They managed to retain control of Sakastan, until its conquest by the 【129†Sasanian Empire】 in c. 224/5.^{【142†[6]】} In 【143†Baluchistan】, the Paratarajas, a local Indo-Parthian dynasty, fell into the orbit of the Sasanian Empire circa 262 CE.^{【144†[7]】}
+L189: The Indo-Parthians are noted for the construction of the 【145†Buddhist】 【146†monastery】 【147†Takht-i-Bahi】 (a 【148†UNESCO World Heritage Site】) in 【149†Mardan】, Pakistan.
+L190: ## Name
+L191: 
+L192: [【150†edit】]
+L193: 
+L194: The name "Indo-Parthian" is given by modern scholars to a royal dynasty whose members were loosely related to each other. The dynasty was also called "Pahlavas" in 【151†Puranic】 and 【152†Mahabharata】 texts.^{【130†[2]】} Its rulers may have been members of the 【153†House of Suren】, and the kingdom has even been called the "Suren Kingdom" by some authors.^{【154†[8]】}
+L195: ## History
+L196: 
+L197: [【155†edit】]
+L198: 
+L199: Portrait of 【119†Gondophares】, founder of the Indo-Parthian kingdom. He wears a headband, earrings, a necklace, and a cross-over jacket with round decorations.
+L200: 【119†Gondophares I】 originally appears to have been a ruler of 【156†Seistan】, in what is today eastern Iran. He may have replaced previous Parthian governors of Seistan, such as 【157†Cheiroukes】 or 【158†Tanlismaidates】.^{【159†[9]】} These Parthian satraps had been ruling the region of 【160†Sakastan】 since the time when 【161†Mithridates II】 (124–88 BCE) had vanquished the Sakas of the region.^{【162†[10]】}
+L201: The dating of the rule of Gondophares I spans mid 1st century BCE to the first half of 1st century CE. According to the chronology advocated by Robert Senior, Gondophares made conquests in the former 【163†Indo-Scythian】 kingdom in around 20–10 BCE,^{【164†[11]】} perhaps after the death of their important ruler 【165†Azes】; the scholars recognising the existence of the so-called 【166†Azes II】, date his reign between 19 and 46 CE.
+L202: He became the ruler of areas comprising 【167†Arachosia】, Seistan, 【168†Sindh】, 【169†Punjab】, and the 【170†Kabul】 valley, but it does not seem as though he held territory beyond eastern Punjab.^{【171†[12]】} Gondophares called himself "King of Kings", a 【123†Parthian】 title that in his case correctly reflects that the Indo-Parthian empire was only a loose framework: a number of smaller dynasts certainly maintained their positions during the Indo-Parthian period, likely in exchange for their recognition of Gondophares and his successors.
+L203: These smaller dynasts included the 【172†Apracarajas】 and Indo-Scythian 【173†satraps】 such as 【174†Zeionises】 and 【175†Rajuvula】, as well as anonymous Scythians who struck imitations of Azes coins. The 【176†Ksaharatas】 also held sway in 【177†Gujarat】, perhaps just outside Gondophares' dominions.
+L204: Ancient 【145†Buddhist】 【146†monastery】 【147†Takht-i-Bahi】 (a 【148†UNESCO World Heritage Site】) constructed by the Indo-Parthians in 【178†Khyber Pakhtunkhwa】, 【134†Pakistan】
+L205: After the death of Gondophares I, the empire started to fragment. The name or title Gondophares was adapted by 【179†Sarpedones】, who become Gondophares II and was possibly a son of the first Gondophares. Even though he claimed to be the main ruler, Sarpedones' rule was shaky and he issued a fragmented coinage in Sind, eastern Punjab and Arachosia in southern Afghanistan. The most important successor was 【180†Abdagases】, Gondophares' nephew, who ruled in Punjab and possibly in the homeland of Seistan.
+L206: After a short reign, Sarpedones seems to have been succeeded by 【181†Orthagnes】, who became Gondophares III Gadana. Orthagnes ruled mostly in Seistan and Arachosia, with Abdagases further east, during the first decades CE, and was briefly succeeded by his son Ubouzanes.
+L207: After 20 CE, a king named 【182†Sases】, probably a nephew of the Apracaraja ruler 【183†Aspavarma】, took over Abdagases' territories and became Gondophares IV Sases.^{【184†[13]】} According to Senior, this is the Gondophares referred to in the 【147†Takht-i-Bahi】 inscription and potentially the 【185†Acts of Thomas】.^{【186†[14]】}
+L208: There were other minor kings: 【187†Sanabares】 was an ephemeral usurper in Seistan and called himself Great King of Kings. Coins of a second Abdagases are also known,^{【188†[15]】} as are of a ruler named Satavastres.^{【189†[16]】} However, the Indo-Parthians never regained the position of Gondophares I, and from the middle of the 1st century CE the 【190†Kushans】 under 【191†Kujula Kadphises】 began absorbing the northern Indian part of the kingdom.^{【192†[17]】}
+L209: ### Rulers of Turan and Sakastan (160–230 CE)
+L210: 
+L211: [【193†edit】]
+L212: 
+L213: Coinage of 【194†Pahares I】, Indo-Parthian king of 【195†Turan】 (Circa 160–230 CE). Bearded bust left, wearing Parthian-style tiara. Crude figure of Nike walking right.
+L214: The Indo-Parthians managed to retain control of 【196†Turan】 and 【137†Sakastan】, which they ruled until the fall of the 【123†Parthian Empire】 at the hands of the 【129†Sasanian Empire】 circa 230 CE.^{【192†[17]】} 【194†Pahares I】 (160–230 CE) was a ruler of 【196†Turan】 following the partition of the remains of the Indo-Parthian kingdom.^{【197†[18]】} The kingdom of Sakastan was ruled by a second king with the name 【198†Sanabares II】 (160–175 CE).^{【199†[19]】} The Kingdoms of Turan and Sakastan ended when they submitted to the Sasanian ruler 【200†Ardeshir I】 circa 230 CE.^{【199†[19]】} These events were recorded by 【201†al-Tabari】, describing the arrival of envoys to Ardeshir at 【202†Gor】:^{【199†[19]】}
+L215: > "Then he [Ardashir] marched back from the Sawad to Istakhr, from there irst to Sagistan, then to Gurgan, then to Abrasahr, Merv, Balkh, and Khwarizm to the farthest boundaries of the provinces of Kohrasan, whereupon he returned to Merv. After he had killed many people and sent their heads to the Fire temple of Anahedh he returned from Merv to Pars and settled in Gor. Then envoys of the king of the Kushan, of the kings of Turan and 【203†Mokran】 came to him with declarations of their submission."
+L216: — 【201†Al-Tabari】^{【199†[19]】}^{【204†[20]】}
+L217: ## Archaeology and sources
+L218: 
+L219: [【205†edit】]
+L220: 
+L221: The Hellenistic temple with 【206†Ionic】 columns at 【207†Jandial】, 【106†Taxila】, 【178†Khyber Pakhtunkhwa】, 【134†Pakistan】. It is usually interpreted as a Zoroastrian 【208†fire temple】 from the period of the Indo-Parthians.
+L222: The city of 【106†Taxila】 is thought to have been a capital of the Indo-Parthians. Large strata were excavated by Sir 【209†John Marshall】 with a quantity of Parthian-style artifacts. The nearby temple of 【207†Jandial】 is usually interpreted as a Zoroastrian 【208†fire temple】 from the period of the Indo-Parthians.
+L223: Some ancient writings describe the presence of the Indo-Parthians in the area, such as the story of Saint 【210†Thomas the Apostle】, who was recruited as a carpenter to serve at the court of king "Gudnaphar" (thought to be Gondophares I or Gondophares IV Sases) in India. The Acts of Thomas describes in chapter 17 Thomas' visit to king Gudnaphar in northern India; chapters 2 and 3 depict him as embarking on a sea voyage to India, thus connecting Thomas to the west coast of India.
+L224: As Senior points out,^{【211†[21]】} this Gudnaphar has usually been identified with the first Gondophares, who has thus been dated after the advent of Christianity, but there is no evidence for this assumption, and Senior's research shows that Gondophares I could be dated even before 1 CE. If the account is even historical, Saint Thomas may have encountered one of the later kings who bore the same title.
+L225: 
+L226: Portrait on Gondophares on one of his coins
+L227: The Greek philosopher 【212†Apollonius of Tyana】 is related by 【213†Philostratus】 in 【214†Life of Apollonius Tyana】 to have visited India, and specifically the city of Taxila around 46 CE. He describes constructions of the Greek type,^{【215†[22]】} probably referring to 【216†Sirkap】, and explains that the Indo-Parthian king of Taxila, named 【217†Phraotes】, received a Greek education at the court of his father and spoke Greek fluently:
+L228: > "Tell me, O King, how you acquired such a command of the Greek tongue, and whence you derived all your philosophical attainments in this place?"^{【218†[23]】}
+L229: > [...]-"My father, after a Greek education, brought me to the sages at an age somewhat too early perhaps, for I was only twelve at the time, but they brought me up like their own son; for any that they admit knowing the Greek tongue they are especially fond of, because they consider that in virtue of the similarity of his disposition he already belongs to themselves."^{【219†[24]】}
+L230: The 【220†Periplus of the Erythraean Sea】 is a surviving 1st century guide to the routes that was commonly used for navigating the Arabian Sea. It describes the presence of Parthian kings fighting with each other in the area of Sindh, a region traditionally known at that time as "Scythia" due to the previous rule of the Indo-Scythians there:^{【221†[25]】}
+L231: > "This river (Indus) has seven mouths, very shallow and marshy, so that they are not navigable, except the one in the middle; at which by the shore, is the market-town, Barbaricum. Before it there lies a small island, and inland behind it is the metropolis of Scythia, Minnagara; it is subject to Parthian princes who are constantly driving each other out."
+L232: 
+L233: — Periplus of the Erythraean Sea, Chap 38
+L234: An inscription from 【147†Takht-i-Bahi】 bears two dates, one in the regnal year 26 of the Maharaja Guduvhara (again thought to be a Gondophares), and the year 103 of an unknown era.^{【222†[26]】}
+L235: ## Religion
+L236: 
+L237: [【223†edit】]
+L238: 
+L239: Devotees at 【224†Zoroastrian】 fire-altar
+L240: The religion of the House of Suren is unknown although it is known to have been in conflict with the Zoroastrian 【225†Arsacid dynasty】.^{【226†[27]】} Unlike the Indo-Greeks or Indo-Scythians, there are no explicit records of Indo-Parthian rulers supporting Buddhism, such as religious dedications, inscriptions or even legendary accounts.
+L241: Also, although Indo-Parthian coins generally closely follow Greek numismatics, they never display the Buddhist 【227†triratna】 symbol (apart from the later Sases), and they never use depictions of the elephant or the bull, possible religious symbols that were profusely used by their predecessors. They are thought to have retained 【117†Zoroastrianism】 since they were of Iranian extraction themselves.
+L242: This 【228†Iranian】 mythological system was inherited from them by the later Kushans who ruled from 【229†Peshawar】 in Gandhara.
+L243: Coins of the 【230†Hindu】 deity 【231†Shiva】 have also been found issued in the reign of Gondophares I.^{【232†[28]】}^{【233†[29]】}^{【234†[30]】}
+L244: ### Representation of Indo-Parthian devotees
+L245: 
+L246: [【235†edit】]
+L247: 
+L248: Indo-Parthian King^{【236†[31]】}^{【237†[32]】}
+L249: On their coins and in the art of Gandhara, the Indo-Parthians are depicted with short crossover 【238†jackets】 and large baggy 【239†trousers】, possibly supplemented by 【240†chap】-like over-trousers.^{【241†[33]】} Their jackets are adorned with rows of decorative rings or medals. Their hair is usually bushy and contained with a headband, a practise largely adopted by the Parthians from the 1st century CE.^{【242†[34]】}
+L250: Individuals in Indo-Parthian attire are sometimes shown as actors in Buddhist devotional scenes. It is usually considered that most of the excavations that were done at 【216†Sirkap】, near Taxila, by John Marshall relate to Indo-Parthian layers, but more recent scholarship sometimes relates them instead to the Indo-Greeks.^{【243†[35]】} That archaeological research has provided a quantity of Hellenistic artifacts combined with elements of Buddhist worship (【244†stupas】).
+L251: Some other temples, such as in nearby Jandial, may have been used as a Zoroastrian 【208†fire temple】.
+L252: ### Buddhist sculptures
+L253: 
+L254: [【245†edit】]
+L255: The statues found at Sirkap in the late Scythian to Parthian level (level 2, 1–60 CE) suggest a developed state of Gandharan art at the time or even before Parthian rule. A multiplicity of statues, ranging from Hellenistic gods, to various Gandharan lay devotees, are combined with what are thought as some of the early representations of the Buddha and Bodhisattvas.
+L256: Today, it is still unclear when the 【246†Greco-Buddhist art】 of Gandhara exactly emerged, but the findings in Sirkap do indicate that the art had been highly developed before the advent of the Kushans.
+L257: ### Stone palettes
+L258: 
+L259: [【247†edit】]
+L260: 
+L261: Main article: 【248†Stone palette】
+L262: Numerous 【249†stone palettes】 found in Gandhara are considered to be good representatives of Indo-Parthian art. These palettes combine Greek and Persian influences, together with a frontality in representations which is considered as characteristic of Parthian art. Such palettes have been found only in archaeological layers corresponding to Indo-Greek, Indo-Scythian and Indo-Parthian rule, and are essentially unknown the preceding 【250†Mauryan】 layers or the succeeding Kushan layers.^{【251†[36]】}
+L263: The palettes very often represent people in Greek dress in mythological scenes, but a few of them represent people in Parthian dress (head-bands over bushy hair, crossed-over jacket on a bare chest, jewelry, belt, baggy trousers). A palette from the 【252†Naprstek Museum】 in 【253†Prague】 shows an Indo-Parthian king, seated crossed-legged on a large sofa, surrounded by two attendants also in Parthian dress. They are shown to be drinking and serving wine.
+L264: 
+L265:   * Indo-Parthian man hunting
+L266:   * Indo-Parthian revelers
+L267: 
+L268:   * Indo-Parthian couple
+L269: ### Silk Road transmission of Buddhism
+L270: 
+L271: [【254†edit】]
+L272: 
+L273: Main article: 【255†Silk Road transmission of Buddhism】
+L274: 
+L275:  | This section does not 【256†cite】 any 【257†sources】. Please help 【258†improve this section】 by 【259†adding citations to reliable sources】. Unsourced material may be challenged and 【260†removed】. (August 2021) (【261†Learn how and when to remove this message】)
+L276: 【262†Gandhara】 Buddhist reliquary with contents, including Indo-Parthian coins, 1st century CE
+L277: Some pockets of Parthian rule remained in the East, even after the takeover by the Sassanids in 226. From the 2nd century, several Central-Asian Buddhist missionaries appeared in the Chinese capital cities of 【263†Luoyang】 and sometimes 【264†Nanjing】, where they particularly distinguished themselves by their translation work.
+L278: The first known translators of Buddhist texts into Chinese are actually Parthian missionaries, distinguished in Chinese by their Parthian surname "An", for "Anshi", "country of the Arsacids".
+L279:   * 【265†An Shih Kao】, a Parthian prince who made the first known translations of 【266†Hinayana】 Buddhist texts into Chinese (148–170).
+L280:   * 【267†An Hsuan】, a Parthian merchant who became a monk in China 181 CE.
+L281:   * Tan-ti (c. 254), a Parthian monk.
+L282:   * An Fajin (281–306), a monk of Parthian origins.
+L283: ## Main rulers
+L284: 
+L285: [【268†edit】]
+L286: 
+L287: Coins of the Indo-Parthian king Abdagases, in which his clothing is clearly apparent. He wears baggy trousers, rather typical of Parthian clothing. Coins of the Indo-Parthian king Abdagases, in which his clothing is clearly apparent. He wears baggy trousers and a crossover jacket.
+L288:   * 【119†Gondophares I】 (c. 19 – 46)
+L289:   * 【179†Gondophares II Sarpedones】 (first years CE – c. 20 CE)
+L290:   * 【269†Abdagases I】 (first years CE – mid-1st century CE)
+L291:   * 【270†Gondophares III Gudana】, previously 【181†Orthagnes】 (c. 20 CE – 30 CE)
+L292:   * 【182†Gondophares IV Sases】, (mid-1st century CE)
+L293:   * 【271†Ubouzanes】 (late-1st century CE)
+L294:   * 【272†Pacores】 (late 1st century CE)
+L295:   * 【120†Farn-Sasan】 (r. 210 – 226)
+L296: ## See also
+L297: 
+L298: [【273†edit】]
+L299: 
+L300:   * 【274†Indo-Sasanians】
+L301:   * 【96†Yuezhi】
+L302:   * 【275†Pahlavas】
+L303: 
+L304: ## Notes
+L305: 
+L306: [【276†edit】]
+L307: 
+L308:   1. 【277†↑】 "As a result, the Indo-Greek kingdom emerged to the south but it did not exist long and was soon replaced by the Indo-Parthian kingdom."^{【278†[4]】}
+L309: ## References
+L310: 
+L311: [【279†edit】]
+L312:   1. 【280†↑】 Schwartzberg, Joseph E. (1978). 【281†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. pp. 21, 145, map XIV.1 (f). 【282†ISBN】 【283†0226742210】.
+L313:   2. 【284†1】 【285†2】 【286†Rezakhani 2017】, pp. 30–31.
+L314:   3. 【287†↑】 Ghosh, Suchandra (2016-01-11), 【288†"Indo-Parthian Kingdom"†onlinelibrary.wiley.com】, in Dalziel, Nigel; MacKenzie, John M (eds.), The Encyclopedia of Empire, Oxford, UK: John Wiley & Sons, Ltd, pp. 1–2, 【289†doi】:【290†10.1002/9781118455074.wbeoe038†doi.org】, 【282†ISBN】 【291†978-1-118-45507-4】, retrieved 2023-01-28
+L315:   4. 【292†↑】 【293†Ellerbrock 2021】, p. 117.
+L316:   5. 【294†↑】 【286†Rezakhani 2017】, p. 35.
+L317:   6. 【295†↑】 【296†Olbrycht 2016】, p. 25.
+L318:   7. 【297†↑】 "New light on the Paratarajas" Pankaj Tandon 【298†p.29-35†people.bu.edu】
+L319:   8. 【299†↑】 【300†Gazerani 2015】, p. 26.
+L320:   9. 【301†↑】 【286†Rezakhani 2017】, p. 56.
+L321:   10. 【302†↑】 【286†Rezakhani 2017】, p. 32, "The coinage of a series of authorities whose names are given as Tanlis, Tanlis Mardates, and probably a queen named Rangodeme are quite likely to be the last series issued by these ‘satraps’ before the establishment of the dynasty of Gondophares in Sistan and Arachosia. The early rulers of Sakistan/Sistan can thus be characterised as Arsacid governors, possibly of Saka origin, who are appointed following the defeat of the Sakas in the region by Mithridates II".
+L322:   11. 【303†↑】 The chronology of the Gondopharid kings has long been uncertain, predominantly based on coins. This reconstruction is based on "Indo-Scythian Coins and History IV" by Robert Senior, CNG 2006, as the four volumes of Senior's work provide an almost complete catalogue of the coinage of the period.
+L323: Senior's chronology is based on the existence of only one king Azes, a theory that was vindicated when it was shown that a coin of the so-called Azes II was overstruck with a type attributed to Azes I (see Senior, "The final nail in the coffin of Azes II", Journal of the Oriental Numismatic Society 197, 2008).
+L324:   12. 【304†↑】 Rosenfield, p129

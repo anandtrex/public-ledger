@@ -1,0 +1,300 @@
+Kingdom of Cochin - Wikipedia (https://en.wikipedia.org/wiki/Kingdom_of_Cochin)
+citeturn101view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Kingdom_of_Cochin","lineno":null}); Total lines: 665
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Territories】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Origin】
+L51:     * 【21†2.2 Early history】
+L52:     * 【22†2.3 Royal dynasty and succession】
+L53:     * 【23†2.4 Transition to Cochin】
+L54:     * 【24†2.5 Ming dynasty alliance (1411–1433)】
+L55:     * 【25†2.6 Vassal of Calicut】
+L56:     * 【26†2.7 Portuguese alliance (1500–1663)】
+L57:     * 【27†2.8 Dutch alliance (1663–1766)】
+L58:     * 【28†2.9 Mysorean invasion (1766–1799)】
+L59:     * 【29†2.10 British alliance (1814–1947)】
+L60:   * 【30†3 Administration】 Toggle Administration subsection
+L61:     * 【31†3.1 Capitals】
+L62:   * 【32†4 List of Maharajas of Cochin】 Toggle List of Maharajas of Cochin subsection
+L63:     * 【33†4.1 As a Portuguese ally】
+L64:     * 【34†4.2 As a Dutch ally】
+L65:     * 【35†4.3 As a British princely state】
+L66:     * 【36†4.4 Post-independence (Titular only)】
+L67:   * 【37†5 Prime ministers of Cochin (1947–49)】
+L68:   * 【38†6 Chiefs of Cochin】
+L69:   * 【39†7 Matrilineal inheritance】
+L70:   * 【40†8 Traditional rituals】 Toggle Traditional rituals subsection
+L71:     * 【41†8.1 Deities】
+L72:     * 【42†8.2 Naming practice of male Thampuran】
+L73:     * 【43†8.3 Naming practice of female Thampuran】
+L74:   * 【44†9 Parukutty Nethyar Amma】
+L75:   * 【45†10 Cochin royal family today】
+L76:   * 【46†11 Gallery】
+L77:   * 【47†12 See also】
+L78:   * 【48†13 Notes】
+L79:   * 【49†14 References】
+L80:   * 【50†15 Further reading】
+L81:   * 【51†16 Bibliography】
+L82:   * 【52†17 External links】
+L83: [Input] Toggle the table of contents
+L84: # Kingdom of Cochin
+L85: 
+L86: [Input] 21 languages
+L87:   * 【53†تۆرکجه†azb.wikipedia.org】
+L88:   * 【54†বাংলা†bn.wikipedia.org】
+L89:   * 【55†Català†ca.wikipedia.org】
+L90:   * 【56†Deutsch†de.wikipedia.org】
+L91:   * 【57†Español†es.wikipedia.org】
+L92:   * 【58†فارسی†fa.wikipedia.org】
+L93:   * 【59†Suomi†fi.wikipedia.org】
+L94:   * 【60†Français†fr.wikipedia.org】
+L95:   * 【61†Bahasa Indonesia†id.wikipedia.org】
+L96:   * 【62†Italiano†it.wikipedia.org】
+L97:   * 【63†日本語†ja.wikipedia.org】
+L98:   * 【64†ಕನ್ನಡ†kn.wikipedia.org】
+L99:   * 【65†Lietuvių†lt.wikipedia.org】
+L100:   * 【66†മലയാളം†ml.wikipedia.org】
+L101:   * 【67†Norsk bokmål†no.wikipedia.org】
+L102:   * 【68†Русский†ru.wikipedia.org】
+L103:   * 【69†தமிழ்†ta.wikipedia.org】
+L104:   * 【70†తెలుగు†te.wikipedia.org】
+L105:   * 【71†Українська†uk.wikipedia.org】
+L106:   * 【72†اردو†ur.wikipedia.org】
+L107:   * 【73†中文†zh.wikipedia.org】
+L108: 【74†Edit links†www.wikidata.org】
+L109: 
+L110:   * 【75†Article】
+L111:   * 【76†Talk】
+L112: 
+L113: [Input] English
+L114: 
+L115:   * 【75†Read】
+L116:   * 【77†Edit】
+L117:   * 【78†View history】
+L118:   * 【17†Save】
+L119: 
+L120: [Input] Tools
+L121: 
+L122: Tools
+L123: 
+L124: [Button: move to sidebar] [Button: hide]
+L125: 
+L126: Actions
+L127: 
+L128:   * 【75†Read】
+L129:   * 【77†Edit】
+L130:   * 【78†View history】
+L131:   * 【17†Save】
+L132: 
+L133: General
+L134: 
+L135:   * 【79†What links here】
+L136:   * 【80†Related changes】
+L137:   * 【81†Upload file】
+L138:   * 【82†Permanent link】
+L139:   * 【83†Page information】
+L140:   * 【84†Cite this page】
+L141:   * 【85†Get shortened URL】
+L142:   * 【86†Switch to legacy parser】
+L143: Print/export
+L144: 
+L145:   * 【87†Download as PDF】
+L146:   * Printable version
+L147: 
+L148: In other projects
+L149: 
+L150:   * 【88†Wikimedia Commons†commons.wikimedia.org】
+L151:   * 【89†Wikidata item†www.wikidata.org】
+L152: 
+L153: Appearance
+L154: 
+L155: [Button: move to sidebar] [Button: hide]
+L156: 
+L157: Not to be confused with the kingdom of 【90†Cochinchina】, also known as 【91†Đàng Trong】.
+L158:  | This article needs 【92†more citations】. Please help 【93†improve this article】 by 【94†adding citations to reliable sources】. Unsourced material may be challenged and 【95†removed】.
+L159: Find sources: 【96†"Kingdom of Cochin"†www.google.com】 – 【97†news†www.google.com】 · 【98†newspapers†www.google.com】 · 【99†books†www.google.com】 · 【100†scholar†scholar.google.com】 · 【101†JSTOR†www.jstor.org】 (October 2017) (【102†Learn how and when to remove this message】)
+L160: Kingdom of Cochin കൊച്ചി രാജ്യം
+L161: ---
+L162: 12th century CE^{【103†[1]】}–1 July 1949
+L163: Flag
+L164: Status  |
+L165:   * Independent Kingdom (12th Century CE–1370)
+L166:   * Under the 【104†Vijayanagara Empire】 (1370–1565)
+L167:   * Independent Kingdom (1565–1766)
+L168:   * Under the 【105†kingdom of Mysore】 (1766–1799)
+L169:   * Semi-Independent; Subordinately alliance with the 【106†British East India Company】 (1799–1815)
+L170:   * 【107†Princely State】 of 【108†India】 (1815–1947)
+L171: Capital  | 【109†Perumpadappu】 (【110†Ponnani】)
+L172: 【111†Kodungallur】
+L173: 【112†Thripunithura】
+L174: 【113†Thrissur】
+L175: 【114†Mattancherry】
+L176: Official languages  | 【115†Malayalam】
+L177: Religion  | Majority: 【116†Hinduism】 (official)
+L178: Minority:
+L179: 【117†Christianity】
+L180: 【118†Judaism】
+L181: 【119†Islam】
+L182: Government  | 【120†Absolute monarchy】
+L183: 【121†Princely state】
+L184: 【122†Raja】  |
+L185: • 12th century CE (first)  | Veera Kerala Varma
+L186: • 1948–1949 (last)  | 【123†Rama Varma XVIII】
+L187: 【124†Diwan】  |
+L188: • 1812–1818 (first)  | John Munro
+L189: • 1944–1947 (last)  | 【125†C. P. Karunakara Menon】
+L190: History  |
+L191: • Established  | 12th century CE^{【103†[1]】}
+L192: • Disestablished  | 1 July 1949
+L193: 【126†GDP】 (【127†PPP】)  | estimate
+L194: • Total  | 600.03 crores USD
+L195: Currency  | 【128†Rupee】
+L196: Preceded by Succeeded by
+L197: 【129†Image†upload.wikimedia.org】 【130†Chera Dynasty】
+L198: 【131†Travancore-Cochin】 【132†Image†thumb.wikimedia.org】
+L199: Today part of  | 【133†India】
+L200: The Kingdom of Cochin or the Cochin State, also known as Perumpadappu Swaroopam,^{【134†[2]】} named after its capital in the city of 【135†Kochi (Cochin)】, was a kingdom in the central part of present-day 【136†Kerala】 state. It originated in the early part of the 12th century and continued to rule until its accession to the 【137†Dominion of India】 in 1949.
+L201: The kingdom of Cochin, originally known as Perumpadappu Swaroopam, was under the rule of the 【138†Later Cheras】 in the 【139†Middle Ages】. After the fall of the 【138†Mahodayapuram Cheras】 in the 12th century, along with numerous other provinces Perumpadappu Swaroopam became a free political entity. However, it was only after the arrival of Portuguese on the Malabar Coast that the Perumpadappu Swaroopam acquires any political importance.
+L202: Perumpadappu rulers had family relationships with the Nambudiri rulers of 【140†Edappally】. After the transfer of 【141†Kochi】 and 【142†Vypin】 from the Edappally rulers to the Perumpadappu rulers, the latter came to be known as kings of Kochi.
+L203: Historically, the capital of Cochin was in 【143†Kodungallur (Cranganore)】, but in 1341, the capital was moved to Cochin to remedy a disastrous flood. By the early 15th century, Cochin lost its ability to fully defend itself. By the late 15th century, the kingdom had shrunk to its minimal extent as a result of invasions by the 【144†Zamorin of Calicut】.
+L204: When 【145†Portuguese armadas】 arrived in India, the kingdom of Cochin had lost its 【146†vassals】 to the 【147†Zamorins】, including 【148†Edapalli】 and Cranganore, the later of which had even been at the centre of the kingdom historically. Cochin was looking for an opportunity to preserve its independence, which was at risk.
+L205: King Unni Goda Varma warmly welcomed 【149†Pedro Álvares Cabral】 on 24 December 1500 and negotiated a treaty of alliance between Portugal and the Cochin kingdom, directed against the Zamorin of Calicut. A number of forts were built in the area and controlled by the 【150†Portuguese East Indies】, the most important of which was 【151†Fort Manuel】. Cochin became a long-term 【152†Portuguese】 protectorate (1503–1663) providing assistance against native and foreign powers in India.
+L206: After the 【153†Luso-Dutch War】, the 【154†Dutch East India Company】 (1663–1795) was an ally of Cochin. That was followed by the 【106†British East India Company】 (1795–1858, confirmed on 6 May 1809) after the 【155†Anglo-Dutch War】, with 【156†British paramountcy】 over the Cochin state.
+L207: Madras State Map, 1913
+L208: The 【157†kingdom of Travancore】 merged with the kingdom of Cochin to form the state of 【131†Travancore-Cochin】 in 1950.
+L209: The five 【158†Tamil】-majority 【159†taluks】 of 【160†Vilavancode】, 【161†Kalkulam】, 【162†Thovalai】, 【163†Agastheeswaram】, and 【164†Sengottai】 were transferred from 【131†Travancore-Cochin】 to 【165†Madras State】 in 1956.^{【166†[3]】} The 【115†Malayalam】-speaking regions of Travancore-Cochin merged with the 【167†Malabar District】 (excluding 【168†Laccadive】 and 【169†Minicoy】 Islands) and the 【170†Kasaragod】 taluk of 【171†South Canara】 district in 【165†Madras State】 to form the modern 【115†Malayalam】-state of 【136†Kerala】 on 1 November 1956, according to the 【172†States Reorganisation Act, 1956】 of the 【173†Government of India】.^{【166†[3]】}
+L210: ## Territories
+L211: 
+L212: [【174†edit】]
+L213: 
+L214: Cochin in the 1960s, just a few years after joining the union
+L215: During 1800 to 1947, the kingdom of Cochin included much of modern-day 【175†Thrissur district】 excluding Chavakkad taluk, a few areas of 【176†Alathur】 taluk and the whole of 【177†Chittur】 taluk of the 【178†Palakkad district】 and Kochi taluk (excluding 【179†Fort Kochi】), most of 【180†Kanayannur】 taluk (excluding 【140†Edappally】), parts of 【181†Aluva】 taluk (【182†Karukutty】, 【183†Angamaly】, 【184†Kalady】, 【185†Chowwara】, 【186†Kanjoor】, 【187†Sreemoolanagaram】, 【188†Malayattoor】, 【189†Manjapra】), parts of 【190†Kunnathunad】 taluk and parts of 【191†Paravur Taluk】 (【192†Chendamangalam】) of the 【193†Ernakulam district】 which are now the part of 【136†Kerala】.
+L216: ## History
+L217: 
+L218: [【194†edit】]
+L219: ### Origin
+L220: 
+L221: [【195†edit】]
+L222: 
+L223: There is no extant written evidence about the emergence of the kingdom of Cochin or of the Cochin royal family, also known as Perumpadapu Swaroopam.^{【196†[4]】} All that is recorded are folk tales and stories, and a somewhat blurred historical picture about the origins of the ruling dynasty.
+L224: The surviving manuscripts, such as 【197†Keralolpathi】, Keralamahatmyam, and Perumpadapu Grandavari, are collections of myths and legends that are less than reliable as conventional historical sources.
+L225: 
+L226: The Perumpadapu Grandavari contains an additional account of the dynastic origins:
+L227: > The last Thavazhi of Perumpadapu Swaroopam came into existence on the 【198†Kaliyuga】 day shodashangamsurajyam. 【199†Cheraman Perumal】 divided the land in half, 17 "amsa" north of 【200†Nileshwaram】 and 17 amsa south, totaling 34 amsa, and gave his powers to his nephews and sons. Thirty-four kingdoms between 【201†Kanyakumari】 and 【202†Gokarna】 (now in 【203†Karnataka】) were given to the "thampuran" who was the daughter of the last niece of Cheraman Perumal.
+L228: 【197†Keralolpathi】 recorded the division of his kingdom in 345 【204†Common Era】, Perumpadapu Grandavari in 385 【204†Common Era】, 【205†William Logan】 in 825 Common Era. There are no written records on these earlier divisions of 【136†Kerala】, but according to some historians the division might have occurred during the Second 【206†Chera】 kingdom at the beginning of the 12th century.^{【207†[5]】}
+L229: The first King Of what was to become the Kingdom of Cochin was the ruler of Kodungallur, Vira Kerala Viragahava. He is attested in the 【208†Viraraghava copper plate】 as having given Sovereign Port Concessions and Princely Privileges to 【209†Syrian Christian】 Merchant Iravikortan in 1225 CE.^{【210†[6]】}
+L230: ### Early history
+L231: 
+L232: [【211†edit】]
+L233: 
+L234: The original headquarters of the kingdom was at 【109†Perumpadappu】 near 【110†Ponnani】 in present-day 【212†Malappuram district】.^{【103†[1]】} The ruler of 【109†Perumpadappu】 (near 【110†Ponnani】) fled to 【111†Kodungallur】 in the early medieval period, when the 【144†Zamorin of Calicut】 annexed 【110†Ponnani】 region, after 【213†Tirunavaya】 war.^{【103†[1]】}
+L235: 【214†Calicut】 (【215†Porlathiri】 kingdom) was conquered by 【216†Zamorin】 of 【217†Eranad】, who then conquered parts of Perumpadappu kingdom, and tried to assert his suzerainty over it.
+L236: 
+L237: Although losing their northern homeland and original capital, the Perumpadappu dynasty maintained a kingdom over a vast area in central Kerala (still formally referred to as "Perumpadappu Swaroopam"). Their state stretched from Pukkaitha in the north, 【218†Aanamala】 in the east, to 【219†Purakkad】 in the south.^{【220†[7]】}
+L238: ### Royal dynasty and succession
+L239: 
+L240: [【221†edit】]
+L241: 
+L242: The Perumpadappu dynasty eventually produced five branches (Mutts, Elaya, Pallurutti, Madattumkil and Chaliyur), each with its own family seat, retainers and military of 【222†Nairs】. But the five branches (tavali) came together under a common ruling king (raja), which was the oldest male member of all five branches together.^{【220†[7]】}
+L243: The Perumpadappu (and future Cochin) royal dynasty followed matriarchal rules of succession common in 【136†Kerala】 (similar to 【223†Travancore】).^{【224†[8]】} Succession went via the female line – that is, not to the king's sons, but to his uterine brothers and then to his sisters' sons (i.e. nephews). In theory, the successor should be the next oldest in age among potential candidates. This was later relaxed, and in practice kingship became elective, to ensure the successor was not too old or incompetent.
+L244: The overlooked true elder was compensated with symbolic or ceremonial dignities (notably the religiously significant title Muppustanam).^{【225†[9]】}
+L245: Retirement was also forced – it was customary and expected for a king to retire upon reaching a certain old age or military inability, withdrawing to take up a religious life. Power was passed over to his successor, or to a regent until the successor came of age.
+L246: 
+L247: Succession often led to quarrels among the five branches. The Zamorin of Calicut exploited these family quarrels, sometimes in the role of arbitrator, allowing him to increase his influence in the southern kingdom.
+L248: ### Transition to Cochin
+L249: 
+L250: [【226†edit】]
+L251: 
+L252: The future city of Cochin was originally just a small village along a long embankment. Violent floods and overflows of the 【227†Periyar River】 in 1341 forced the opening of the outlet between the 【228†Vembanad lagoon】 and the 【229†Arabian Sea】 at the juncture where Cochin now sits, separating the long Cochinese peninsula (karapuram) from what is now 【142†Vypin】 island.^{【230†[10]】}
+L253: As the waterways connecting Cranganore to the sea were silting up, commercial traffic began re-directing away from Cranganore to the new break at Cochin, and merchant families began to relocate and set up warehouses and eventually homes there. The once-great old port city of 【111†Kodungallur】 (Cranganore) declined as the new port-city of 【141†Kochi】 (Cochin) rose in wealth and importance.
+L254: The urban center of the early city developed on relatively high ground in the village of 【114†Mattancherry】 (now a district in Kochi city, once called "Cochim de Cima").
+L255: The original owners of the territory of what later became Cochin city was the Ellangallur royal family of the Rajas of 【148†Edapalli】 (Repelim) (on the east side of the lagoon).^{【231†[11]】} Drawn from the Brahmin class, the Edapalli royal family followed different rules of succession. In the early 1400s, the king of Edapalli had married a sister of the Elaya branch of Perumpadappu, and so their son was doubly royal heir to two houses – via father to Edapalli, via mother to Perumpadappu .
+L256: But he was apparently not first in the line of succession to Perumpadappu.
+L257: In the early 1400s, the King of Edapalli granted part of his lands, specifically southern Vypin island and northern part of Karapuram peninsula around the new break, as an appanage fief for his prince son. It was originally not supposed to be a permanent cession, but rather to serve as a training ground, to allow the heir to cultivate his governing skills. Upon succession to his father, he was expected to move across the lagoon to Edapalli, and cede Cochin as a seat to the next heir.
+L258: As the ruler was always a prince in training, he was addressed as "Kocchu Thampuran" (meaning 'junior lord' or 'junior king'), thus the fief became known as "Kochi/Cochin" after him. So the original "kingdom of Cochin" (Kochi rajyam) started off as a small Edapalli offshoot, distinct and separate from the much larger Perumpadappu state.^{【232†[12]】}
+L259: The growing wealth of Cochin gave the junior prince in Cochin power and ascendancy, eventually enabling him to assert himself as king over senior relatives from other branches of the Perumpadappu dynasty, as well as allowing him to detach Cochin from Edapalli, and chart his own separate course.
+L260: As a result of this transition, the large "kingdom of Perumpadappu" (【109†Perumpadappu Swaroopam】) came to be referred to as the "kingdom of Cochin",^{【103†[1]】} and the capital of the kingdom shifted from Kodungallur to Vypin in present-day Kochi. During the new kingdom, rules were changed to confine succession within the Elaya branch of Cochin, rather across all branches of Perumpadappu (much to the chagrin of the branches).^{【225†[9]】}
+L261: ### Ming dynasty alliance (1411–1433)
+L262: 
+L263: [【233†edit】]
+L264: The port at 【214†Kozhikode】, also known as Calicut, held superior economic and political position on the medieval Kerala coast, while 【234†Kannur】, 【235†Kollam】, and Kochi, were commercially important secondary ports, where the traders from various parts of the world would gather.^{【236†[13]】} On the Malabar coast during the early 15th century, Calicut and Cochin were in an intense rivalry, so the 【237†Ming dynasty】 of China decided to intervene by granting special status to Cochin and its ruler, known as Keyili (可亦里) to the Chinese.^{【238†[14]】} Calicut had been the dominant port-city in the region, but Cochin was emerging as its main rival.^{【238†[14]】} For the fifth 【239†Ming treasure voyage】, Admiral 【240†Zheng He】 was instructed to confer a seal upon Keyili of Cochin and designate a mountain in his kingdom as the Zhenguo Zhi Shan (鎮國之山, Mountain Which Protects the Country).^{【238†[14]】} Zheng He delivered a stone tablet, inscribed with a proclamation composed by the 【241†Yongle Emperor】 himself, to Cochin.^{【238†[14]】} As long as Cochin remained under the protection of Ming China, the 【144†Zamorin of Calicut】 was unable to invade Cochin and a military conflict was averted.^{【238†[14]】} The cessation of the 【242†Ming treasure voyages】 consequently had negative results for Cochin, as the Zamorin of Calicut later launched an invasion against Cochin.^{【238†[14]】} In the late 15th century, the Zamorin occupied Cochin and installed his representative as the king.^{【238†[14]】}
+L265: ### Vassal of Calicut
+L266: 
+L267: [【243†edit】]
+L268: The conflict between the upstart king of Cochin and his relatives of Perumpadappu branches (eager to recover their role) and Edapalli (eager to recover its land), drew in the interference of the 【216†Zamorin】 of 【244†Calicut】, who attacked Cochin in the name of justice for the relatives. The Zamorin's armies were eventually successful and imposed a settlement, which confined the king of Cochin to his domains, and extracted an oath of vassalage to Calicut.
+L269: The kingdom of Cochin was required to obtain the Zamorin's consent during succession, and obliged to provide annual tribute and troops to the Zamorin's campaigns.^{【245†[15]】}
+L270: This was roughly the situation when the Portuguese arrived in 1500. The kingdom of Cochin was half-in-vassalage, half-at-war with the Zamorin of Calicut. The king of Cochin, Unni Goda Varda (referred to as "Trimumpara Raja" in Portuguese chronicles) was grating at the settlement.^{【246†[16]】}^{【247†[17]】} He perceived an alliance with Portuguese arms as way to overthrow the Zamorin's power, recover Cochin's independence and impose his ascendancy over his relatives.
+L271: ### Portuguese alliance (1500–1663)
+L272: 
+L273: [【248†edit】]
+L274: 
+L275: 【249†Mattancherry Palace】-temple, built by the 【152†Portuguese】 as a gift to Raja Veera Kerala Varma I
+L276: The Portuguese arrived at 【250†Kappad】, 【214†Kozhikode】 in 1498 during the 【251†Age of Discovery】, thus opening a direct sea route from Europe to India.^{【252†[18]】} Cochin was the scene of the first European settlement in India. In the year 1500, the 【253†Portuguese】 Admiral 【149†Pedro Álvares Cabral】 landed at Cochin after being repelled from 【214†Calicut】. The Raja of Cochin welcomed the Portuguese and a treaty of friendship was signed.
+L277: The raja allowed them to build a 【254†factory】 at Cochin (and upon Cabral's departure Cochin allowed thirty Portuguese and four 【255†Franciscan】 friars to stay in the kingdom). Assured by the offer of support, the raja declared war on his enemy, the 【216†Zamorins】 of Calicut.
+L278: In 1502, a new expedition under the command of 【256†Vasco da Gama】 arrived at Cochin, and the friendship was renewed. Vasco da Gama later bombarded Calicut and destroyed the Arab factories there. This enraged the Zamorin, the ruler of Calicut, and he attacked Cochin after the departure of Vasco da Gama and destroyed the Portuguese factory. The raja of Cochin and his Portuguese allies were forced to withdraw to 【142†Vypin】 Island.
+L279: However, the arrival of a small reinforcement Portuguese fleet and, some days later of 【257†Duarte Pacheco Pereira】 and the oncoming monsoons alarmed the Zamorin. Calicut recalled the army and abandoned the siege.
+L280: 【258†Relic】 of 【259†Thomas the Apostle】, kept in the sanatorium of a 【260†Syrian Church】
+L281: After securing the throne for the Raja of Cochin, the Portuguese got permission to build a fort – 【261†Fort Emmanuel】 (at 【179†Fort Kochi】, named after the king of Portugal) – surrounding the Portuguese factory, in order to protect it from any further attacks from Calicut and on 27 September 1503 the foundations of a timber fort, the first fort erected by the Portuguese in India, were laid. The entire work of construction was commissioned by the local raja, who supplied workers and material.
+L282: In 1505, the stone fortress replaced the wooden fort. Later, for a better defence of the town, a fort called 【262†"Castelo de Cima"】 was built on Vypeen Island. At the departure of the Portuguese fleet, only 【257†Duarte Pacheco Pereira】 and a small fleet were left in Cochin. Meanwhile, the Zamorin of Calicut formed a massive force and attacked them. For five months, Cochin kingdom was able to drive back 【263†Calicut's assaults】, with the help of Pacheco Pereira and his men.
+L283: The ruler of the 【264†kingdom of Tanur】, who was a vassal to the 【144†Zamorin of Calicut】, sided with the Portuguese against his overlord at 【214†Kozhikode】.^{【103†[1]】} As a result, the 【264†kingdom of Tanur】 (【265†Vettathunadu】) became one of the earliest Portuguese colonies in India.
+L284: The ruler of 【266†Tanur】 also sided with Cochin.^{【103†[1]】} Many of the members of the royal family of Cochin in 16th and 17th centuries were selected from 【267†Vettom】.^{【103†[1]】} However, the 【266†Tanur】 forces under the king fought for the Zamorin of Calicut in the 【263†Battle of Cochin (1504)】.^{【268†[19]】} However, the allegiance of the 【269†Muslim Mappila】 merchants in 【266†Tanur】 region stayed with the 【144†Zamorin of Calicut】.^{【270†[20]】}
+L285: The raja of Cochin continued to rule with the help of the Portuguese. Meanwhile, the Portuguese secretly tried to enter into an alliance with the Zamorin. A few later attempts by the Zamorin to conquer the Cochin port were thwarted by the raja of Cochin with the help of the Portuguese. Slowly, the Portuguese armoury at Cochin was increased, presumably to help the king protect Cochin.
+L286: And for a long a time, right after Goa, Cochin situated in the center of East Indies, was the best place Portugal had in India. From there the Portuguese exported large volumes of spices, particularly pepper.
+L287: In 1530, 【271†Saint Francis Xavier】 arrived and founded a Latin 【272†Christian mission】. Cochin hosted the grave of 【256†Vasco da Gama】, the Portuguese viceroy, who was buried at 【273†St. Francis Church】 until his remains were returned to Portugal in 1539.^{【274†[21]】} Soon after the time of 【275†Afonso de Albuquerque】, Portuguese influence in Kerala declined.^{【196†[4]】}
+L288: ### Dutch alliance (1663–1766)
+L289: 
+L290: [【276†edit】]
+L291: 
+L292: The 【277†Bolgatty Palace】, built in 1744 by Dutch traders, is one of the oldest existing Dutch palaces outside the Netherlands
+L293: Portuguese alliance was followed by that of the 【278†Dutch】, who had by then conquered 【279†Quilon】 after various encounters with the Portuguese and their allies. Discontented members of the 【280†Cochin Royal family】 called on the assistance of the Dutch for help in overthrowing the Cochin Raja. The Dutch successfully landed at Njarakal and went on to capture the fort at Pallippuram, which they handed over to the Zamorin.
+L294: ### Mysorean invasion (1766–1799)
+L295: 
+L296: [【281†edit】]
+L297: 

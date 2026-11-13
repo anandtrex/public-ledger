@@ -1,0 +1,372 @@
+Koch dynasty - Wikipedia (https://en.wikipedia.org/wiki/Koch_dynasty)
+citeturn81view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Koch_dynasty","lineno":null}); Total lines: 468
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Historical background】
+L51:       * 【21†2.1.1 Emergence of the Koch power】
+L52:     * 【22†2.2 Consolidation of power under Bisu】
+L53:     * 【23†2.3 Sanskritisation】
+L54:     * 【24†2.4 Zenith】
+L55:   * 【25†3 Branches】 Toggle Branches subsection
+L56:     * 【26†3.1 Rulers of undivided Koch kingdom】
+L57:     * 【27†3.2 Rulers of Koch Bihar】
+L58:     * 【28†3.3 Rulers of Koch Hajo】
+L59:     * 【29†3.4 Rulers of Darrang】
+L60:     * 【30†3.5 Rulers of Beltola】
+L61:     * 【31†3.6 Rulers of Bijni】
+L62:     * 【32†3.7 Rulers of Khaspur】
+L63:   * 【33†4 See also】
+L64:   * 【34†5 Gallery】
+L65:   * 【35†6 Notes】
+L66:   * 【36†7 References】
+L67: [Input] Toggle the table of contents
+L68: # Koch dynasty
+L69: 
+L70: [Input] 9 languages
+L71: 
+L72:   * 【37†العربية†ar.wikipedia.org】
+L73:   * 【38†অসমীয়া†as.wikipedia.org】
+L74:   * 【39†বাংলা†bn.wikipedia.org】
+L75:   * 【40†हिन्दी†hi.wikipedia.org】
+L76:   * 【41†Bahasa Indonesia†id.wikipedia.org】
+L77:   * 【42†پنجابی†pnb.wikipedia.org】
+L78:   * 【43†தமிழ்†ta.wikipedia.org】
+L79:   * 【44†తెలుగు†te.wikipedia.org】
+L80:   * 【45†اردو†ur.wikipedia.org】
+L81: 
+L82: 【46†Edit links†www.wikidata.org】
+L83: 
+L84:   * 【47†Article】
+L85:   * 【48†Talk】
+L86: 
+L87: [Input] English
+L88: 
+L89:   * 【47†Read】
+L90:   * 【49†Edit】
+L91:   * 【50†View history】
+L92:   * 【17†Save】
+L93: 
+L94: [Input] Tools
+L95: Tools
+L96: 
+L97: [Button: move to sidebar] [Button: hide]
+L98: 
+L99: Actions
+L100: 
+L101:   * 【47†Read】
+L102:   * 【49†Edit】
+L103:   * 【50†View history】
+L104:   * 【17†Save】
+L105: 
+L106: General
+L107: 
+L108:   * 【51†What links here】
+L109:   * 【52†Related changes】
+L110:   * 【53†Upload file】
+L111:   * 【54†Permanent link】
+L112:   * 【55†Page information】
+L113:   * 【56†Cite this page】
+L114:   * 【57†Get shortened URL】
+L115:   * 【58†Switch to legacy parser】
+L116: 
+L117: Print/export
+L118: 
+L119:   * 【59†Download as PDF】
+L120:   * Printable version
+L121: 
+L122: In other projects
+L123: 
+L124:   * 【60†Wikimedia Commons†commons.wikimedia.org】
+L125:   * 【61†Wikidata item†www.wikidata.org】
+L126: Appearance
+L127: 
+L128: [Button: move to sidebar] [Button: hide]
+L129: 
+L130: Not to be confused with 【62†Koch family】.
+L131: 
+L132: Koch Kingdom Koch Dynasty
+L133: ---
+L134: 1515–1949–1956
+L135: Flag of 【63†Kamata Kingdom】
+L136: Status  | historical kingdom
+L137: Capital  | Chiknabari
+L138: Hingulabas
+L139: 【64†Bijni】
+L140: 【65†Dumuria】
+L141: 【66†Jogighopa】
+L142: 【67†Abhayapuri】
+L143: Kamatapur (present-day 【68†Gosanimari】)
+L144: 【69†Cooch Behar】
+L145: Common languages  |
+L146:   * 【70†Kamrupic】 (【71†Assamese】, 【72†Kamtapuri】)^{【73†[1]】}^{【74†[2]】}^{【75†[3]】}
+L147:   * 【76†Koch】^{【77†[4]】}
+L148:   * 【78†Garo】^{【77†[4]】}
+L149:   * 【79†Mech】^{【80†[5]】}
+L150:   * 【81†Sikkimese】^{【80†[5]】}
+L151:   * Regional / local languages
+L152:   * 【82†Sanskrit】 (for religious and court usage)
+L153: Religion  | 【83†Hinduism】
+L154: Other 【84†ethnic religion】^{【85†[6]】}
+L155: Government  | 【86†hereditary monarchy】
+L156: 【87†Maharaja】  |
+L157: • 1515–1540  | 【88†Biswa Singha】
+L158: • 1540–1587  | 【89†Nara Narayan】
+L159: • 1581–1603  | Raghudev
+L160: • 1586–1621  | Lakshmi Narayan
+L161: • 1922–1947  | 【90†Jagaddipendra Narayan】
+L162: Historical era  | 【91†Early modern period】
+L163: • Established by 【88†Biswa Singha】  | 1515
+L164: • Expansion  | 1510–1577
+L165: • Division into Koch Hajo and Koch Bihar  | 1587
+L166: • princely state of 【92†British India】  | 1775
+L167: • Joined 【93†India Union】  | 1949–1956
+L168: Currency  | Narayani
+L169: Preceded by Succeeded by
+L170: 【94†Image†upload.wikimedia.org】 【95†Baro-Bhuyan】
+L171: 【96†Republic of India】 【97†Image†thumb.wikimedia.org】
+L172: 【98†Ahom kingdom】 【99†Image†thumb.wikimedia.org】
+L173: 【100†Mughal Empire】 【94†Image†upload.wikimedia.org】
+L174: 【101†Kachari kingdom】 【94†Image†upload.wikimedia.org】
+L175: Today part of  | 【93†India】
+L176: 【102†Bhutan】
+L177: The Koch dynasty (【103†/k ɒ tʃ/】; 1515–1949) ruled parts of eastern 【104†Indian subcontinent】 in present-day 【105†Assam】 and 【106†Bengal】. 【88†Biswa Singha】 established power in the erstwhile 【63†Kamata Kingdom】 which had emerged from the decaying 【107†Kamarupa Kingdom】.^{【108†[7]】}^{【109†[8]】} The dynasty came to power by overthrowing the 【95†Baro-Bhuyans】 of the region, who previously revolted against the rule established by 【110†Alauddin Husain Shah】.
+L178: The dynasty split into three among the descendants of Biswa Singha's three sons: two antagonistic branches 【111†Koch Bihar】 and 【112†Koch Hajo】 and a third branch at Khaspur. Koch Bihar aligned with the 【100†Mughals】 and the Koch Hajo branch broke up into various sub-branches under the 【98†Ahom kingdom】. Koch Bihar became a 【113†princely state】 during 【114†British rule】 and was absorbed after Indian independence.
+L179: The third branch at Khaspur (Khaspur kingdom) was absorbed completely into the 【101†Kachari kingdom】. 【115†Raikat】 is a collateral branch of the Koch dynasty that claim descent from the Sisya Singha, the brother of Biswa Singha.
+L180: ## Etymology
+L181: 
+L182: [【116†edit】]
+L183: 
+L184: The name 【117†Koch】 denotes a matrilineal ethnic group to which Biswa Singha's mother belonged;^{【118†[9]】} and the king as well as most of the population of the kingdom (【63†Kamata Kingdom】) belonged to the Koch community.^{【119†[10]】}
+L185: 
+L186: ## History
+L187: 
+L188: [【120†edit】]
+L189: ### Historical background
+L190: 
+L191: [【121†edit】]
+L192: 
+L193: Main article: 【63†Kamata Kingdom】
+L194: After the fall of the 【122†Pala dynasty】, a 【123†Bengali】 dynasty from 【124†Varendra】, the kingdom fractured into different domains in the 12th century.
+L195: 【125†Sandhya】, a ruler of Kamarupanagara (present-day 【126†North Guwahati】) moved his capital further west to present-day 【127†North Bengal】 in the middle of the 13th century and the domain he ruled over came to be called 【128†Kamata kingdom】.^{【129†[11]】} The buffer region, between the eastern kingdoms and Kamata was the domain of the 【95†Baro-Bhuyans】 chieftains.
+L196: 【110†Alauddin Husain Shah】 of 【130†Gaur】 removed 【131†Nilambar】 of the 【132†Khen dynasty】 in 1498, occupied Kamata and placed his son 【133†Danyal Husayn】 in charge. Within a few years the Baro-Bhuyans—led by one Harup Narayan of the 【134†Brahmaputra valley】—defeated, captured, and executed Daniyal, and the region lapsed into Bhuyan confederate rule.^{【135†[12]】}
+L197: #### Emergence of the Koch power
+L198: 
+L199: [【136†edit】]
+L200: It was in this context that a number of independent 【117†Koch】 tribes were united under a leader named Hajo, who occupied 【137†Rangpur】 and 【138†Kamrup】.^{【139†[13]】} The Koches, spreading towards the southern plains, were able to ally with other tribal groups.^{【140†[14]】} Among various factors, the shift from 【141†slash-and-burn】 cultivation to settled cultivation and the breakdown of tribal clan-based relations are given as factors that contributed to the growth of Koch power.^{【142†[15]】}
+L201: As part of these alliances Hajo's daughter Hira married Hariya Mandal, a member of the 【143†Mech】 tribe from Chiknagram in present-day 【144†Kokrajhar district】,^{【145†[16]】} though these ethnic identities are difficult to discern since there were frequent intermarriages.^{【146†[17]】}^{【147†[18]】} Bisu, born to Hariya and Hira,^{【148†[19]】} acquired the political legacy of his grandfather Hajo^{【149†[20]】} and established himself as the chief of the eastern branch of the Koches in the Khuntaghat region (present-day 【144†Kokrajhar district】 of Assam).^{【150†[21]】}^{【151†[22]】} It is thought that Bisu fought under the leadership of the Bhuyans as a landlord against the occupation of 【128†Kamata kingdom】 by 【110†Alauddin Husain Shah】 and thus learned their military tactics.^{【152†[23]】}
+L202: 【153†Cooch Behar Palace】 constructed during the reign of 【154†Nripendra Narayan】
+L203: 
+L204: Origin of the Koch dynasty, based on the Darrang Raja Vamsavali^{【155†[24]】}
+L205: ### Consolidation of power under Bisu
+L206: 
+L207: [【156†edit】]
+L208: 
+L209: He sought the alliance of tribal chiefs,^{【157†[25]】}^{【158†[26]】} against the more powerful Baro-Bhuyans and began his campaign around 1509.^{【159†[27]】} Successively, he defeated the Bhuyans of Ouguri, Jhargaon, Karnapur, Phulaguri, 【64†Bijni】 and 【160†Pandunath】 (Pandu, in 【161†Guwahati】).^{【162†[28]】} He was particularly stretched by the Bhuyan of Karnapur, and could defeat him only by a stratagem during 【163†Bihu】.
+L210: In some records Bisu moved his capital from Chikana to Hingulabas (near present-day 【164†Samuktala】) and then finally to Kamatapur (now called 【68†Gosanimari】) which is just a few miles southeast of the present-day 【69†Cooch Behar】 town^{【165†[29]】}—but since these movements were recorded much after the events the dates and rulers associated with these movements are not expected to be accurate and these movements represent the gradual movement of Koch power towards the southern plains of the Brahmaputra Valley.^{【166†[30]】} After subjugating the petty rulers, he announced himself the king of Kamata bounded on the east by 【167†Barnadi River】 and on the west by the 【168†Karatoya River】^{【169†[31]】} in the year 1515.^{【170†[32]】}
+L211: The Koch dynasty in Kamata was one of several tribal formations that developed into statehoods around 15th century in 【171†northeast India】—【98†Ahom】, 【172†Chutia】, 【173†Dimasa】, 【174†Tripura】, 【175†Manipur】, etc.^{【176†[33]】}
+L212: ### Sanskritisation
+L213: 
+L214: [【177†edit】]
+L215: At his coronation Bisu adopted Hinduism and the name Biswa Singha.^{【178†[34]】}^{【179†[35]】} Nevertheless, he retained the Koch identity of his mother discarding the ethnic identity of his father.^{【180†[36]】} Later, Brahman pundits created a legend that lord 【181†Siva】 was the father of Biswa Singha to give 【182†legitimacy】 to his rule^{【183†[37]】} and conferred on him the status of the 【184†Kshatriya】 varna.^{【185†[38]】} According to the legend constructed at the time of coronation, Bisu was son of Siva and his tribe either the Koch or Mech people were Kshatriyas who ran away from the fear of extermination by the Brahman sage 【186†Parashurama】 and took shelter in 【187†Western Assam】 and 【127†Northern Bengal】 and later disguised themselves as 【188†Mlechchas】.^{【189†[39]】}
+L216: This process of hinduisation was much slower in the lower strata of the society,^{【190†[40]】} the king Biswa Singha with his tribal origin claimed Rajbanshi kshatriya status,^{【191†[41]】} the lower class Koch took this name after the 18th century.^{【192†[42]】}
+L217: ### Zenith
+L218: 
+L219: [【193†edit】]
+L220: Biswa Singha's two sons, Naranarayan and Shukladhwaj (【194†Chilarai】), the king and the commander-in-chief of the army respectively, took the kingdom to its zenith.
+L221: During the reign of Nara Narayan, 【111†Koch Behar】 saw the propagation of 【195†eksarana-namadharma】 by 【196†Sankardev】 along with his two disciples 【197†Madhavdeva】 and 【198†Damodardev】,^{【199†[43]】}^{【200†[44]】} which helped brought a cultural renaissance to the kingdom.^{【201†[45]】} The spread of this new religious movement was initially resisted by the Koch, Mech and Kachari people residing in the Koch-Kamata kingdom,^{【202†[46]】}^{【85†[6]】} for which Nara Narayan made an official order to recognise the different religious practices of the people residing in the kingdom,^{【203†[47]】} though by the end of the 18th century, the masses of the Koch population had absorbed considerable Hindu content.^{【204†[48]】}^{【205†[49]】}
+L222: Later, Nara Narayan made Raghudev, the son of Chilarai, the governor of 【112†Koch Hajo】, the eastern portion of the country. After the death of Nara Narayan, Raghudev declared independence. The division of the Kamata kingdom into 【111†Koch Bihar】 and 【112†Koch Hajo】 was permanent.
+L223: ## Branches
+L224: 
+L225: [【206†edit】]
+L226: 
+L227: ### Rulers of undivided Koch kingdom
+L228: 
+L229: [【207†edit】]
+L230: 
+L231:   * 【88†Biswa Singha】 (1515–1540)
+L232:   * 【89†Nara Narayan】 (1540–1586)
+L233: ### Rulers of Koch Bihar
+L234: 
+L235: [【208†edit】]
+L236: 
+L237: Further information: 【111†Cooch Behar State】
+L238: 
+L239: 【154†Maharaja Nripendra Narayan】 of Cooch Bihar
+L240:   * Lakshmi Narayan
+L241:   * Bir Narayan
+L242:   * Pran Narayan
+L243:   * Basudev Narayan
+L244:   * Mahindra Narayan
+L245:   * Roop Narayan
+L246:   * Upendra Narayan
+L247:   * Devendra Narayan
+L248:   * Dhairjendra Narayan
+L249:   * Rajendra Narayan
+L250:   * Dharendra Narayan
+L251:   * Harendra Narayan
+L252:   * Shivendra Narayan
+L253:   * 【209†Narendra Narayan】
+L254:   * 【154†Nripendra Narayan】^{【210†[50]】}
+L255:   * 【211†Rajendra Narayan II】
+L256:   * 【212†Jitendra Narayan】 (father of 【213†Gayatri Devi】)
+L257:   * 【90†Jagaddipendra Narayan】 (brother of Gayatri Devi)
+L258:   * Virajdendra Narayan
+L259: ### Rulers of Koch Hajo
+L260: 
+L261: [【214†edit】]
+L262: 
+L263: Further information: 【112†Koch Hajo】
+L264: 
+L265:   * Raghudev (son of 【194†Chilarai】, nephew of Nara Narayan)
+L266:   * Parikshit Narayan
+L267: ### Rulers of Darrang
+L268: 
+L269: [【215†edit】]
+L270: The 【100†Mughal】 【216†Subah】, in alliance with Lakshmi Narayan of Koch Bihar, attacked Parikshit Narayan of 【112†Koch Hajo】 in 1612. Koch Hajo, bounded by Sankosh River in the west and Barnadi river in the east, was occupied by the end of that year. Parikshit Narayan was sent to 【217†Delhi】 for an audience with the Mughal Emperor, but his brother Balinarayan escaped and took refuge in the 【98†Ahom kingdom】.
+L271: The region to the east of Barnadi and up to the Bharali river was under the control of some 【95†Baro-Bhuyan】 chieftains, but they were soon removed by the Mughals. In 1615 the Mughals, under Syed Hakim and Syed Aba Bakr, attacked the Ahoms but were repelled back to the Barnadi river. The Ahom king, 【218†Prataap Singha】, then established Balinarayan as a vassal in the newly acquired region between Barnadi and 【219†Bharali】 rivers, and called it 【220†Darrang】.
+L272: Balinarayan's descendants continued to rule the region as a tributary to the 【98†Ahom kingdom】 till it was annexed by the 【221†British】 in 1826.^{【222†[51]】}
+L273:   * 【223†Balinarayan】 (brother of Parikshit Narayan)
+L274:   * Mahendra Narayan
+L275:   * Chandra Narayan
+L276:   * Surya Narayan
+L277: ### Rulers of Beltola
+L278: 
+L279: [【224†edit】]
+L280: 
+L281: Main article: 【225†History of Beltola】
+L282:   * Gaj Narayan Dev (brother of Parikshit Narayan, ruler of 【112†Koch Hajo】, brother of Balinarayan, first Koch ruler of 【220†Darrang】).
+L283:   * Shivendra Narayan Dev (Son of Gaj Narayan)
+L284:   * Gandharva Narayan Dev (Son of Shivendra Narayan)
+L285:   * Uttam Narayan Dev (Son of Gandharva Narayan Dev)
+L286:   * Dhwaja Narayan Dev (Son of Uttam Narayan Dev)
+L287:   * Jay Narayan Dev (Son of Dhwaja Narayan Dev)
+L288:   * Lambodar Narayan Dev (Son of Jay Narayan Dev)
+L289:   * Lokpal Narayan Dev (Son of Lambodar Narayan Dev)
+L290:   * Amrit Narayan Dev (Son of Lokpal Narayan Dev)
+L291:   * Chandra Narayan Dev (Son of Lokpal Narayan Dev) (died 1910 CE)
+L292:   * Rajendra Narayan Dev (Son of Chandra Narayan Dev) (died 1937 CE)
+L293:   * Lakshmipriya Devi (wife of Rajendra Narayan Dev) (reign:1937–1947 CE died: 1991 CE)
+L294: ### Rulers of Bijni
+L295: 
+L296: [【226†edit】]
+L297: 
+L298: The Bijni rulers reigned between the Sankosh and the Manas rivers, the region immediately to the east of 【111†Koch Bihar】.
+L299: 
+L300:   * Chandra Narayan (son of Parikshit Narayan)
+L301:   * Joy Narayan
+L302:   * Shiv Narayan
+L303:   * Bijoy Narayan
+L304:   * Mukunda Narayan
+L305:   * Haridev Narayan
+L306:   * Balit Narayan
+L307:   * Indra Narayan
+L308:   * Amrit Narayan
+L309:   * Kumud Narayan
+L310:   * Jogendra Narayan
+L311:   * Bhairabendra Narayan
+L312: ### Rulers of Khaspur
+L313: 
+L314: [【227†edit】]
+L315: The 【228†Barak valley】 was obtained by 【194†Chilarai】 in 1562^{【229†[52]】} from the 【174†Twipra kingdom】 during his expedition when he subjugated most of the major rulers in 【171†Northeast India】 and established the Khaspur state with a garrison at Brahmapur, that eventually came to be called Khaspur (Brahmapur→Kochpur→Khaspur).
+L316: The Koch rule began with the appointment of Kamal Narayan (step-brother of Chilarai and Naranarayan) as the Dewan a couple of years after the establishment of the garrison.^{【230†[53]】} Kamalnarayan established eighteen clans of Koch families that took hereditary roles in the state of Khaspur and who came to be known as Dheyans (after Dewan).^{【231†[54]】} The independent rule of the Khaspur rulers ended in 1745 when it merged with the 【232†Kachari kingdom】.^{【229†[52]】}
+L317: The rulers of the Koch kingdom at Khaspur were:^{【230†[53]】}
+L318: 
+L319:   * Kamal Narayan (Gohain Kamal, son of Biswa Singha, governor of Khaspur)
+L320:   * Udita Narayan (declared independence of Khaspur in 1590)
+L321:   * Vijay Narayana
+L322:   * Dhir Narayana
+L323:   * Mahendra Narayana
+L324:   * Ranjit
+L325:   * Nara Singha
+L326:   * Bhim Singha (his only issue, daughter Kanchani, married a prince of 【101†Kachari kingdom】, and Khaspur merged with the Kachari kingdom.)
+L327: ## See also
+L328: 
+L329: [【233†edit】]
+L330: 
+L331:   * 【234†Koch (caste)】
+L332:   * 【235†Rajbongshi people】
+L333: 
+L334: ## Gallery
+L335: 
+L336: [【236†edit】]
+L337: 
+L338:   * Shri Sir Nripendra Narayan, Maharaja of Cooch Behar.
+L339: 
+L340:   * Maharaja Shri Sir Jitendra Narayan Bhup Bahadur, Maharaja of Cooch-Behar, KCSI, 1913.
+L341: ## Notes
+L342: 
+L343: [【237†edit】]
+L344:   1. 【238†↑】 【239†Driem 2022】, pp. 507: An early form of Assamese which like its sister language Bengali is derived from the Magadhi Apabhraṃśa, had established itself in western Assam by the 5th century, ... Kāmatā later gave rise to the Koch kingdom known as ‘Cooch Behar’ or Koch Bihar. During this period, the still predominantly Bodo populace underwent further Hinduisation and linguistic assimilation to Assamese.
+L345:   2. 【240†↑】 【241†Mahapatra 1989】, pp. 37: It received patronage and cultivation by the Koch rulers, as well as the Ahom kings, who... also considered Assamese as a convenient medium to govern the multilingual population under them.
+L346:   3. 【242†↑】 "On sociohistorical grounds, this stage is termed ‘proto Kamta’ ... and assigned the chronology of approximately AD 1250–1550: sandwiched between the establishment of the Kamrupa capital at Kamtapur in 1250, and the political (and plausibly linguistic) expansion under Koch King Nara Narayana in 1550." (【243†Toulmin 2009】:13)
+L347:   4. 【244†1】 【245†2】 (【246†Nath 1989】:23–24)
+L348:   5. 【247†1】 【248†2】 (【249†Shin 2021】:33)
+L349:   6. 【250†1】 【251†2】 (【252†Sheikh 2012】:252) Cite error: The named reference "harvcol (see the 【253†help page】).
+L350:   7. 【254†↑】 (【246†Nath 1989】:2–11)
+L351:   8. 【255†↑】 "【107†Kamarupa】 was reorganized as a new state. 'Kamata' by name with Kamatapur as capital. The exact time when the change was made is uncertain. But possibly it had been made by Sandhya (c1250-1270) as a safeguard against mounting dangers from the east and the west. Its control on the eastern regions beyond the Manah (Manas river) was lax." (【256†Sarkar 1992】, pp. 40–41)
+L352:   9. 【257†↑】 "(I)t becomes clear that Biswa Singha's father was a Mech and mother was a Koch and both the tribes were "rude" and "impure", hence non-Aryan or non-Hinduised." (【246†Nath 1989】:17)
+L353:   10. 【258†↑】 The Koches were of Dravidian-Mongoloid origin. "The dynasty was Koch and the name of kingdom was Kamata (Koch) because the king himself and most of the population belonged to the Koch community" (【259†Das 2004】:559)
+L354:   11. 【260†↑】 (【261†Gogoi 2002】, p. 17)
+L355:   12. 【262†↑】 (【246†Nath 1989】:21)
+L356:   13. 【263†↑】 "The Koches 'who had a number of chiefs, at first independent, but who gradually united under the authority of one of themselves named Hajo, occupied Rangpur and Kamrup" (【246†Nath 1989】:17)
+L357:   14. 【264†↑】 "Having moved from the Himalayan terrain, probably following the courses of the Teesta and Dharla rivers, the Koches settled first in North Bengal and then spread gradually towards the east, south and west, thereby allying with other tribal groups like the Rabhas, Dhimals, Hajongs, Garos, and Meches (Nath 1989: 1-4)." (【249†Shin 2021】:30)
+L358:   15. 【265†↑】 " (I)t is clear that the centre of Koch power was gradually moving towards the southern plains of the region. This repeated transfer of capital was associated with a shift in their subsistence from jhum cultivation to settled agriculture (Ray 2002: 48). Simultaneously, there was a change in their political system from a clan-based chiefdom to a state with multiple agents involved in its functioning.
+L359: Both the processes are commonly observed among rising local powers with indigenous origin in the northeast between the fourteenth and eighteenth centuries (Shin 2020: 49-75)." (【249†Shin 2021】:31)
+L360:   16. 【266†↑】 "[Hajo] had two daughters, Hira and Jira of whom Hira was married to Hariya, a member of the "impure tribe" called Mech."(【246†Nath 1989】:17)
+L361:   17. 【267†↑】 "Subject to differences of opinion, the progenitor of the Koch monarch was either a Koch or a Mech, Haria Mandal by name..." (【256†Sarkar 1992】:70)
+L362:   18. 【268†↑】 "Frequent intermarriage between the Koches and the Meches made them come close to each other, thereby making differentiation between the two groups difficult in both the historical and fictional narratives. The founder of Koch political power was Visva Sinha (1515-40), the son of Haria Mandal who was the head of twelve leading Mech families and inhabited Chiknabari in Mount Chikna near Bhutan hills."(【249†Shin 2021】:30)
+L363:   19. 【269†↑】 "[Hajo] had two daughters, Hira and Jira of whom Hira was married to Hariya, a member of the "impure tribe" called Mech. Of them was born Bisu...it becomes clear that Biswa Singha's father was a Mech and mother was a Koch and both the tribes were "rude" and "impure", hence non-Aryan or non-Hinduised."(【246†Nath 1989】:17)
+L364:   20. 【270†↑】 (【246†Nath 1989】:17)
+L365:   21. 【271†↑】 (【272†Barman 2014】:18)
+L366:   22. 【273†↑】 (【246†Nath 1989】:197)
+L367:   23. 【274†↑】 "Bisu, who might have fought Alauddin Hussain Shah or his government in Kamrup under the leadership of the Bhuyans and had a knowledge of their (the Bhuyans') military tactics..." (【246†Nath 1989】:22–23)
+L368:   24. 【275†↑】 (【256†Sarkar 1992】:91)
+L369:   25. 【276†↑】 "Visva placed considerable dependence on tribal force in warfare. Tribal militia, consisting of the Meches, Koches, Kacharis, Bhutias and so forth, continued to participate in aggressive warfare under Naranarayan, resulting in a great expansion of the Koch territory (Barman 2007: 83-87)"(【249†Shin 2021】:33)

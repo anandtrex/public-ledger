@@ -1,0 +1,290 @@
+Chera dynasty - Wikipedia (https://en.wikipedia.org/wiki/Chera_dynasty)
+citeturn93view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Chera_dynasty","lineno":null}); Total lines: 628
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】 Toggle Etymology subsection
+L49:     * 【19†1.1 Variations of the term Chera】
+L50:   * 【20†2 Sources】 Toggle Sources subsection
+L51:     * 【21†2.1 External sources】
+L52:     * 【22†2.2 Epigraphical sources】
+L53:     * 【23†2.3 Excavation at Karur and Pattanam】
+L54:     * 【24†2.4 Numismatic discoveries】
+L55:   * 【25†3 Political history from Tamil sources】 Toggle Political history from Tamil sources subsection
+L56:     * 【26†3.1 Gajabahu-Chenguttuvan synchronism】
+L57:   * 【27†4 Geographical extent】
+L58:   * 【28†5 State formation】
+L59:   * 【29†6 Society and culture】
+L60:   * 【30†7 Economy】 Toggle Economy subsection
+L61:     * 【31†7.1 Spice trade】
+L62:     * 【32†7.2 Iron technology】
+L63:   * 【33†8 Legacy】
+L64:   * 【34†9 See also】
+L65:   * 【35†10 References】 Toggle References subsection
+L66:     * 【36†10.1 Books cited】
+L67:     * 【37†10.2 Encyclopedic articles】
+L68:     * 【38†10.3 Journal articles】
+L69:     * 【39†10.4 Magazine articles】
+L70:     * 【40†10.5 Newspaper reports/features】
+L71:   * 【41†11 External links】
+L72: [Input] Toggle the table of contents
+L73: # Chera dynasty
+L74: 
+L75: [Input] 30 languages
+L76:   * 【42†العربية†ar.wikipedia.org】
+L77:   * 【43†বাংলা†bn.wikipedia.org】
+L78:   * 【44†Brezhoneg†br.wikipedia.org】
+L79:   * 【45†Català†ca.wikipedia.org】
+L80:   * 【46†Čeština†cs.wikipedia.org】
+L81:   * 【47†Deutsch†de.wikipedia.org】
+L82:   * 【48†Español†es.wikipedia.org】
+L83:   * 【49†Français†fr.wikipedia.org】
+L84:   * 【50†हिन्दी†hi.wikipedia.org】
+L85:   * 【51†Bahasa Indonesia†id.wikipedia.org】
+L86:   * 【52†Italiano†it.wikipedia.org】
+L87:   * 【53†日本語†ja.wikipedia.org】
+L88:   * 【54†ქართული†ka.wikipedia.org】
+L89:   * 【55†한국어†ko.wikipedia.org】
+L90:   * 【56†Lietuvių†lt.wikipedia.org】
+L91:   * 【57†മലയാളം†ml.wikipedia.org】
+L92:   * 【58†मराठी†mr.wikipedia.org】
+L93:   * 【59†Bahasa Melayu†ms.wikipedia.org】
+L94:   * 【60†नेपाली†ne.wikipedia.org】
+L95:   * 【61†Norsk bokmål†no.wikipedia.org】
+L96:   * 【62†Polski†pl.wikipedia.org】
+L97:   * 【63†Română†ro.wikipedia.org】
+L98:   * 【64†Русский†ru.wikipedia.org】
+L99:   * 【65†Simple English†simple.wikipedia.org】
+L100:   * 【66†தமிழ்†ta.wikipedia.org】
+L101:   * 【67†తెలుగు†te.wikipedia.org】
+L102:   * 【68†Українська†uk.wikipedia.org】
+L103:   * 【69†اردو†ur.wikipedia.org】
+L104:   * 【70†Tiếng Việt†vi.wikipedia.org】
+L105:   * 【71†中文†zh.wikipedia.org】
+L106: 【72†Edit links†www.wikidata.org】
+L107: 
+L108:   * 【73†Article】
+L109:   * 【74†Talk】
+L110: 
+L111: [Input] English
+L112: 
+L113:   * 【73†Read】
+L114:   * 【75†Edit】
+L115:   * 【76†View history】
+L116:   * 【17†Save】
+L117: 
+L118: [Input] Tools
+L119: 
+L120: Tools
+L121: 
+L122: [Button: move to sidebar] [Button: hide]
+L123: 
+L124: Actions
+L125: 
+L126:   * 【73†Read】
+L127:   * 【75†Edit】
+L128:   * 【76†View history】
+L129:   * 【17†Save】
+L130: 
+L131: General
+L132: 
+L133:   * 【77†What links here】
+L134:   * 【78†Related changes】
+L135:   * 【79†Upload file】
+L136:   * 【80†Permanent link】
+L137:   * 【81†Page information】
+L138:   * 【82†Cite this page】
+L139:   * 【83†Get shortened URL】
+L140:   * 【84†Switch to legacy parser】
+L141: Print/export
+L142: 
+L143:   * 【85†Download as PDF】
+L144:   * Printable version
+L145: 
+L146: In other projects
+L147: 
+L148:   * 【86†Wikimedia Commons†commons.wikimedia.org】
+L149:   * 【87†Wikidata item†www.wikidata.org】
+L150: 
+L151: Appearance
+L152: 
+L153: [Button: move to sidebar] [Button: hide]
+L154: 
+L155: "Chera" and "Cheras" redirect here. For other uses, see 【88†Chera (disambiguation)】 and 【89†Cheras (disambiguation)】.
+L156: Chera dynasty
+L157: ---
+L158: c. (circa) 3rd century BCE–c. (circa) 5th century CE
+L159: Approximate extent of Chera influence in early historic south India (Gurukkal, 2002)
+L160: Capital  |
+L161: 
+L162:   * 【90†Vanchi (Karur/Karuvur)】
+L163:   * 【91†Muchiri (Vanchi)】
+L164:   * 【92†Thondi】
+L165: Official languages  |
+L166:   * 【93†Old Tamil】
+L167: Religion  | 【94†Hinduism】^{【95†[1]】}
+L168: 【96†Jainism】^{【95†[1]】}
+L169: 【97†Buddhism】^{【95†[1]】}
+L170: Government  | 【98†Monarchy】 (rudimentary state)
+L171: History  |
+L172: • Established  | c. (circa) 3rd century BCE
+L173: • Disestablished  | c. (circa) 5th century CE
+L174: Today part of  |
+L175: 
+L176:   * 【99†Kerala】
+L177:   * 【100†Tamil Nadu】
+L178: The Chera dynasty (【101†or】 Cēra, IPA: 【102†[t͡ʃeːɾɐ]】), also known as Keralaputra, Kedalaputho,^{【103†[2]】} from the early historic or the 【104†Sangam period】 in southern India, ruled over parts of present-day states 【99†Kerala】 and 【100†Tamil Nadu】.^{【105†[3]】}^{【106†[4]】} The Cheras, known as one of the 【107†mu-ventar (the Three Crowned Kings)】 of 【108†Tamilakam (the Tamil country)】 alongside the 【109†Cholas】 and 【110†Pandyas】, have been documented as early as the third century BCE.^{【111†[5]】}^{【112†[6]】} The Chera country was geographically well placed at the tip of the Indian peninsula to profit from maritime trade via the extensive 【113†Indian Ocean networks】.
+L179: Exchange of spices, especially 【114†black pepper】, with 【115†Middle Eastern】 or 【116†Graeco-Roman】 merchants is attested to in several sources.^{【117†[7]】}^{【118†[8]】}^{【119†[9]】} Chera influence extended over central Kerala and western Tamil Nadu until the end of the early historic period in southern India.^{【105†[3]】}
+L180: The Cheras of the early historical period (c. second century BCE – c.
+L181: third/fifth century CE) had their capital in interior Tamil country (【120†Vanchi-Karuvur or Karur】, 【121†the Kongu country】), and ports/capitals at 【91†Muchiri-Vanchi (Muziris)】 and 【92†Thondi (Tyndis)】 on the Indian Ocean coast of Kerala.^{【119†[9]】} They also controlled 【122†Palakkad Gap】 and the 【123†Noyyal River】 valley, the principal trade route between the 【124†Malabar Coast】 and eastern Tamil Nadu.^{【125†[10]】} The bow and arrow, or just the bow, was the traditional dynastic emblem of the Chera family.^{【126†[11]】}
+L182: The major pre-【127†Pallava】 polities of southern India — ruled by the Cheras, Pandyas, and Cholas — appear to have displayed a rudimentary 【128†state structure】.^{【129†[12]】} Early Tamil literature, known as the 【130†Sangam texts】, and extensive classical 【116†Graeco-Roman】 accounts are the major sources of information about the early historic Cheras.^{【106†[4]】} Other corroborative sources for the Cheras include 【131†Tamil-Brahmi】 inscriptions,^{【132†[13]】}^{【103†[2]】} silver portrait coins with 【133†Tamil-Brahmi】 legends, and copper coins depicting the Chera symbols of the bow and the arrow on the reverse.^{【134†[14]】} With the close of the early historical period, between the third and fifth centuries CE, the Cheras witnessed a substantial decline in power.^{【135†[15]】}
+L183: 【136†"Kadal Pirakottiya" Chenkuttuvan】, the most celebrated Chera ruler of early Tamil literature, is famous for the traditions surrounding 【137†Kannaki】, the principal character of the Tamil epic poem 【138†Chilappathikaram】.^{【117†[7]】}^{【139†[16]】} Several medieval dynasties, such as the Cheras of 【140†Karur (Kongu country)】, 【141†Satiyaputra】 Cheras of 【142†Thagadur】, and the Chera "Perumals" of 【143†Mahodayapuram (Kerala)】 claimed descent from the early historic Chera rulers.^{【144†[17]】} The ruling lineage of the kingdom of 【145†Venad】, the Kulasekharas, was also known as the "Chera dynasty".^{【146†[18]】}^{【147†[19]】}
+L184: ## Etymology
+L185: 
+L186: [【148†edit】]
+L187: 
+L188: 【149†Ilango Adigal】, a 2nd-century 【150†Chera】 prince and 【151†Jain monk】, is credited with composing the Tamil epic 【152†Silappatikaram】.
+L189: The 【153†Tamil】 title "Chera", along with its variants such as "Cheraman" and "Cheralar/Cheral", and its various 【154†Indo-Aryan】 equivalents like "Kedalaputho" or "Kerala", refers to the ruling dynasty or family, the people, and the geographical region(s) associated with them. The title "Cheraman" is generally believed to be a shortened form of the phrase "Cheramakan", which is also considered the original root of the phrase "Keralaputras".^{【103†[2]】}
+L190: The etymology of the term "Chera" remains a subject of debate among historians.^{【155†[20]】}
+L191: 
+L192:   * The ancient Tamil term "Cheralam" likely means "mountain range", suggesting a connection to the mountainous geography of 【99†Kerala】 or the 【124†Malabar Coast】.^{【156†[21]】}^{【157†[22]】}
+L193:   * It has also been suggested that the word "Chera" derives from the Tamil term "cherppu", meaning "seashore" (the Malabar Coast).^{【158†[23]】}
+L194: A number of additional theories have also been proposed in historical studies.^{【159†[24]】}^{【160†[25]】}
+L195: 
+L196: It may seem that the title Chera is derived from the 【161†Malayalam】 word "keram" (meaning "【162†coconut palm】").^{【155†[20]】} However, the term "keram" itself is believed to have originated from the name 【99†Kerala】. Alternatively, some suggest that "keram" is simply a shortened form of the Sanskrit word "narikela", meaning "coconut tree".^{【155†[20]】}
+L197: ### Variations of the term Chera
+L198: 
+L199: [【163†edit】]
+L200: 
+L201: The Cheras are cited in ancient non-Tamil sources under different forms of the names "Chera" or "Cheraman". For the first time, they are mentioned as "Kedalaputo" in the edicts of the 【164†Maurya】 emperor 【165†Asoka】 (third century BCE).^{【166†[26]】}
+L202: 【167†Pliny the Elder】 (1st century CE), author of Natural History, and 【168†Claudius Ptolemy】 (2nd century CE), the astronomer and mathematician, referred to the Cheras of southern India as "Kaelobotros" and "Kerobottros", respectively.
+L203: The 【169†Periplus Maris Erythraei】, an early Greek manual of sailing directions written in the 1st century CE, refers to the Cheras as "Keprobotras".^{【139†[16]】}^{【170†[27]】} These Graeco-Roman names are probably corruptions of the 【154†Indo-Aryan】 term "Kedala Puto/Kerala Putra".^{【139†[16]】}^{【170†[27]】}
+L204: ## Sources
+L205: 
+L206: [【171†edit】]
+L207: 
+L208: Irumporai Cheras from Pugalur inscription
+L209: 
+L210: > Arunattarmalai, Velayudhampalayam (【172†Pugalur】)
+L211: >
+L212: >   * Athan Che[ra]l Irumporai/Irumpurai
+L213: >   * Perum Kadungon
+L214: >   * Kadungon Ilam Kadungo
+L215: 
+L216: — Mahadevan, I. (2003). pp. 117–119.
+L217: ### External sources
+L218: 
+L219: [【173†edit】]
+L220: The Cheras are referred to as "Kedalaputo" (related to Sanskrit: "Kerala Putra") in the edicts of the Maurya emperor 【165†Asoka】 (third century BCE).^{【166†[26]】} Brief references to the Keralas occur in the works of 【174†Katyayana】 (c. third-to-fourth centuries BCE), the philosopher 【175†Patanjali】 (c. second century BCE or fifth century CE), and the Maurya statesman and philosopher 【176†Kautilya or Chanakya】 (c. (circa) third-to-fourth century BCE). However, the Sanskrit grammarian 【177†Panini】 (c.
+L221: sixth-to-fifth centuries BCE) does not mention the Keralas.^{【178†[28]】}
+L222: 【179†Brahmi】 inscription from Pugalur, near Karur, recording Chera royal grants to a 【180†Jain monk】.
+L223: The earliest 【181†Graeco-Roman】 accounts referring to the Cheras appear in the works of 【167†Pliny the Elder】 (author of the celebrated 【182†Natural History】) in the first century CE, in the 【183†Periplus Maris Erythraei】 (an early Greek manual of sailing directions, first century CE), and in the writings of 【168†Claudius Ptolemy】 (the astronomer-mathematician, and geographer of Greek descent who flourished in Alexandria) in the second century CE.^{【184†[29]】}^{【132†[13]】}
+L224: ### Epigraphical sources
+L225: 
+L226: [【185†edit】]
+L227: 
+L228: Archaeologists have discovered both epigraphic and numismatic evidence for the early Cheras.^{【186†[30]】}^{【132†[13]】}
+L229:   * Two almost identical 【131†Tamil-Brahmi】 inscriptions discovered from Pugalur near 【120†Karur】 (c. second century CE; Arunattarmalai, Velayudhampalayam) describe three generations of Chera rulers.
+L230: They record the construction of a rock shelter for Chenkayapan, a 【96†Jain】 monk, on the investiture of Kadungon Ilam Kadungo, son of 【187†Perum Kadungon】, and the grandson of king Athan Che[ra]l Irumporai/Irumpurai.^{【188†[31]】}^{【112†[6]】}A potsherd with the graffiti "Irumpurai" was discovered at Kumarikal Palayam, 【189†Tiruppur】, in April, 2025.^{【190†[32]】}
+L231:   * A short Tamil-Brahmi engraving containing the word Chera ("Katummi Puta Cera"; Kadummi Putra Chera) was discovered at the 【191†Edakkal Caves】 in the 【192†Western Ghats】 (c. third century CE; 【193†Wayanad】).^{【188†[31]】}^{【112†[6]】} Another short graffiti from the same location (Edakkal) reads "Ko Athan", possibly referring to a different Chera ruler (c. third century CE).^{【188†[31]】}^{【112†[6]】}
+L232:   * Additional Tamil-Brahmi inscriptions can be found in locations such as Kodumanal, Aiyamalai, and Arachalur.^{【194†[33]】}
+L233: ### Excavation at Karur and Pattanam
+L234: 
+L235: [【195†edit】]
+L236: 
+L237: Amphorae sherds found at Pattnanam excavation site (Kerala).
+L238: Archaeological discoveries confirm modern 【120†Karur】, or Vanchi/Karuvur, the early historic Chera capital on the 【196†Amaravati River】, as a major political, and economic centre of ancient south India.^{【197†[34]】} It was an important centre of craft production, especially jewel making, and inland trade. Excavations at Karur have yielded huge quantities of copper coins with Chera symbols such as the bow and arrow, and pieces of Roman 【198†amphorae】.
+L239: Vellavur, near Karur, and the Amaravati river bed are noted for the presence large quantities of Roman coins.
+L240: Pugalur, noted for the rare Chera donative inscription in Tamil-Brahmi, is located around 10 miles north of Karur, on the south bank of the Kaveri River.^{【197†[34]】} An ancient trade route, from ports such as 【199†Muchiri】 and 【200†Thondi】 on the Kerala Coast through the 【122†Palghat Gap】, along the Noyyal river, through Kodumanal, to 【120†Karur】 in interior Tamil Nadu can also be traced using extensive archaeological evidence.^{【201†[35]】}^{【197†[34]】}
+L241: Historians have yet to precisely locate 【91†Muziris】, known in Tamil as Muchiri, the foremost port in the Chera kingdom and a capital on the Malabar Coast. However, archaeological excavations at 【202†Pattanam】 near 【203†Kochi】 increasingly suggest its identification with this location.^{【119†[9]】} Pattanam is notable for the remains of a brick-lined wharf made of laterite granules, lime, and clay.
+L242: Other discoveries include amphora sherds, terra sigillata, carnelian intaglios, and fragments of Roman glass.^{【204†[36]】} Roman coins have been discovered in large numbers from central Kerala and the Coimbatore-Karur region (【205†Kottayam-Kannur】, 【206†Valluvally】, 【207†Iyyal】, 【208†Vellalur】 and Kattankanni)^{【209†[37]】}^{【201†[35]】}
+L243: ### Numismatic discoveries
+L244: 
+L245: [【210†edit】]
+L246: 
+L247: A Chera coin with legend "Makkotai"
+L248: Dynastic coins, primarily recovered from the bed of the 【196†Amaravati River】 in central Tamil Nadu, provide valuable historical insights into this period.^{【209†[37]】}^{【211†[38]】} Often found as surface or stray discoveries or held in private collections, these coins mainly consist of punch-marked designs.^{【126†[11]】} Typically square in shape and made of copper, its alloys, or silver, they frequently feature a bow and arrow—the traditional emblem of the Cheras—on the obverse, sometimes accompanied by a legend.
+L249: Silver punch-marked coins, imitating imperial 【164†Maurya】 coins and bearing a Chera bow on the reverse, have also been reported.^{【134†[14]】}^{【212†[39]】} Bronze dies for minting punch-marked coins were discovered in the riverbed in 【120†Karur】 (indicating the presence of a Chera mint there).^{【134†[14]】} Additionally, hundreds of copper coins attributed to the Cheras have been excavated at 【202†Pattanam】, Cochin, in central Kerala.^{【134†[14]】}^{【212†[39]】} It is also known that the Cheras counter-struck silver Roman coins.^{【129†[12]】}
+L250: A Chera coin with legend "【213†Kuttuvan Kotai】"
+L251: Other major discoveries from central Tamil country include several silver portrait coins, such as one featuring a portrait with the Tamil-Brahmi legend "Makkotai" above it, found in the Krishna riverbed near 【120†Karur】, and another with a portrait and the legend "【213†Kuttuvan Kotai】" above it. Both of these impure silver coins are tentatively dated to around the first century CE or slightly later.
+L252: The reverse sides of both coins are blank.^{【209†[37]】} Impure silver coins bearing the Chera legends "Kollippurai"/"Kollipporai" and "Kol-Irumporai" have also been discovered at Karur.^{【134†[14]】} A silver coin depicting a person wearing a Roman-style bristled-crown helmet was also found in the Amaravati riverbed in Karur; its reverse side features a bow and arrow, the traditional symbol of the Chera family.^{【209†[37]】}
+L253: A macro analysis of the Makkotai coin reveals strong similarities to contemporary 【214†Roman silver coins】, and the portrait coins are generally considered imitations of Roman coinage.^{【209†[37]】}^{【134†[14]】} The legends, representing the names or titles of Chera rulers, are typically inscribed in 【131†Tamil-Brahmi】 characters on the obverse, while the reverse often features a bow and arrow symbol.
+L254: Evidence of an alliance between the Cheras and the Cholas is seen in a joint coin, which displays the Chola tiger on the obverse and the Chera bow and arrow on the reverse. Additionally, 【215†Lakshmi】-type coins, possibly of Sri Lankan origin, have been discovered at Karur.^{【134†[14]】}
+L255: ## Political history from Tamil sources
+L256: 
+L257: [【216†edit】]
+L258: 
+L259: A large body of Tamil works from the c. (circa) second century BCE to third century CE, collectively known as the 【130†Sangam (Academy) Literature】, describes a number of Chera, Chola, and Pandya rulers.^{【217†[40]】}^{【218†[41]】} These praise-filled poetic eulogies often glorify the rulers' accomplishments and virtues, perhaps serving to legitimize their political power.^{【219†[42]】}
+L260: Among these, the most important sources for the Cheras are the 【220†Pathitrupathu】, the 【221†Agananuru】 and the 【222†Purananuru】.^{【178†[28]】} The Pathitrupattu, the fourth book in the 【223†Ettuthokai Anthology】, mentions several rulers (and possible heirs-apparents) of the Chera family.^{【106†[4]】} Each Chera is praised in ten songs sung by a court poet.^{【217†[40]】} The title Pathitrupathu indicates that there were ten texts, each consisting of a decad of lyrics; however, two of these have not yet been discovered.^{【224†[43]】} Additionally, the collection has not yet been worked into a connected history and settled chronology.^{【225†[44]】}
+L261: ### Gajabahu-Chenguttuvan synchronism
+L262: 
+L263: [【226†edit】]
+L264: 
+L265: Carnelian Intaglio from Malabar Coast.
+L266: The events described in the early Tamil texts, or the 【130†Sangam Literature】, are dated to around the first or second centuries CE based on the 【227†Gajabahu-Chenguttuvan synchronism】, which is derived from certain verses in the Tamil epic poem 【228†Silappathikaram】.^{【225†[44]】} Despite its reliance on a number of conjectures, this method is considered a sheet anchor for dating early historic south India.
+L267: Complementary archaeological (and epigraphical) evidence broadly seems to support the Gajabahu chronology.^{【229†[45]】}^{【230†[46]】}^{【231†[47]】}
+L268: 【149†Ilango Adigal】, the author of 【228†Silappathikaram】, describes the renowned Chera ruler Chenguttuvan, a central figure in the epic, as his elder brother.
+L269: He also mentions Chenguttuvan's consecration of a temple for the goddess 【232†Pattini (Kannaki)】 at 【233†Vanchi】 (the Chera capital on the Malabar Coast).^{【234†[48]】} According to the poem, a king named 【235†Gajabahu】—identified with Gajabahu, a second-century ruler of Sri Lanka—was among those present at the Pattini temple consecration at Vanchi.^{【236†[49]】}^{【237†[50]】} Based on this context, Chenguttuvan and the other Chera rulers can be dated to either the first or the last quarter of the second century CE.^{【117†[7]】}
+L270: Chera rulers (Pathitrupattu Decad and Poet) from the Pathitrupattu Collection
+L271: Western Branch (【91†Muchiri-Vanchi】; central Kerala)
+L272: ---
+L273: Uthiyan Cheralathan (c. 130 CE)
+L274: 【238†Uthiyan Cheralathan】 is generally considered the earliest recorded ruler of the Western Branch of the Chera family and is thought to be the possible hero of the lost first decade of the Pathitrupathu Collection.
+L275: According to the 【222†Purananuru】, he bore the royal title "Vanavarampan" (the Beloved of the Gods).^{【239†[51]】} The 【222†Purananuru】 and 【221†Agananuru】 describe him as the Chera ruler who hosted the great feast ("the Perum Chotru") for both the Pandavas and the Kauravas during the 【240†Kurukshetra War】 of the Mahabharata.^{【239†[51]】}
+L276: Nedum Cheralathan (Decad II, Kannanar)^{【106†[4]】} (c. 155 CE)
+L277: 【241†Nedum Cheralathan】, the son of Uthiyan Cheralathan, was known by the title "Imayavarampan".
+L278: He was praised for subduing "Seven Crowned Kings", earning him the renowned title "Adhiraja".^{【242†[52]】}^{【243†[53]】} Poet Kannanar extols his conquests, noting that he defeated enemies from Kumari (【244†Cape Comorin】) to the Himalaya Mountains and even carved the Chera Bow Emblem on the Himalayas.^{【242†[52]】}^{【243†[53]】} Among his greatest adversaries was the "Kadambu" clan (based on an "island"; probably along the Malabar Coast), whom he defeated in a battle after "crossing" the sea.^{【245†[54]】}^{【243†[53]】} Nedum Cheralathan is also credited with a victory over the 【246†Yavanas】 — probably 【247†Graeco-Roman】 navigators — on the Malabar coast.
+L279: He captured several of them and, as punishment, poured hot ghee on their heads. However, he later released them in exchange for a heavy ransom consisting of diamonds, other precious stones, and intricately crafted vessels.^{【245†[54]】} Nedum Cheralathan is sometimes identified with "Kudakko" Nedum Cheralathan, who was killed in battle against a Chola ruler.^{【248†[55]】}
+L280: Palyanai Chel Kelu Kuttuvan (Decad III, Palai Kauthamanar)^{【106†[4]】} (c. 155 - 165 CE)
+L281: Palyanai Chel Kelu Kuttuvan, the son of Uthiyan Cheralathan (and younger brother of Nedum Cheralathan), is credited with conquering "Kongar Nadu" (the country of the Kongar people, corresponding to the Kongu country; western Tamil Nadu).^{【249†[56]】} He is also described as the Lord of Puzhi Nadu, the Cheruppu, and the Aiyirai Hills.^{【249†[56]】} Sources also mention that his headquarters was located at the mouth of the present-day Periyar River on the Malabar Coast.^{【249†[56]】}
+L282: "Kalankaikanni" Narmudi Cheral (Decad IV, Kappiyattukku Kappiyanar)^{【250†[57]】} (c. 180 - 190 CE)
+L283: Narmudi Cheral, the son of Nedum Cheralathan, is remembered for leading an expedition against Neduman Anji, the 【251†Adigaiman/Satyaputra】 chieftain of Thagadur (【142†Dharmapuri】, in northern Tamil Nadu).^{【252†[58]】}^{【237†[50]】} He also defeated and killed Nannan, the ruler of 【253†Ezhimala】, in the battle of "Kadambin Peruvayil" (or "Vakai Perunthurai").^{【242†[52]】}^{【237†[50]】}
+L284: "Kadal Pirakottiya" Chenguttuvan (Decad V, Paranar)^{【250†[57]】} (c. 180 CE)
+L285: 【254†"Kadal Pirakottiya" Chenguttuvan】 is identified with "Kadalottiya" Vel Kelu Kuttuvan.
+L286: He was a son of Nedum Cheralathan.^{【255†[59]】} During his reign, the Chera territory encompassed the 【124†Malabar Coast】 (present-day 【99†Kerala】) and the interior 【256†Kongu country】 (western 【100†Tamil Nadu】).^{【237†[50]】}^{【242†[52]】} He is described as the Lord of the Kudavar people (that is, of Kudanadu) and as the Kuttuvan (the Lord of the Kuttuvar people)^{【255†[59]】} Chenguttuvan successfully intervened in a succession dispute in the Chola kingdom, placing his relative 【257†Killi】 on the Chola throne.
+L287: Killi's rivals were defeated in the battle of "Vayil or "Neri-Vayil". Records also mention that he won a major victory at "Viyalur" (perhaps in the 【258†Ezhimala】 country of northern Kerala, against its traditional ruler Nannan).^{【255†[59]】}^{【117†[7]】} The panegyric to the fifth decade describes Chenkuttuvan as "the king feared by the northerners", who wanted to take a sacred stone for the idol of the goddess 【232†Pattini】.

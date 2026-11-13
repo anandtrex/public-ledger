@@ -1,0 +1,358 @@
+Gajapati Empire - Wikipedia (https://en.wikipedia.org/wiki/Gajapati_Empire)
+citeturn72view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Gajapati_Empire","lineno":null}); Total lines: 410
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology】
+L49:   * 【19†2 History】
+L50:   * 【20†3 Gajapati military】 Toggle Gajapati military subsection
+L51:     * 【21†3.1 Military titles】
+L52:     * 【22†3.2 Gajapati military divisions】
+L53:     * 【23†3.3 Gajapati Infantry units】
+L54:     * 【24†3.4 Military instruments and weapons】
+L55:     * 【25†3.5 Contemporary sources】
+L56:   * 【26†4 List of rulers】
+L57:   * 【27†5 Family Tree】
+L58:   * 【28†6 Culture】
+L59:   * 【29†7 Legacy】 Toggle Legacy subsection
+L60:     * 【30†7.1 Gallery】
+L61:   * 【31†8 See also】
+L62:   * 【32†9 References】 Toggle References subsection
+L63:     * 【33†9.1 Bibliography】
+L64: [Input] Toggle the table of contents
+L65: # Gajapati Empire
+L66: 
+L67: [Input] 17 languages
+L68:   * 【34†العربية†ar.wikipedia.org】
+L69:   * 【35†Català†ca.wikipedia.org】
+L70:   * 【36†Español†es.wikipedia.org】
+L71:   * 【37†Français†fr.wikipedia.org】
+L72:   * 【38†हिन्दी†hi.wikipedia.org】
+L73:   * 【39†Bahasa Indonesia†id.wikipedia.org】
+L74:   * 【40†日本語†ja.wikipedia.org】
+L75:   * 【41†ಕನ್ನಡ†kn.wikipedia.org】
+L76:   * 【42†한국어†ko.wikipedia.org】
+L77:   * 【43†नेपाली†ne.wikipedia.org】
+L78:   * 【44†ଓଡ଼ିଆ†or.wikipedia.org】
+L79:   * 【45†پنجابی†pnb.wikipedia.org】
+L80:   * 【46†සිංහල†si.wikipedia.org】
+L81:   * 【47†தமிழ்†ta.wikipedia.org】
+L82:   * 【48†తెలుగు†te.wikipedia.org】
+L83:   * 【49†Українська†uk.wikipedia.org】
+L84:   * 【50†اردو†ur.wikipedia.org】
+L85: 【51†Edit links†www.wikidata.org】
+L86: 
+L87:   * 【52†Article】
+L88:   * 【53†Talk】
+L89: 
+L90: [Input] English
+L91: 
+L92:   * 【52†Read】
+L93:   * 【54†Edit】
+L94:   * 【55†View history】
+L95: 
+L96: [Input] Tools
+L97: 
+L98: Tools
+L99: 
+L100: [Button: move to sidebar] [Button: hide]
+L101: 
+L102: Actions
+L103: 
+L104:   * 【52†Read】
+L105:   * 【54†Edit】
+L106:   * 【55†View history】
+L107: 
+L108: General
+L109: 
+L110:   * 【56†What links here】
+L111:   * 【57†Related changes】
+L112:   * 【58†Upload file】
+L113:   * 【59†Permanent link】
+L114:   * 【60†Page information】
+L115:   * 【61†Cite this page】
+L116:   * 【62†Get shortened URL】
+L117:   * 【63†Switch to legacy parser】
+L118: 
+L119: Print/export
+L120:   * 【64†Download as PDF】
+L121:   * Printable version
+L122: 
+L123: In other projects
+L124: 
+L125:   * 【65†Wikimedia Commons†commons.wikimedia.org】
+L126:   * 【66†Wikidata item†www.wikidata.org】
+L127: 
+L128: Appearance
+L129: 
+L130: [Button: move to sidebar] [Button: hide]
+L131: 
+L132: 【67†Coordinates】: 【68†20°31′25″N 85°47′17″E﻿ / ﻿20.52361°N 85.78806°E﻿ / 20.52361; 85.78806†geohack.toolforge.org】
+L133: 
+L134: Gajapati Empire
+L135: ---
+L136: 1434–1541
+L137: Greatest extent of the Gajapati Empire.^{【69†[2]】}
+L138: Capital  | 【70†Kataka】
+L139: Common languages  |
+L140:   * 【71†Odia】 (court language, literature)^{【72†[3]】}^{【73†[4]】}
+L141:   * 【74†Sanskrit】 (religious)^{【75†[5]】}
+L142:   * 【76†Other Indian languages】
+L143: Religion  | 【77†Hinduism】
+L144: 【78†Vaishnavism】
+L145: Government  | Monarchy
+L146: 【79†Gajapati】  |
+L147: • 1434–67  | 【80†Kapilendra Deva】
+L148: • 1467–97  | 【81†Purushottama Deva】
+L149: • 1472–76  | 【82†Hamvira Deva】
+L150: • 1497–1540  | 【83†Prataprudra Deva】
+L151: • 1540–1541  | Kalua Deva
+L152: • 1541  | Kakharua Deva
+L153: Historical era  | 【84†Medieval India】
+L154: • Established  | 1434
+L155: • 【85†Battle of Devarakonda】  | 1458
+L156: • 【86†Gajapati invasion of Bidar】  | 1461
+L157: • Disestablished  | 1541
+L158: Preceded by Succeeded by
+L159: 【87†Image†upload.wikimedia.org】 【88†Eastern Ganga dynasty】
+L160: 【89†Bhoi dynasty】 【87†Image†upload.wikimedia.org】
+L161: 【90†Golconda Sultanate】 【87†Image†upload.wikimedia.org】
+L162: 【91†Bengal Sultanate】 【87†Image†upload.wikimedia.org】
+L163: Today part of  | 【92†India】
+L164: The Gajapati Empire^{【93†[6]】} was a 【84†medieval】 powerful 【94†Hindu】 monarchy in the 【95†Indian】 subcontinent, originally from the region of 【96†Odisha】 that reigned from c.1434 to 1541.
+L165: At its peak, it ruled parts of modern-day 【97†West Bengal】 to 【98†Tiruchirappalli】 (modern-day 【99†Tamil Nadu】).^{【100†[7]】} It succeeded the 【88†Eastern Gangas】 as the 【79†Gajapati】 monarchs and was founded by 【80†Kapilendra Deva】 of 【101†Suryavamsa】 lineage after the death of the last ruler of 【102†Eastern Ganga】 king Bhanu Deva IV.
+L166: Gajapatis were great patrons of art, architecture and literature which during their time flourished and witnessed tremendous growth, they ruled over a vast stretch of land and had continuous rivalry with the 【103†Vijayanagara Empire】.^{【93†[6]】} Their capital was 【70†Kataka】.^{【104†[8]】}
+L167: The Gajapati kings patronized 【78†Vaishnavite Hinduism】 and were ardent devotees of the 【105†God Vishnu】. They also commissioned many temples dedicated to the 【105†God Vishnu】.^{【106†[9]】} They established the Jagannath cult over kalinga.
+L168: ## Etymology
+L169: 
+L170: [【107†edit】]
+L171: 
+L172: In 【71†Odia】, "Gaja" means elephant and "Pati" means master or husband. As such, 【79†Gajapati】 etymologically means a king with an army of elephants or master of elephants. Gajapati was one of the four titles adopted by kings who ruled in pre-colonial era India, the others being Narapati (e.g. 【103†Vijayanagara emperors】), Aswapati (e.g. the 【108†Bahmani sultans】), and 【109†Chhatrapati】.^{【110†[10]】}
+L173: 【111†Narasingha Deva I】 was the first king of Kalinga to use the title of 【79†Gajapati】 (Lord of the elephants) which would become the imperial title of the ruling monarchs of Trikalinga and its later manifestation as the region of Odradesha. The title was first used in the 1246 CE inscription at 【112†Kapilash Temple】.
+L174: ## History
+L175: 
+L176: [【113†edit】]
+L177: The region known as Kalinga (present-day Odisha) was ruled by the 【114†Eastern Gangas】.The early Eastern Gangas ruled from Kalinga-nagara (currently Mukhalingam near 【115†Srikakulam】, Andhra Pradesh). They shifted their capital to Cuttack in the 13th century. The Hindu philosopher 【116†Ramanujacharya】 had a great influence on the Raja Choda Ganga Deva, who renovated the temple at 【117†Puri】.
+L178: 【111†Narasingha Deva I】 built the 【118†Sun Temple】 at 【119†Konark】 and 【120†Varaha Lakshmi Narasimha temple, Simhachalam】 at 【121†Visakhapatnam】. The Gangas were succeeded by the Gajapati monarchs. Two copper plates of the early Pallava dynasty have been found in the Kolleru Lake, traced to Gajapati Langula Narasimha Deva, an Oriya ruler (Odia Raja). According to legend, the Gajapati fort was located at Kolleti Kota on one of the eastern islands of the lake, which protected the 【122†Odia】 forces.
+L179: The enemy general encamped at Chiguru Kota located on the shores and tried to excavate a channel in the modern-day Upputeru, so that the water of the lake would empty into the sea and allow an attack on the Gajapati fort.^{【104†[8]】}
+L180: The Gajapatis at the height of their power in the 15th century, ruled over an empire extending from the 【123†Ganges】 in the north near 【124†Hoogly】 to the 【125†Kaveri】 in the south under Emperor 【80†Kapilendra Deva】.^{【126†[11]】} But by the early 16th century, the Gajapatis lost great portions of their southern dominion to the 【103†Vijayanagara Empire】 and the 【127†Golconda Sultanate】.^{【128†[12]】}
+L181: This period was marked by the influence of 【129†Chaitanya Mahaprabhu】 and by the expansion of 【130†Jagannath temple】 across the length and breadth of the empire.
+L182: One of the causes of the reduction in militarism among the population has been attested to the Bhakti movement initiated by Sri Chaitanya Mahaprabhu, who arrived in the empire during the reign of 【131†Emperor Prataparudra】 and stayed for 18 long years at 【117†Puri】.^{【132†[13]】} Emperor Prataparudra was highly influenced by the works of Chaitanya Mahaprabhu and gave up the military tradition of the Kalinga emperors.^{【133†[14]】} He retired to the life of an ascetic leaving the future of the empire uncertain.
+L183: 【134†Govinda Vidyadhara】 took the opportunity to assassinate the sons of the emperor and usurped the throne for himself.^{【128†[12]】}
+L184: ## Gajapati military
+L185: 
+L186: [【135†edit】]
+L187: 
+L188: Extent of Odisha under Kapilendra Deva^{【136†[15]】}
+L189: The records of the Suryavamsi Gajapatis gives a picture of their military administration which they had inherited from the Eastern Gangas rulers. The Gangas had a vast and well-organised military which was improved upon by 【80†Kapilendra Deva】. The empire was built on the lines of a military state, with the protection of the state and its expansion being the responsibilities of the state and population.
+L190: Militarism had penetrated into different ranks of the society and the Emperor had a large standing army which included a large number of soldiers and local-militants in the standing army. Besides the feudal tributary states of the Gajapatis also provided a stipulated number of soldiers at the time of war and had to fight for the Gajapati in the battle field.^{【137†[16]】}
+L191: ### Military titles
+L192: 
+L193: [【138†edit】]
+L194: 
+L195: Some of the military titles include:^{【139†[17]】}
+L196:   * Senapati, Champati, Routray, Sundaray, Paikaray (commander of the cavalry), Sahani (commander of elephant force), Dandapata, Dandasena, Paschimakavata, Uttarakavata (guardian of the marches), Samantray, Bidyadhara, Bhramarabara, Harichandana, Jagadeva, Mardaraja, Samantasimhara, Raya, Singha, Mansingha, Baliarsingha, Pahadasingha, Nayaka, Pattanayaka, Dandanayaka, Gadanayaka, Patra, Mohapatra, Behera, Dalabehera, Jena, Badajena, Pradhana, Samala, Routa, Khuntia, Parichha, Parija, Padhihari, Padhy, Dandapani
+L197: ### Gajapati military divisions
+L198: 
+L199: [【140†edit】]
+L200: 
+L201: The Odia poet 【141†Sarala Das】 who lived during the reign of 【80†Kapilendra Deva】, has given descriptions about the military divisions in his Odia Mahabharata.^{【139†[17]】} The divisions mentioned are:
+L202:   * Hantakaru Dala: The first division of the army. It was in the forefront of the marching army and was responsible forward scouting, clearing jungles and marking roads for the army. It was equivalent to the engineering division of the modern armies of the world.
+L203:   * Aguani Thata: The advance units or the first in line to march or charge in the battle formations. The division marched ahead of the main army.
+L204:     * Dhenkiya: The attack groups
+L205:     * Banua/Dhanuki: The archers
+L206:     * Cavalry
+L207:   * Pradhana Vala: The main division of the army with maximum concentration of the soldiers.
+L208:     * Dhenkiya: Warriors wielding Sword and Shield. Forming the frontline of battalion.
+L209:     * Banua: Marksmen with poisoned arrow and composite bows with formidably accurate shots.
+L210:     * Phadikara: The fighters bearing mostly close combat weapons. They wore leather armor.
+L211:     * Cavalry
+L212:     * Elephant Corps
+L213:     * Itakara: Mainly used for motivating the army with war time music and dance with Ghumura. Carried with them various musical instruments and reported to the officer with the rank of Bahubalendra, in charge of non-combatants.
+L214:   * Pachhiani Thata: The fourth and the rear division guarding the flanks.
+L215:   * Angavala: The groups with the main bodyguards of the monarchs, other royalties, commander, military generals and officers.
+L216:   * Paridhana: The detachments with commanding officers and fort duty officers left in charge of the captured territory and forts. The rank of the officer involved in this division is Nayak or Gadanayak.
+L217:     * Dhenkiya
+L218:     * Banua
+L219:     * Phadikara
+L220:     * Prahari: The guards on duty and also serve as military police at home.
+L221: ### Gajapati Infantry units
+L222: 
+L223: [【142†edit】]
+L224: 
+L225: The infantry units of the Gajapati military are as follows:^{【139†[17]】}
+L226:   * Dala: Band of 27 【143†Paikas】, mostly from the same locality and commanded by an officer with the rank of Dalabehera.
+L227:   * Bhuiyan: A platoon of 70 Paikas and commanded by an officer with the rank of Paikaray.
+L228:   * Vahini: A brigade consisting of multiple Bhuiyan platoons and commanded by an officer with the rank of Vahinipati.
+L229:   * Chamu: An entire regiment of the army consisting multiple Vahinis and commanded by an officer with the rank of Chamupati or Champati.
+L230: ### Military instruments and weapons
+L231: 
+L232: [【144†edit】]
+L233: Musical instruments used to motivate soldiers during march and warfare. The names of musical instruments include Damalu, Damame, Tamaka, Bizighosa, Daundi, Ghumura, Bheri, Turi, Ranasingha etc. The names of weapons used by the Gajapati army are also mentioned like Dhanu, Trona, Sara, Asi, Parigha, Pattisa, Kunta, Jathi, Buruja, Saveli etc.
+L234: Information with regards to breaking of gateways and walls of forts with the help of horses, elephants and iron instruments are also found in the same text.^{【139†[17]】}
+L235: ### Contemporary sources
+L236: 
+L237: [【145†edit】]
+L238: 
+L239: Udaygiri fort built during Kapilendradeva Reign.
+L240: Other contemporary sources also reveal details on characteristics of the Gajapati military. Muslim texts like Buhan-m-Mansir give accounts of the 【80†Emperor Kapilendra Deva】 having an 【146†elephantry】 numbering two hundred thousand.
+L241: Such a large number of 【147†war elephants】 is highly unusual even when compared with any contemporary military of the existing kingdoms during the times of Kapilendra Deva himself, in India.^{【137†[16]】} Nizzamuddin writes that the Gajapati encamped on the banks of the river 【148†Godavari】 with an infantry of seven hundred thousand.
+L242: 【149†Fernão Nunes】, the Portuguese-Jewish traveler who spent three years at 【150†Vijayanagara】, the capital of the 【103†Vijayanagara Empire】 estimates size of the army of 【131†Emperor Prataparudra】 to the extent of 13,000 elephants, 20,000 horses, while fighting against the 【103†Vijayanagara Empire】 and also notes that the Odia soldiers were excellent fighters.
+L243: Rayavachakamu also gives interesting accounts about the feats and exercises practised by the Gajapati soldiers at their capital Cuttack.^{【151†[18]】}
+L244: ## List of rulers
+L245: 
+L246: [【152†edit】]
+L247: 
+L248: List of Gajapati rulers^{【153†[19]】}
+L249: Image  | Ruler  | Reign (CE)  | Notes
+L250: --- | --- | --- | ---
+L251:  | 【80†Kapilendra Deva】  | 1434–1467  | Founder and first ruler of dynasty
+L252:  | 【81†Purushottama Deva】  | 1467–1497  | Second ruler of dynasty
+L253:  | 【131†Prataparudra Deva】  | 1497–1540  | Third ruler of dynasty
+L254:  | Kalua Deva  | 1540–1541  | Fourth ruler of dynasty
+L255:  | Kakharua Deva  | 1541  | Fifth and last ruler of dynasty
+L256: ## Family Tree
+L257: 
+L258: [【154†edit】]
+L259: 
+L260: Suryavamsa dynasty
+L261: ---
+L262: 【80†Kapilendra Deva】
+L263: ^{(1)}
+L264: r. c. (circa) 1434–1467
+L265: 【81†Purushottama Deva】
+L266: ^{(2)}
+L267: r. c. (circa) 1467–1497 【82†Hamvira Deva】
+L268: ^{(2)}
+L269: r. c. (circa) 1472–1476
+L270: 【83†Prataprudra Deva】
+L271: ^{(3)}
+L272: r. c. (circa) 1497–1540 Kumara Kapileshwara Mahapatra
+L273: ^{(3)}
+L274: Kalua Deva
+L275: ^{(3)}
+L276: r. c. (circa) 1540–1541
+L277: Khakharua Deva
+L278: ^{(3)}
+L279: r. c. (circa) 1541
+L280: ## Culture
+L281: 
+L282: [【155†edit】]
+L283: The Gajapatis are devout worshipper of 【105†Lord Vishnu】 patronized 【78†Vaishnavite Hinduism】 and expanded the 【130†Jagannath temple】 at 【117†Puri】. The Jagannath temple became the center for an efflorescence of drama and dance (【156†Odissi】) and other forms of art during Gajapati rule.^{【157†[20]】} During the rule of Kapilendra Deva construction of the 【158†Shaivite Hindu】 【159†Kapilesvara Temple】 in 【160†Bhubaneswar】 is done.
+L284: The Narendra tank in the 【161†Puri Jagannath temple】 premises was constructed by Kapilendra Deva where the 【162†Chandan Yatra】 festival of Lord Jagannath takes place.^{【106†[9]】}^{【126†[11]】}^{【104†[8]】}
+L285: The Gajapatis believed themselves as the servants of 【163†Lord Jagannath】 and start their mornings with their worship and blessings.^{【126†[11]】}
+L286: ## Legacy
+L287: 
+L288: [【164†edit】]
+L289: 
+L290: During the reign of the Gajapatis, Odisha saw a great social, cultural, linguistic, religious, and artistic revival. Odia language was given importance. Odisha reached its zenith during the rule of the Gajapatis. The Gajapatis were great patrons of art and literature and built various famous temples.
+L291: By 1464, the Gajapati Empire was one of the most powerful empires in medieval India, especially under Kapilendra Deva who was the undisputed master of an empire stretching from the 【123†Ganges】 in the north to 【98†Tiruchirappalli】 in the south along the coast.^{【165†[21]】}
+L292: 
+L293: Gajapatis were devout Vaishnavites and popularised worship of Jagannath throughout their kingdom.
+L294: ### Gallery
+L295: 
+L296: [【166†edit】]
+L297: 
+L298:   * Deities enshrined in the 【167†Jagannath Temple】
+L299: 
+L300:   * Meghanada wall fortifications of the Puri 【167†Jagannath Temple】
+L301: 
+L302:   * Narendra Tank, Puri
+L303: 
+L304:   * Kurumbera Fort
+L305: 
+L306:   * 【168†Barabati Fort】, Cuttack
+L307: 
+L308:   * Udayagiri Fort
+L309: 
+L310:   * Kapilesvara Temple
+L311: 
+L312:   * Temples of Ekamra Kshetra (Old Bhubaneswar)
+L313: 
+L314:   * Lingaraj Temple inscription of 【80†Kapilendra Deva】
+L315: 
+L316:   * 15th-century copper-plate grant of 【81†Purushottama Deva】
+L317: ## See also
+L318: 
+L319: [【169†edit】]
+L320: 
+L321:   * 【88†Eastern Ganga dynasty】
+L322:   * 【170†Poosapati】
+L323:   * 【161†Jagannath Temple, Puri】
+L324:   * 【171†Sevayat】
+L325: ## References
+L326: 
+L327: [【172†edit】]
+L328:   1. Schwartzberg, Joseph E. (1978). 【173†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 148, map XIV.4 (c). 【174†ISBN】 【175†0226742210】. Archived from 【176†the original†dsal.uchicago.edu】 on 25 February 2021. Retrieved 25 February 2023.
+L329:   2. 【177†↑】 Schwartzberg, Joseph E. (1978). 【173†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 148, map XIV.4 (c). 【174†ISBN】 【175†0226742210】. Archived from 【176†the original†dsal.uchicago.edu】 on 25 February 2021. Retrieved 25 February 2023.
+L330:   3. 【178†↑】 Tripathī, Kunjabihari (1962). 【179†The Evolution of Oriya Language and Script†books.google.com】. Utkal University. p. 19. Retrieved 21 March 2021.
+L331:   4. 【180†↑】 Mansinha, Mayadhar (1962). 【181†History of Oriya Literature†books.google.com】. Sahitya Akademi. p. 50. Retrieved 21 March 2021.
+L332:   5. 【182†↑】 Srichandan, G. K. (February–March 2011). 【183†"Classicism of Odia Language"†web.archive.org】 (PDF). Orissa Review. p. 54. Archived from 【184†the original†magazines.odisha.gov.in】 (PDF) on 11 December 2017. Retrieved 28 June 2019.
+L333:   6. 【185†1】 【186†2】 Mishra, Patit Paban (2016), 【187†"Eastern Ganga and Gajapati empires"†onlinelibrary.wiley.com】, The Encyclopedia of Empire, John Wiley & Sons, Ltd, pp. 1–4, 【188†doi】:【189†10.1002/9781118455074.wbeoe402†doi.org】, 【174†ISBN】 【190†978-1-118-45507-4】, retrieved 21 February 2025
+L334:   7. 【191†↑】 R.C.Majumdar, A.D.Pusalker, A.K.Majumdar (1967). 【192†The History and Culture of the Indian People, The Delhi Sultanate, Volume:-6†archive.org】. Bharatiya Vidya Bhavan. p. 366.`{{【193†cite book】}}`: CS1 maint: multiple names: authors list (【194†link】)
+L335:   8. 【195†1】 【196†2】 【197†3】 bhuyan, annapurna (1999). 【198†"Kapilendra Deva and his times"†shodhganga.inflibnet.ac.in】 (PDF). www.shodhganga.inflibnet.ac.in. Utkal University. p. 31. Retrieved 30 June 2021.
+L336:   9. 【199†1】 【200†2】 B. Hemalatha (1991). 【201†Life in Medieval Northern Andhra: Based on the Inscriptions from the Temples of Mukhalingam, Srikurmam, and Simhachalam†books.google.com】. Navrang Publishing. p. 81. 【174†ISBN】 【202†9788170130864】. "The study of Gajapati temples reveals that they patronized Vaishnavism . Purushottama Gajapati called himself Parama - Vaishnava in an undated inscription found at Draksharama."
+L337:   10. 【203†↑】 Bal, Ashok Kumar; Singh, Karan (2022). Gajapati: a king without a kingdom. New Delhi: Konark Publishers Pvt Ltd. 【174†ISBN】 【204†978-81-949286-2-1】.
+L338:   11. 【205†1】 【206†2】 【207†3】 【208†Majumdar, Ramesh Chandra】; Pusalker, A. D.; Majumdar, A. K., eds. (1960). 【209†The History and Culture of the Indian People Volume=VI: The Delhi Sultanate†archive.org】. Bombay: Bharatiya Vidya Bhavan. p. 365. Retrieved 11 March 2021.
+L339:   12. 【210†1】 【211†2】 Sastri, K.A.N. (1976). 【212†A History of South India from Prehistoric Times to the Fall of Vijayanagar†books.google.com】. Oxford India paperbacks. Oxford University Press. p. 255. 【174†ISBN】 【213†978-0-19-560686-7】. Retrieved 24 September 2021.
+L340:   13. 【214†↑】 Hermann Kulke (1976), 【215†Kshatriyaization and social change: A Study in Orissa setting†web.archive.org】 (PDF), Popular Prakashan, p. 402, archived from 【216†the original†core.ac.uk】 (PDF) on 24 June 2021, retrieved 2 July 2021, "Suryavamsa...kings of the Suryavamsa(1435-1540)"
+L341:   14. 【217†↑】 Das, H.C. (1989). 【218†Sri Chaitanya in the Religious Life of India†books.google.com】. Punthi Pustak. p. 145. 【174†ISBN】 【219†978-81-85094-22-9】. Retrieved 24 September 2021.
+L342:   15. 【220†↑】 【221†Subrahmanyam 1957】, pp. 56–58.
+L343:   16. 【222†1】 【223†2】 【224†"MILITARY SYSTEM UNDER THE SURYAVAMSI GAJAPATIS"†shodhganga.inflibnet.ac.in】 (PDF). www.shodhganga.inflibnet.ac.in. Retrieved 10 October 2018.
+L344:   17. 【225†1】 【226†2】 【227†3】 【228†4】 【224†"MILITARY SYSTEM UNDER THE SURYAVAMSI GAJAPATIS"†shodhganga.inflibnet.ac.in】 (PDF). www.shodhganga.inflibnet.ac.in. pp. 153, 154. Retrieved 10 October 2018.
+L345:   18. 【229†↑】 【224†"MILITARY SYSTEM UNDER THE SURYAVAMSI GAJAPATIS"†shodhganga.inflibnet.ac.in】 (PDF). www.shodhganga.inflibnet.ac.in. p. 155. Retrieved 10 October 2018.
+L346:   19. 【230†↑】 Sen, Sailendra (2013). A Textbook of Medieval Indian History. Primus Books. pp. 121–122. 【174†ISBN】 【231†978-9-38060-734-4】.
+L347:   20. 【232†↑】 【233†"Sanskrit Poets and Scholars of Orissa"†www.indiadivine.org】. Retrieved 21 March 2011.`{{【234†cite web】}}`: CS1 maint: deprecated archival service (【235†link】)
+L348:   21. 【236†↑】 【208†Majumdar, RC】; Pusalker, A. D.; Majumdar, A.K., eds. (1960). 【237†The History and Culture of the Indian People】. Vol. VI: The Delhi Sultanate. Bombay. pp. 365–372.`{{【193†cite book】}}`: CS1 maint: location missing publisher (【238†link】)
+L349: ### Bibliography
+L350: 
+L351: [【239†edit】]
+L352: 
+L353:   * 【208†Majumdar, Ramesh Chandra】; Pusalker, A. D.; Majumdar, A. K., eds. (1960). 【237†The History and Culture of the Indian People】. Vol. VI: The Delhi Sultanate. Bombay: Bharatiya Vidya Bhavan. pp. 365–372.
+L354:   * Subrahmanyam, R, ed. (1957). The Sūryavaṁśi Gajapatis of Orissa. Waltair: Andhra University. 【240†OCLC】 【241†613268261†search.worldcat.org】.
+L355: 

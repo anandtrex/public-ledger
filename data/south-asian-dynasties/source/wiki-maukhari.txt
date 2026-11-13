@@ -1,0 +1,314 @@
+Maukharis of Kannauj - Wikipedia (https://en.wikipedia.org/wiki/Maukhari_dynasty)
+citeturn54view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Maukhari_dynasty","lineno":null}); Total lines: 348
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Succession】
+L51:   * 【21†3 Religion】
+L52:   * 【22†4 Army】
+L53:   * 【23†5 Administration】
+L54:   * 【24†6 Cultural and international exchanges】 Toggle Cultural and international exchanges subsection
+L55:     * 【25†6.1 Contacts with the Sasanian Empire】
+L56:   * 【26†7 Rulers】
+L57:   * 【27†8 Barabar branch of Maukhari rulers】
+L58:   * 【28†9 See also】
+L59:   * 【29†10 References】
+L60:   * 【30†11 Bibliography】
+L61:   * 【31†12 External links】
+L62: [Input] Toggle the table of contents
+L63: # Maukharis of Kannauj
+L64: 
+L65: [Input] 13 languages
+L66: 
+L67:   * 【32†Català†ca.wikipedia.org】
+L68:   * 【33†Esperanto†eo.wikipedia.org】
+L69:   * 【34†हिन्दी†hi.wikipedia.org】
+L70:   * 【35†ಕನ್ನಡ†kn.wikipedia.org】
+L71:   * 【36†한국어†ko.wikipedia.org】
+L72:   * 【37†मराठी†mr.wikipedia.org】
+L73:   * 【38†Nederlands†nl.wikipedia.org】
+L74:   * 【39†Norsk bokmål†no.wikipedia.org】
+L75:   * 【40†پنجابی†pnb.wikipedia.org】
+L76:   * 【41†தமிழ்†ta.wikipedia.org】
+L77:   * 【42†Українська†uk.wikipedia.org】
+L78:   * 【43†اردو†ur.wikipedia.org】
+L79:   * 【44†Oʻzbekcha / ўзбекча†uz.wikipedia.org】
+L80: 【45†Edit links†www.wikidata.org】
+L81: 
+L82:   * 【46†Article】
+L83:   * 【47†Talk】
+L84: 
+L85: [Input] English
+L86: 
+L87:   * 【46†Read】
+L88:   * 【48†Edit】
+L89:   * 【49†View history】
+L90:   * 【17†Save】
+L91: 
+L92: [Input] Tools
+L93: 
+L94: Tools
+L95: 
+L96: [Button: move to sidebar] [Button: hide]
+L97: 
+L98: Actions
+L99: 
+L100:   * 【46†Read】
+L101:   * 【48†Edit】
+L102:   * 【49†View history】
+L103:   * 【17†Save】
+L104: 
+L105: General
+L106: 
+L107:   * 【50†What links here】
+L108:   * 【51†Related changes】
+L109:   * 【52†Upload file】
+L110:   * 【53†Permanent link】
+L111:   * 【54†Page information】
+L112:   * 【55†Cite this page】
+L113:   * 【56†Get shortened URL】
+L114:   * 【57†Switch to legacy parser】
+L115: Print/export
+L116: 
+L117:   * 【58†Download as PDF】
+L118:   * Printable version
+L119: 
+L120: In other projects
+L121: 
+L122:   * 【59†Wikimedia Commons†commons.wikimedia.org】
+L123:   * 【60†Wikidata item†www.wikidata.org】
+L124: 
+L125: Appearance
+L126: 
+L127: [Button: move to sidebar] [Button: hide]
+L128: 
+L129: (Redirected from 【61†Maukhari dynasty】)
+L130: 
+L131: For the branch of the Maukharis that ruled from Gaya, see 【62†Maukharis of Gaya】.
+L132: Maukhari dynasty
+L133: ---
+L134: c. (circa) 510 CE–c. (circa) 606 CE
+L135: Coin of King 【63†Iśanavarman】 of the Maukhari of 【64†Kanyakubja】, c. 535-553 CE. The ruler faces to the left, whereas in Gupta coinage the ruler faces to the right. This is possibly a symbol of antagonism and rivalry, as also seen on 【65†some similar coins】 of 【66†Toramana】.^{【67†[1]】}
+L136: 【68†MORIS】
+L137: 【69†South-Asia550-600 CE】【70†PRATIHARAS】 【71†PANDYAS】【72†CHOLAS】【73†CHERAS】【74†SAMATATAS】【75†GAUDAS】【76†VARMANS】【77†PALLAVAS】【78†NEZAKS】【79†ALCHONS】【80†GONANDAS】【81†KALACHURIS】【82†NALAS】【83†KALINGAS】【84†HEPHTHALITES】【85†TOCHARIANS】【86†MAITRAKAS】【87†AULIKARAS】【88†RAIS】
+L138: 【89†LATERGUPTAS】
+L139: 【90†PUSHYA-BHUTIS】【91†CHALUKYAS】
+L140: 【92†SASANIANEMPIRE】 【93†◁】 【94†▷】 Map of the dominions of Maukharis, with neighbouring polities, circa 550-600 CE, after the retreat of the 【79†Alchon Huns】.^{【95†[2]】}
+L141: Capital  | 【64†Kanyakubja】
+L142: Common languages  | 【96†Sanskrit】
+L143: Religion  | 【97†Hinduism】
+L144: 【98†Buddhism】
+L145: Government  | Monarchy
+L146: 【99†Maharajadhiraja】  |
+L147: Historical era  | 【100†Medieval India】
+L148: • Established  | c. (circa) 510 CE
+L149: • Disestablished  | c. (circa) 606 CE
+L150: Preceded by Succeeded by
+L151: 【101†Image†upload.wikimedia.org】 【102†Later Guptas】
+L152: 【101†Image†upload.wikimedia.org】 【79†Alchon Huns】
+L153: 【101†Image†upload.wikimedia.org】 【62†Maukharis of Gaya】
+L154: 【102†Later Guptas】 【101†Image†upload.wikimedia.org】
+L155: 【90†Pushyabhuti dynasty】 【101†Image†upload.wikimedia.org】
+L156: 【75†Gauda Kingdom】 【101†Image†upload.wikimedia.org】
+L157: The Maukhari dynasty (【103†Gupta script】: , Mau-kha-ri) was a post-【104†Gupta】 dynasty who controlled the vast plains of 【105†Ganga】-【106†Yamuna】 for almost a century from 【64†Kannauj】. They earlier served as vassals of the Guptas and later of 【107†Harsha】's 【108†Vardhana dynasty】. The Maukharis established their independence during the mid-6th century. The dynasty ruled over much of 【109†Uttar Pradesh】 and 【110†Magadha】.
+L158: Around 606 CE, a large area of their empire was reconquered by the 【102†Later Guptas】.^{【111†[3]】} According to 【112†Xuanzang】, the territory may have been lost to King 【113†Shashanka】 of the 【75†Gauda Kingdom】, who declared independence circa 600CE.^{【114†[4]】}^{【115†[5]】}
+L159: ## Origin
+L160: 
+L161: [【116†edit】]
+L162: Several Maukhari branches were found to be distributed across multiple regions of the subcontinent.^{【117†[6]】} The dynastic name is believed to derive from Mukhara, an eponymous progenitor. According to the 【118†Harshacharita】 by 【119†Bāṇabhaṭṭa】, the marriage between princess Rājyaśrī and 【120†Grahavarman】 united the 【90†Pushyabhuti】 and Mukhara lineages.
+L163: The dynasty claimed descent from Ashvapati, who is described in the 【121†Mahabharata】 as the ruler of 【122†Madra】 in the 【123†Punjab】, thereby associating themselves with the Solar dynasty.^{【124†[7]】}
+L164: Epigraphic evidence indicates that the Maukhari presence extended beyond northern India. The 【125†Chandravalli】 inscription records that a branch of the family resided in the 【126†Karnataka】 region, in the vicinity of Punnata. Based on references in the 【96†Sanskrit】 play 【127†Kaumudi Mahotsava】, historian E. A. Pires hypothesized that the Maukharis ruled Magadha prior to the emergence of the Gupta Empire.
+L165: However, modern historical consensus rejects this theory, as the literary evidence is considered insufficient to support the claim.^{【128†[8]】}
+L166: The earliest Maukhari inscription has been found in 【129†Gaya】 dating back to the third-century BCE on a clay seal and the Maukharis continued to have a recorded presence in Gaya early in the 6th century CE.^{【124†[7]】}^{【130†[9]】}
+L167: ## History
+L168: 
+L169: [【131†edit】]
+L170: 
+L171: The main sources of history regarding the Maukharis of Kannauj include references in texts like the 【118†Harshacharita】 and 【132†Mañjuśrī-mūla-kalpa】, the travelogues of foreign visitors particularly from 【133†China】 and the inscriptions left both by themselves and by their rivals including the 【89†Later Gupta dynasty】.^{【134†[10]】}
+L172: After travelling from 【129†Gaya】 in 【135†Bihar】, 【136†Harivarman】, the first Maukhari ruler of this branch left an inscription dated to 487 CE in 【137†Sidhi district】 of 【138†Madhya Pradesh】 and this indicates that he was originally a chief under 【139†Buddhagupta】 of the 【104†Imperial Guptas】. His son, Adityavarman, married the sister of Harshagupta of the Later Gupta dynasty. However the first ruler of this line to use the title of maharajadhiraja was his son, Ishanavarman.
+L173: The 【140†Aphsad inscription of Ādityasena】 of the Later Guptas gives information that Ishanavarman defeated the 【79†Alchon Huns】 in battle while the Haraha inscription gives information on further military victories against the 【141†Gaudas】, 【142†Andhras】 and the Sulikas (theorised by some scholars to be the 【143†Chaulukyas】).^{【134†[10]】} Despite marital alliances between them, the Maukharis had a rivalry with the Later Guptas of Magadha.
+L174: Ishanavarman was succeeded by one of his sons, Sarvavarman in approximately 560 CE who in turn was succeeded by Avantivarman in the 580s. Avantivarman was known by various titles including 【144†Paramesvara】 and "pride of the race". Under his rule, the Maukhari kingdom spread from 【145†Thaneshwar】 in the West to 【146†Nalanda district】 in the east.^{【134†[10]】}
+L175: The last Maukhari ruler was Grahavarman who reigned from c. 600 to 605 CE. He was married to a princess of the 【90†Pushyabhuti dynasty】 leading to an alliance between the two kingdoms however he was killed in battle by 【147†Devagupta】 of 【148†Malwa】 and the Maukhari territories where eventually absorbed into the territory of 【107†Harsha】.^{【134†[10]】}
+L176: ### Succession
+L177: 
+L178: [【149†edit】]
+L179: The 【108†Vardhana dynasty】 (also called "Pushyabhuti dynasty") ultimately succeeded the Maukhari dynasty, but it had originally only been a small polity around their capital Sthaneshvara (【150†Thanesar】). According to 【151†Hans T. Bakker】, their ruler Aditya-Vardhana (or Aditya-Sena) was probably a feudatory to the Maukhari ruler 【152†Sharvavarman】. His successor 【153†Prabhakaravardhana】 may have also been a feudatory to the Maukhari king Avantivarman in his early days.
+L180: Prabhakara's daughter Rajyashri married Avantivarman's son Grahavarman. As a result of this marriage, Prabhakara's political status increased significantly, and he assumed the imperial title Parama-bhattaraka Maharajadhiraja ("the one to whom the other kings bow because of his valour and affection").^{【154†[11]】}
+L181: ## Religion
+L182: 
+L183: [【155†edit】]
+L184: 
+L185: The Maukharis were orthodox Hindus. 【97†Hinduism】 received state support, but 【98†Buddhism】 also persisted as a prominent religion.^{【156†[12]】}
+L186: ## Army
+L187: 
+L188: [【157†edit】]
+L189: The Maukhari army consisted of elephants, cavalry and infantry. Ishanavarman in all probability would have taken much pains to reorganise the army and make it strong and worthy. The Maukhari strategy mainly focused on deploying elephant corps to crush the enemy armies.
+L190: They were used against the 【79†Alchon Huns】 and the 【89†Later Gupta】 armies.^{【156†[12]】} The Maukharis fought against the remnants of the Alchon Huns in the areas of the 【158†Gangetic Doab】 and 【159†Magadha】, as documented in the Aphsad inscription, while the 【160†Aulikaras】 repelled them in the 【148†Malwa】 region.^{【161†[13]】} The Aphsad inscription of 【162†Ādityasena】 mentions the military successes of kings of the 【89†Later Gupta dynasty】 against the Maukharis, themselves past victors of the Alchon Huns:^{【161†[13]】}
+L191: > The 【140†Aphsad inscription of Ādityasena】
+L192: >
+L193: > "The son of that king (【163†Kumaragupta】) was the illustrious 【164†Dâmôdaragupta】, by whom (his) enemies were slain, just like the demons by (the god) 【165†Dâmôdara】. Breaking up the proudly stepping array of mighty elephants, belonging to the Maukhari, which had thrown aloft in battle the troops of the 【79†Hûnas】 (in order to trample them to death), he became unconscious (and expired in the fight)."
+L194: — Line 8 of the 【140†Aphsad inscription of Ādityasena】.^{【166†[14]】}
+L195: 
+L196: The Maukharis, rather than the 【104†Guptas】, were therefore the key actors in repelling the Hunas.^{【167†[15]】}
+L197: ## Administration
+L198: 
+L199: [【168†edit】]
+L200: 
+L201: 【64†Kanyakubja】, the Maukhari capital, grew in prosperity and importance as a great cosmopolitan city. After the demise of the Maukharis, it even became the capital of Emperor 【107†Harsha】. Hence, Kanyakubja was largely contested by imperial powers.^{【169†[16]】}^{: 20 }^{【156†[12]】}^{【170†[17]】}
+L202: The first three Maukhari kings are mentioned in the inscriptions as 【171†Maharaja】, but their successors assumed grander titles showing an increase in power and prestige. Ishanavarman was the first Maukhari ruler to adopt the title Maharajadhiraja (lit., King of Great Kings).^{【156†[12]】}
+L203: ## Cultural and international exchanges
+L204: 
+L205: [【172†edit】]
+L206: 
+L207: Asirgarh seal inscription of 【152†Sharvavarman】, Maukhari dynasty, 6th century .^{【173†[18]】}^{【174†[19]】}
+L208: The Maukhari kings were patrons of poets and writers and many literary works were composed during their reign.^{【156†[12]】} Various seals and inscriptions are known, such as the Asirgarh seal inscription of 【152†Sharvavarman】,^{【175†[20]】} or the 【176†Haraha inscription】 of 【63†Isanavarman】, discovered near the village of Harara in the 【177†Barabanki district】, 【109†Uttar Pradesh】 and dated to 【178†Vikrama Samvat】 610 (ie 554 CE), which record the genealogy of the Maukharis.^{【179†[21]】}
+L209: ### Contacts with the Sasanian Empire
+L210: 
+L211: [【180†edit】]
+L212: 
+L213: 【92†Sasanian Empire】 King 【181†Khosrow I】 sits before the chessboard, while his vizir and the Indian envoy of 【64†Kannauj】 are playing chess. 【182†Shahnama】, 10th century CE.^{【183†[22]】} The Harahara inscription of 【63†Ishanavarman】. The inscription, dated to 【178†Vikrama Samvat】 610 (ie 554 CE), records the genealogy of the Maukharis.^{【179†[21]】}
+L214: With the end of Hunnic power, new contacts were established between India and the 【92†Sasanian Persia】. Intellectual games such as 【184†chess】 and 【185†backgammon】 demonstrated and celebrated the diplomatic relationship between 【181†Khosrow I】 and a "great king of India." The 【186†vizier】 of the Indian king invented chess as a cheerful, playful challenge to Emperor Khosrow.
+L215: It seems that the Indian ruler who sent the game of chess to Khosrow was the Maukhari monarch 【187†Śarvavarman】 of 【64†Kannauj】, between the beginning of Śarvavarman's reign in 560/565 and the end of Khosrow's reign in 579.^{【183†[22]】}^{【188†[23]】} When the game was sent to Iran it came with a letter which read: "As your name is the King of Kings, all your emperorship over us connotes that your wise men should be wiser than ours.
+L216: Either you send us an explanation of this game of chess or send revenue and tribute us."^{【189†[24]】} Khosrow's grand vizier successfully solved the riddle and figured out how to play chess. In response the wise vizier created the game backgammon and sent it to the Indian court with the same message. The Indian king was not able to solve the riddle and was forced to pay tribute.^{【189†[24]】}
+L217: ## Rulers
+L218: 
+L219: [【190†edit】]
+L220: 
+L221: The known Maukhari rulers of madhya-desha include:^{【191†[25]】}^{【192†[26]】}
+L222: 
+L223: Maukhari design on a Nalanda Clay Seal of 【193†Sharvavarman】.
+L224: 
+L225:   * 【136†Harivarman】^{【194†[27]】}
+L226:   * Adityavarman
+L227:   * Ishvaravarman (Iśvaravarman)
+L228:   * 【63†Ishanavarman】 (Iśanavarman), r.c. 550–574 CE
+L229:   * 【193†Sharvavarman】 (Śarvavarman), r. c. 574–586 CE
+L230:   * Avantivarman
+L231:   * 【120†Grahavarman】, r. c. 600–605 CE
+L232: ## Barabar branch of Maukhari rulers
+L233: 
+L234: [【195†edit】]
+L235: 
+L236: The 【196†Gopika Cave Inscription】 of Anantavarman (left half).
+L237: 
+L238: The 【197†Barabar Cave】 inscriptions attest the existence of another Maukhari branch. This branch ruled as feudatories, probably that of the 【102†Later Guptas】. The known rulers of this branch include:^{【198†[28]】}
+L239: 
+L240:   * Nrpa Shri Yajnavarman
+L241:   * Nrpa Samantachudamani Shri Shardulavarman
+L242:   * Anantavarman
+L243: 
+L244:   * 【199†Lomas Rishi】 cave inscription of Anantavarman
+L245:   * 【196†Gopika Cave Inscription】 of Anantavarman
+L246: 
+L247:   * 【200†Vadathika Cave Inscription】 of Anantavarman
+L248: In some of the Barabar Caves inscriptions, the words referring to the Ajivikas appear to have been defaced, although the rest of the text appears intact. 【201†E. Hultzsch】 theorised that the defacement took place when the Maukhari ruler Ananta-varman installed Hindu images at the Caves.
+L249: However, Basham dismisses this theory, noting that there is little evidence to support this view and the only cave in which the word Ajivikehi remains intact is among the three caves where Ananta-varman installed a Hindu image. According to Basham, since the defacement is selective, it must have taken place when the Brahmi script had still not been forgotten, likely some time before the 5th century CE.^{【202†[29]】}
+L250: ## See also
+L251: 
+L252: [【203†edit】]
+L253: 
+L254:   * 【204†Megasthenes】
+L255:   * 【205†List of Hindu empires and dynasties】
+L256: ## References
+L257: 
+L258: [【206†edit】]
+L259:   1. 【207†↑】 Tripathi, Rama S. (1989). 【208†History of Kanauj: To the Moslem Conquest†books.google.com】. Motilal Banarsidass Publ. p. 45 Note 1. 【209†ISBN】 【210†978-81-208-0404-3】.
+L260:   2. 【211†↑】 Schwartzberg, Joseph E. (1978). 【212†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. pp. 【213†145, map XIV.1 (i)†dsal.uchicago.edu】, 【214†26†dsal.uchicago.edu】. 【209†ISBN】 【215†0-226-74221-0】.
+L261:   3. 【216†↑】 【217†"Maukhari dynasty (Indian dynasty) - Britannica Online Encyclopedia"†www.britannica.com】. Britannica.com. Retrieved 26 January 2013.
+L262:   4. 【218†↑】 Reza, Mohammad Habib; Bandyopadhyay, S.; Mowla, Azizul (July–September 2015). "Traces of Buddhist architecture in Gupta and post-Gupta Bengal: evidence from inscriptions and literature". 【219†Journal of Eurasian Studies】. VII (3): 8–19. 【220†S2CID】 【221†163998400†api.semanticscholar.org】.
+L263:   5. 【222†↑】 Dasgupta, Biplab (2005). 【223†European Trade and Colonial Conquest, Volume 1†books.google.com】. Anthem Press. 【209†ISBN】 【224†978-1-84331-028-0】. Retrieved 25 April 2020.
+L264:   6. 【225†↑】 Devahuti, D (1970). 【226†Harsha: a Political Study†www.google.co.uk】. Oxford University Press. p. 24. 【209†ISBN】 【227†9780198215394】.
+L265:   7. 【228†1】 【229†2】 Ghosh, Suchandra (2016). "Maukhari Empire". 【230†The Encyclopedia of Empire†onlinelibrary.wiley.com】. pp. 1–3. 【231†doi】:【232†10.1002/9781118455074.wbeoe271†doi.org】. 【209†ISBN】 【233†978-1-118-44064-3】.
+L266:   8. 【234†↑】 Devahuti, D (1970). 【226†Harsha: a Political Study†www.google.co.uk】. Oxford University Press. p. 25. 【209†ISBN】 【227†9780198215394】.
+L267:   9. 【235†↑】 Devahuti, D (1970). 【226†Harsha: a Political Study†www.google.co.uk】. Oxford University Press. p. 24. 【209†ISBN】 【227†9780198215394】.
+L268:   10. 【236†1】 【237†2】 【238†3】 【239†4】 Ghosh, Suchandra (2016). "Maukhari Empire". 【230†The Encyclopedia of Empire†onlinelibrary.wiley.com】. pp. 1–3. 【231†doi】:【232†10.1002/9781118455074.wbeoe271†doi.org】. 【209†ISBN】 【233†978-1-118-44064-3】.
+L269:   11. 【240†↑】 【241†Hans Bakker 2014】, p. 79.
+L270:   12. 【242†1】 【243†2】 【244†3】 【245†4】 【246†5】 Lal, Avantika (9 May 2019). 【247†"World History Encyclopedia: Maukhari Dynasty"†www.worldhistory.org】. 【248†World History Encyclopedia】.
+L271:   13. 【249†1】 【250†2】 GHOSE, MADHUVANTI (2003). "The Impact of the Hun Invasions: A Nomadic Interlude in Indian Art". Bulletin of the Asia Institute. 17: 145–146. 【251†ISSN】 【252†0890-4464†search.worldcat.org】. 【253†JSTOR】 【254†24049312†www.jstor.org】.
+L272:   14. 【255†↑】 Madan, A. P. (1990). 【256†The History of the Rāṣṭrakūṭas†books.google.com】. Harman Publishing House. p. 208. 【209†ISBN】 【257†978-81-85151-38-0】.
+L273:   15. 【258†↑】 Willis, Michael (2005). "Later Gupta History: Inscriptions, Coins and Historical Ideology". Journal of the Royal Asiatic Society. 15 (2): 140. 【251†ISSN】 【259†1356-1863†search.worldcat.org】. 【253†JSTOR】 【260†25188529†www.jstor.org】.
+L274:   16. 【261†↑】 Sen, S.N., 2013, A Textbook of Medieval Indian History, Delhi: Primus Books, 【209†ISBN】 【262†978-93-80607-34-4】
+L275:   17. 【263†↑】 Tripathi, Rama S. (1989). 【208†History of Kanauj: To the Moslem Conquest†books.google.com】. Motilal Banarsidass Publ. p. 215. 【209†ISBN】 【210†978-81-208-0404-3】.
+L276:   18. 【264†↑】 【265†"Siddham. The Asian Inscription Database IN00144 Asirgadh Seal Inscription of Sarvavarman"†siddham.network】.
+L277:   19. 【266†↑】 【267†"Siddham. The Asian Inscription Database Śarvavarman"†siddham.network】.
+L278:   20. 【268†↑】 Vats, Madho Sarup (1946). "Sohnag Terracotta Seal of Avantivarman". Proceedings of the Indian History Congress. 9: 74–77. 【251†ISSN】 【269†2249-1937†search.worldcat.org】. 【253†JSTOR】 【270†44137039†www.jstor.org】.
+L279:   21. 【271†1】 【272†2】 Thomas, F. w (1918). 【273†Epigraphia Indica Vol.14†archive.org】. pp. 110–116.
+L280:   22. 【274†1】 【275†2】 Eder, Manfred A. J. (2010). 【276†South Asian Archaeology 2007 Proceedings of the 19th Meeting of the European Association of South Asian Archaeology in Ravenna, Italy, July 2007, Volume II†history.chess.free.fr】 (PDF). Archaeopress Archaeology. p. 69. 【209†ISBN】 【277†978-1-4073-0674-2】.
+L281:   23. 【278†↑】 【151†Bakker, Hans T.】 (2017). 【279†The Huns in Central and South Asia. How Two Centuries of War against Nomadic Invaders from the Steps are Concluded by a Game of Chess between the Kings of India and Iran†www.academia.edu】.
+L282:   24. 【280†1】 【281†2】 Canepa 2009, p. 181
+L283:   25. 【282†↑】 【283†Ronald M. Davidson 2012】, p. 34-35.
+L284:   26. 【284†↑】 However, the dates below are not Davidson's, which are completely different.
+L285:   27. 【285†↑】 Documented by the Shankarpur copper-plate inscription: see SIDDHAM: the asia inscriptions database: 【286†https://siddham.network/inscription/in00067/†siddham.network】
+L286:   28. 【287†↑】 【288†Bindeshwari Prasad Sinha】 (1977). 【289†Dynastic History of Magadha, Cir. 450-1200 A.D.†books.google.com】 Abhinav. pp. 109–110. 【290†OCLC】 【291†464639312†search.worldcat.org】.
+L287:   29. 【292†↑】 【293†Basham 1951】, pp. 157–159.
+L288: ## Bibliography
+L289: 
+L290: [【294†edit】]
+L291:   * Thaplyal, Kiran Kumar (1985). 【295†Inscriptions of the Maukharīs, Later Guptas, Puṣpabhūtis, and Yaśovarman of Kanauj†books.google.com】. Indian Council of Historical Research.
+L292:   * 【151†Hans Bakker】 (2014). 【296†The World of the Skandapurāṇa†books.google.com】. BRILL. 【209†ISBN】 【297†978-90-04-27714-4】.
+L293:   * Ronald M. Davidson (2012). 【298†Indian Esoteric Buddhism: A Social History of the Tantric Movement†books.google.com】. Columbia University Press. 【209†ISBN】 【299†978-0-231-50102-6】.
+L294:   * Basham, A.L. (1951). 【300†History and Doctrines of the Ājīvikas†archive.org】. London: Luzac. Reprinted by Moltilal Banarsidass in 1981
+L295: ## External links
+L296: 
+L297: [【301†edit】]
+L298: 
+L299:   * Joseph Schwartzberg. 【302†The Historical Atlas of South Asia†dsal.uchicago.edu】. Map of the "【303†Age of Pusyabhutis & Calukyans, c. A.D. 550-700†dsal.uchicago.edu】 【304†Archived†web.archive.org】 12 January 2024 at the 【305†Wayback Machine】". (Pg 26).
+L300: 
+L301: 【306†Image】
+L302: 
+L303: Retrieved from "【53†https://en.wikipedia.org/w/index.php?title=Maukharis_of_Kannauj&oldid=1373602404】"
+L304: 
+L305: 【307†Categories】:
+L306:   * 【308†Maukhari dynasty】
+L307:   * 【309†Hindu states】
+L308:   * 【310†History of Kannauj】
+L309:   * 【311†6th-century establishments in India】
+L310:   * 【312†7th-century disestablishments in India】
+L311:   * 【313†States and territories disestablished in the 7th century】

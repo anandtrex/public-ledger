@@ -1,0 +1,284 @@
+Kingdom of Mysore - Wikipedia (https://en.wikipedia.org/wiki/Kingdom_of_Mysore)
+citeturn91view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Kingdom_of_Mysore","lineno":null}); Total lines: 815
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Early history】
+L50:     * 【20†1.2 Autonomy: advances and reversals】
+L51:     * 【21†1.3 Under Hyder Ali and Tipu Sultan】
+L52:     * 【22†1.4 Princely state】
+L53:   * 【23†2 Administration】
+L54:   * 【24†3 Economy】 Toggle Economy subsection
+L55:     * 【25†3.1 Under Hyder Ali and Tipu Sultan】
+L56:     * 【26†3.2 Under British rule】
+L57:   * 【27†4 Culture】 Toggle Culture subsection
+L58:     * 【28†4.1 Religion】
+L59:     * 【29†4.2 Society】
+L60:     * 【30†4.3 Literature】
+L61:     * 【31†4.4 Music】
+L62:   * 【32†5 Architecture】
+L63:   * 【33†6 Science and technology in Mysore】 Toggle Science and technology in Mysore subsection
+L64:     * 【34†6.1 Rocket science & rocket artillery】
+L65:     * 【35†6.2 Tipu's Tiger】
+L66:     * 【36†6.3 Gallery】
+L67:   * 【37†7 See also】
+L68:   * 【38†8 Notes】
+L69:   * 【39†9 References】
+L70:   * 【40†10 Bibliography】
+L71:   * 【41†11 Further reading】
+L72: [Input] Toggle the table of contents
+L73: # Kingdom of Mysore
+L74: 
+L75: [Input] 52 languages
+L76:   * 【42†العربية†ar.wikipedia.org】
+L77:   * 【43†Azərbaycanca†az.wikipedia.org】
+L78:   * 【44†تۆرکجه†azb.wikipedia.org】
+L79:   * 【45†Български†bg.wikipedia.org】
+L80:   * 【46†भोजपुरी†bh.wikipedia.org】
+L81:   * 【47†বাংলা†bn.wikipedia.org】
+L82:   * 【48†Brezhoneg†br.wikipedia.org】
+L83:   * 【49†Català†ca.wikipedia.org】
+L84:   * 【50†Čeština†cs.wikipedia.org】
+L85:   * 【51†Dansk†da.wikipedia.org】
+L86:   * 【52†Deutsch†de.wikipedia.org】
+L87:   * 【53†Esperanto†eo.wikipedia.org】
+L88:   * 【54†Español†es.wikipedia.org】
+L89:   * 【55†Euskara†eu.wikipedia.org】
+L90:   * 【56†فارسی†fa.wikipedia.org】
+L91:   * 【57†Suomi†fi.wikipedia.org】
+L92:   * 【58†Français†fr.wikipedia.org】
+L93:   * 【59†עברית†he.wikipedia.org】
+L94:   * 【60†हिन्दी†hi.wikipedia.org】
+L95:   * 【61†Magyar†hu.wikipedia.org】
+L96:   * 【62†Bahasa Indonesia†id.wikipedia.org】
+L97:   * 【63†Italiano†it.wikipedia.org】
+L98:   * 【64†日本語†ja.wikipedia.org】
+L99:   * 【65†ქართული†ka.wikipedia.org】
+L100:   * 【66†ಕನ್ನಡ†kn.wikipedia.org】
+L101:   * 【67†한국어†ko.wikipedia.org】
+L102:   * 【68†मगही†mag.wikipedia.org】
+L103:   * 【69†മലയാളം†ml.wikipedia.org】
+L104:   * 【70†मराठी†mr.wikipedia.org】
+L105:   * 【71†Bahasa Melayu†ms.wikipedia.org】
+L106:   * 【72†Nederlands†nl.wikipedia.org】
+L107:   * 【73†Norsk bokmål†no.wikipedia.org】
+L108:   * 【74†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L109:   * 【75†Polski†pl.wikipedia.org】
+L110:   * 【76†پنجابی†pnb.wikipedia.org】
+L111:   * 【77†Português†pt.wikipedia.org】
+L112:   * 【78†Русский†ru.wikipedia.org】
+L113:   * 【79†संस्कृतम्†sa.wikipedia.org】
+L114:   * 【80†සිංහල†si.wikipedia.org】
+L115:   * 【81†Simple English†simple.wikipedia.org】
+L116:   * 【82†Српски / srpski†sr.wikipedia.org】
+L117:   * 【83†Svenska†sv.wikipedia.org】
+L118:   * 【84†தமிழ்†ta.wikipedia.org】
+L119:   * 【85†తెలుగు†te.wikipedia.org】
+L120:   * 【86†ไทย†th.wikipedia.org】
+L121:   * 【87†Türkçe†tr.wikipedia.org】
+L122:   * 【88†Українська†uk.wikipedia.org】
+L123:   * 【89†اردو†ur.wikipedia.org】
+L124:   * 【90†Oʻzbekcha / ўзбекча†uz.wikipedia.org】
+L125:   * 【91†Tiếng Việt†vi.wikipedia.org】
+L126:   * 【92†閩南語 / Bân-lâm-gí†zh-min-nan.wikipedia.org】
+L127:   * 【93†中文†zh.wikipedia.org】
+L128: 【94†Edit links†www.wikidata.org】
+L129: 
+L130:   * 【95†Article】
+L131:   * 【96†Talk】
+L132: 
+L133: [Input] English
+L134: 
+L135:   * 【95†Read】
+L136:   * 【97†Edit】
+L137:   * 【98†View history】
+L138:   * 【17†Save】
+L139: 
+L140: [Input] Tools
+L141: 
+L142: Tools
+L143: 
+L144: [Button: move to sidebar] [Button: hide]
+L145: 
+L146: Actions
+L147: 
+L148:   * 【95†Read】
+L149:   * 【97†Edit】
+L150:   * 【98†View history】
+L151:   * 【17†Save】
+L152: 
+L153: General
+L154: 
+L155:   * 【99†What links here】
+L156:   * 【100†Related changes】
+L157:   * 【101†Upload file】
+L158:   * 【102†Permanent link】
+L159:   * 【103†Page information】
+L160:   * 【104†Cite this page】
+L161:   * 【105†Get shortened URL】
+L162:   * 【106†Switch to legacy parser】
+L163: Print/export
+L164: 
+L165:   * 【107†Download as PDF】
+L166:   * Printable version
+L167: 
+L168: In other projects
+L169: 
+L170:   * 【108†Wikimedia Commons†commons.wikimedia.org】
+L171:   * 【109†Wikidata item†www.wikidata.org】
+L172: 
+L173: Appearance
+L174: 
+L175: [Button: move to sidebar] [Button: hide]
+L176: 
+L177: 【110†Coordinates】: 【111†12°18′N 76°39′E﻿ / ﻿12.30°N 76.65°E﻿ / 12.30; 76.65†geohack.toolforge.org】
+L178: Kingdom of Mysore
+L179: ---
+L180: 1399–1950^{【112†[a]】}
+L181: 【113†Coat of arms】
+L182: 【114†Royal anthem】: "【115†Kāyau Śrī Gaurī】"
+L183: (1868–1950)
+L184: English: "Great 【116†Gaurī (Parvati)】"
+L185:   The kingdom of Mysore at its greatest extent in 1784 under 【117†Tipu Sultan】
+L186: Status  | Vassal of the Vijaynagar Empire (before 1565)
+L187: Independent state (1565-1799)
+L188: Princely state of India (1799-1947)
+L189: Capital  | 【118†Mysore】, 【119†Srirangapatna】, 【120†Bangalore】
+L190: Largest city  | 【120†Bangalore】
+L191: Official languages  |
+L192:   * 【121†Kannada】 (official and 【122†lingua franca】)
+L193:   * 【123†Persian】 (official from 1761 to 1799)
+L194:   * 【124†Hindustani】 (court and literary purposes)
+L195: Religion  |
+L196:   * 【125†Hinduism】 (【126†official】)^{【127†[b]】}
+L197:   * 【128†Islam】
+L198:   * 【129†Christianity】
+L199:   * 【130†Jainism】
+L200:   * 【131†Buddhism】
+L201:   * 【132†Sikhism】
+L202:   * 【133†Judaism】
+L203: 【134†Demonym】  | Mysorean
+L204: 【135†Government】  | 【136†Monarchy】
+L205: 【137†Maharaja】  |
+L206: • 1399–1423 (first)  | 【138†Yaduraya Wodeyar】
+L207: • 1940–1950 (last)  | 【139†Jayachamaraja Wodeyar】
+L208: • 1761–1782  | 【140†Hyder Ali】
+L209: • 1782–1799  | 【117†Tipu Sultan】
+L210: 【141†Dewan】  |
+L211: • 1782–1811 (first)  | 【142†Purnaiah】
+L212: • 1946–1949 (last)  | 【143†Arcot Ramasamy Mudaliar】
+L213: History  |
+L214: • Established  | 1399
+L215: • Earliest records  | 1551
+L216: • 【144†Anglo-Mysore Wars】  | 1767–1799
+L217: • 【145†Maratha–Mysore War】  | 1759–1787
+L218: • 【146†Accession to India】  | 1950^{【147†[c]】}
+L219: Preceded by Succeeded by
+L220: 【148†Image†upload.wikimedia.org】 【149†Vijayanagara Empire】
+L221: 【150†Mysore State】 【148†Image†upload.wikimedia.org】
+L222: Today part of  | 【151†India】
+L223: The Kingdom of Mysore was a geopolitical realm in 【152†southern India】 founded in around 1399^{【153†[1]】} in the vicinity of the modern-day city of 【118†Mysuru】. Existing until 1950, the territorial boundaries and the form of government transmuted substantially throughout the kingdom's lifetime. While originally a feudal vassal under the 【149†Vijayanagara Empire】, it became a 【154†princely state】 in the 【155†British Raj】 from 1799 to 1947, marked in-between by major political changes.
+L224: The kingdom, which was founded and ruled for the most part by the 【156†Wadiyars】, initially served as a feudal vassal under the 【149†Vijayanagara Empire】.^{【157†[2]】} With the gradual decline of the Empire, the 16th-century 【158†Timmaraja Wodeyar II】 declared independence from it.
+L225: The 17th century saw a steady expansion of its territory and, during the rules of 【159†Narasaraja Wodeyar I】 and 【160†Devaraja Wodeyar II】, the kingdom annexed large expanses of what is now southern Karnataka and parts of 【161†Tamil Nadu】, becoming a formidable power in the Deccan.
+L226: During the 【162†Muslim rule】 from 1761 to 1799, the kingdom became a 【163†sultanate】 under 【140†Hyder Ali】 and 【117†Tipu】, often referring to it as 【163†Sultanat-e-Khudadad】 (transl. (translation) God gifted empire).^{【164†[3]】}^{【165†[4]】} During this time, it came into conflict with the 【166†Maratha Confederacy】, the 【167†Nizam of Hyderabad】, the 【168†Kingdom of Travancore】, and the 【169†British】, culminating in four 【144†Anglo-Mysore Wars】.
+L227: Mysore's success in the 【170†First Anglo-Mysore war】 and a stalemate in the 【171†Second】 were followed by defeats in the 【172†Third】 and the 【173†Fourth】. Following Tipu's death in the Fourth War during the 【174†Siege of Seringapatam】, large parts of his kingdom were annexed by the British, which signalled the end of a period of Mysorean 【175†hegemony】 over South India. Power returned absolutely to the Wadiyars when 【176†Krishnaraja Wodeyar III】 became king.
+L228: In 1831, the British took direct control of the kingdom and a 【177†commission】 administered it until 1881.^{【178†[5]】} Through an instrument of rendition, power was once again transferred to the Wadiyars in 1881, when 【179†Chamaraja Wadiyar X】 was made king. In 1913, in lieu of the instrument, a proper 【180†subsidiary alliance】 was struck with the kingdom during Maharaja 【181†Krishnaraja Wadiyar IV】.
+L229: Upon 【182†India's independence】 from the Crown rule in 1947, the Kingdom of Mysore acceded to the 【183†Union of India】. Upon accession, it became 【150†Mysore State】, later uniting with other 【121†Kannada】 speaking regions to form the present-day 【184†Karnataka】 state. Soon after Independence, Maharaja 【139†Jayachamaraja Wadiyar】 was made 【185†Rajapramukh】 until 1956, when he became the first 【186†governor】 of the enlarged state.
+L230: Even as a princely state, Mysore came to be counted among the more developed and urbanised regions of South Asia. The period since the penultimate restoration (1799–1947) also saw Mysore emerge as one of the important centres of 【187†art and culture】 in India. The 【137†maharajas of Mysore】 were not only accomplished exponents of the fine arts and men of letters, they were enthusiastic patrons as well.
+L231: Their legacies continue to influence music and the arts even today, as well as 【188†rocket science】 with the use of 【189†Mysorean rockets】.^{【190†[6]】}
+L232: ## History
+L233: 
+L234: [【191†edit】]
+L235: ### Early history
+L236: 
+L237: [【192†edit】]
+L238: 
+L239: Main article: 【193†Origin of the Kingdom of Mysore】
+L240: Sources for the history of the kingdom include numerous extant 【194†lithic】 and copper plate inscriptions, records from the Mysore palace and contemporary literary sources in Kannada, 【123†Persian】 and other languages.^{【195†[7]】}^{【196†[8]】}^{【197†[9]】} According to traditional accounts, the kingdom originated as a small state based in the modern city of Mysore and was founded by two brothers, Yaduraya (also known as Vijaya) and Krishnaraya.
+L241: Their origins are mired in legend and are still a matter of debate; while some historians posit a northern origin at 【198†Dwarka】,^{【199†[10]】}^{【200†[11]】} others locate it in Karnataka.^{【201†[12]】}^{【202†[13]】}^{【203†[14]】} Yaduraya is said to have married Chikkadevarasi, the local princess and assumed the feudal title "Wodeyar" (【204†Kannada】: ಒಡೆಯರ್, romanized: Oḍeyar, 【205†lit.】 'lord'), which the ensuing dynasty retained.^{【206†[15]】} The first unambiguous mention of the Wodeyar family is in 16th century 【207†Kannada literature】 from the reign of the Vijayanagara king 【208†Achyuta Deva Raya】 (1529–1542); the earliest available inscription, issued by the Wodeyars themselves, dates to the rule of the petty chief Timmaraja II in 1551.^{【209†[16]】}
+L242: ### Autonomy: advances and reversals
+L243: 
+L244: [【210†edit】]
+L245: The kings who followed ruled as vassals of the Vijayanagara Empire until the decline of the latter in 1565.
+L246: By this time, the kingdom had expanded to thirty-three villages protected by a force of 300 soldiers.^{【211†[17]】} King Timmaraja II conquered some surrounding chiefdoms,^{【212†[18]】} and King Bola Chamaraja IV (lit, "Bald"), the first ruler of any political significance among them, withheld tribute to the nominal Vijayanagara monarch Aravidu 【213†Ramaraya】.^{【214†[19]】} After the death of Aravidu Ramaraya, the Wodeyars began to assert themselves further and King Raja Wodeyar I wrested control of 【119†Srirangapatna】 from the Vijayanagara governor (Mahamandaleshvara) Aravidu 【215†Tirumalla】 – a development which elicited, if only ex post facto, the tacit approval of 【216†Venkatapati Raya】, the incumbent king of the diminished Vijayanagar Empire ruling from 【217†Chandragiri】.^{【218†[20]】} Raja Wodeyar I's reign also saw territorial expansion with the annexation of 【219†Channapatna】 to the north from 【220†Jaggadeva Raya】^{【218†[20]】}^{【221†[21]】} – a development which made Mysore a regional political factor to reckon with.^{【222†[22]】}^{【223†[23]】}
+L247: Consequently, by 1612–13, the Wodeyars exercised a great deal of autonomy and even though they acknowledged the nominal overlordship of the 【224†Aravidu dynasty】, tributes and transfers of revenue to Chandragiri stopped.
+L248: This was in marked contrast to other major chiefs, the 【225†Nayaks】 of Tamil country who continued to pay off Chandragiri emperors well into the 1630s.^{【218†[20]】} 【226†Chamaraja VI】 and 【159†Kanthirava Narasaraja I】 attempted to expand further northward but were thwarted by the 【227†Bijapur Sultanate】 and its Maratha subordinates, though the Bijapur armies under Ranadullah Khan were effectively repelled in their 1638 siege of Srirangapatna.^{【223†[23]】}^{【228†[24]】} Expansionist ambitions then turned southward into Tamil country where Narasaraja Wodeyar acquired 【229†Satyamangalam】 (in modern northern 【230†Erode】 district) while his successor 【231†Dodda Devaraja Wodeyar】 expanded further to capture western Tamil regions of Erode and 【232†Dharmapuri】, after successfully repulsing the 【233†chiefs】 of 【234†Madurai】.
+L249: The invasion of the 【235†Keladi Nayakas】 of 【236†Malnad】 was also dealt with successfully. This period was followed by one of the complex geo-political changes when in the 1670s, the Marathas and the Mughals pressed into the Deccan.^{【223†[23]】}^{【228†[24]】}
+L250: 【160†Chikka Devaraja】 (r. 1672–1704), the most notable of Mysore's early kings, who ruled during much of this period, managed to not only survive the exigencies but further expand territory.
+L251: He achieved this by forging strategic alliances with the Marathas and the 【237†Mughals】.^{【238†[25]】}^{【239†[26]】} The kingdom soon grew to include 【240†Salem】 and 【120†Bangalore】 to the east, 【241†Hassan】 to the west, 【242†Chikkamagaluru】 and 【243†Tumkur】 to the north and the rest of 【244†Coimbatore】 to the south.^{【245†[27]】} Despite this expansion, the kingdom, which now accounted for a fair share of land in the southern Indian heartland, extending from the 【246†Western Ghats】 to the western boundaries of the 【247†Coromandel】 plain, remained landlocked without direct coastal access.
+L252: Chikka Devaraja's attempts to remedy this brought Mysore into conflict with the Nayaka chiefs of 【248†Ikkeri】 and the kings (Rajas) of 【249†Kodagu】 (modern Coorg); who between them controlled the 【250†Kanara】 coast (coastal areas of modern Karnataka) and the intervening hill region respectively.^{【251†[28]】} The conflict brought mixed results with Mysore annexing 【252†Periyapatna】 but suffering a reversal at Palupare.^{【253†[29]】}
+L253: Nevertheless, from around 1704, when the kingdom passed on to the "Mute king" (Mukarasu) 【254†Kanthirava Narasaraja II】, the survival and expansion of the kingdom was achieved by playing a delicate game of alliance, negotiation, subordination on occasion, and annexation of territory in all directions. According to historians 【255†Sanjay Subrahmanyam】 and 【256†Sethu Madhava Rao】, Mysore was now formally a tributary of the Mughal Empire. Mughul records claim a regular tribute (peshkash) was paid by Mysore.
+L254: However, historian 【257†Suryanath U.
+L255: Kamath】 feels the Mughals may have considered Mysore an ally, a situation brought about by 【258†Mughal–Maratha competition】 for supremacy in southern India.^{【259†[30]】} By the 1720s, with the Mughal empire in decline, further complications arose with the Mughal residents at both 【260†Arcot】 and 【261†Sira】 claiming tribute.^{【238†[25]】} The years that followed saw 【262†Krishnaraja Wodeyar I】 tread cautiously on the matter while keeping the Kodagu chiefs and the Marathas at bay.
+L256: He was followed by 【263†Chamaraja Wodeyar VII】 during whose reign power fell into the hands of prime minister (Dalwai or Dalavoy) 【264†Nanjarajiah】 (or Nanjaraja) and chief minister (Sarvadhikari) Devarajiah (or Devaraja), the influential brothers from 【265†Kalale】 town near 【266†Nanjangud】 who would rule for the next three decades with the Wodeyars relegated to being the titular heads.^{【267†[31]】}^{【268†[32]】} The latter part of the rule of 【269†Krishnaraja II】 saw the 【270†Deccan Sultanates】 being eclipsed by the Mughals and in the confusion that ensued, 【140†Hyder Ali】, a captain in the army, rose to prominence.^{【223†[23]】} His victory against the Marathas at Bangalore in 1758, resulting in the annexation of their territory, made him an iconic figure.
+L257: In honour of his achievements, the king gave him the title "Nawab Haider Ali Khan Bahadur".^{【268†[32]】}
+L258: ### Under Hyder Ali and Tipu Sultan
+L259: 
+L260: [【271†edit】]
+L261: 
+L262: Further information: 【272†Anglo-Mysore wars】 and 【145†Maratha–Mysore War】
+L263: Tipu's Tiger with the organ keyboard visible【273†Admiral Suffren】 meeting with ally 【140†Hyder Ali】 in 1783. J. B. Morret engraving, 1789 Tipu's flag at the entrance to the fort of 【120†Bangalore】 A portrait of 【117†Tipu Sultan】, made during the 【172†Third Anglo-Mysore War】 【274†Mural】 of the 【275†Battle of Pollilur】 in 【117†Tipu Sultan】's summer palace in 【276†Srirangapatna】 Cartoon mocking 【277†Lord Cornwallis】 for retreating from Seringapatam
+L264: 【140†Hyder Ali】 has earned an important place in the 【278†history of Karnataka】 for his fighting skills and administrative acumen.^{【279†[33]】}^{【280†[34]】} The rise of Hyder came at a time of important political developments in the sub-continent.
+L265: While the European powers were busy transforming themselves from trading companies to political powers, the 【281†Nizam】 as the 【282†Subahdar】 of the Mughals pursued his ambitions in the Deccan, and the Marathas, following their 【283†defeat】 at 【284†Panipat】, sought safe havens in the south.
+L266: The period also saw the 【285†French vie with the British】 for control of the 【286†Carnatic】—a contest in which the British would eventually prevail as British commander 【287†Sir Eyre Coote】 decisively defeated the French under the 【288†Comte de Lally】 at the 【289†Battle of Wandiwash】 in 1760, a watershed in Indian history as it cemented British supremacy in South Asia.^{【290†[35]】} Though the Wodeyars remained the nominal heads of Mysore during this period, real power lay in the hands of Hyder Ali and his son 【117†Tipu】.^{【291†[36]】}
+L267: By 1761, Maratha power had diminished and by 1763, Hyder Ali had captured the Keladi kingdom, defeated the rulers of 【292†Bilgi】, 【293†Bednur】 and 【294†Gutti】, invaded the 【295†Malabar Coast】 in the south and conquered the 【296†Zamorin】's capital 【297†Calicut】 with ease in 1766 and extended the Mysore kingdom up to 【298†Dharwad】 and 【299†Bellary】 in the north.^{【300†[37]】}^{【301†[38]】} Mysore was now a major political power in the subcontinent and Haider's meteoric rise from relative obscurity and his defiance formed one of the last remaining challenges to complete British hegemony over the Indian subcontinent—a challenge which would take them more than three decades to overcome.^{【302†[39]】}
+L268: In a bid to stem Hyder's rise, the British allied with the Marathas and the Nizam of 【303†Golconda】, culminating in the 【170†First Anglo-Mysore War】 in 1767. Despite numerical superiority, Hyder Ali suffered defeats at the battles of 【304†Chengham】 and 【305†Tiruvannamalai】.
+L269: The British ignored his overtures for peace until Hyder Ali had strategically moved his armies to within five miles of Madras (modern 【306†Chennai】) and was able to successfully 【307†sue for peace】.^{【290†[35]】}^{【301†[38]】}^{【308†[40]】} Three wars were fought from 1764 and 1772 between the 【309†Maratha armies】 of 【310†Peshwa Madhavrao I】 against Hyder, in which Hyder was severely defeated and had to pay 36 lacs of tribute as war expenses along with an annual tribute of 14 lacs every year to the peshwa.^{【311†[41]】} In these wars Hyder had expected British support as per the 1769 treaty but the British stayed out of the conflict.
+L270: British neutrality and Hyder's subsequent defeat reinforced his deep distrust of the British—a sentiment that would be shared by his son and one that would inform Anglo-Mysore rivalries of the next three decades.
+L271: In 1777, 【140†Haider Ali】 recovered the previously lost territories of Coorg and parts of what would later become Malabar District from the Marathas.^{【312†[42]】} 【140†Haider Ali】's army advanced towards the Marathas and fought them at the 【313†Battle of Saunshi】 and came out victorious during the same year.^{【312†[42]】}
+L272: By 1779, Hyder Ali had captured parts of modern Tamil Nadu and 【314†Kerala】 in the south, extending the kingdom's area to about 80,000 mi^{2} (205,000 km^{2}).^{【301†[38]】} In 1780, he befriended the French and made peace with the Marathas and the Nizam.^{【315†[43]】} However, Hyder Ali was betrayed by the Marathas and the Nizam, who made treaties with the British as well.
+L273: In July 1779, Hyder Ali headed an army of 80,000, mostly cavalry, descending through the passes of the Ghats amid burning villages, before laying siege to British forts in northern Arcot starting the 【171†Second Anglo-Mysore War】.
+L274: Hyder Ali had some initial successes against the British notably at 【275†Pollilur】, where Mysorean troops made effective use of rocket artillery, and Arcot, until the arrival of Sir Eyre Coote, when the fortunes of the British began to change.^{【316†[44]】} On 1 June 1781 Coote struck the first heavy blow against Hyder Ali in the decisive 【317†Battle of Porto Novo】. The battle was won by Coote against odds of five to one and is regarded as one of the greatest feats of the British in India.
+L275: It was followed up by another hard-fought 【318†battle】 at 【319†Pollilur】 (the scene of an earlier triumph of Hyder Ali over a British force) on 27 August, in which the British won another success, and by the rout of the Mysore troops at 【320†Sholinghur】 a month later. Hyder Ali died on 7 December 1782, even as fighting continued with the British. He was succeeded by his son 【117†Tipu Sultan】 who continued hostilities against the British by recapturing Baidanur and Mangalore.^{【301†[38]】}^{【321†[45]】}
+L276: By 1783 neither the British nor Mysore were able to obtain a clear overall victory. The French withdrew their support of Mysore following the 【322†peace settlement in Europe】.^{【323†[46]】} Undaunted, Tipu, popularly known as the "Tiger of Mysore", continued the war against the British but lost some regions in modern coastal Karnataka to them.
+L277: The 【145†Maratha–Mysore War】 occurred between 1785 and 1787 and consisted of a series of conflicts between the Sultanate of Mysore and the Maratha Empire.^{【324†[47]】} Following Tipu Sultan's victory against the Marathas at the 【325†siege of Bahadur Benda】, a peace agreement was signed between the two kingdoms with mutual gains and losses.^{【326†[48]】}^{【327†[49]】} Similarly, the 【328†treaty of Mangalore】 was signed in 1784 bringing hostilities with the British to a temporary and uneasy halt and restoring the others' lands to the 【329†status quo ante bellum】.^{【330†[50]】}^{【331†[51]】} The treaty is an important document in the history of India because it was the last occasion when an Indian power dictated terms to the British, who were made to play the role of humble supplicants for peace.
+L278: A start of fresh hostilities between the British and French in Europe would have been sufficient reason for Tipu to abrogate his treaty and further his ambition of striking at the British.^{【332†[52]】} His attempts to lure the Nizam, the Marathas, the French and the 【333†Sultan of Turkey】 failed to bring direct military aid.^{【332†[52]】}
+L279: General Lord Cornwallis receiving Tipu Sultan's sons as hostages.
+L280: Tipu's 【334†successful attacks】 in 1790 on the 【168†Kingdom of Travancore】, a later British ally, ended in defeat for him, and it resulted in greater hostilities with the British which culminated in the 【172†Third Anglo-Mysore War】.^{【335†[53]】} In the beginning, the British made gains, taking the 【336†Coimbatore district】, but Tipu's counterattack reversed many of these gains.
+L281: By 1792, with aid from the Marathas who attacked from the north-west and the Nizam who moved in from the north-east, the British under 【277†Lord Cornwallis】 successfully 【337†besieged Srirangapatna】, resulting in Tipu's defeat and the 【338†Treaty of Srirangapatna】. Half of Mysore was distributed among the allies, and two of his sons were held to ransom.^{【330†[50]】} A humiliated but indomitable Tipu went about rebuilding his economic and military power.

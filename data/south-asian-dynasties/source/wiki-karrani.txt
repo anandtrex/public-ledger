@@ -1,0 +1,254 @@
+Karrani dynasty - Wikipedia (https://en.wikipedia.org/wiki/Karrani_dynasty)
+citeturn80view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Karrani_dynasty","lineno":null}); Total lines: 252
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】 Toggle History subsection
+L50:     * 【19†1.1 Founding】
+L51:     * 【20†1.2 Mughal invasion】
+L52:   * 【21†2 List of rulers】
+L53:   * 【22†3 Family tree】
+L54:   * 【23†4 See also】
+L55:   * 【24†5 References】
+L56: 
+L57: [Input] Toggle the table of contents
+L58: # Karrani dynasty
+L59: 
+L60: [Input] 11 languages
+L61: 
+L62:   * 【25†العربية†ar.wikipedia.org】
+L63:   * 【26†অসমীয়া†as.wikipedia.org】
+L64:   * 【27†বাংলা†bn.wikipedia.org】
+L65:   * 【28†فارسی†fa.wikipedia.org】
+L66:   * 【29†Ghanaian Pidgin†gpe.wikipedia.org】
+L67:   * 【30†Hausa†ha.wikipedia.org】
+L68:   * 【31†Bahasa Indonesia†id.wikipedia.org】
+L69:   * 【32†پنجابی†pnb.wikipedia.org】
+L70:   * 【33†Русский†ru.wikipedia.org】
+L71:   * 【34†Українська†uk.wikipedia.org】
+L72:   * 【35†اردو†ur.wikipedia.org】
+L73: 
+L74: 【36†Edit links†www.wikidata.org】
+L75: 
+L76:   * 【37†Article】
+L77:   * 【38†Talk】
+L78: 
+L79: [Input] English
+L80:   * 【37†Read】
+L81:   * 【39†Edit】
+L82:   * 【40†View history】
+L83: 
+L84: [Input] Tools
+L85: 
+L86: Tools
+L87: 
+L88: [Button: move to sidebar] [Button: hide]
+L89: 
+L90: Actions
+L91: 
+L92:   * 【37†Read】
+L93:   * 【39†Edit】
+L94:   * 【40†View history】
+L95: 
+L96: General
+L97: 
+L98:   * 【41†What links here】
+L99:   * 【42†Related changes】
+L100:   * 【43†Upload file】
+L101:   * 【44†Permanent link】
+L102:   * 【45†Page information】
+L103:   * 【46†Cite this page】
+L104:   * 【47†Get shortened URL】
+L105:   * 【48†Switch to legacy parser】
+L106: 
+L107: Print/export
+L108: 
+L109:   * 【49†Download as PDF】
+L110:   * Printable version
+L111: 
+L112: In other projects
+L113:   * 【50†Wikimedia Commons†commons.wikimedia.org】
+L114:   * 【51†Wikidata item†www.wikidata.org】
+L115: 
+L116: Appearance
+L117: 
+L118: [Button: move to sidebar] [Button: hide]
+L119: 
+L120: Karlāṇī / Kôrrāṇī
+L121:   * کرلاڼي
+L122:   * কররাণী
+L123: ---
+L124: 【52†Royal house】
+L125: Parent family  | 【53†Bangash】 tribe
+L126: Current region  | 【54†Bengal Sultanate】
+L127: Earlier spellings  | Kerrani
+L128: Place of origin  | 【55†Kurram Valley】
+L129: Founded  | 1564 (1564)
+L130: Founder  | 【56†Taj Khan Karrani】
+L131: Final ruler  | 【57†Daud Khan Karrani】
+L132: Members  | 【58†Sulaiman Khan Karrani】, 【59†Bayazid Khan Karrani】, 【60†Bayazid of Sylhet】
+L133: Estate  | 【61†Tanda】
+L134: Dissolution  | 1612 (1612)
+L135: Deposition  | 1576 (1576)
+L136: The Karrani dynasty (【62†Pashto】: کرلاڼي, 【63†romanized】: Karlāṇī, 【64†Bengali】: কররাণী, 【65†romanized】: Kôrrāṇī) was a late-medieval royal dynasty that ruled the restored 【54†Bengal Sultanate】 between 1564 and 1576. Founded by 【56†Taj Khan Karrani】, an 【66†Afghan】 from the 【67†Pashtun】 【68†Karlani】 tribe hailing from 【53†Bangash】,^{【69†[1]】} it was the last independent dynasty to rule 【70†Bengal】, before the region became a 【71†Subah】 of the 【72†Mughal Empire】.
+L137: ## History
+L138: 
+L139: [【73†edit】]
+L140: ### Founding
+L141: 
+L142: [【74†edit】]
+L143: Taj Khan was formerly an employee of the Sur Emperor 【75†Sher Shah Suri】. From 1562 to 1564, Taj Khan captured south-eastern 【76†Bihar】 and 【77†West Bengal】, and with his assassination of the last Muhammed Shahi ruler, he seized all of 【70†Bengal】. The capital was at 【78†Gaur】. Taj Khan was followed by his brother 【58†Sulaiman Khan Karrani】, who shifted the seat of government from Gaur to 【61†Tanda】 (also in 【79†Malda】) in 1565.
+L144: In 1568, Sulaiman Khan 【80†annexed Orissa to the Karrani sultanate】 permanently. Nominally he accepted sovereignty of the 【72†Mughal】 Emperor 【81†Akbar】, and his prime minister Lodi Khan placated the Mughals with gifts and banqueting.^{【82†[2]】} Sulaiman Khan's authority extended from 【83†Koch Bihar】 to 【84†Puri】, and from 【85†Son River】 to 【86†Brahmaputra River】.^{【87†[3]】}
+L145: ### Mughal invasion
+L146: 
+L147: [【88†edit】]
+L148: On 25 September 1574, the 【72†Mughal】 general 【89†Munim Khan】 captured the Karrani capital 【61†Tanda】. The 【90†Battle of Tukaroi】 fought on 3 March 1575 forced 【57†Daud Khan Karrani】, the last Karrani ruler, to withdraw to Orissa. The battle led to the Treaty of Katak in which Daud ceded the whole of Bengal and Bihar, retaining only Orissa. The treaty eventually failed after the death of Munim Khan at the age of 50 in October 1575.
+L149: Daud Khan took the opportunity and invaded Bengal, declaring independence from Akbar. The Mughal onslaught against the Karrani sultanate ended with the 【91†Battle of Rajmahal】 on 12 July 1576, led by the Mughal general 【92†Khan Jahan I】. Daud Khan was executed. However, the Pashtuns and the local landlords known as 【93†Baro Bhuyans】 led by 【94†Isa Khan】 continued to resist the Mughal invasion.
+L150: Later in 1612 during the reign of 【95†Jahangir】, Bengal was decisively consolidated as a Mughal province.^{【96†[4]】}
+L151: ## List of rulers
+L152: 
+L153: [【97†edit】]
+L154: 
+L155: Name  | Reign
+L156: --- | ---
+L157: 【56†Sultan Taj Khan Karrani】
+L158: سلطان تاج خان کرلاڼی
+L159: 【64†Bengali】: সুলতান তাজ খাঁন কররাণী  | 1564–1565
+L160: 【58†Sultan Sulayman Khan Karrani】
+L161: سلطان سلیمان خان کرلاڼی
+L162: 【64†Bengali】: সুলতান সুলেমান খাঁন কররাণী  | 1565–1572
+L163: 【59†Sultan Bayazid Khan Karrani】
+L164: سلطان بایزید خان کرلاڼی
+L165: 【64†Bengali】: সুলতান বায়েজ়ীদ খাঁন কররাণী  | 1572
+L166: 【57†Sultan Dawud Khan Karrani】
+L167: سلطان داود خان کرلاڼی
+L168: 【64†Bengali】: সুলতান দাঊদ খাঁন কররাণী  | 1572–1576
+L169: ## Family tree
+L170: 
+L171: [【98†edit】]
+L172: 
+L173: Karrani Dynasty
+L174: ---
+L175: Unnamed
+L176: 【56†Taj Khan】
+L177: ?–1565
+L178: Sultan of Bengal
+L179: R.1564–1565 【58†Sulaiman Khan】
+L180: ?–1572
+L181: Sultan of Bengal
+L182: R.1565–1572
+L183: 【59†Bayazid Khan】
+L184: ?–1572
+L185: Sultan of Bengal
+L186: R.1572 【57†Daud Khan】
+L187: ?–1576
+L188: Sultan of Bengal
+L189: R.1572–1576
+L190: 
+L191: ## See also
+L192: 
+L193: [【99†edit】]
+L194: 
+L195:   * 【100†Sur Empire】
+L196:   * 【101†Lodi dynasty】
+L197:   * 【102†Mughal Dynasty】
+L198:   * 【103†Asaf Jahi Dynasty】
+L199:   * 【104†Durrani Dynasty】
+L200:   * 【105†Koch dynasty】
+L201: ## References
+L202: 
+L203: [【106†edit】]
+L204:   1. 【107†↑】 Roy, Atul Chandra (1968). 【108†History of Bengal: Mughal Period, 1526–1765 A.D.†books.google.com】 Nababharat Publishers. p. 12.
+L205:   2. 【109†↑】 Eaton, Richard (1996). 【110†The Rise of Islam and the Bengal Frontier, 1204–1760†books.google.com】. 【111†University of California Press】. p. 140. 【112†ISBN】 【113†978-0-520-20507-9】. 【114†Archived†web.archive.org】 from the original on 16 January 2023. Retrieved 8 October 2012.
+L206:   3. 【115†↑】 Sengupta, Nitish (2011). 【116†Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib†books.google.com】. Penguin Books India. p. 126. 【112†ISBN】 【117†978-0-14-341678-4】. Retrieved 8 October 2012.
+L207:   4. 【118†↑】 Hasan, Perween (2007). 【119†Sultans and Mosques: The Early Muslim Architecture of Bangladesh†books.google.com】. I.B.Tauris. p. 18. 【112†ISBN】 【120†978-1-84511-381-0】. "Daud, Sulayman's son took over he started striking his own coins and had his own name read in the khutba, acts tantamount to official declaration of independence ... Daud Khan Karrani was defeated and killed in Rajmahal in 1576 ...
+L208: However, the zamindars of East Bengal, known as the Baro Bhuiyans, were able to operate as local chieftains ... continuing to defy the Mughals. It was only in 1612, during the reign of Jahangir, that all of Bengal was firmly integrated as a Mughal province."
+L209: 【121†Image】
+L210: 
+L211: Retrieved from "【44†https://en.wikipedia.org/w/index.php?title=Karrani_dynasty&oldid=1367934562】"
+L212: 
+L213: 【122†Categories】:
+L214: 
+L215:   * 【123†Karrani dynasty】
+L216:   * 【124†Pashtun dynasties】
+L217:   * 【125†1612 disestablishments】
+L218:   * 【126†1564 establishments in Asia】
+L219: 
+L220: Hidden categories:
+L221:   * 【127†Articles with short description】
+L222:   * 【128†Short description is different from Wikidata】
+L223:   * 【129†Use dmy dates from August 2024】
+L224:   * 【130†Articles containing Pashto-language text】
+L225:   * 【131†Articles containing Bengali-language text】
+L226:   * 【132†All articles with unsourced statements】
+L227:   * 【133†Articles with unsourced statements from October 2017】
+L228:   * This page was last edited on 6 August 2026, at 01:56 (UTC).
+L229:   * Page was rendered with 【134†Parsoid†www.mediawiki.org】.
+L230:   * Text is available under the 【135†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【136†Terms of Use†foundation.wikimedia.org】 and 【137†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【138†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L231:   * 【137†Privacy policy†foundation.wikimedia.org】
+L232:   * 【5†About Wikipedia】
+L233:   * 【139†Disclaimers】
+L234:   * 【6†Contact Wikipedia】
+L235:   * 【140†Legal & safety contacts†foundation.wikimedia.org】
+L236:   * 【141†Code of Conduct†foundation.wikimedia.org】
+L237:   * 【142†Developers†developer.wikimedia.org】
+L238:   * 【143†Statistics†stats.wikimedia.org】
+L239:   * 【144†Cookie statement†foundation.wikimedia.org】
+L240:   * Search
+L241: 
+L242: [Input: Search Wikipedia]
+L243: 
+L244: [Input]
+L245: 
+L246: [Button: Search]
+L247: 
+L248: [Input] Toggle the table of contents
+L249: 
+L250: Karrani dynasty
+L251: 11 languages 【17†Add topic】

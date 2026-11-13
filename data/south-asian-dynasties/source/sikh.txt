@@ -1,0 +1,538 @@
+The Sikh empire (1799–1849) (Chapter 6) - The Sikhs of the Punjab (https://www.cambridge.org/core/books/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A ; rewritten summary of https://www.cambridge.org/core/books/abs/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A)
+citeturn23view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.cambridge.org/core/books/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A","lineno":null}); Redirected to URL: https://www.cambridge.org/core/books/abs/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A; Total lines: 649
+L0: 【0†iframe†www.googletagmanager.com】 【1†Skip to main content】 【2†Accessibility help】
+L1: ## Login Alert
+L2: 
+L3: 【3†Cancel】
+L4: 
+L5: 【4†Log in】
+L6: 
+L7: 【3†×】
+L8: 
+L9: ×
+L10: 
+L11: Discover Content
+L12: 
+L13: Products and Services
+L14: 
+L15: 【5†Register】
+L16: 
+L17: 【6†Log In】
+L18: 
+L19: 【7†(0) Cart】
+L20: 
+L21: [Input: Search...]
+L22: 
+L23: Search
+L24: 
+L25: * * *
+L26: 
+L27:   * Browse
+L28: 
+L29:   * Services
+L30: 
+L31:   * Open research
+L32: 
+L33: Institution Login
+L34: 
+L35: [Input: Search...]
+L36: 
+L37: Search
+L38: 
+L39: Menu links
+L40:   1. Browse
+L41:     1. Subjects
+L42:       1. Subjects (A-D)
+L43:         1. 【8†Anthropology】
+L44:         2. 【9†Archaeology】
+L45:         3. 【10†Area Studies】
+L46:         4. 【11†Art】
+L47:         5. 【12†Chemistry】
+L48:         6. 【13†Classical Studies】
+L49:         7. 【14†Computer Science】
+L50:         8. 【15†Drama, Theatre, Performance Studies】
+L51:       2. Subjects (E-K)
+L52:         1. 【16†Earth and Environmental Science】
+L53:         2. 【17†Economics】
+L54:         3. 【18†Education】
+L55:         4. 【19†Engineering】
+L56:         5. 【20†English Language Teaching – Resources for Teachers】
+L57:         6. 【21†Film, Media, Mass Communication】
+L58:         7. 【22†General Science】
+L59:         8. 【23†Geography】
+L60:         9. 【24†History】
+L61:       3. Subjects (L-O)
+L62:         1. 【25†Language and Linguistics】
+L63:         2. 【26†Law】
+L64:         3. 【27†Life Sciences】
+L65:         4. 【28†Literature】
+L66:         5. 【29†Management】
+L67:         6. 【30†Materials Science】
+L68:         7. 【31†Mathematics】
+L69:         8. 【32†Medicine】
+L70:         9. 【33†Music】
+L71:         10. 【34†Nutrition】
+L72:       4. Subjects (P-Z)
+L73:         1. 【35†Philosophy】
+L74:         2. 【36†Physics and Astronomy】
+L75:         3. 【37†Politics and International Relations】
+L76:         4. 【38†Psychiatry】
+L77:         5. 【39†Psychology】
+L78:         6. 【40†Religion】
+L79:         7. 【41†Social Science Research Methods】
+L80:         8. 【42†Sociology】
+L81:         9. 【43†Statistics and Probability】
+L82:     2. Open access
+L83:       1. All open access publishing
+L84:         1. 【44†Open access】
+L85:         2. 【45†Open access journals】
+L86:         3. 【46†Research open journals】
+L87:         4. 【47†Journals containing open access】
+L88:         5. 【48†Open access articles】
+L89:         6. 【49†Open access books】
+L90:         7. 【50†Open access Elements】
+L91:     3. Journals
+L92:       1. Explore
+L93:         1. 【51†All journal subjects】
+L94:         2. 【51†Search journals】
+L95:       2. Open access
+L96:         1. 【45†Open access journals】
+L97:         2. 【46†Research open journals】
+L98:         3. 【47†Journals containing open access】
+L99:         4. 【48†Open access articles】
+L100:       3. Collections
+L101:         1. 【52†Cambridge Forum】
+L102:         2. 【53†Cambridge Law Reports Collection】
+L103:         3. 【54†Cambridge Prisms】
+L104:         4. 【55†Research Directions】
+L105:     4. Books
+L106:       1. Explore
+L107:         1. 【56†Books】
+L108:         2. 【49†Open access books】
+L109:         3. 【57†New books】
+L110:         4. 【58†Flip it Open】
+L111:       2. Collections
+L112:         1. 【59†Cambridge Companions】
+L113:         2. 【60†Cambridge Editions】
+L114:         3. 【61†Cambridge Histories】
+L115:         4. 【62†Cambridge Library Collection】
+L116:         5. 【63†Cambridge Shakespeare】
+L117:         6. 【64†Cambridge Handbooks】
+L118:       3. Collections (cont.)
+L119:         1. 【65†Dispute Settlement Reports Online】
+L120:         2. 【58†Flip it Open】
+L121:         3. 【66†Hemingway Letters】
+L122:         4. 【67†Shakespeare Survey】
+L123:         5. 【68†Stahl Online】
+L124:         6. 【69†The Correspondence of Isaac Newton】
+L125:     5. Elements
+L126:       1. Explore
+L127:         1. 【70†About Elements】
+L128:         2. 【71†Elements series】
+L129:         3. 【50†Open access Elements】
+L130:         4. 【72†New Elements】
+L131:       2. Subjects (A-E)
+L132:         1. 【73†Anthropology】
+L133:         2. 【74†Archaeology】
+L134:         3. 【75†Classical Studies】
+L135:         4. 【76†Computer Science】
+L136:         5. 【77†Drama, Theatre, Performance Studies】
+L137:         6. 【78†Earth and Environmental Sciences】
+L138:         7. 【79†Economics】
+L139:         8. 【80†Education】
+L140:         9. 【81†Engineering】
+L141:       3. Subjects (F-O)
+L142:         1. 【82†Film, Media, Mass Communication】
+L143:         2. 【83†History】
+L144:         3. 【84†Language and Linguistics】
+L145:         4. 【85†Law】
+L146:         5. 【86†Life Sciences】
+L147:         6. 【87†Literature】
+L148:         7. 【88†Management】
+L149:         8. 【89†Mathematics】
+L150:         9. 【90†Medicine】
+L151:         10. 【91†Music】
+L152:       4. Subjects (P-Z)
+L153:         1. 【92†Philosophy】
+L154:         2. 【93†Physics and Astronomy】
+L155:         3. 【94†Politics and International Relations】
+L156:         4. 【95†Psychology】
+L157:         5. 【96†Religion】
+L158:         6. 【97†Sociology】
+L159:         7. 【98†Statistics and Probability】
+L160:     6. Textbooks
+L161:       1. Explore
+L162:         1. 【99†Cambridge Higher Education】
+L163:         2. 【100†Title list】
+L164:         3. 【101†New titles】
+L165:     7. Collections
+L166:       1. Book collections
+L167:         1. 【59†Cambridge Companions】
+L168:         2. 【60†Cambridge Editions】
+L169:         3. 【61†Cambridge Histories】
+L170:         4. 【62†Cambridge Library Collection】
+L171:         5. 【63†Cambridge Shakespeare】
+L172:         6. 【64†Cambridge Handbooks】
+L173:       2. Book collections (cont.)
+L174:         1. 【65†Dispute Settlement Reports Online】
+L175:         2. 【58†Flip it Open】
+L176:         3. 【66†Hemingway Letters】
+L177:         4. 【67†Shakespeare Survey】
+L178:         5. 【68†Stahl Online】
+L179:         6. 【69†The Correspondence of Isaac Newton】
+L180:       3. Journal collections
+L181:         1. 【52†Cambridge Forum】
+L182:         2. 【53†Cambridge Law Reports Collection】
+L183:         3. 【102†Cambridge Materials】
+L184:         4. 【54†Cambridge Prisms】
+L185:       4. Series
+L186:         1. 【103†All series】
+L187:     8. Partners
+L188:       1. Partners
+L189:         1. 【104†Agenda Publishing】
+L190:         2. 【105†Anthem Press】
+L191:         3. 【106†ARC Humanities Press】
+L192:         4. 【107†Boydell & Brewer】
+L193:         5. 【108†Bristol University Press】
+L194:         6. 【109†Central European University Press】
+L195:         7. 【110†Edinburgh University Press】
+L196:         8. 【111†Emirates Center for Strategic Studies and Research】
+L197:         9. 【112†Facet Publishing】
+L198:         10. 【113†Foundation Books】
+L199:       2. Partners (cont.)
+L200:         1. 【114†Gerlach Press】
+L201:         2. 【115†Intersentia】
+L202:         3. 【116†ISEAS-Yusof Ishak Institute】
+L203:         4. 【117†Jagiellonian University Press】
+L204:         5. 【118†Manchester University Press】
+L205:         6. 【119†Multilingual Matters】
+L206:         7. 【120†Oxbow Books】
+L207:         8. 【121†Royal Economic Society】
+L208:         9. 【122†The University of Adelaide Press】
+L209:         10. 【123†Unisa Press】
+L210:       3. Partners (cont.)
+L211:         1. 【124†Wits University Press】
+L212:   2. Services
+L213:     1. About
+L214:       1. About Cambridge Core
+L215:         1. 【125†About】
+L216:         2. 【126†Accessibility statement】
+L217:         3. 【127†CrossMark policy】
+L218:         4. 【128†Ethical Standards】
+L219:       2. Environment and sustainability
+L220:         1. 【129†Environment and sustainability】
+L221:         2. 【130†Reducing print】
+L222:         3. 【131†Journals moving to online only】
+L223:       3. Guides
+L224:         1. 【132†User guides】
+L225:         2. 【133†User Guides and Videos】
+L226:         3. 【134†Support Videos】
+L227:         4. 【135†Training】
+L228:       4. Help
+L229:         1. 【136†Cambridge Core help†corehelp.cambridge.org】
+L230:         2. 【137†Contact us†corehelp.cambridge.org】
+L231:         3. 【138†Technical support†corehelp.cambridge.org】
+L232:     2. Agents
+L233:       1. Services for agents
+L234:         1. 【139†Services for agents】
+L235:         2. 【140†Journals for agents】
+L236:         3. 【141†Books for agents】
+L237:         4. 【142†Price list】
+L238:     3. Authors
+L239:       1. Journals
+L240:         1. 【143†Journal authors】
+L241:         2. 【144†Journal publishing statistics】
+L242:         3. 【145†Corresponding author】
+L243:         4. 【146†Seeking permission to use copyrighted material】
+L244:         5. 【147†Publishing supplementary material】
+L245:         6. 【148†Preparing accessible materials】
+L246:         7. 【149†Journal production - FAQs】
+L247:       2. Journals (cont.)
+L248:         1. 【150†Author affiliations】
+L249:         2. 【151†Co-reviewing policy】
+L250:         3. 【152†Anonymising your manuscript】
+L251:         4. 【153†Publishing open access】
+L252:         5. 【154†Convert your article to Gold Open Access】
+L253:       3. Journals (cont.)
+L254:         1. 【155†Preparing and submitting your paper】
+L255:         2. 【156†Journals publication journey】
+L256:         3. 【157†Publishing agreement FAQs for journal authors】
+L257:         4. 【158†Author Information Form FAQs】
+L258:         5. 【159†Promoting your published paper】
+L259:         6. 【160†Measuring impact】
+L260:         7. 【161†Journals artwork guide】
+L261:         8. 【162†Using ORCID】
+L262:       4. Books
+L263:         1. 【163†Books】
+L264:         2. 【164†Publishing your book open access】
+L265:         3. 【165†Marketing your book】
+L266:         4. 【166†Author guides for Cambridge Elements】
+L267:     4. Corporates
+L268:       1. Corporates
+L269:         1. 【167†Commercial reprints】
+L270:         2. 【168†Advertising】
+L271:         3. 【169†Sponsorship】
+L272:         4. 【170†Book special sales】
+L273:         5. 【171†Contact us】
+L274:     5. Editors
+L275:       1. Information
+L276:         1. 【172†Journal development】
+L277:         2. 【173†Peer review for editors】
+L278:         3. 【174†Open access for editors】
+L279:         4. 【175†Policies and guidelines】
+L280:       2. Resources
+L281:         1. 【176†The editor's role】
+L282:         2. 【177†Open research for editors】
+L283:         3. 【178†Engagement and promotion for editors】
+L284:     6. Librarians
+L285:       1. Information
+L286:         1. 【179†Open Access for Librarians】
+L287:         2. 【180†Transformative agreements】
+L288:         3. 【181†Transformative Agreements - FAQs】
+L289:         4. 【182†Evidence based acquisition】
+L290:         5. 【183†Cambridge libraries of the world podcast】
+L291:         6. 【184†Purchasing models】
+L292:         7. 【185†Journals Publishing Updates】
+L293:       2. Products
+L294:         1. 【186†Cambridge frontlist】
+L295:         2. 【187†Cambridge journals digital archive】
+L296:         3. 【188†Hot topics】
+L297:         4. 【189†Other digital products】
+L298:         5. 【190†Perpetual access products】
+L299:         6. 【191†Price list】
+L300:         7. 【192†Developing country programme】
+L301:         8. 【193†New content】
+L302:       3. Tools
+L303:         1. 【194†Eligibility checker】
+L304:         2. 【180†Transformative agreements】
+L305:         3. 【195†KBART】
+L306:         4. 【196†MARC records】
+L307:         5. 【197†Using MARCEdit for MARC records】
+L308:         6. 【198†Inbound OpenURL specifications】
+L309:         7. 【199†COUNTER usage reporting】
+L310:       4. Resources
+L311:         1. 【200†Catalogues and resources】
+L312:         2. 【201†Making the most of your EBA】
+L313:         3. 【202†Posters】
+L314:         4. 【203†Leaflets and brochures】
+L315:         5. 【204†Additional resources】
+L316:         6. 【205†Find my sales contact】
+L317:         7. 【206†Training】
+L318:         8. 【207†Read and publish resources】
+L319:     7. Peer review
+L320:       1. Peer review
+L321:         1. 【208†How to peer review journal articles】
+L322:         2. 【209†How to peer review book proposals】
+L323:         3. 【210†How to peer review Registered Reports】
+L324:         4. 【211†Peer review FAQs】
+L325:         5. 【212†Ethics in peer review】
+L326:         6. 【213†Online peer review systems】
+L327:         7. 【214†A guide to Publons】
+L328:     8. Publishing ethics
+L329:       1. Journals
+L330:         1. 【215†Publishing ethics guidelines for journals】
+L331:         2. 【216†Core editorial policies for journals】
+L332:         3. 【217†Authorship and contributorship for journals】
+L333:         4. 【218†Affiliations for journals】
+L334:         5. 【219†Research ethics for journals】
+L335:         6. 【220†Competing interests and funding for journals】
+L336:       2. Journals (cont.)
+L337:         1. 【221†Data and supporting evidence for journals】
+L338:         2. 【222†Misconduct for journals】
+L339:         3. 【223†Corrections, retractions and removals for journals】
+L340:         4. 【224†Versions and adaptations for journals】
+L341:         5. 【225†Libel, defamation and freedom of expression】
+L342:         6. 【226†Business ethics journals】
+L343:       3. Books
+L344:         1. 【227†Publishing ethics guidelines for books】
+L345:         2. 【228†Core editorial policies for books】
+L346:         3. 【229†Authorship and contributorship for books】
+L347:         4. 【230†Affiliations for books】
+L348:         5. 【231†Research ethics for books】
+L349:         6. 【232†Competing interests and funding for books】
+L350:       4. Books (cont.)
+L351:         1. 【233†Data and supporting evidence for books】
+L352:         2. 【234†Misconduct for books】
+L353:         3. 【235†Corrections, retractions and removals for books】
+L354:         4. 【236†Versions and adaptations for books】
+L355:         5. 【225†Libel, defamation and freedom of expression】
+L356:         6. 【237†Business ethics books】
+L357:     9. Publishing partners
+L358:       1. Publishing partners
+L359:         1. 【238†Publishing partnerships】
+L360:         2. 【239†Book publishing partners】
+L361:         3. 【240†eBook publishing partnerships】
+L362:         4. 【241†Journal publishing partnerships】
+L363:       2. Publishing partners (cont.)
+L364:         1. 【242†Journals publishing】
+L365:         2. 【243†Customer support】
+L366:         3. 【244†Membership Services】
+L367:         4. 【245†Our Team】
+L368:   3. Open research
+L369:     1. Open access policies
+L370:       1. Open access policies
+L371:         1. 【246†Open research】
+L372:         2. 【247†Open access policies】
+L373:         3. 【248†Text and data mining】
+L374:         4. 【249†Preprint policy】
+L375:       2. Journals
+L376:         1. 【250†Open access journals】
+L377:         2. 【251†Gold Open Access journals】
+L378:         3. 【252†Green Open Access policy for journals】
+L379:         4. 【253†Transparent pricing policy for journals】
+L380:       3. Books and Elements
+L381:         1. 【254†Open access books】
+L382:         2. 【255†Gold open access books】
+L383:         3. 【256†Green Open Access policy for books】
+L384:         4. 【257†Open access Elements】
+L385:     2. Open access publishing
+L386:       1. About open access
+L387:         1. 【258†Open research】
+L388:         2. 【259†What is open access?】
+L389:         3. 【260†Open access glossary】
+L390:         4. 【261†Open access myths】
+L391:         5. 【262†Hybrid Open Access FAQs】
+L392:         6. 【194†Eligibility checker】
+L393:       2. Open access resources
+L394:         1. 【263†Open access resources】
+L395:         2. 【264†Benefits of open access】
+L396:         3. 【265†Creative commons licences】
+L397:         4. 【266†Funder policies and mandates】
+L398:         5. 【267†Article type definitions】
+L399:         6. 【268†Convert your article to Gold Open Access】
+L400:     3. Open research initiatives
+L401:       1. Research transparency
+L402:         1. 【269†Transparency and openness】
+L403:         2. 【270†Open Practice Badges】
+L404:         3. 【271†OA organisations, initiatives & directories】
+L405:         4. 【272†Registered Reports】
+L406:         5. 【273†Annotation for Transparent Inquiry (ATI)】
+L407:       2. Journal flips
+L408:         1. 【274†Open access journal flips】
+L409:         2. 【275†OA Journal Flip FAQs】
+L410:       3. Flip it Open
+L411:         1. 【276†Flip it Open】
+L412:         2. 【277†Flip it Open FAQs】
+L413:     4. Open access funding
+L414:       1. Open access funding
+L415:         1. 【278†Funding open access publication】
+L416:         2. 【279†Cambridge Open Equity Initiative】
+L417:         3. 【280†Completing a RightsLink (open access) transaction】
+L418:     5. Cambridge Open Engage
+L419:       1. Cambridge Open Engage
+L420:         1. 【281†Cambridge Open Engage】
+L421:         2. 【282†APSA Preprints】
+L422:         3. 【283†APSA Preprints FAQs】
+L423: Hostname: page-component-74656f9884-g96k6 Total loading time: 0 Render date: 2026-11-10T16:48:18.849Z Has data issue: false hasContentIssue false
+L424: # 6 - The Sikh empire (1799–1849)
+L425: 
+L426: Published online by Cambridge University Press:  28 March 2008
+L427: 
+L428: 【284†J. S. Grewal】
+L429: 
+L430: * * *
+L431: 
+L432: 【285†Book contents】
+L433:   * 【286†Frontmatter】
+L434:   * 【287†Introduction】
+L435:   * 【288†1 The Turko-Afghan Rule】
+L436:   * 【289†2 Foundation of the Sikh Panth】
+L437:   * 【290†3 Evolution of the Sikh Panth (1539–1606)】
+L438:   * 【291†4 Transformation of the Sikh Panth (1606–1708)】
+L439:   * 【292†5 Rise to political power (1708–1799)】
+L440:   * 【293†6 The Sikh empire (1799–1849)】
+L441:   * 【294†7 Recession and resurgence (1849–1919)】
+L442:   * 【295†8 In the struggle for freedom (1920–1947)】
+L443:   * 【296†9 Towards the ‘Punjabi Province’ (1947–1966)】
+L444:   * 【297†10 In the new Punjab state (1966–1984)】
+L445:   * 【298†Bibliographical essay】
+L446:   * 【299†Index】
+L447:   * 【300†THE NEW CAMBRIDGE HISTORY OF INDIA】
+L448:   * 【301†References】
+L449: 【302†Get access】
+L450: 
+L451: * * *
+L452: ## Summary
+L453: In 1799, a process of unification was started by Ranjit Singh virtually to establish an empire during the first quarter of the nineteenth century. He made use of an efficient army raised and trained more or less like the army of the East India Company. The use of the time-honoured suzerain-vassal polity was equally important in establishing his political control. Paying personal attention to revenue administration and trade in his large dominions he revived prosperity in the Punjab.
+L454: Extending state patronage to all important sections of the population he attached them to the new empire. In the ruling class too, Hindus and Muslims came to form a substantial element.
+L455: The Sikhs formed the dominant element in the ruling class and had the largest share in jāgīrs assigned by Ranjit Singh and his successors. In state patronage in the form of revenue-free land, the Sikhs received a much larger share than Hindus and Muslims, but not at their cost. The state alienated more revenues now in favour of the religious grantees than in Mughal times. In fact Ranjit Singh only extended the pattern first set by Akbar and enlarged later by the early Sikh rulers.
+L456: Some Sikh members of the ruling class patronized art and literature; a few took personal interest in traditional learning. The number of Sikhs was increasing during the early nineteenth century though only a small number of the new entrants were associated with government and administration or the army.
+L457: * * *
+L458: ## Information
+L459: 
+L460: Type
+L461:     Chapter
+L462: 
+L463: Information
+L464: 
+L465: 
+L466: 【303†The Sikhs of the Punjab】 , pp. 99 - 127
+L467: 
+L468: DOI: 【304†https://doi.org/10.1017/CHOL9780521268844.008 [Opens in a new window]†doi.org】
+L469: 
+L470: Publisher: Cambridge University Press
+L471: 
+L472: Print publication year: 1991
+L473: 
+L474: * * *
+L475: 
+L476: * * *
+L477: ## References
+L478: 
+L479: Archer, W. G., Paintings of the Sikhs, London 1966【305†Google Scholar†scholar.google.com】
+L480: 
+L481: Bal, S. S., British Policy Towards the Punjab 1844–49, New Age Publishers, Calcutta, 1971.【306†Google Scholar†scholar.google.com】
+L482: 
+L483: Banga, Indu, Agrarian System of the Sikhs: Late Eighteenth and Early Nineteenth Century, Manohar Publications, New Delhi, 1978, 22–26【307†Google Scholar†scholar.google.com】
+L484: Banga, Indu, ‘The Ruling Class in the Kingdom of Lahore’, Journal of Regional History, 3 (1982)【308†Google Scholar†scholar.google.com】
+L485: 
+L486: Burnes, Alexander, Travels into Bokhara, Oxford University Press, 1973, Vol. I; Vol. 3 and 146.【309†Google Scholar†scholar.google.com】
+L487: 
+L488: Garrett, H. L. O. (trans.), The Punjab a Hundred Years Ago, Patiala, 1971 (reprint).【310†Google Scholar†scholar.google.com】
+L489: Goswamy, B. N., ‘The Context of Painting in the Sikh Punjab’ Journal of Regional History, 2 (1981).【311†Google Scholar†scholar.google.com】
+L490: 
+L491: Grewal, J. S., ‘Passage to Vassalage’, From Guru Nanak to Maharaja Ranjit Singh, Guru Nanak Dev University, Amritsar, 1982 (2nd edn).【312†Google Scholar†scholar.google.com】
+L492: 
+L493: Grewal, J. S. and Banga, Indu, ‘The Sikh Suzerain’, From Guru Nanak to Maharaja Ranjit Singh, Guru Nanak Dev University, Amritsar, 1982 (2nd edn).【313†Google Scholar†scholar.google.com】
+L494: Grewal, J. S. and Banga, Indu (eds), Early Nineteenth Century Panjab, Guru Nanak Dev University, Amritsar, 1975.【314†Google Scholar†scholar.google.com】
+L495: 
+L496: Grewal, J. S., The Reign of Maharaja Ranjit Singh: Structure of Power, Economy and Society, Punjabi University, Patiala, 1981.【315†Google Scholar†scholar.google.com】
+L497: 
+L498: Grewal, Reeta, ‘Polity, Economy and Urbanization: Early Nineteenth Century Punjab’, Journal of Regional History, 4 (1983).【316†Google Scholar†scholar.google.com】
+L499: Hugel, Baron Charles, Travels in Kashmir and the Punjab (tr. Jervis, T. B.), Light and Life Publishers, Jammu, 1972.【317†Google Scholar†scholar.google.com】
+L500: 
+L501: (Grewal, J. S. and Banga, Indu eds) ‘State Patronage to Udasis under Maharaja Ranjit Singh’, Maharaja Ranjit Singh and His Times, Guru Nanak Dev University, Amritsar, 1980.【318†Google Scholar†scholar.google.com】
+L502: Johal, Daljinder Singh, ‘Heroic Literature in Punjabi (1800–1850)’ Journal of Regional History, 2 (1981)【319†Google Scholar†scholar.google.com】
+L503: 
+L504: Kaur, Joginder Dr Ram Sukh Rao's Sri Fateh Singh Partap Prabhakar, Patiala, 1980.【320†Google Scholar†scholar.google.com】
+L505: 
+L506: Khilnani, N. M., British Power in the Punjab 1839–1858, Asia Publishing House, New Delhi, 1972.【321†Google Scholar†scholar.google.com】
+L507: (Kohli, Sita Ram and Giani, Sewa Singh eds) Wār Shah Muhammad, Punjabi Sahit Academy, Ludhiana, 1972.【322†Google Scholar†scholar.google.com】
+L508: 
+L509: Kohli, Sita Ram, Sunset of the Sikh Empire, Orient Longmans, Bombay, 1967.【323†Google Scholar†scholar.google.com】
+L510: 
+L511: Sachdeva, Veena, ‘The Non-Sikh Chiefs of the Punjab Plains and Maharaja Ranjit Singh’ Journal of Regional History, Guru Nanak Dev University, Amritsar, 2 (1981)【324†Google Scholar†scholar.google.com】
+L512: Singh, Khushwant, A History of the Sikhs, Oxford University Press, Delhi, 1986, Vol. 2.【325†Google Scholar†scholar.google.com】
+L513: 
+L514: Singh, Ranjit: The Civil and Military Affairs of Maharaja Ranjit Singh (eds , J. S.|Grewal and Banga, Indu), Guru Nanak Dev University, Amritsar, 1987.【326†Google Scholar†scholar.google.com】
+L515: 
+L516: Singh, Ratan Bhangu's work has been published as Prāchīn Panth Parkāsh, Wazir-i-Hind Press, Amritsar, 1962 (4th edn).【327†Google Scholar†scholar.google.com】
+L517: Singh, Sulakhan, ‘Udasi Establishments Under Sikh Rule’, Journal of Regional History, I (1980)【328†Google Scholar†scholar.google.com】
+L518: 
+L519: Singh, Sulakhan, ‘The Udasis in the Early Nineteenth Century’, Journal of Regional History, 2 (1981).【329†Google Scholar†scholar.google.com】
+L520: ## Accessibility standard: Unknown
+L521: 
+L522: ### Why this information is here
+L523: 
+L524: This section outlines the accessibility features of this content - including support for screen readers, full keyboard navigation and high-contrast display options. This may not be relevant for you.
+L525: 
+L526: ### Accessibility Information
+L527: 
+L528: Accessibility compliance for the PDF of this chapter is currently unknown and may be updated in the future.
+L529: 
+L530: # Cited by
+L531: 
+L532: Loading...
+L533: # Save book to Kindle
+L534: 
+L535: To save this book to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ‘name’ part of your Kindle email address below. 【330†Find out more about saving to your Kindle】.

@@ -1,0 +1,356 @@
+Madurai Nayak dynasty - Wikipedia (https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty)
+citeturn90view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty","lineno":null}); Total lines: 594
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Origins and Ancestry】
+L50:     * 【20†1.2 Foundation (1529—1564)】
+L51:     * 【21†1.3 Consolidation and the Palayam system (1564–1601)】
+L52:     * 【22†1.4 Expansion and Autonomy (1601–1623)】
+L53:     * 【23†1.5 Reign of Tirumala Nayaka (1623–1659)】
+L54:     * 【24†1.6 Later Ruler and Decline (1659–1736)】
+L55:   * 【25†2 Administration】
+L56:   * 【26†3 Culture】 Toggle Culture subsection
+L57:     * 【27†3.1 Language】
+L58:     * 【28†3.2 Literature】
+L59:     * 【29†3.3 Art and architecture】
+L60:   * 【30†4 Nayaka coins】
+L61:   * 【31†5 Cadet branches (Sri Lanka)】
+L62:   * 【32†6 See also】
+L63:   * 【33†7 References】
+L64:   * 【34†8 External links】
+L65: [Input] Toggle the table of contents
+L66: # Madurai Nayak dynasty
+L67: 
+L68: [Input] 15 languages
+L69:   * 【35†العربية†ar.wikipedia.org】
+L70:   * 【36†Català†ca.wikipedia.org】
+L71:   * 【37†Español†es.wikipedia.org】
+L72:   * 【38†Français†fr.wikipedia.org】
+L73:   * 【39†हिन्दी†hi.wikipedia.org】
+L74:   * 【40†Bahasa Indonesia†id.wikipedia.org】
+L75:   * 【41†Italiano†it.wikipedia.org】
+L76:   * 【42†日本語†ja.wikipedia.org】
+L77:   * 【43†മലയാളം†ml.wikipedia.org】
+L78:   * 【44†मराठी†mr.wikipedia.org】
+L79:   * 【45†Русский†ru.wikipedia.org】
+L80:   * 【46†සිංහල†si.wikipedia.org】
+L81:   * 【47†Svenska†sv.wikipedia.org】
+L82:   * 【48†தமிழ்†ta.wikipedia.org】
+L83:   * 【49†తెలుగు†te.wikipedia.org】
+L84: 【50†Edit links†www.wikidata.org】
+L85: 
+L86:   * 【51†Article】
+L87:   * 【52†Talk】
+L88: 
+L89: [Input] English
+L90: 
+L91:   * 【51†Read】
+L92:   * 【53†Edit】
+L93:   * 【54†View history】
+L94:   * 【17†Save】
+L95: 
+L96: [Input] Tools
+L97: 
+L98: Tools
+L99: 
+L100: [Button: move to sidebar] [Button: hide]
+L101: 
+L102: Actions
+L103: 
+L104:   * 【51†Read】
+L105:   * 【53†Edit】
+L106:   * 【54†View history】
+L107:   * 【17†Save】
+L108: 
+L109: General
+L110: 
+L111:   * 【55†What links here】
+L112:   * 【56†Related changes】
+L113:   * 【57†Upload file】
+L114:   * 【58†Permanent link】
+L115:   * 【59†Page information】
+L116:   * 【60†Cite this page】
+L117:   * 【61†Get shortened URL】
+L118:   * 【62†Switch to legacy parser】
+L119: Print/export
+L120: 
+L121:   * 【63†Download as PDF】
+L122:   * Printable version
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【64†Wikimedia Commons†commons.wikimedia.org】
+L127:   * 【65†Wikidata item†www.wikidata.org】
+L128: 
+L129: Appearance
+L130: 
+L131: [Button: move to sidebar] [Button: hide]
+L132: 
+L133: Madurai Nayaka dynasty
+L134: ---
+L135: 1529–1736
+L136: Capital  |
+L137: 
+L138:   * 【66†Madurai】
+L139: (1529–1616)
+L140:   * 【67†Tiruchirapalli】
+L141: (1616–1634)
+L142:   * 【66†Madurai】
+L143: (1634–1695)
+L144:   * 【67†Tiruchirapalli】
+L145: (1695–1716)
+L146:   * 【66†Madurai】
+L147: (1716–1736)
+L148:   * In Sri Lanka:
+L149:   * 【68†Kandy】
+L150: (1739–1815)
+L151: Common languages  |
+L152:   * 【69†Telugu】
+L153:   * 【70†Tamil】
+L154: Government  |
+L155:   * Governors under the 【71†Vijayanagara Empire】
+L156:   * Monarchy
+L157: History  |
+L158: • Established  | 1529
+L159: • Disestablished  | 1736
+L160: Preceded by Succeeded by
+L161: 【72†Image†upload.wikimedia.org】 【73†Pandiyan Dynasty】
+L162: 【72†Image†upload.wikimedia.org】 【74†Delhi Sultanate】
+L163: 【72†Image†upload.wikimedia.org】 【75†Madurai Sultanate】
+L164: 【72†Image†upload.wikimedia.org】 【71†Vijayanagara Empire】
+L165: 【76†Carnatic Sultanate】 【72†Image†upload.wikimedia.org】
+L166: 【77†Kingdom of Mysore】 【72†Image†upload.wikimedia.org】
+L167: 【78†Ramnad estate】 【72†Image†upload.wikimedia.org】
+L168: 【79†Pudukkottai state】 【72†Image†upload.wikimedia.org】
+L169: 【80†British Ceylon】 【72†Image†upload.wikimedia.org】
+L170: The Madurai Nayaks were a 【81†Telugu】-speaking dynasty (warrior clans of present-day 【82†Andhra Pradesh】) that ruled large parts of modern-day 【83†Tamil Nadu】, India, between the 16th and 18th centuries, with Madurai as their capital.^{【84†[1]】}^{【85†[2]】} It was founded by Nagama Nayak's son 【86†Viswanatha Nayak】 around 1529 as a viceroyalty under the 【71†Vijayanagara Empire】.
+L171: Their tenure that lasted till 1736, was characterised by administrative reorganisation through the 【87†palaiyakkarar】 system, temple reconstruction (previously ransacked by the 【74†Delhi Sultans】), and the development of distinct architectural forms such as large pillared madapas and palace complexes.^{【88†[3]】}^{【89†[4]】}
+L172: The dynasty comprised thirteen rulers, including nine kings, two queens regnant, and two joint rulers. Prominent among them were 【90†Tirumala Nayaka】 (r. 1623–1659) and the regent 【91†Rani Mangammal】 (r. 1689–1704). External maritime trade along the Coromandel and Fishery coasts was conducted primarily with the Portuguese and the Dutch East India Company. Trade focussed on textiles, spices, and regional pearl fishery.^{【92†[5]】}
+L173: ## History
+L174: 
+L175: [【93†edit】]
+L176: ### Origins and Ancestry
+L177: 
+L178: [【94†edit】]
+L179: The Dalavay Agraharam Plates of 【95†Venkata I】 record that Virappa Nayaka, grandson of Madurai dynasty's founder 【86†Viswanatha Nayaka】, held the title ''Lord of Ayyavalipura'' (Aihole).^{【96†[6]】}^{【97†[7]】} Inscriptions from Kolhapur and Miraj designate the Gavares as the lords of Ayyavalipura,^{【98†[8]】}^{【99†[9]】} while the merchant Balijas in the Tamil speaking region were historically known as Valanjiyars.^{【100†[10]】}^{【101†[11]】} The members of the guild were termed Vira 【102†Balanjas】 in 【69†Telugu】, Vira 【103†Banajigas】 in 【104†Kannada】, and Vira 【102†Valanjiyar】 in 【70†Tamil】, all translating to "Valiant Mechants".^{【105†[12]】}^{【106†[13]】}^{【107†[14]】} These merchants acted as protectors of Vira Balanja Dharma^{【108†[15]】} with their historical capital based at 【109†Ayyavole】 (【109†Aihole】) in 【110†Bijapur】 district of 【111†Karnataka】.^{【112†[16]】}^{【113†[17]】} A 1677 report compiled by an official of the 【114†Dutch East India Company】 notes that 【86†Viswanatha Nayaka】 belonged to the "Wellen Chetti" merchant community.^{【115†[18]】}^{【116†[19]】} Records in Mackenzie manuscripts gloss them as sellers of glass 【117†bangles】.^{【118†[20]】}^{【119†[21]】}
+L180: The Nayakas were 【81†Telugu-speaking】 【102†Balija】 warriors originating from the 【120†Rayalaseema】 region of present-day 【82†Andhra Pradesh】.^{【85†[2]】}^{【84†[1]】}^{【121†[22]】} The 【122†Kaifiyat】 of the Karnata Kotikam Kings (c.1800–1804) records that 【86†Viswanatha Nayaka】 belonged to the Garikepati lineage of the 【102†Balija】 community,^{【123†[23]】} whose ancestors traded in bangles.^{【124†[24]】}^{【125†[25]】} Ramabhadra Nayaka, a Balija military officer and a revenue collecter and a relative of Vishwanatha Nayaka, was the ancestor of Dewan Bahadur 【126†Ramabadra Naidu】, Zamindar of Vadagarai.^{【127†[26]】}^{【128†[27]】} The 18th-century Telugu text Srivamsa Prakashika similarly records the last ruler of the dynasty, Vijayaranga Chokkanatha Nayaka, as a member of the Garikepati Balija lineage.^{【129†[28]】}^{【130†[29]】}
+L181: ### Foundation (1529—1564)
+L182: 
+L183: [【131†edit】]
+L184: The governers were initially deputed as imperial agents (kartakkals) to administer the southern provinces of the 【71†Vijayanagara】 empire.^{【132†[30]】} The region had experienced recurring insurrections before returning to normalcy during the reign of Vira Narasimha Raya in early 16th century.
+L185: Nagama Nayaka, an experienced general under Emperor 【133†Krishnadevaraya】, was sent with an imperial contingent to reassert authority over the Pandya territories.^{【134†[31]】} However, his strict administration alienated local chieftains and regional landholders. During the late 1520s, regional unrest escalated when local commanders allied with 【135†Travancore】 and Nagama began to defy orders from the capital.
+L186: Krishnadevaraya dispatched Nangama's son, 【86†Viswanatha Nayaka】, to restore imperial control over Madurai.
+L187: Viswanatha defeated his father and sent him under guard to capital, where the emperor pardoned Nagama in recognition of his earlier campaigns.^{【136†[32]】} In 1529, the Emperor appointed Vishwanatha as governor of Madurai, making the formal beginning of the Madurai Nayaka dynasty.^{【137†[33]】}^{【138†[34]】} Traditional chronicles preserve an alternate account in which Nagama was sent to protect the Pandyan ruler from Chola attacks but usurped the throne himself.
+L188: This in turn prompted Vishwanatha's military intervention. However, this traditional chronicle lacks contemporary epigraphical support.^{【139†[35]】}^{【140†[36]】}
+L189: ### Consolidation and the Palayam system (1564–1601)
+L190: 
+L191: [【141†edit】]
+L192: 
+L193: 【142†[】【143†1600】【144†]】
+L194: 
+L195: 【145†YARKENTKHANATE】
+L196: 
+L197: 【146†TURPANKHANATE】
+L198: 
+L199: 【147†TSANGPA】
+L200: 
+L201: 【148†CHAM-PA】
+L202: 
+L203: 【149†MINGDYNASTY】
+L204: 
+L205: 【150†MUGHALEMPIRE】
+L206: 
+L207: 【71†VIJAYANAGARA】
+L208: 
+L209: 【51†MADURAI】
+L210: 
+L211: 【151†SAFAVIDEMPIRE】
+L212: 
+L213: 【152†OTTOMANEMPIRE】
+L214: 
+L215: 【153†KHIVAKHANATE】
+L216: 
+L217: 【154†BUKHARAKHANATE】
+L218: 
+L219: 【155†KAZAKH KHANATE】
+L220: 
+L221: 【156†TSARDOM OF RUSSIA】
+L222: 
+L223: 【157†CRIMEANKHANATE】
+L224: 
+L225: 【158†JO-SEON】
+L226: 
+L227: 【159†AYUT-THAYA】
+L228: 
+L229: 【160†DAIVIET】
+L230: 
+L231: 【161†LANNA】
+L232: 
+L233: 【162†FOUROIRATS】
+L234: 
+L235: 【163†NORTHERN YUAN】
+L236: 【164†class=notpageimage|】
+L237: 
+L238: The Madurai Nayaks and contemporary polities circa 1600.
+L239: Kings and Queen Regents of
+L240: 【165†Madurai Nayak Dynasty】
+L241: ---
+L242: Part of 【166†History of Tamil Nadu】
+L243: Madurai Nayak rulers
+L244: ---
+L245: 【86†Viswanatha Nayak】  | 1529–1563
+L246: Kumara Krishnappa Nayak  | 1563–1573
+L247: Joint Rulers Group I  | 1573–1595
+L248: Joint Rulers Group II  | 1595–1602
+L249: Muttu Krishnappa Nayak  | 1602–1609
+L250: Muttu Virappa Nayak  | 1609–1623
+L251: 【90†Tirumala Nayak】  | 1623–1659
+L252: Muthu Alakadri Nayak  | 1659–1662
+L253: 【167†Chokkanatha Nayak】  | 1662–1682
+L254: Rangakrishna Muthu Virappa Nayak  | 1682–1689
+L255: 【91†Rani Mangammal】‡  | 1689–1704
+L256: Vijaya Ranga Chokkanatha Nayak  | 1704–1731
+L257: 【168†Queen Meenakshi】‡  | 1731–1736
+L258: ‡ Regent Queens
+L259: Capitals
+L260: ---
+L261: 【66†Madurai】  | 1529–1616
+L262: 【67†Tiruchirapalli】  | 1616–1634
+L263: 【66†Madurai】  | 1634–1665
+L264: 【67†Tiruchirapalli】  | 1665–1736
+L265: Major forts
+L266: ---
+L267: Madurai 72 Bastion Fort
+L268: 【169†Tiruchirapalli Rock Fort】
+L269: 【170†Dindigul Fort】
+L270: Thirunelvelli Fort
+L271: other Military forts
+L272: ---
+L273: 【171†Namakkal Fort】
+L274: 【172†Sankagiri Fort】
+L275: 【173†Attur Fort】
+L276: Palaces
+L277: ---
+L278: 【174†Thirumalai Nayak Mahal】, 【66†Madurai】
+L279: 【175†Chokkanatha Nayak Palace】 a.k.a. Durbar Hall, 【67†Tiruchirapalli】
+L280: 【176†Rani Mangammal Tamukkam palace】 【66†Madurai】
+L281: Viswanatha functioned as an administrative governor as opposed to a sovereign monarch. His initial oversight included the Kaveri delta until it was reassigned to the newly established Thanjavur Nayakdom in the 1530s.^{【177†[37]】} In 1544, Viswanatha supported imperial forces led by 【178†Rama Raya】 in subduing Travancore for unpaid tribute.^{【137†[33]】}^{【179†[38]】}
+L282: Viswanatha rebuilt the fort of Madurai and cleared forest tracts along the Kaveri River near Tiruchirappalli to secure trade routes. He also expanded the borders of the kingdom across the western and southern Tamil Nadu.^{【180†[39]】} To manage the local resistance, Viswanatha and his dalavay (prime minister), 【181†Ariyanatha Mudaliar】, established the palayam (【87†poligar】) administrative system.
+L283: The territory was partitioned into 72 semi-feudal estates (palayams); each under hereditary jurisdiction of a Palayakkarar (chieftain). The Palayakkarar was tasked with collecting revenue and managing the regional defense.^{【182†[40]】}^{【183†[41]】}
+L284: Among these 72 estates, 【184†Kurvikulam】 and Ilayarasanendal, which were governed by 【185†Kamma】 Nayakas of the 【186†Pemmasani】, Komatineni and 【187†Ravella】 clans, were accorded royal status.^{【188†[42]】}^{【189†[43]】} In 1564, Viswanatha abdicated in favor of his son, 【190†Krishnappa Nayaka I】, and died shortly after coronation.^{【191†[44]】}^{【192†[45]】}^{【137†[33]】} Krishnappa I promptly suppressed an insurrection led by Tumbichi Nayaka, who had mobilized discontented local chieftains against the new administrative (palayam) system.^{【193†[46]】} In 1565, Krishanppa dispatched a military detachment to support the imperial army at the 【194†Battle of Talikota】, but the contingent failed to arrive in time.
+L285: The defeat of Rama Raya left the southern Nayak kingdoms practically autonomous. Following the cessation of tribute by King of Kandy, an ally of Tumbichchi Nayaka, Krishnappa led an military expedition to Ceylon. The ensuing battle saw the Kandyan monarch slain and his family was moved to 【195†Anuradhapura】.^{【196†[47]】} Krishnappa appointed his brother-in-law, Vijaya Gopala Naidu, as resident viceroy to oversee the resumption of tribute.^{【191†[44]】}^{【197†[48]】}
+L286: Upon Krishnappa's death in 1572, his son Virappa Nayaka assumed power, possibly in joint association with his brother under a yuvaraja system.^{【198†[49]】} Virappa suppressed a revolt by claimants asserting Pandyan descent and maintained relative internal stability throughout his reign. His relations with Aravidu emperors at Chandragiri remained formal and cordial. Following Viprappa's death in 1595, his eldest son, Krishnappa Nayaka II ascended the throne.
+L287: He acknowledged Emperor 【199†Venkatapati Raya】 and sent troops into Travancore.^{【200†[50]】} Ariyanatha Mudaliar died during this reign in 1600, followed by Krishnappa II in 1601.^{【191†[44]】}
+L288: ### Expansion and Autonomy (1601–1623)
+L289: 
+L290: [【201†edit】]
+L291: A brief succession dispute followed, during which Krishnappa II's youngest brother, Kasturi Rangappa, seized the throne before being assassinated within a week. He was succeeded by his nephew, Muttu Krishnappa Nayaka (r. 1601–1609), who focussed on administrative consolidation along the Fishery Coast.^{【202†[51]】} The coastal Paravar communities generated substantial revenue from pearl fisheries and maritime trade, but had largely fallen under Portuguese commercial control.
+L292: To counter Potuguese tax collections and to secure pilgrim routes to Rameswaram, Muttu Krishnappa recognized Sadeika Thevar as the Sethupathi (guardian of the causeway) at Ramanathapuram in 1604.^{【191†[44]】} This formalized the hereditary Maravar chieftaincy of Ramnad.^{【203†[52]】}
+L293: His son Muttu Virappa Nayaka I (r. 1609–1623), sought independence from the imperial center and withheld tribute. Following the death of Emperor Venkatapati Raya in 1614, the courtier Gobburi Jagga Raya assassinated Emperor Sriranga II and his family in Vellore.
+L294: This triggered a civil war against the loyalist faction backing Sriranga's surviving son, Rama Deva Raya.^{【204†[53]】} Madurai, Gingee and the Portuguese mercenaries supported Jagga Raya, while 【205†Raghunatha Nayaka】 of Thanjavur and Yachama Nayaka of 【206†Kalahasti】 supported Rama Deva Raya.
+L295: At the 【207†Battle of Toppur】 in 1616, the loyalist coalition defeated Jagga Raya's confederacy, and Jagga Raya was killed in action.^{【208†[54]】} Muttu Virappa subsequently relocated his capital to Tiruchirappalli to coordinate operations against Thanjavur and fortify the northern frontier.^{【209†[55]】} In 1620, an invasion of Dindigul by the Kingdom of Mysore was repulsed by Nayaka forces supported by local southern palayakkarars.^{【210†[56]】} Muttu Virappa I died in 1623.^{【191†[44]】}
+L296: ### Reign of Tirumala Nayaka (1623–1659)
+L297: 
+L298: [【211†edit】]
+L299: 
+L300: 【212†Tirumalai Nayaka Palace】 Interior
+L301: 
+L302: 【90†Tirumala Nayaka】 (r. 1623–1659) succeeded his brother and transferred the capital back to Madurai in 1635, seeking spiritual legitimacy associated with the 【213†Meenakshi Temple】 and greater strategic disttance from northern battle grounds.^{【214†[57]】} He expanded the standing army to approximately 30,000 troops to defend against the expanding northern and western neighbors.^{【215†[58]】}
+L303: When Mysore invaded again in 1625, Tirumala and his commanders Ramappayya and Ranganna Nayaka repulsed the invasion and counter-attacked toward Mysore territory.^{【216†[59]】} In 1635, Nayaka forces campaigned in Travancore to compel the payment of arrears, while Ramappayya led a simultaneous expedition against the Sethupathi of Ramnad over a succession dispute.^{【217†[60]】} The Portuguese assisted the Nayakas in the Ramnad campaign in exchange for commercial privileges and permission to maintain a fortified factory on the coast.^{【191†[44]】}^{【218†[61]】}
+L304: As imperial central authority disintegrated, Tirumala formally ceased all remittances to the Vijayanagara Empire. When Emperor Sriranga III attempted to enforce imperial authority, Tirumala formed a defensive alliance with Gingee, but Thanjavur defected to the Imperial camp.
+L305: To counter Sriranga III, Tirumala invited the intervention of Golconda Sultanate, which besieged Vellore and forced Sriranga III to retreat.^{【219†[62]】} Sriranga's subsequent appeal to his former governors went unheeded, ending effective imperial authority. Goldonda occupied Vellore around 1646, while the Bijapur Sultanate captured Gigee in 1649 before Madurai troops could intervene.^{【220†[63]】}
+L306: During an invasion by Mysore in 1656, Tirumala delegated the command to Raghunatha Kilavan, the Sethupathi of Ramnad, who expelled the invading forces. In recompense, Madurai remitted Ramnad's annual tribute obligation.^{【221†[64]】}
+L307: ### Later Ruler and Decline (1659–1736)
+L308: 
+L309: [【222†edit】]
+L310: Tirumala was succeeded in 1659 by his son Muttu Alakadri, who died after a reign of four months, passing the throne to Chokkanatha Nayaka (r. 1659–1682).^{【223†[65]】} Chokkanatha suppressed internal mutinies by his senior ministers and retaliated against Thanjavur in 1673, capturing the city and installing his forster-brother as governor.
+L311: However, Alagiri declared independence, and in 1675 the Maratha general 【224†Venkoji】 took Thanjavur, establishing the 【225†Thanjavur Maratha kingdom】.^{【226†[66]】} Continuing conflict with Mysore eroded territorial control until Muttu Virappa III (r. 1682–1689) recovered lost border parts. Following his death, 【91†Rani Mangammal】 (r.
+L312: 1689–1704), assumed regency on behalf of her infant grandson, Vijaya Ranga Chokkanatha.^{【227†[67]】} Confronted by the southward advance of Mughal army under Zulfiqar Khan, Mangammal submitted tribute to avoid invasion and assisted Mughal operations during the siege of Jinji (1690–1698).^{【228†[68]】}
+L313: Vijaya Ranga Chokkanatha assumed direct rule in 1704, but his administration was largely conducted by senior palace ministers.^{【229†[69]】} Following his death without issue in 1732, his widow, Queen 【168†Meenakshi】, claimed the regency and adopted the infant son of 【230†Bangaru Tirumalai Nayaka】, a collateral claimant to the throne.^{【231†[70]】} Disputes over succession escalated into open conflict between Bangaru Tirumala and Meenakshi.
+L314: In 1734, Safdar Ali Khan and Chanda Sahib, acting for the Nawab of Arcot, marched south to collect tributary arrears. Meenakshi concluded an agreement with Chanda Sahib to secure protection against Bangaru Tirumala.^{【232†[71]】} Bangaru Tirumala retreated to Madurai and raised a force of southern chieftains, occupying Dindigul before being repulsed by allied forces under Chanda Sahib.
+L315: At the battle of Ammayanayakkanur near Dindigul, Bangaru Tirumala's forces were defeated, compelling him to take refuge in Sivaganga.^{【233†[72]】} After securing entry into the Tiruchirappalli fort under oath, Chanda Sahib seized administrative control and placed Meenakshi under palace detention, terminating independent Nayak governance. Traditional accounts record that Meenakshi committed suicide by poison in 1739.^{【234†[73]】}
+L316: ## Administration
+L317: 
+L318: [【235†edit】]
+L319: 
+L320: Throne of 【90†Tirumala Nayaka】
+L321: The Madurai Nayak administration operated on a decentralized provincial structure. The ruler was advised primarily by the dalavi, an executive officer who directed both military campaigns and civil administration.^{【236†[74]】} Key holders of this office included 【181†Ariyanatha Mudaliar】, Ramappayya and Narasappayya.
+L322: Below the dalavi stood the pradhani (finance minister, overseeing revenue administration) and the rayasam (head of civil secretariat and scribal bureaucracy).^{【237†[75]】} The kingdom was subdivided into provinces (rajyas or mandalams), districts (nadus), and village settlements (gramams), with state revenue derived primarily from agriculturural land assessments and custom duties.^{【191†[44]】}
+L323: The kingdom was organized into 72 semi-feudal estates (palayams), each governed by a hereditary chieftain (palayakkarar, anglicized as 【87†polygar】). The chiefs exercised local judicial authority and maintained private armed retinues.
+L324: In return, they remitted one-third of their revenue to the royal treasury, reserving one-third for troop maintenance, and retained the remainder.^{【238†[76]】} During periods of weakness, distant palayakkarars frequently withheld revenue and conducted armed incursions into neighboring territories.^{【239†[77]】}
+L325: ## Culture
+L326: 
+L327: [【240†edit】]
+L328: 
+L329: ### Language
+L330: 
+L331: [【241†edit】]
+L332: 
+L333: Tamukkam Palace built in 1670
+L334: 
+L335: Telugu and Tamil were the principal languages of the kingdom. While Tamil was spoken by the majority of the population, migratory Telugu merchant and peasant communities settled throughout the districts. The royal court used Telugu for internal administration and literary patronage, while official proclamations and temple endowments were recorded in both Tamil and Telugu.^{【191†[44]】}
+L336: ### Literature
+L337: 
+L338: [【242†edit】]
+L339: 
+L340: The Nayakas patronized literary compositions in Telugu, Tamil, and Sanskrit. Telugu prose writing developed substantially alongside classic poetic forms (kavyas).^{【191†[44]】} In Tamil, the earliest extant Islamic work, the Ayira Masala (a translation of the Persian 【243†Book of One Thousand Questions】 by Vaṇṇapparimaḷappulavar), was formally presented at the Madurai court in 1572.^{【244†[78]】}
+L341: ### Art and architecture
+L342: 
+L343: [【245†edit】]
+L344: 
+L345: Meenakshi Amman Temple expanded by the Nayakas
+L346: Nayak architectural activity focused primarily on rebuilding and expanding earlier Pandya and Vijayanagar shrines. Their most extensive project was the 【213†Meenakshi-Sundaraswarar temple complex】 in Madurai, which had been damaged during the 14th-century Madurai Sultanate and partially restored under early Vijayanagara governors.
+L347: The Nayakas added multiple concentric enclosures (prakaras), pillared halls, and four outer gateway towers (【246†Gopurams】) rising up to 50 metres (160 feet) in height.^{【247†[79]】} Successive rulers expanded the complex to an area of 254 by 238 m (833 by 781 ft), adding monumental pavilions such as the Pudu Mandapa (notable for sculpted portrait statues of Nayak monarchs) and relief pillars depicting Shaivite iconography.^{【248†[80]】} Other major religious projects included structural additions to the 【249†Azhagar Kovil】 and 【250†Tiruparankundram Murugan Kovil】 near Madurai, as well as outer enclosures and the base of the monumental southern gopuram at the 【251†Ranganathaswamy Temple】 complex in 【252†Srirangam】, which remained unfinished at the end of the dynasty.^{【253†[81]】}
+L348: Tirumala Nayaka constructed the 【212†Thirumalai Nayakar Mahal】 in Madurai (c. 1636). Historian George Mitchell describes the complex as one of the largest royal palace compounds in the 17th-century India. The building combined Vijayanagara court styles with Indo-Islamic architectural features, incorporating multi-foliate pointed arches and stucco arabesques alongside cylindrical masonry columns influenced by local wooden styles.
+L349: Only the Swarga VIlasam (audience hall) and a performance pavilion remain extant today.^{【254†[82]】} Regional public works also included masonry forts and reservoir channels across the Vaigain basin.
+L350: ## Nayaka coins
+L351: 
+L352: [【255†edit】]
+L353: 

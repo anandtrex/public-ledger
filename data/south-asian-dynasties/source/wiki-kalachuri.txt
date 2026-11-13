@@ -1,0 +1,316 @@
+Kalachuris of Tripuri - Wikipedia (https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri)
+citeturn58view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri","lineno":null}); Total lines: 429
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Origins】
+L50:   * 【19†2 History】 Toggle History subsection
+L51:     * 【20†2.1 As Rashtrakuta and Pratihara feudatories】
+L52:     * 【21†2.2 Early sovereigns】
+L53:     * 【22†2.3 Expansion】
+L54:     * 【23†2.4 Decline】
+L55:   * 【24†3 Religion】
+L56:   * 【25†4 List of rulers】
+L57:   * 【26†5 References】 Toggle References subsection
+L58:     * 【27†5.1 Bibliography】
+L59:   * 【28†6 Further reading】
+L60: 
+L61: [Input] Toggle the table of contents
+L62: # Kalachuris of Tripuri
+L63: 
+L64: [Input] 5 languages
+L65: 
+L66:   * 【29†العربية†ar.wikipedia.org】
+L67:   * 【30†Català†ca.wikipedia.org】
+L68:   * 【31†हिन्दी†hi.wikipedia.org】
+L69:   * 【32†한국어†ko.wikipedia.org】
+L70:   * 【33†தமிழ்†ta.wikipedia.org】
+L71: 
+L72: 【34†Edit links†www.wikidata.org】
+L73: 
+L74:   * 【35†Article】
+L75:   * 【36†Talk】
+L76: 
+L77: [Input] English
+L78: 
+L79:   * 【35†Read】
+L80:   * 【37†Edit】
+L81:   * 【38†View history】
+L82: 
+L83: [Input] Tools
+L84: 
+L85: Tools
+L86: 
+L87: [Button: move to sidebar] [Button: hide]
+L88: 
+L89: Actions
+L90: 
+L91:   * 【35†Read】
+L92:   * 【37†Edit】
+L93:   * 【38†View history】
+L94: 
+L95: General
+L96:   * 【39†What links here】
+L97:   * 【40†Related changes】
+L98:   * 【41†Upload file】
+L99:   * 【42†Permanent link】
+L100:   * 【43†Page information】
+L101:   * 【44†Cite this page】
+L102:   * 【45†Get shortened URL】
+L103:   * 【46†Switch to legacy parser】
+L104: 
+L105: Print/export
+L106: 
+L107:   * 【47†Download as PDF】
+L108:   * Printable version
+L109: 
+L110: In other projects
+L111: 
+L112:   * 【48†Wikimedia Commons†commons.wikimedia.org】
+L113:   * 【49†Wikidata item†www.wikidata.org】
+L114: 
+L115: Appearance
+L116: 
+L117: [Button: move to sidebar] [Button: hide]
+L118: 
+L119: For other Kalachuris dynasties, see 【50†Kalachuri dynasty (disambiguation)】.
+L120: Kalachuris of Tripuri
+L121: ---
+L122: 675–1212
+L123: Territory of the Later Kalacuris during the reign of 【51†Lakshmikarna】, circa 1050 CE.^{【52†[1]】}
+L124: Capital  | 【53†Tripuri】
+L125: Religion  | 【54†Hinduism】
+L126: 【55†Jainism】
+L127: 【56†Buddhism】
+L128: Government  | 【57†Monarchy】
+L129: 【25†King】  |
+L130: • 675–700  | 【19†Vamaraja-deva】 (first)
+L131: • 1210–1212  | 【58†Trailokyamalla】 (last)
+L132: Preceded by Succeeded by
+L133: 【59†Image†upload.wikimedia.org】 【60†Gurjara-Pratiharas】
+L134: 【61†Gahadavala】 【59†Image†upload.wikimedia.org】
+L135: 【62†Chandelas】 【59†Image†upload.wikimedia.org】
+L136: 【63†Paramaras】 【59†Image†upload.wikimedia.org】
+L137: 【64†Kalachuris of Ratnapura】 【59†Image†upload.wikimedia.org】
+L138: Today part of  | 【65†India】
+L139: The Kalachuris of Tripuri (【66†IAST】: Kalacuri), also known the Kalachuris of Chedi, ruled parts of central India during 7th to 13th centuries. They are also known as the Later Kalachuris to distinguish them from their earlier namesakes, especially the 【67†Kalachuris of Mahishmati】. Their core territory included the historical 【68†Chedi region】 (also known as 【69†Dahala】-【70†mandala】), and their capital was located at Tripuri (present-day 【71†Tewar】 near 【72†Jabalpur】, 【73†Madhya Pradesh】).
+L140: The origin of the dynasty is uncertain, although one theory connects them to the Kalachuris of Mahishmati. By the 10th century, the Kalachuris of Tripuri had consolidated their power by raiding neighbouring territories and by fighting wars with the 【74†Gurjara-Pratiharas】, the 【75†Chandelas】 and the 【76†Paramaras】. They also had matrimonial relations with the 【77†Rashtrakutas】 and the 【78†Chalukyas of Kalyani】.
+L141: In the 1030s, the Kalachuri king 【79†Gangeyadeva】 assumed imperial titles after achieving military successes at his eastern and northern frontiers. The kingdom reached its zenith during the reign of his son 【51†Lakshmikarna】 (1041-1073 CE), who assumed the title 【80†Chakravartin】 after military campaigns against several neighbouring kingdoms. He also controlled a part of the Paramara and 【75†Chandela】 kingdoms for a brief period.
+L142: The dynasty gradually declined after Lakshmikarna, whose successors lost control of their northern territories to the 【61†Gahadavalas】. 【58†Trailokyamalla】, the last known ruler of the dynasty, ruled at least until 1212 CE, but it is not certain how and when his reign ended. In the later half of the 13th century, the former Kalachuri territories came under the control of the Paramaras and the Chandelas, and ultimately under the 【81†Delhi Sultanate】.
+L143: A branch of the dynasty, the 【64†Kalachuris of Ratnapura】, ruled at Ratnapura (now 【82†Ratanpur】) in present-day 【83†Chhattisgarh】.
+L144: ## Origins
+L145: 
+L146: [【84†edit】]
+L147: The Kalachuris of Tripuri alternatively called themselves Haihayas in some of their records: the earliest such records are the Bilahari stone inscriptions of 【85†Yuvaraja-deva II】.^{【86†[2]】} The dynasty traced its ancestry to the legendary 【87†lunar dynasty】, claiming descent from the legendary 【88†Haihaya】 ruler 【89†Kartavirya Arjuna】, who ruled from 【90†Mahishmati】.^{【86†[2]】} This claim occurs in several Kalachuri inscriptions, including the Gyaraspur inscription of prince Valleka (a son of Kokalla I),^{【91†[3]】} the Varanasi inscription of Karna, and the Khairha inscription of Yashahkarna.
+L148: Some of these inscriptions, such as the Khairha inscription, trace Kartavirya's ancestry to 【92†Chandra】 (the moon deity) through the 【93†Pauravas】 and 【94†Bharata】.^{【95†[4]】} According to the 12th century poem 【96†Prithviraja Vijaya】, the dynasty descended from Kartavirya Arjuna through one Sahasika ("courageous"), who was a maternal ancestor of the poem's hero 【97†Prithviraja III】. The poem also traces Kartavirya's mythical ancestry to Chandra, through his son 【98†Budha】 (the mercury).^{【99†[5]】}
+L149: Historian 【100†V. V. Mirashi】 theorises that the Kalachuris of Tripuri descended from the 【67†Kalachuris of Mahishmati】, who ruled in the west-central India during 6th-7th centuries.
+L150: According to this theory, after facing setbacks against the 【101†Chalukyas】 in the south, the Kalachuris expanded their power in the north; amid the political chaos after the decline of 【102†Harsha】's empire, Buddharaja's successor 【103†Vama-raja】 established himself at 【104†Kalanjara】 in the late 7th century, and finally moved to Tripuri.^{【105†[6]】}^{【106†[7]】} Because of their rule over the Dahala or Chedi region, the family came to be known as the Kalachuris of Dahala and the Chaidyas ("[lords] of the Chedi country").^{【105†[6]】}
+L151: However, there is no concrete evidence that conclusively proves that the two dynasties were related.^{【105†[6]】} No extant records of the Mahishmati dynasty describe them as "Haihayas", although records of their neighbours - the 【101†Chalukyas】 - refer to them by this name.^{【107†[8]】}
+L152: ## History
+L153: 
+L154: [【108†edit】]
+L155: 
+L156: The Karna temple at 【109†Amarkantak】, built by Lakshmikarna
+L157: 
+L158: Little is known about the earliest rulers of the dynasty, who find mentions in the inscriptional genealogies. The earliest known inscriptions of the dynasty have been discovered at Chhoti Deori and 【110†Sagar】. These inscriptions are from the reign of 【111†Shankaragana I】, and have been dated to the 8th century CE.^{【112†[9]】}
+L159: ### As Rashtrakuta and Pratihara feudatories
+L160: 
+L161: [【113†edit】]
+L162: The 【114†Karitalai】 inscription of 【115†Lakshmana-raja I】 (825-850 CE) eulogises a 【77†Rashtrakuta】 king (whose name is lost), and mentions the defeat of one Nagabhata (presumably the 【74†Gurjara-Pratihara】 king 【116†Nagabhata II】). This suggests that during this time, the Kalachuris were subordinate to their southern neighbours - the Rashtrakuta emperors, and fought against their northern neighbours - the Pratihara emperors. They had multiple marital connections to the Rashtrakutas.
+L163: However, by the time of Lakshmanaraja's son or grandson Kokalla I (r. c. 850-890 CE), they had shifted their allegiance to the Pratiharas.^{【117†[10]】}
+L164: 【118†Kokalla I】 appears to have been the first powerful ruler of the dynasty, as he finds regular mentions in the genealogies of the later Kalachuri rulers. According to the 【64†Ratnapura Kalachuri】 inscriptions, he had 18 sons, the eldest of whom succeeded him on the throne, while the others became provincial governors.
+L165: The number 18 probably should not be taken literally in this context, as it was considered an auspicious number, and in this context, may have been used to indicate that Kokalla had many sons. The eldest son was presumably Shankaragana II, whom modern scholars identify with the person mentioned by the names "Prasiddha-dhavala", "Mugdha-tunga", and "Rana-vigraha" in various sources. Of the other sons, an unnamed prince became the progenitor of the Ratnapura branch.
+L166: Other sons of Kokalla I included Arjuna, who is mentioned in 【77†Rashtrakuta】 inscriptions; and Valleka or Vallavati, who is known by his Gyaraspur inscription.^{【119†[11]】}
+L167: 【109†Amarkantak】 Temple.
+L168: Valleka's inscription states that he was a son of queen Nata, who can be identified with the 【120†Chandela】 princess "Natta" mentioned as a wife of 【118†Kokalla】 in the 【121†Varanasi】 inscription of the later ruler 【51†Karna】.^{【122†[12]】} Valleka appears to have been the last (or one of the last) Kalachuri governor of the area around Gyaraspur, which subsequently became a part of the Chandela territory.^{【123†[13]】} The inscription states that Valleka served king Bhoja, who is described as the ruler of the earth, and mentions that Valleka defeated several other kings in Bhoja's service.^{【124†[14]】} King Bhoja can be identified with the 【74†Gurjara-Pratihara】 emperor 【125†Mihira Bhoja】, who is also mentioned in other Kalachuri inscriptions.
+L169: These other inscriptions include the Bilhari inscription, which describes Bhoja as one of the "pillars of glory" erected by Kokalla I; and the Varanasi inscription, which describes Bhoja as a recipient of Kokalla's protection. The descriptions in these two inscriptions had led earlier scholars to believe that Kokalla subjugated Bhoja, but Valleka's inscription suggests that the Kalachuris were subordinate to the Pratihara emperor Bhoja.^{【126†[15]】}
+L170: Based on Valleka's inscription, epigraphist 【127†Richard G.
+L171: Salomon】 theorises that 【118†Kokalla I】 was a subordinate of Bhoja, and played an important role in expanding the south-eastern borders of the Pratihara empire.^{【128†[16]】} His submission to Bhoja may have been nominal, and he appears to have laid the foundation of Kalachuri empire by expanding his own sphere of influence in the southern part of the Pratihara empire.^{【117†[10]】} The later Kalachuri inscriptions greatly exaggerate Kokalla's glory, and use wording that plays down the subordinate position of the Kalachuris.^{【129†[17]】}
+L172: ### Early sovereigns
+L173: 
+L174: [【130†edit】]
+L175: 
+L176: After the decline of the Rashtrakuta and Pratihara empires, the Kalachuris assumed independence, probably during the reign of Yuvaraja-deva I (915-945 CE).^{【117†[10]】}
+L177: 【131†Shankaragana III】, who ascended the Kalachuri throne around 970 CE, adopted an aggressive expansion policy. He defeated the contemporary 【74†Gurjara-Pratihara】 king, who was probably Vijayapala.
+L178: He probably died in a battle against the 【75†Chandelas】.^{【132†[18]】} Shankaragana was succeeded by his younger brother 【85†Yuvarajadeva II】, who established matrimonial relations with the 【78†Kalyani Chalukya】 ruler 【133†Tailapa II】.^{【134†[19]】} The 【76†Paramara】 【135†Munja】, who was an enemy of Tailapa, invaded the Kalachuri kingdom and raided their capital Tripuri.^{【136†[20]】} After the death of Yuvarajadeva II, the ministers placed his son 【137†Kokalla II】 on the throne.^{【138†[21]】}
+L179: According to the Gurgi inscription of Kokalla, three neighbouring kings were afraid of him: the 【139†Gurjara】 king (possibly the weak 【74†Gurjara-Pratihara】 ruler Rajyapala), the 【140†Gauda】 king (the 【141†Pala】 ruler 【142†Mahipala】), and the 【143†Kuntala】 king (the 【78†Kalayani Chalukya】 king 【144†Vikramaditya V】). These claims suggest that Kokalla raided the territories of these kings.^{【138†[21]】}
+L180: 【79†Gangeyadeva】, the son and successor of Kokalla II, ascended the throne around 1015 CE.^{【145†[22]】} During the early part of his reign, he served as a vassal to another king, possibly the Paramara king 【146†Bhoja】.^{【147†[23]】} He fought a war against the 【78†Chalukyas of Kalyani】, possibly as a vassal of Bhoja.
+L181: The triple alliance of Bhoja, Gangeyadeva and 【148†Rajendra Chola】 engaged the Chalukya king 【149†Jayasimha II】 at multiple frontiers.^{【150†[24]】} Both Kalachuri and Chalukya inscriptions claim success in this war: it appears that Gangeyadeva and his allies were repulsed after achieving some initial successes.^{【145†[22]】}
+L182: Bhoja defeated Gangeyadeva in a war, but there is some uncertainty regarding the exact chronology. According to one theory, Bhoja defeated Gangeyadeva before the anti-Chalukya campaign, in which Gangeyadeva fought as a Paramara vassal.^{【147†[23]】} Another theory is that the two turned enemies after their campaign against the Chalukyas.^{【151†[25]】}
+L183: 
+L184: Dancing Ganesha, Madhya Pradesh, Kalacuri, 10th century CE.^{【152†[26]】}
+L185: ### Expansion
+L186: 
+L187: [【153†edit】]
+L188: 
+L189: Gold coin of king 【79†Gangeyadeva】 (c. (circa) 1015–1041) of the Kalachuris of Tripuri.
+L190: Obverse: 【154†Lakshmi】 seated.
+L191: Reverse: "Śrimad Gangeya Devah" in three lines.
+L192: In the 1030s, Gangeyadeva achieved military successes at his eastern and northern frontiers, and assumed the titles of a sovereign emperor.^{【155†[27]】} In the east, he raided 【156†Utkala】, assisted by his 【64†Ratnapura vassals】. The Kalachuris probably defeated the 【157†Bhauma-Kara】 king Shubhakara II in this war.^{【145†[22]】} Gangeyadeva also seems to have fought an inconclusive war against Yayati, the 【158†Somavanshi】 ruler of 【159†Dakshina Kosala】.^{【145†[22]】}
+L193: In the north, Gangeyadeva expanded his kingdom at the expense of the 【75†Chandelas】, who had been weakened by 【160†Ghaznavid】 invasions.^{【161†[28]】} He suffered a defeat against the Chandela king 【162†Vijayapala】,^{【163†[29]】} but ultimately extended his control over the sacred cities of 【121†Varanasi】 and 【164†Prayaga】.^{【155†[27]】} During his reign, the 【160†Ghaznavid】 general 【165†Ahmad Niyaltigin】 raided Varanasi in 1033 CE.^{【166†[30]】}
+L194: Gangeyadeva's successor 【51†Lakshmikarna】 (r. c. 1041-1073 CE), was the most noted military commander of the dynasty. He assumed the title 【80†Chakravartin】 after several successful campaigns against his neighbours.
+L195: In the east, he invaded 【167†Anga】 and 【168†Vanga】 (modern Bengal).^{【169†[31]】} In Vanga, he defeated a 【170†Chandra】 king, possibly 【171†Govindachandra】.^{【169†[31]】} Later, Lakshmikarna also invaded the 【141†Pala】-ruled 【140†Gauda region】.^{【172†[32]】} His invasion was repulsed by 【173†Nayapala】.
+L196: The Tibetan accounts suggest that the Buddhist monk 【174†Atisha】 negotiated a peace treaty between the two kings.^{【175†[33]】} Lakshmikarna also seems to have raided Gauda during the reign of Nayapala's successor 【176†Vigrahapala III】. The two kings ultimately concluded a peace treaty, with Lakshmikarna's daughter Yuvanashri marrying the Pala king.^{【172†[32]】}
+L197: In the south-west, Lakshmikarna fought an inconclusive war with the 【78†Kalyani Chalukya】 king 【177†Someshvara I】.^{【169†[31]】} He also seems to have fought with his south-eastern neighbour, the 【178†Chola】 king 【179†Rajadhiraja】.^{【169†[31]】} In the west, he defeated a 【139†Gurjara】 king, who can be identified with the 【180†Chaulukya】 king 【181†Bhima I】.^{【169†[31]】}
+L198: In the mid-1050s, Lakshmikarna and Bhima allied against the 【76†Paramara】 king 【146†Bhoja】. The two attacked the Paramara kingdom of Malwa simultaneously from opposite directions.^{【172†[32]】} According to the 14th century chronicler Merutunga, Bhoja died just as the two kings attacked Malwa.
+L199: Lakshmikarna seized the Paramara kingdom, prompting Bhima to launch an expedition to recover his share of the war spoils.^{【172†[32]】} Within a short time, Lakshmikarna lost the control of Malwa to Bhoja's successor 【182†Jayasimha】, who received help from the Kalyani Chalukya prince 【183†Vikramaditya VI】^{【172†[32]】} Subsequently, Karna allied with Vikramaditya's rival and brother 【184†Someshvara II】, and again invaded Malwa.
+L200: However, the two were forced to retreat by Bhoja's brother 【185†Udayaditya】.^{【186†[34]】}
+L201: Lakshmikarna also subjugated the 【75†Chandela】 king 【187†Devavarman】 (r. c. 1050-1060 CE), who seems to have died in a battle against him.^{【172†[32]】} He seems to have retained control of a large part of the Chandela territory for over a decade, before being ousted by Devavarman's successor 【188†Kirttivarman】 in the 1070s CE.^{【172†[32]】}
+L202: ### Decline
+L203: 
+L204: [【189†edit】]
+L205: 
+L206: 【190†South Asia1175 CE】
+L207: 
+L208: 【191†KARAKHANIDKHANATE】
+L209: 
+L210: 【192†QARA KHITAI】
+L211: 
+L212: 【193†GHURIDEMPIRE】
+L213: 
+L214: 【194†CHAULUKYAS】
+L215: 
+L216: 【195†CHAHAMANAS】
+L217: 
+L218: 【196†LATEGHAZNAVIDS】
+L219: 
+L220: 【76†PARAMARAS】
+L221: 
+L222: 【197†WESTERNCHALUKYAS】
+L223: 
+L224: 【198†KAKATIYAS】
+L225: 
+L226: 【199†SHILA-HARAS】
+L227: 
+L228: 【178†CHOLAS】
+L229: 
+L230: 【200†CHERAS】
+L231: 
+L232: 【201†PANDYAS】
+L233: 
+L234: 【202†KADAMBAS】
+L235: 
+L236: 【203†HOYSALAS】
+L237: 
+L238: 【204†GAHADAVALAS】
+L239: 
+L240: 【205†GUHILAS】
+L241: 
+L242: 【206†KACHCHAPA-GHATAS】
+L243: 
+L244: 【207†CHANDELAS】
+L245: 
+L246: 【35†KALACHURIS(TRIPURI)】
+L247: 
+L248: 【64†KALACHURIS(RATNAPURA)】
+L249: 
+L250: 【208†SENAS】
+L251: 
+L252: 【209†KARNATAS】
+L253: 
+L254: 【210†KAMARUPAS】
+L255: 【211†EASTERNGANGAS】
+L256: 
+L257: 【212†GUGE】
+L258: 
+L259: 【213†MARYUL】
+L260: 
+L261: 【214†LOHA-RAS】
+L262: 
+L263: 【215†SOOMRAEMIRATE】
+L264: 
+L265: 【216†MAKRANSULTANATE】
+L266: 
+L267: Main South Asian polities in 1175, on the eve of the 【217†Ghurid Empire】 invasion of the subcontinent.^{【218†[35]】}^{【219†[36]】}
+L268: Lakshmikarna's son 【220†Yashahkarna】 (r. c. 1073-1123 CE) raided some neighbouring territories, but lost the northern parts of his kingdom, including 【121†Varanasi】, to the 【61†Gahadavalas】.^{【221†[37]】} He also suffered defeats against the 【76†Paramara】 king 【222†Lakshmadeva】 and the 【75†Chandela】 king 【223†Sallakshanavarman】.^{【224†[38]】}
+L269: Yashahkarna's son 【225†Gayakarna】 married a granddaughter of the Paramara king 【185†Udayaditya】, which led to peace between the two kingdoms.^{【224†[38]】} However, he seems to have suffered reverses against the 【75†Chandela】 king 【226†Madanavarman】.^{【227†[39]】} The 【64†Kalachuris of Ratnapura】, who had earlier served as vassals of the Tripuri Kalachuris, declared their independence during Gayakarna's reign. Gayakarna unsuccessfully tried to reduce them to submission.^{【224†[38]】}
+L270: Gayakarna's son 【228†Narasimha】 recovered the territories lost to Madanavarman. Narasimha seems to have died heirless, as he was succeeded by his brother 【229†Jayasimha】.^{【224†[38]】} Jayasimha suffered a defeat against the Chandela king 【230†Paramardi】. He also sent an unsuccessful expedition against the Ratnapura Kalachuris to reduce them to submission.^{【231†[40]】}
+L271: During the reign of Jayasimha's successor 【232†Vijayasimha】, a northern feudatory named Sallakshana unsuccessfully tried to overthrow the Kalachuri suzerainty.^{【233†[41]】} Vijayasimha's successor 【58†Trailokyamalla】 is known to have ruled at least until 1212 CE. He claimed the title "Lord of 【234†Kanyakubja】", but in absence of any corroborative evidence, it cannot be said with certainty if he actually captured Kanyakubja.^{【233†[41]】}
+L272: Trailokyamalla is the last known king of his dynasty. It is not known when and how his rule ended. It is known that in the later half of the 13th century, the former Kalachuri territories came under the control of the Paramaras, Chandelas, the 【235†Delhi Sultanate】 and the 【236†Seunas (Yadavas of Devagiri)】.^{【237†[42]】}
+L273: ## Religion
+L274: 
+L275: [【238†edit】]
+L276: 
+L277: 【239†Virateshwar】 temple at 【240†Sohagpur】, built during the Kalachuri reign
+L278: 【241†Shaivism】 is the predominant faith referred to in the Tripuri Kalachuri inscriptions.^{【242†[43]】} Several Shaiva leaders (【243†acharya】) served as royal preceptors (rajaguru) to Kalachuri kings; these included Purusha-shiva (to 【220†Yashahkarna】), Shakti-shiva (to 【225†Gayakarna】), Kirti-shiva (to 【228†Narasimha】), and Vimala-shiva (to 【229†Jayasimha】).^{【244†[44]】} 【79†Gangeyadeva】 installed a 【245†Shivalinga】 at Piawan,^{【169†[31]】} and his son 【51†Lakshmikarna】 built the Karna-meru temple at 【121†Varanasi】, which was probably dedicated to 【246†Shiva】.
+L279: Yashahkarna is said to have worshipped at the 【246†Shiva】 temple in 【247†Draksharama】 during an invasion of the Andhra region.^{【221†[37]】} The patronage of 【225†Gayakarna】's queen Alhanadevi led to the rise of 【248†Pashupata Shaivite】 religious leaders in the Kalachuri kingdom.^{【224†[38]】}
+L280: The 【249†Gyaraspur】 inscription of Kokalla I's son Valleka, which records the foundation of a 【55†Jain】 temple by the prince, prominently features Shaivite imagery and wording, with 【250†Vaishnavite】 overtones.^{【242†[43]】} Since this inscription is the only Jain-affiliated record of the dynasty, it is not clear if such 【251†syncretistic】 tendency was a feature of Jainism practised in the Kalachuri territory, or if the inscription is a one-off case.^{【252†[45]】} The temple mentioned in the inscription may be the present-day 【253†Maladevi temple】, which features a mixture of Jain and 【254†Brahmanical】 iconography.^{【255†[46]】}
+L281: ## List of rulers
+L282: 
+L283: [【256†edit】]
+L284: 
+L285: 【257†Find spots】 of the inscriptions issued during the Tripuri Kalachuri reign (blue)^{【258†[47]】}^{【259†[48]】} and their 【64†Ratnapura vassals】 (gray)^{【260†[49]】}^{【261†[50]】}
+L286: 
+L287: The following is a list of the Tripuri Kalachuri rulers, with estimates of their reigns:^{【262†[51]】}
+L288:   * 【103†Vamaraja-deva】 (675-700 CE)
+L289:   * 【111†Shankaragana I】 (750-775 CE)
+L290:   * 【115†Lakshmana-raja I】 (825-850 CE)
+L291:     * Voppa-raja, described as Kokalla's predecessor in the Gyaraspur inscription, was either a son of Lakshmana-raja I, or another name for that king^{【91†[3]】}
+L292:   * 【118†Kokalla I】 (850-890 CE); his younger son established the 【64†Ratnapura Kalachuri branch】
+L293:   * Shankaragana II (890-910 CE), alias Mugdhatunga
+L294:   * Balaharsha (910-915 CE)
+L295:   * Yuvaraja-deva I (915-945 CE), alias Keyuravarsha
+L296:   * Lakshmana-raja II (945-970 CE)
+L297:   * 【131†Shankaragana III】 (970-80 CE)
+L298:   * 【85†Yuvaraja-deva II】 (980-990 CE)
+L299:   * 【137†Kokalla II】 (990-1015 CE)
+L300:   * 【79†Gangeya-deva】 (1015-1041 CE)
+L301:   * 【51†Lakshmi-karna】 (1041-1073 CE), alias Karna
+L302:   * 【220†Yashah-karna】 (1073-1123 CE)
+L303:   * 【225†Gaya-karna】 (1123-1153 CE)
+L304:   * 【228†Nara-simha】 (1153-1163 CE)
+L305:   * 【229†Jaya-simha】 (1163-1188 CE)
+L306:   * 【232†Vijaya-simha】 (1188-1210 CE)
+L307:   * 【58†Trailokya-malla】 (c. 1210- at least 1212 CE)^{【233†[41]】}
+L308: ## References
+L309: 
+L310: [【263†edit】]
+L311:   1. 【264†↑】 【265†Schwartzberg, Joseph E.】 (1978). 【266†A Historical Atlas of South Asia†dsal.uchicago.edu】. Oxford University Press, Digital South Asia Library. p. 146, Map "k".
+L312:   2. 【267†1】 【268†2】 【269†R. K. Sharma 1980】, p. 2.
+L313:   3. 【270†1】 【271†2】 【272†Richard Salomon 1996】, p. 151.

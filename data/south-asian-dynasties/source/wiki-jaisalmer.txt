@@ -1,0 +1,346 @@
+Kingdom of Jaisalmer - Wikipedia (https://en.wikipedia.org/wiki/Jaisalmer_State)
+citeturn118view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Jaisalmer_State","lineno":null}); Total lines: 344
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】 Toggle History subsection
+L50:     * 【19†1.1 Modern history (Princely state of Jaisalmer)】
+L51:   * 【20†2 List of rulers】 Toggle List of rulers subsection
+L52:     * 【21†2.1 Rawals】
+L53:     * 【22†2.2 Maharawals】
+L54:     * 【23†2.3 Titular rulers】
+L55:     * 【24†2.4 Dewans】
+L56:   * 【25†3 In popular culture】
+L57:   * 【26†4 See also】
+L58:   * 【27†5 References】
+L59:   * 【28†6 Sources】
+L60:   * 【29†7 External links】
+L61: 
+L62: [Input] Toggle the table of contents
+L63: # Kingdom of Jaisalmer
+L64: 
+L65: [Input] 11 languages
+L66: 
+L67:   * 【30†Català†ca.wikipedia.org】
+L68:   * 【31†Deutsch†de.wikipedia.org】
+L69:   * 【32†Español†es.wikipedia.org】
+L70:   * 【33†Italiano†it.wikipedia.org】
+L71:   * 【34†پنجابی†pnb.wikipedia.org】
+L72:   * 【35†Русский†ru.wikipedia.org】
+L73:   * 【36†سرائیکی†skr.wikipedia.org】
+L74:   * 【37†Svenska†sv.wikipedia.org】
+L75:   * 【38†தமிழ்†ta.wikipedia.org】
+L76:   * 【39†తెలుగు†te.wikipedia.org】
+L77:   * 【40†ไทย†th.wikipedia.org】
+L78: 
+L79: 【41†Edit links†www.wikidata.org】
+L80: 
+L81:   * 【42†Article】
+L82:   * 【43†Talk】
+L83: 
+L84: [Input] English
+L85:   * 【42†Read】
+L86:   * 【44†View source】
+L87:   * 【45†View history】
+L88:   * 【17†Save】
+L89: 
+L90: [Input] Tools
+L91: 
+L92: Tools
+L93: 
+L94: [Button: move to sidebar] [Button: hide]
+L95: 
+L96: Actions
+L97: 
+L98:   * 【42†Read】
+L99:   * 【44†View source】
+L100:   * 【45†View history】
+L101:   * 【17†Save】
+L102: 
+L103: General
+L104: 
+L105:   * 【46†What links here】
+L106:   * 【47†Related changes】
+L107:   * 【48†Upload file】
+L108:   * 【49†Permanent link】
+L109:   * 【50†Page information】
+L110:   * 【51†Cite this page】
+L111:   * 【52†Get shortened URL】
+L112:   * 【53†Switch to legacy parser】
+L113: 
+L114: Print/export
+L115: 
+L116:   * 【54†Download as PDF】
+L117:   * Printable version
+L118: In other projects
+L119: 
+L120:   * 【55†Wikimedia Commons†commons.wikimedia.org】
+L121:   * 【56†Wikidata item†www.wikidata.org】
+L122: 
+L123: Appearance
+L124: 
+L125: [Button: move to sidebar] [Button: hide]
+L126: 
+L127: 【57†Coordinates】: 【58†26°55′N 70°54′E﻿ / ﻿26.92°N 70.9°E﻿ / 26.92; 70.9†geohack.toolforge.org】
+L128: 
+L129: (Redirected from 【59†Jaisalmer State】)
+L130: Kingdom of Jaisalmer
+L131: ---
+L132: 1156–1947
+L133: Flag Coat of arms
+L134: South Asia
+L135: 1525【60†DELHI】
+L136: 【60†SULTANATE(LODIS)】【61†KABUL】
+L137: 【62†(Babur)】
+L138: 【63†SHAH MIRSULTANATE】【64†KANGRA】【65†PHAGMODRUPAS】
+L139: 【66†KHANDESHSULTANATE】
+L140: 【67†BERARSULTANATE】
+L141: 【68†MALWASULTANATE】【69†ARGHUNS】【70†KALMAT】
+L142: 【71†LANGAHSULTANATE】【72†SHEKHAWAT】【73†AMARKOT】【72†SHEKHAWAT】【73†AMARKOT】【74†JAISALMER】【75†BIKANER】
+L143: 【76†GUJARATSULTANATE】【77†MEWAR】【78†MARWAR】【79†AMBER】【80†KARAULI】【81†MEWAT】【82†SIROHI】【83†BUNDI】【84†VAGAD】【85†DIMASA】【86†TRIPWA】【87†AHOM】【88†KAMATAS】【89†CHEROS】
+L144: 【90†BENGALSULTANATE】
+L145: 【91†GAJAPATIEMPIRE】
+L146: 【92†Tribalstates】
+L147: 【93†AHMADNAGARSULTANATE】
+L148: 【94†VIJAYANAGARAEMPIRE】
+L149: 【95†BIJAPURSULTANATE】
+L150: 【96†BIDARSULTANATE】
+L151: 【97†GOLKONDASULTANATE】 【98†◁】
+L152: Location of Jaisalmer within 【99†Rajputana】 circa 1525, with neighbouring polities.^{【100†[1]】}
+L153: Jailsalmer State (orange) within Rajputana (yellow), 1909.
+L154: Area  |
+L155: • 1931  | 41,600 km^{2} (16,100 sq mi)
+L156: Population  |
+L157: • 1931  | 76,255
+L158: History  |
+L159: • Established  | 1156
+L160: • 【101†Independence of India】  | 1947
+L161: Preceded by Succeeded by
+L162: 【102†Image†upload.wikimedia.org】 【103†Kingdom of Sambhar】
+L163: 【104†Indian Union】 【105†Image†thumb.wikimedia.org】
+L164: Today part of  | 【106†Rajasthan】, 【104†India】
+L165: Coat of arms based on The Princely Armory. Publ. by The Office of the Superintendent of Government Printing. Calcutta. 1877
+L166: The Kingdom of Jaisalmer was a kingdom in the far-western part of present-day 【106†Rajasthan】, India, from the mid-12th century CE until 1947. In 1156 CE, 【107†Rawal Jaisal】 moved his capital from 【108†Lodhruva】 to 【109†Jaisalmer】 because the former was vulnerable to attacks from Turko-Afghan and Baloch tribes.
+L167: The descendants of Jaisal continued to exercise absolute control over Jaisalmer until 1818 CE, when a treaty of 【110†subsidiary alliance】 with the 【111†British East India Company】 bringing under British protection and sphere of influence. Known as the Maharawal, the native ruler of the princely state was entitled to a 15-gun salute.^{【112†[2]】}
+L168: ## History
+L169: 
+L170: One Rupee coin of 1756, from the Princely state of Jaisalmer, minted during the reign of Ranjit Singh.The Bhati kingdom, marked as Multan in 800 CE
+L171: The Bhatis of 【109†Jaisalmer】 belonged to the 【113†Bhati】 dynasty, a 【114†Yaduvanshi】 clan of 【115†Rajputs】.^{【116†[3]】}^{【117†[4]】} They reportedly originated in 【118†Mathura】 through a common ancestor named 【119†Rao Bhati】, who is claimed to be a descendant of 【120†Pradyumna】.^{【121†[5]】}^{【122†[6]】} According to the seventeenth-century 【123†Nainsi ri Khyat】, the Bhatis after losing Mathura moved to 【124†Bhatner】 in 【125†Lakhi Jungle】, and from there to other locations in 【126†western】 and 【127†northwestern India】 including 【106†Rajasthan】 and 【128†Punjab】.
+L172: Rao Bhati conquered and annexed territories from 14 princes in Punjab, including the area of what is now modern-day 【129†Lahore】.^{【130†[7]】}^{【131†[8]】} He is also credited with establishing the modern town of 【132†Bathinda】 in the Lakhi Jungle area in the 3rd century.^{【121†[5]】}According to 【133†Satish Chandra】, the 【134†Hindu Shahis】 of Afghanistan made an alliance with the Bhati rulers of 【135†Multan】, because they wanted to end the slave raids made by the Turkic ruler of 【136†Ghazni】, however the alliance was defeated by 【137†Alp-Tegin】 in 977 CE.^{【138†[9]】}
+L173: In 1156, 【107†Rawal Jaisal】 moved his capital from 【108†Lodhruva】 to 【109†Jaisalmer】 and the state took its name from this new capital.
+L174: 
+L175: 【107†Rawal Jaisal】, founder of 【139†Jaisalmer Fort】. 【139†Jaisalmer Fort】, built in 1156 AD by the 【115†Rajput】 Rawal (ruler) 【107†Jaisal】.
+L176: Around 1299 CE, Rawal Jait Singh I faced a long siege by 【140†Alauddin Khalji】 of 【141†Delhi Sultanate】, who is said to have been provoked by a Bhati raid on his treasure caravan. By the end of the siege, facing certain defeat, the Bhati Rajput women committed '【142†Jauhar】', and the male warriors under the command of Mularaja met their fatal end in battle with the Sultan's forces.
+L177: For a few years after the successful siege, the fort remained under the sway of 【141†Delhi Sultanate】, before being eventually reoccupied by some surviving Bhatis.^{【143†[10]】}
+L178: In 1541 CE, Rawal Lunakaran also fought 【144†Mughal】 emperor 【145†Humayun】 when the latter attacked the fort on his way to 【146†Ajmer】.^{【147†[11]】} He also offered his daughter in marriage to emperor 【148†Akbar】. Mughals controlled the fort until 1762.^{【149†[12]】}
+L179: The treaty between the 【150†East India Company】 and Mulraj on 12 December 1818 allowed the Mulraj to retain control of the fort and provided for protection from invasion. After the death of Mulraj in 1820, his grandson Gaj Singh inherited control of the fort.^{【149†[12]】}
+L180: ### Modern history (Princely state of Jaisalmer)
+L181: 
+L182: On 11 December 1818 Jaisalmer became a 【151†British protectorate】 in the 【152†Rajputana Agency】.^{【153†[13]】}^{【154†[14]】}
+L183: 
+L184: Map of Jaisalmer State with the 【155†duchies】 of Satto, Pithala, Loharki, Lakhmana, Didhu, Kanod, Tota, Bhadariya, and Nachna
+L185: Traditionally, in the Middle Ages, the main source of income for the kingdom was levies on 【156†caravans】, but the economy was heavily affected when 【157†Bombay】 emerged as a major port and sea trade replaced the traditional land routes. Maharawal Ranjit Singh and Bairi Sal Singh attempted to turn around the economic decline but the dramatic reduction in trade impoverished the kingdom.
+L186: A severe 【158†drought】 and the resulting 【159†famine】 from 1895 to 1900, during the reign of Maharawal Salivahan Singh, only made matters worse by causing widespread loss of the livestock that the increasingly agriculturally based kingdom relied upon.
+L187: The attempts of Maharawal Jawahir Singh (1914–1949) at modernization were also not entirely successful in turning the kingdom's economy around, and the drylands of Jaisalmer remained backward compared with other regions of 【99†Rajputana】, especially the neighbouring state of 【160†Jodhpur】.
+L188: Nonetheless, the extensive water storage and supply, sanitation, and health infrastructures developed in the 1930s by the prime minister Dewan Bahadur Brijmohan Nath Zutshi provided significant relief during the severe droughts of 1941 and 1951. Maharawal During 1930–1947, Jawahir Singh and his ministers also promoted technical education and the academic disciplines of civil and mechanical engineering in the state.
+L189: After the departure of the British from India in 1947, the Maharawal signed an 【161†Instrument of Accession】 to the new 【162†Union of India】, while retaining some internal autonomy until the 1950s.
+L190: ## List of rulers
+L191: ### Rawals
+L192:   * 【107†Rawal Jaisal Singh】 (1153–1168), official founder of the kingdom
+L193:   * Rawal Shalivahan Singh II (1168–1200)
+L194:   * Rawal Bijal Singh (1200–1200)
+L195:   * Rawal Kailan Singh (1200–1219)
+L196:   * Rawal Chachak Dev Singh (1219–1241)
+L197:   * Rawal Karan Singh I (1241–1271)
+L198:   * Rawal Lakhan Sen (1271–1275)
+L199:   * Rawal Punpal Singh (1275–1276)
+L200:   * Rawal Jait Singh I (1276–1294)
+L201:   * Rawal Mulraj Singh I (1294–1295)
+L202:   * Rawal Durjan Sal (Duda) (1295–1306)
+L203:   * Rawal Gharsi Singh (1306–1335)
+L204:   * Rawal Kehar Singh II (1335–1402)
+L205:   * Rawal Lachman Singh (1402–1436)
+L206:   * Rawal Bersi Singh (1436–1448)
+L207:   * 【163†Rawal Chachak Dev Singh II】 (1448–1457)
+L208:   * Rawal Devidas Singh (1457–1497)
+L209:   * Rawal Jait Singh II (1497–1530)
+L210:   * Rawal Karan Singh II (1530–1530)
+L211:   * Rawal Lunkaran Singh (1530–1551)
+L212:   * Rawal Maldev Singh (1551–1562)
+L213:   * Rawal Harraj Singh (1562–1578)
+L214:   * Rawal Bhim Singh (1578–1624)
+L215:   * Rawal Kalyan Das (1624–1634)
+L216:   * Rawal Manohar Das (1634–1648)
+L217:   * Rawal Ramchandra Dev (1648–1651)
+L218:   * Rawal Sabal Singh (1651–1661)
+L219: ### Maharawals
+L220:   * Maharawal Amar Singh of Jaisalmer (1661–1702)
+L221:   * Maharawal Jaswant Singh of Jaisalmer (1702–1708)
+L222:   * Maharawal Budh Singh (1708–1722)
+L223:   * Maharawal Akhai Singh (1722–1762)
+L224:   * Maharawal Mulraj Singh II (1762–1820)
+L225:   * Maharawal Gaj Singh (1820–1846)
+L226:   * Maharawal Ranjit Singh (1846–1864)
+L227:   * HH Maharawal Sir 【164†Bairi Sal】 (1864–1891)
+L228:   * HH Maharawal Sir 【165†Shalivahan Singh III】 (1891 –1914)
+L229:   * HH Maharawal Sir 【166†Jawahir Singh】 (1914–1949), last ruler of the state.
+L230:   * HH Maharawal 【167†Girdhar Singh】 (1949–1950), he was instrumental in merging his former state with 【106†Rajasthan】 【152†Union】 in the year 1949 forming Greater Rajasthan in 1950.
+L231: ### Titular rulers
+L232: 
+L233:   * Maharawal 【168†Raghunath Singh】 (1950–1982) 【169†Government of India】 【170†abolished】 his right to the Privy Purse, hereditary titles and other privileges in 1971.
+L234:   * Maharawal 【171†Brijraj Singh】 (1982–2020)
+L235:   * Maharawal 【172†Chaitanya Raj Singh】 (since 2020)^{【173†[15]】}
+L236: ### Dewans
+L237: 
+L238:   * List of 【174†Dewans】 (chief ministers)
+L239:   1. Mohata Nathmal (1885–1890)
+L240:   2. Thakur kado singh (1890-1895)
+L241:   3. Mehta Jagjiwan (1895–1903)
+L242:   4. Thakur Kushal Singh (acting) (1890?–1900)
+L243:   5. Rawatmal Purohit Khetrapalia (acting) (1900–1909)
+L244:   6. Lakshmi Das Sapat (1909–1911)
+L245:   7. Mohammed Niyaz Ali Kazi (1911–1912)
+L246:   8. Murarji Rooji (1912–1930)
+L247:   9. M.L. Khosala
+L248:   10. Pandit Jamana Lal
+L249:   11. Munshi Nand Kishore
+L250:   12. Lala Rakhpat Raj
+L251:   13. P.K. Shurugula
+L252:   14. Brij Mohan Nath Zutshi
+L253:   15. Anand Swaroop
+L254:   16. Onkar Singh
+L255:   17. Lakhpat Rai Sikund (1940–1942)
+L256: ## In popular culture
+L257: 
+L258:   * Jaisalmer ka Gundaraj (lit. Atrocious rule of Jaisalmer [king]), by the 【175†Sagarmal Gopa】 (1900–46) - a 【176†freedom fighter】 and patriot from Jaisalmer district.^{【177†[16]】}
+L259: 
+L260: ## See also
+L261: 
+L262:   * 【178†List of princely states of British India (by region)】
+L263:   * 【179†List of princely states of British India (alphabetical)】
+L264: ## References
+L265:   1. 【180†↑】 Schwartzberg, Joseph E. (1978). 【181†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. p. 147, map XIV.4 (a). 【182†ISBN】 【183†0226742210】. 【184†Archived†web.archive.org】 from the original on 25 February 2021. Retrieved 24 January 2023.
+L266:   2. 【185†↑】 【186†"Imperial Gazetteer of India, v. 24, p. 386"†dsal.uchicago.edu】. 【187†Archived†web.archive.org】 from the original on 24 November 2021. Retrieved 20 February 2021.
+L267:   3. 【188†↑】 Habib, Mohammad; Nizami, Khaliq Ahmad (1970). 【189†A Comprehensive History of India†books.google.com】. Vol. 5. New Delhi: People’s Publishing House. p. 838.
+L268:   4. 【190†↑】 【191†Kothiyal 2016】, pp. 18, 55–60, 70.
+L269:   5. 【192†1】 【193†2】 【194†Lethbridge 1900】, p. 112.
+L270:   6. 【195†↑】 【196†Bond & Wright 2006】, p. 325.
+L271:   7. 【197†↑】 Yadav, J. N. Singh (1992). Yādavas Through The Ages (From Ancient Period to Date) (in 2 Vol.), Delhi: Sharada Publishing House, 【182†ISBN】 【198†978-81-85616-03-2】, pp. 68–71
+L272:   8. 【199†↑】 【196†Bond & Wright 2006】.
+L273:   9. 【200†↑】 Medieval India 1206-1526 part one, pg.17 by Satish Chandra
+L274:   10. 【201†↑】 Rima Hooja (2006). 【202†A HISTORY OF RAJASTHAN (PB)†books.google.com】. p. 368. 【182†ISBN】 【203†978-81-291-1501-0】.
+L275:   11. 【204†↑】 【205†"Fort full of life"†www.frontline.in】. www.frontline.in. 【206†Archived†web.archive.org】 from the original on 5 November 2015. Retrieved 11 December 2017.
+L276:   12. 【207†1】 【208†2】 Verma, Amrit (2003). Forts of India. New Delhi: The Director, Publication Division, Ministry of Information and Broadcasting, Government of India. pp. 21–23. 【182†ISBN】 【209†81-230-1002-8】.
+L277:   13. 【210†↑】 【211†"Princely States of India"†www.worldstatesmen.org】. 【212†Archived†web.archive.org】 from the original on 20 May 2013. Retrieved 14 August 2018.
+L278:   14. 【213†↑】 【214†"Provincial Gazetteers Of India: Rajputana"†archive.org】. Government of India. 14 August 2018.
+L279:   15. 【215†↑】 【216†"Chaitanya Raj Singh becomes the 44th Maharawal of Jaisalmer"†firstindia.co.in】. firstindia.co.in. Retrieved 11 September 2022.
+L280:   16. 【217†↑】 K. S. Saxena (1971). 【218†The Political Movements and Awakening in Rajasthan: 1857 to 1947†books.google.com】. S. Chand.
+L281: ## Sources
+L282:   * Bond, J. W.; Wright, Arnold (2006). 【219†Indian States: A Biographical, Historical, and Administrative Survey†books.google.com】. New Delhi: Asian Educational Services. 【182†ISBN】 【220†978-81-206-1965-4】. 【221†Archived†web.archive.org】 from the original on 20 June 2024. Retrieved 16 July 2024.
+L283:   * Kothiyal, Tanuja (2016). 【222†Nomadic Narratives: A History of Mobility and Identity in the Great Indian†books.google.com】. Cambridge University Press. 【182†ISBN】 【223†9781107080317】.
+L284:   * Lethbridge, Sir Roper (1900). 【224†The Golden Book of India. A Genealogical and Biographical Dictionary of the Ruling Princes, Chiefs, Nobles, and Other Personages, Titled Or Decorated, of the Indian Empire. With an Appendix for Ceylon†books.google.com】. London: S. Low, Marston & Company.
+L285: ## External links
+L286: 
+L287:   * Media related to 【225†Jaisalmer State†commons.wikimedia.org】 at Wikimedia Commons
+L288:   * 【226†"Jaisalmer" †en.wikisource.org】. 【227†Encyclopædia Britannica】. Vol. 15 (11th ed.). 1911. p. 129.
+L289: 
+L290: 【58†26°55′N 70°54′E﻿ / ﻿26.92°N 70.9°E﻿ / 26.92; 70.9†geohack.toolforge.org】
+L291: 
+L292: 【228†Image】
+L293: 
+L294: Retrieved from "【49†https://en.wikipedia.org/w/index.php?title=Kingdom_of_Jaisalmer&oldid=1376633142】"
+L295: 
+L296: 【229†Categories】:
+L297:   * 【230†States and territories established in 1156】
+L298:   * 【231†States and territories disestablished in 1947】
+L299:   * 【232†Princely states of Rajasthan】
+L300:   * 【233†Jaisalmer district】
+L301:   * 【234†12th-century establishments in India】
+L302:   * 【235†1156 establishments in Asia】
+L303:   * 【236†1947 disestablishments in India】
+L304:   * 【237†States under the Rajputana Agency】
+L305: 
+L306: Hidden categories:
+L307:   * 【238†Articles with short description】
+L308:   * 【239†Short description is different from Wikidata】
+L309:   * 【240†Wikipedia extended-confirmed-protected pages】
+L310:   * 【241†Use dmy dates from July 2015】
+L311:   * 【242†Use Indian English from July 2015】
+L312:   * 【243†All Wikipedia articles written in Indian English】
+L313:   * 【244†Pages with non-numeric formatnum arguments】
+L314:   * 【245†Pages using multiple image with auto scaled images】
+L315:   * 【246†Pages using multiple image with one image】
+L316:   * 【247†Commons category link from Wikidata】
+L317:   * 【248†Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference】
+L318:   * 【249†Pages using gadget WikiMiniAtlas】
+L319:   * 【250†Coordinates on Wikidata】
+L320:   * This page was last edited on 25 September 2026, at 09:21 (UTC).
+L321:   * Page was rendered with 【251†Parsoid†www.mediawiki.org】.
+L322:   * Text is available under the 【252†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【253†Terms of Use†foundation.wikimedia.org】 and 【254†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【255†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L323:   * 【254†Privacy policy†foundation.wikimedia.org】
+L324:   * 【5†About Wikipedia】
+L325:   * 【256†Disclaimers】
+L326:   * 【6†Contact Wikipedia】
+L327:   * 【257†Legal & safety contacts†foundation.wikimedia.org】
+L328:   * 【258†Code of Conduct†foundation.wikimedia.org】
+L329:   * 【259†Developers†developer.wikimedia.org】
+L330:   * 【260†Statistics†stats.wikimedia.org】
+L331:   * 【261†Cookie statement†foundation.wikimedia.org】
+L332:   * Search
+L333: 
+L334: [Input: Search Wikipedia]
+L335: 
+L336: [Input]
+L337: 
+L338: [Button: Search]
+L339: 
+L340: [Input] Toggle the table of contents
+L341: 
+L342: Kingdom of Jaisalmer
+L343: 11 languages 【17†Add topic】

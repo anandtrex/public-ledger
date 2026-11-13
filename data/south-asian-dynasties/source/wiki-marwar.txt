@@ -1,0 +1,385 @@
+Kingdom of Marwar - Wikipedia (https://en.wikipedia.org/wiki/Jodhpur_State)
+citeturn114view0 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Jodhpur_State","lineno":null}); Total lines: 813
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Geography】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Origin】
+L51:     * 【21†2.2 Rao Chunda】
+L52:     * 【22†2.3 Ranmal】
+L53:     * 【23†2.4 Rao Jodha】
+L54:     * 【24†2.5 Maldeo Rathore】
+L55:       * 【25†2.5.1 Expansion】
+L56:       * 【26†2.5.2 Humayun and Sher Shah Suri】
+L57:       * 【27†2.5.3 Continued expansion】
+L58:       * 【28†2.5.4 Akbar】
+L59:     * 【29†2.6 Rao Chandrasen】
+L60:     * 【30†2.7 As a Mughal state】
+L61:       * 【31†2.7.1 War of succession of Shah Jahan】
+L62:       * 【32†2.7.2 Succession crisis of Jaswant Singh】
+L63:       * 【33†2.7.3 Durgadas and Ajit Rathore's struggle against Aurangzeb】
+L64:       * 【34†2.7.4 The Rajput Rebellion】
+L65:       * 【35†2.7.5 Post rebellion】
+L66:     * 【36†2.8 After Mughal decline】
+L67:     * 【37†2.9 Maratha Interference】
+L68:       * 【38†2.9.1 Succession crisis of Abhay Singh】
+L69:       * 【39†2.9.2 War over Krishna Kumari】
+L70:       * 【40†2.9.3 Spoils of Amir Khan Pindari】
+L71:     * 【41†2.10 Under the British Empire】
+L72:       * 【42†2.10.1 Treaty of 1818】
+L73:       * 【43†2.10.2 Invasion of 1839】
+L74:       * 【44†2.10.3 Revolt of 1857】
+L75:   * 【45†3 Rulers of Marwar】 Toggle Rulers of Marwar subsection
+L76:     * 【46†3.1 Rulers 1226–1438 CE (From Pali and Mandore)】
+L77:     * 【47†3.2 Rulers 1438–1949 CE (From Jodhpur)】
+L78:   * 【48†4 See also】
+L79:   * 【49†5 Notes】
+L80:   * 【50†6 References】
+L81:   * 【51†7 Bibliography】
+L82:   * 【52†8 Further reading】
+L83:   * 【53†9 External links】
+L84: [Input] Toggle the table of contents
+L85: # Kingdom of Marwar
+L86: 
+L87: [Input] 16 languages
+L88:   * 【54†العربية†ar.wikipedia.org】
+L89:   * 【55†Català†ca.wikipedia.org】
+L90:   * 【56†Français†fr.wikipedia.org】
+L91:   * 【57†हिन्दी†hi.wikipedia.org】
+L92:   * 【58†Italiano†it.wikipedia.org】
+L93:   * 【59†日本語†ja.wikipedia.org】
+L94:   * 【60†한국어†ko.wikipedia.org】
+L95:   * 【61†پنجابی†pnb.wikipedia.org】
+L96:   * 【62†Русский†ru.wikipedia.org】
+L97:   * 【63†سرائیکی†skr.wikipedia.org】
+L98:   * 【64†தமிழ்†ta.wikipedia.org】
+L99:   * 【65†తెలుగు†te.wikipedia.org】
+L100:   * 【66†ไทย†th.wikipedia.org】
+L101:   * 【67†Українська†uk.wikipedia.org】
+L102:   * 【68†اردو†ur.wikipedia.org】
+L103:   * 【69†中文†zh.wikipedia.org】
+L104: 【70†Edit links†www.wikidata.org】
+L105: 
+L106:   * 【71†Article】
+L107:   * 【72†Talk】
+L108: 
+L109: [Input] English
+L110: 
+L111:   * 【71†Read】
+L112:   * 【73†Edit】
+L113:   * 【74†View history】
+L114:   * 【17†Save】
+L115: 
+L116: [Input] Tools
+L117: 
+L118: Tools
+L119: 
+L120: [Button: move to sidebar] [Button: hide]
+L121: 
+L122: Actions
+L123: 
+L124:   * 【71†Read】
+L125:   * 【73†Edit】
+L126:   * 【74†View history】
+L127:   * 【17†Save】
+L128: 
+L129: General
+L130: 
+L131:   * 【75†What links here】
+L132:   * 【76†Related changes】
+L133:   * 【77†Upload file】
+L134:   * 【78†Permanent link】
+L135:   * 【79†Page information】
+L136:   * 【80†Cite this page】
+L137:   * 【81†Get shortened URL】
+L138:   * 【82†Switch to legacy parser】
+L139: Print/export
+L140: 
+L141:   * 【83†Download as PDF】
+L142:   * Printable version
+L143: 
+L144: In other projects
+L145: 
+L146:   * 【84†Wikimedia Commons†commons.wikimedia.org】
+L147:   * 【85†Wikidata item†www.wikidata.org】
+L148: 
+L149: Appearance
+L150: 
+L151: [Button: move to sidebar] [Button: hide]
+L152: 
+L153: 【86†Coordinates】: 【87†26°28′N 73°02′E﻿ / ﻿26.467°N 73.033°E﻿ / 26.467; 73.033†geohack.toolforge.org】
+L154: 
+L155: (Redirected from 【88†Jodhpur State】)
+L156: This article is about the historical state that ruled over Marwar from 13th century till Indian independence. For the natural and geographical region, see 【89†Marwar】.
+L157: 
+L158: Kingdom of Marwar
+L159: Jodhpur State
+L160: ---
+L161: 
+L162:   * 1226–1581
+L163:   * 1583–1947
+L164: Flag Coat of arms
+L165: The Kingdom of Marwar at its greatest extent c. (circa). 1539, under 【90†Maldeo Rathore】
+L166: Status  |
+L167:   * 【91†Sovereign】 【92†monarchy】 (1226–1428; 1458-1508; 1527-1581; 1710–1790)
+L168:   * 【93†Vassal state】 of the 【94†Kingdom of Mewar】 (1428–1458; 1508-1527)^{【95†[1]】}^{【96†[2]】}^{【97†[3]】}
+L169:   * 【93†Vassal state】 of the Mughal Empire (1581–1710)
+L170:   * 【98†Princely state】 of the 【99†British East India Company】 (1818–1858) and 【100†India】 (1858–1947)
+L171: Capital  |
+L172:   * 【101†Pali】
+L173: (1243–1395)
+L174:   * 【102†Mandore】
+L175: (1395–1459)
+L176:   * 【103†Jodhpur】
+L177: (1459-1947)
+L178: Common languages  | 【104†Marwari】
+L179: Religion  | 【105†Hinduism】 (【106†official】)
+L180: Government  | 【92†Monarchy】
+L181: 【107†Maharaja】  |
+L182: • 1226–1273  | Rao Siha (first)
+L183: • 1947–1949  | 【108†Hanwant Singh】 (last)
+L184: History  |
+L185: • Establishment  | 1226
+L186: • Annexed by the 【109†Mughal Empire】  | 1581
+L187: • Restored as a 【93†vassal state】  | 1583
+L188: • 【110†Rathore rebellion】  | 1679–1707
+L189: • 【111†British protection】  | 1818
+L190: • Acceded to the 【112†Dominion of India】  | 1947
+L191: Area
+L192: ---
+L193: 1947  | 93,424 km^{2} (36,071 sq mi)
+L194: Preceded by Succeeded by
+L195: 【113†Image†upload.wikimedia.org】 【114†Guhila dynasty】
+L196: 【113†Image†upload.wikimedia.org】 【115†Pratiharas of Mandavyapura】
+L197: 【113†Image†upload.wikimedia.org】 【116†Delhi Sultanate】
+L198: 【117†Rajputana Agency】 【113†Image†upload.wikimedia.org】
+L199: 【112†Dominion of India】 【113†Image†upload.wikimedia.org】
+L200: Today part of  | 【118†Rajasthan】, 【119†Republic of India】
+L201: Kingdom of Marwar, also known as 【103†Jodhpur】 State during the modern era, was a kingdom in the 【89†Marwar】 region from 1243 to 1818 and a 【98†princely state】 under British rule from 1818 to 1947. It was established in Pali by Rao Siha, possibly a migrant 【120†Gahadavala】 noble, in 1243. His successors continued to struggle against regional powers for domination and 9 out of 15 rulers till 1438 died in combat.
+L202: In 1395, its capital was changed to 【102†Mandore】 by Rao 【121†Chunda of Mandore】 and to Jodhpur in 1459 by 【122†Rao Jodha】. The kingdom was established and ruled by 【123†Rathore】 clan of 【124†Rajputs】.
+L203: Marwar struggled and resisted against the 【109†Mughals】 under the rule of 【125†Rao Ganga】 and 【90†Maldeo Rathore】 who is known to be one of the greatest warriors of the time. The kingdom remained independent until it was annexed by the 【109†Mughal Empire】 in 1581 after the death of 【126†Chandrasen Rathore】. It remained under direct 【109†Mughal】 control until 【127†Udai Singh】 was restored to the 【128†throne】 as a vassal and given the title of Raja in 1583.
+L204: During the late 17th century it was under the strict control of the Mughal Emperor 【129†Aurangzeb】, but the ruling 【130†house of Rathore】 was allowed to remain semi-autonomous in their territory.
+L205: Marwar came into a long period of dispute and war with the Mughals when 【131†Raja Jaswant Singh】 died in 1678 and was supposed to be succeeded by his posthumous-born son 【132†Ajit Singh】 but Ajit was not appointed the ruler by Aurangzeb. During this time 【133†Durgadas Rathore】 struggled to preserve the 【123†Rathore dynasty】 and freed Marwar from the Mughal Empire after 31 years of war.
+L206: The 【134†British】 had no role in the state's affairs until 6 January 1818, when the Raja at that time, 【135†Man Singh】, entered into a 【136†subsidiary alliance】, after which the Rajas of Marwar (or Jodhpur) continued as rulers of a princely state.
+L207: During the 【137†Indian Rebellion of 1857】, the Rajput Nobles under Thakur 【138†Kushal Singh of Auwa】 led a rebellion against Maharaja 【139†Takht Singh】 and the British, however the rebellion was put to an end by the British armies under Colonel Holmes after a siege of the Thakur's fort in 【140†Auwa】.^{【141†[4]】} The armies of Jodhpur State fought in World War I for the British. They actively fought in Afghanistan and the Middle-east and scored a series of victories for the British empire.
+L208: The Jodhpur lancers with the support of the Mysore lancers defeated a large host of Turks and Germans in the 【142†Battle of Haifa (1918)】. Some of the other battles they participated in were the battles of 【143†Suez】, 【144†Gaza】, 【145†Jordan Valley】, 【146†Abu Tellul】 and 【147†Megiddo】.
+L209: Following 【148†Indian independence】 in 1947 【108†Maharaja Hanwant Singh】, the last ruler of Jodhpur state signed the Instrument of Accession on 11 August 1947 and merged his state in the Union of India.
+L210: ## Geography
+L211: 
+L212: [【149†edit】]
+L213: Covering an area of 93,424 km^{2} (36,071 sq mi), Jodhpur State was the largest state under the 【117†Rajputana Agency】 and the third largest state in 【134†British India】, after 【150†Jammu and Kashmir State】 and 【151†Hyderabad State】.
+L214: The state's revenue was 5 crores during its peak; however, it halved due to decline by the time of Maharaja Bijai Singh.^{【152†[5]】} The average revenue of the state during the British era was Rs.56,00,000 in 1901.^{【153†[6]】} The Maharaja's of Jodhpur originally had a gun salute of 19 guns with 21 personal. However the gun salute was reduced to 17 guns and 19 personal in 1870, due to a quarrel with the Maharana of Udaipur.^{【154†[7]】}^{【155†[8]】}
+L215: ## History
+L216: 
+L217: [【156†edit】]
+L218: ### Origin
+L219: 
+L220: [【157†edit】]
+L221: 
+L222: South Asia
+L223: 1525
+L224: 
+L225: 【158†DELHI】
+L226: 
+L227: 【158†SULTANATE(LODIS)】
+L228: 
+L229: 【159†KABUL】
+L230: 【160†(Babur)】
+L231: 
+L232: 【161†SHAH MIRSULTANATE】
+L233: 
+L234: 【162†KANGRA】
+L235: 
+L236: 【163†PHAGMODRUPAS】
+L237: 
+L238: 【164†KHANDESHSULTANATE】
+L239: 
+L240: 【165†BERARSULTANATE】
+L241: 
+L242: 【166†MALWASULTANATE】
+L243: 
+L244: 【167†ARGHUNS】
+L245: 
+L246: 【168†KALMAT】
+L247: 
+L248: 【169†LANGAHSULTANATE】
+L249: 
+L250: 【170†SHEKHAWAT】
+L251: 
+L252: 【171†AMARKOT】
+L253: 
+L254: 【170†SHEKHAWAT】
+L255: 
+L256: 【171†AMARKOT】
+L257: 
+L258: 【172†JAISALMER】
+L259: 
+L260: 【173†BIKANER】
+L261: 
+L262: 【174†GUJARATSULTANATE】
+L263: 
+L264: 【94†MEWAR】
+L265: 
+L266: 【71†MARWAR】
+L267: 
+L268: 【175†AMBER】
+L269: 
+L270: 【176†KARAULI】
+L271: 
+L272: 【177†MEWAT】
+L273: 
+L274: 【178†SIROHI】
+L275: 
+L276: 【179†BUNDI】
+L277: 【180†VAGAD】
+L278: 
+L279: 【181†DIMASA】
+L280: 
+L281: 【182†TRIPWA】
+L282: 
+L283: 【183†AHOM】
+L284: 
+L285: 【184†KAMATAS】
+L286: 
+L287: 【185†CHEROS】
+L288: 
+L289: 【186†BENGALSULTANATE】
+L290: 
+L291: 【187†GAJAPATIEMPIRE】
+L292: 
+L293: 【188†Tribalstates】
+L294: 
+L295: 【189†AHMADNAGARSULTANATE】
+L296: 
+L297: 【190†VIJAYANAGARAEMPIRE】
+L298: 
+L299: 【191†BIJAPURSULTANATE】
+L300: 
+L301: 【192†BIDARSULTANATE】
+L302: 
+L303: 【193†GOLKONDASULTANATE】
+L304: 
+L305: 【194†◁】
+L306: 
+L307: Location of Marwar within 【195†Rajputana】 circa 1525, with neighbouring Politics.^{【196†[9]】}^{【197†[10]】}
+L308: Recent genealogists believe that the Rathores are connected to the 【120†Gahadavala dynasty of Kannauj】.
+L309: A connection is often established between Rajput ruler 【198†Jaichand】 and the Rathores.^{【199†[11]】} Jaichand was later defeated by 【200†Muhammad of Ghor】 in the 【201†Battle of Chandawar】.^{【202†[12]】} The one branch of the defeated rulers of Kannauj migrated westwards into Rajputana and were invited to settle in 【101†Pali】.^{【203†[13]】} 【204†Siha】 is regarded as the first emigrant in the region to establish his kingdom in Pali in 1243 when he helped the locals drive away the Meds and 【205†Meenas】 and assumed the title of Rao.^{【206†[14]】}^{【207†[15]】} He died fighting an invading 【208†Muslim】 force in 1273.
+L310: In this invasion large amounts of Brahmins in the region were massacred.^{【209†[16]】}
+L311: 【204†Siha's】 son 【210†Rao Asthana】 captured Khed from the 【114†Guhilas】 and Idar from the 【211†Bhils】.^{【212†[17]】}^{【213†[18]】} He died fighting a force of 【214†Jalaluddin Khilji】 in 1291 and was succeeded by his son Dhuhar.^{【215†[19]】}^{【216†[20]】} Dhuhar captured Mandore from the Pariharas but lost it later.^{【217†[21]】}
+L312: Dhuhar's son Raipal (r.1309-1313) and grandson Karanpal followed by Karanpal's son Bhim who continued to fight the Kingdom of Malwa and the Turkic invaders.^{【218†[22]】} Karanpal's son Jhalansi defeated the Sodha Rajputs, and the ruler of Multan but died fighting the Turks in 1328.^{【219†[23]】} His son Chhada defeated the Sodha's, the ruler of Jaisalmer, Nagaur and Jalore.^{【220†[24]】} He died fighting the Songaras in 1344.^{【221†[25]】} Chhada's son Rao Tida avenged his father's death by defeating the Songara's.^{【222†[26]】} Tida was succeeded by his son Tribhuvan and his grandson Mallinath.
+L313: Mallinath fought with the Songaras, Deoras, Bhatis and the Tughluqs.^{【223†[27]】}
+L314: ### Rao Chunda
+L315: 
+L316: [【224†edit】]
+L317: In 1384, Mallinath's nephew 【121†Chunda】 gained the title of Rao and became the ruler.^{【225†[28]】} Chunda married in a Parihar Rajput clan from which he received the city of Mandore as Dowry. He shifted his capital to that city in 1395.^{【226†[29]】} In 1396, Zaffar Khan of Gujarat laid siege to Mandore but was repelled by Chunda.
+L318: Chunda and Zaffar entered into a tribute with Zaffar but Chunda later counter-attacked Zaffar and captured Sambhar and Ajmer.^{【227†[30]】} Chunda's aggressive policy earned him enmity with his neignbours, namely Bhati Rao of Pugal, the Sankhlas of Janglu and the governor of Multan, Khidar Khan. These collectively invaded Nagaur. Chunda died defending Nagaur in 1428.^{【228†[31]】}
+L319: ### Ranmal
+L320: 
+L321: [【229†edit】]
+L322: Towards the end of his life, he promised his throne to his younger son Kanha which angered his eldest son Ranmal who sought refuge in 【94†Mewar】. Ranmals sister Hansa Bai had been married to 【230†Rana Lakha of Mewar】 so he was able to become a powerful member of the Mewar court.^{【231†[32]】} Karan died soon in the same year and Ranmal was able to gain the throne of Marwar.^{【232†[33]】} Ranmal attacked Bhati, Pugal and Jalore chiefs in his 10 year reign.
+L323: Ranmal was called to help rule Mewar in 1433 when his sister Hansa Bai's son Mokal was assassinated. He helped rule the kingdom but his power was not received well by the Sisodia clan. 【233†Rana Kumbha】, son of Mokal, got him assassinated in 1438.^{【234†[34]】}
+L324: ### Rao Jodha
+L325: 
+L326: [【235†edit】]
+L327: 
+L328: 【122†Jodha of Mandore】, one of the greatest Rathores
+L329: After Ranmal's assassination, Mewar and Marwar's relations had gotten bitter and Ranmal's son 【122†Rao Jodha】 escaped Mewar and reached its borders. From there he started building his own power.
+L330: He recollected allies and defeated his enemies one by one and consolidated power and by 1453, he was able to regain Mandore.^{【236†[35]】}^{【237†[36]】} To end this enmity, Kumbha and Jodha reached settlements and matrimonial alliance was established by marrying Jodha's daughter Shringar Devi to Kumbha's son 【238†Raimal】 in 1459.^{【239†[37]】} It was after this that Marwar was able to become a prosperous kingdom under the rule of Rao Jodha.
+L331: Out of the 15 rulers that preceded Jodha, nine died on the battlefield, six of them against foreign armies. Jodha's 【240†son】 himself died after a battle in which he saved 140 women from Afghan raiders.^{【241†[38]】}
+L332: 【242†Mehrangarh Fort】, the capital of Marwar for centuries
+L333: 
+L334: After restoring peace, Jodha constructed a new capital fort on a hilltop 6 miles south of Mandore named 【242†Mehrangarh】. The city came to be known by his name. Thus the city of 【103†Jodhpur】 was settled.^{【243†[39]】} Soon, he expanded his territory greatly. One of his sons, Bika captured Janglu which he named 【244†Bikaner】 after himself and became its Rao.^{【245†[40]】}
+L335: He died in 1489 and was succeeded by his son 【240†Rao Satal】 who died in 1492 who was succeeded by Jodha's second son, 【246†Rao Suja】.^{【247†[41]】} Suja's younger brother Bika laid siege to Jodhpur, demanding a separate kingdom in Bikaner, and in the ensuing negotiations, Bikaner was given to Bika as his independent kingdom.^{【248†[42]】} Suja outlived his eldest son Bagha and died in 1515 and was succeeded by his grandson 【125†Rao Ganga】 in 1515.^{【249†[43]】}
+L336: During the rule of Jodha's sons, many chiefs asserted their independence. This led to formations of factions which favored different candidates for succession. When Rao Ganga ascended to the throne, this factionalism led to a civil war like situation because the succession was disputed by another candidate called Biram Deo.^{【250†[44]】}^{【251†[45]】} Soon after Ganga's accession, Biram was expelled from Jodhpur. To avenge this, Biram started looting Jodhpur.
+L337: Eventually, with the help of his son Maldeo, Ganga was able to defeat Biram.^{【252†[46]】}
+L338: ### Maldeo Rathore
+L339: 
+L340: [【253†edit】]
+L341: 
+L342: 【254†Rao Maldev Rathore of Marwar】
+L343: Seeing 【255†Rana Sanga】's success, Ganga decided to align Marwar with Mewar and assisted Sanga in war against Sultan of Gujarat in 1517, and 【256†Battle of Bayana】 in 1527 and the 【257†Battle of Khanwa】 in 1527 against 【160†Babur】.
+L344: His son 【90†Maldeo Rathore】 participated in the battle and later escorted an unconscious 【255†Rana Sanga】 from the battleground after defeat.^{【258†[47]】}^{【259†[48]】}^{【260†[49]】} After Sanga's death, Maldeo wanted to fill the vacuum of power in Rajputana and felt that his regnant father couldn't fill it. Ganga mysteriously died in 1531 after falling from his balcony. This fall could've been an accident but is believed that was an assassination by Maldeo.^{【261†[50]】}^{【262†[51]】}
+L345: #### Expansion
+L346: 
+L347: [【263†edit】]
+L348: 
+L349: Under Maldeo Rathore, Marwar rose to great power. He was regarded as a great and fearless warrior.^{【264†[52]】} According to Ferishta, He was the most potent prince of Hindustan.^{【265†[53]】} In 1531, when Bahadur Shah of Gujarat invaded Mewar, Maldeo assisted Rana Vikramaditya.^{【266†[54]】} In 1534-35, Maldeo was able to capture 【267†Ajmer】 and 【268†Nagaur】.^{【269†[55]】}
+L350: During Maldeo's territorial expansion, Raja of Jaisalmer sued for peace and offered his daughter 【270†Umade】 for marriage.^{【271†[56]】} He attacked Jalore in 1538 and took it. Its ruler was imprisoned where he died a few years later.^{【272†[57]】} During his rule, Marwar captured a large part of western Rajputana.
+L351: He continued his father's policy towards the 【94†Kingdom of Mewar】 by helping its legitimate heir 【273†Udai Singh II】 in taking the throne back from the usurper 【274†Banvir】.^{【275†[58]】} He invaded Bikaner, ruled by a branch of the same family and annexed it in 1542.^{【276†[59]】}
+L352: #### Humayun and Sher Shah Suri
+L353: 
+L354: [【277†edit】]
+L355: In 1540, Maldeo helped 【278†Mughal Emperor】 【279†Humayun】 against 【280†Sher Shah Suri】 by providing him 20,000 troops at Bhakkar.
+L356: There are many reasons about why he provided this assistance including increasing the sphere of influence or avenging shelter given to fugitives in Sher Shah's court.^{【281†[60]】} Eventually, an expelled Humayun reached Phalodi, in Marwar, to seek assistance from Maldeo but couldn't secure much help from the Raja.^{【282†[61]】} Following a half hearted welcome for Humayun by Maldeo, Sher Shah marched down to Phalodi and asked Maldeo for handing over Humayun, who escaped to Amarkot.^{【283†[62]】}
+L357: Following Humayun's escape, 【280†Sher Shah】 returned to 【284†Delhi】 and consolidated power. He later planned to invade 【90†Maldeo】 because he was very ambitious.^{【285†[63]】} When Sher Shah reached Marwar, he devised a deceptive plan. He dropped several letters addressed to Marwari soldiers asking them to defect to Delhi. This made Maldeo suspect them and order them to retreat.
+L358: A few thousand soldiers still held frontier who met Sher Shah Suri at the 【286†Battle of Sammel】.^{【287†[64]】} Sher Shah won the battle and further pursued Marwar. Jodhpur was occupied for several months, but was retaken by Maldeo in 1545.^{【288†[65]】}
+L359: #### Continued expansion
+L360: 
+L361: [【289†edit】]
+L362: 
+L363: In 1550, Maldeo invaded 【290†Pokhran】 and 【291†Phalodi】 and took it over from its chiefs.^{【292†[66]】}In 1556, 【293†Haji Khan】, an ally of 【273†Rana Udai Singh of Mewar】, sought help from Maldeo to invade Mewar after differences arose between Udai and Haji. In the Battle of Harmada in 1557, Udai Singh was defeated and the territory of Merta was captured by Maldeo.^{【294†[67]】}
+L364: #### Akbar
+L365: 
+L366: [【295†edit】]
+L367: 【296†Akbar】 succeeded Humayun in 1556, many Rajput chiefs mustered around him with their grievances against the 【123†Rathore】 Chief of 【103†Jodhpur】. Akbar used this as a casus belli against Maldeo. The Mughals conquered Ajmer and Nagaur in 1557 and soon after Akbar captured Jaitaran and Parbatsar. However the Mughals failed to capture the core territories of Marwar.
+L368: Maldeo before his death held the districts of Jodhpur, Sojat, Jaitaran, Phalodi, Siwana, Pokhran, Jalore, Sanchore, Merta, Barmer, Kotra and some parts of Jaisalmer. These territories were later captured by Akbar due to the succession war between Maldeo's sons.^{【297†[68]】}^{【298†[69]】}^{【299†[70]】}
+L369: 【90†Maldeo Rathore】 died on 7 November 1562.^{【300†[71]】}
+L370: ### Rao Chandrasen
+L371: 
+L372: [【301†edit】]
+L373: 
+L374: 【126†Rao Chandrasen of Marwar】, the last independent ruler of Marwar
+L375: After the death of Maldeo, according to his will, his third son 【126†Chandrasen Rathore】 was crowned the Rao. But is first and second son Ram and Udai started a war of succession for the throne. They were defeated by Chandrasen by 1563.^{【302†[72]】} After the war of succession, Chadrasen did not accept the suzerainty of 【296†Akbar】 and hence Mughal army invaded Jodhpur and occupied it because of which Chandrasen shifted his capital to 【303†Bhadrajun】.^{【304†[73]】}^{【305†[74]】}
+L376: While Chandrasen continued to defend his kingdom from the Mughal invasions, his neighbor 【306†Rana Pratap of Mewar】 fought a war with mughals in the 【307†Battle of Haldighati】 in 1576 which made a heavy loss to both the mewar and mughals.^{【308†[75]】} After the battle of Haldighati, Mughals turned their attention to Marwar and invaded in the same year. Chandrasen was dislodged from Bhadrajun and became a wanderer for the next 5 years with no capital, throne or shelter.
+L377: He made several attempts to regain his kingdom, which included several raids on the imperial forces. Although his efforts went in vain and he died in 1581.^{【309†[76]】}^{【310†[77]】}
+L378: ### As a Mughal state
+L379: 
+L380: [【311†edit】]
+L381: 
+L382: 【127†Udai Singh】 also known as Mota Raja. He was placed on the throne after the kingdom being captured by Akbar

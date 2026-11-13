@@ -1,0 +1,332 @@
+Gaekwad dynasty - Wikipedia (https://en.wikipedia.org/wiki/Gaekwad_dynasty)
+citeturn124view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Gaekwad_dynasty","lineno":null}); Total lines: 330
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Early history】
+L50:   * 【19†2 British suzerainty】
+L51:   * 【20†3 Gaikwad Maharajas of Baroda】
+L52:   * 【21†4 Family tree】
+L53:   * 【22†5 See also】
+L54:   * 【23†6 References】
+L55:   * 【24†7 External links】
+L56: 
+L57: [Input] Toggle the table of contents
+L58: # Gaekwad dynasty
+L59: 
+L60: [Input] 13 languages
+L61: 
+L62:   * 【25†Català†ca.wikipedia.org】
+L63:   * 【26†Español†es.wikipedia.org】
+L64:   * 【27†ગુજરાતી†gu.wikipedia.org】
+L65:   * 【28†日本語†ja.wikipedia.org】
+L66:   * 【29†ಕನ್ನಡ†kn.wikipedia.org】
+L67:   * 【30†मराठी†mr.wikipedia.org】
+L68:   * 【31†Norsk bokmål†no.wikipedia.org】
+L69:   * 【32†پنجابی†pnb.wikipedia.org】
+L70:   * 【33†Русский†ru.wikipedia.org】
+L71:   * 【34†தமிழ்†ta.wikipedia.org】
+L72:   * 【35†తెలుగు†te.wikipedia.org】
+L73:   * 【36†Українська†uk.wikipedia.org】
+L74:   * 【37†اردو†ur.wikipedia.org】
+L75: 
+L76: 【38†Edit links†www.wikidata.org】
+L77:   * 【39†Article】
+L78:   * 【40†Talk】
+L79: 
+L80: [Input] English
+L81: 
+L82:   * 【39†Read】
+L83:   * 【41†Edit】
+L84:   * 【42†View history】
+L85: 
+L86: [Input] Tools
+L87: 
+L88: Tools
+L89: 
+L90: [Button: move to sidebar] [Button: hide]
+L91: 
+L92: Actions
+L93: 
+L94:   * 【39†Read】
+L95:   * 【41†Edit】
+L96:   * 【42†View history】
+L97: 
+L98: General
+L99: 
+L100:   * 【43†What links here】
+L101:   * 【44†Related changes】
+L102:   * 【45†Upload file】
+L103:   * 【46†Permanent link】
+L104:   * 【47†Page information】
+L105:   * 【48†Cite this page】
+L106:   * 【49†Get shortened URL】
+L107:   * 【50†Switch to legacy parser】
+L108: 
+L109: Print/export
+L110: 
+L111:   * 【51†Download as PDF】
+L112:   * Printable version
+L113: In other projects
+L114: 
+L115:   * 【52†Wikimedia Commons†commons.wikimedia.org】
+L116:   * 【53†Wikidata item†www.wikidata.org】
+L117: 
+L118: Appearance
+L119: 
+L120: [Button: move to sidebar] [Button: hide]
+L121:  | This article needs 【54†more citations】. Please help 【55†improve this article】 by 【56†adding citations to reliable sources】. Unsourced material may be challenged and 【57†removed】.
+L122: Find sources: 【58†"Gaekwad dynasty"†www.google.com】 – 【59†news†www.google.com】 · 【60†newspapers†www.google.com】 · 【61†books†www.google.com】 · 【62†scholar†scholar.google.com】 · 【63†JSTOR†www.jstor.org】 (August 2020) (【64†Learn how and when to remove this message】)
+L123: 
+L124: "Gaikwad" redirects here. For other uses, see 【65†Gaekwad】.
+L125: Gaekwad dynasty
+L126: ---
+L127: Flag (1936–1949)
+L128: Country  | 【66†Baroda State】
+L129: Place of origin  | 【67†Maharashtra】, India
+L130: Founded  | 1721
+L131: Founder  | 【68†Pilaji Rao Gaekwad】
+L132: Current head  | 【69†Samarjitsinh Gaekwad】
+L133: Final ruler  | 【70†Pratap Singh Rao Gaekwad】 (Baroda)
+L134: 【71†Fatehsinghrao Gaekwad】 (Rajpramukh)
+L135: Titles  |
+L136: 
+L137:   * 【72†Raja】 of 【66†Baroda】
+L138:   * 【73†Rajpramukh】 of Baroda
+L139: Deposition  | 1949
+L140: Website  | 【74†https://gaekwadsofbaroda.in/†gaekwadsofbaroda.in】
+L141: Gaekwads (also spelled as Gaikwads, Gaekwars) (【75†IAST】: Gāyakavāḍa), was a Hindu 【76†Maratha】 dynasty of the former 【77†Maratha Empire】 founded by Chatrapati Shivaji Raje Bhonsle. Its subsequent (erstwhile) 【78†princely state】 of 【66†Baroda】 in 【79†western India】 from the early 18th century until 1947.^{【80†[1]】}^{【81†[2]】} The ruling prince was known as the 【82†Maharaja】 Gaekwad of Baroda.
+L142: With the city of 【83†Baroda】 (【84†Vadodara】) as its capital, during the 【85†British Raj】 its relations with the British were managed by the 【86†Baroda Residency】. It was one of the largest and wealthiest princely states of 【87†British India】, with its wealth coming from the lucrative cotton business as well as rice, wheat and sugar production.^{【88†[3]】}
+L143: 【89†Laxmi Vilas Palace】 of the Gaekwad dynasty.
+L144: ## Early history
+L145: 
+L146: [【90†edit】]
+L147: 
+L148: A print of Maharaja Sayajirao Gaikwad
+L149: 
+L150: The Gaekwad rule of 【84†Baroda】 began when the 【91†Maratha】 general 【68†Pilaji Rao Gaekwad】 conquered the city from the 【92†Mughal Empire】 in 1721. The Gaekwads were granted the city as a 【93†Jagir】 by 【94†Chhatrapati】 【95†Shahu I】, the emperor of the 【77†Maratha Empire】 and 【96†Peshwa Bajirao I】 played an important role in helping 【68†Pilaji Rao Gaekwad】 strengthen his position in 【83†Baroda】 and establish his rule there.^{【97†[4]】}
+L151: In their early years, the Gaekwads served as subordinates of the 【98†Dabhade】 family, who were the Maratha chiefs of Gujarat and holders of the senapati (commander-in-chief) title. When 【99†Umabai Dabhade】 joined 【100†Tarabai】's side against 【101†Balaji Baji Rao】, Pilaji's son 【102†Damaji Rao Gaekwad】 commanded the Dabhade force. He was defeated, and remained in Peshwa's custody from May 1751 to March 1752. In 1752, he was released after agreeing to abandon the Dabhades and accept the Peshwa's suzerainty.
+L152: In return, Damaji was made the Maratha chief of Gujarat, and the Peshwa helped him expel the Mughals from Gujarat.^{【103†[5]】}
+L153: Damaji subsequently fought alongside 【104†Sadashiv Rao】, 【105†Vishwas Rao】, 【106†Malhar Rao Holkar】, 【107†Jankoji Scindia】, Sidhoji Gharge-Desai (Deshmukh) and 【108†Mahadji Shinde】 in the 【109†Third Battle of Panipat】 (1761). After the Maratha defeat at Panipat, the central rule of the Peshwas was weakened.
+L154: As a result, the Gaekwads, along with several other powerful Maratha clans, established themselves as virtually independent rulers, while recognizing the nominal authority of the Peshwas and suzerainty of the 【110†Bhonsle】 Maharaja of 【111†Satara】.
+L155: ## British suzerainty
+L156: 
+L157: [【112†edit】]
+L158: 
+L159: Sayajirao with Richard Temple, the Governor of Bombay and other members of the court. Circa 1880
+L160: 
+L161: The Gaekwads, together with several 【113†Maratha】 chieftains, fought the 【114†British】 in the 【115†First Anglo-Maratha War】.
+L162: On 15 March 1802, the British intervened to defend the Gaekwad Maharaja, 【116†Anand Rao Gaekwad】, who had recently inherited the throne against rival claimants, and the Gaekwads concluded the Treaty of Cambey with the British that recognized their independence from the 【117†Maratha Confederacy】 and guaranteed the 【82†Maharajas】 of Baroda local autonomy in return for recognizing British suzerainty, though it was a result of an inability to overpower them.
+L163: 【118†Maharaja Sayaji Rao III】, who took the throne in 1875, did much to modernize Baroda, establishing compulsory primary education, a library system and the 【119†Maharaja Sayajirao University of Baroda】. He also encouraged the setting up of 【120†textile】 factories, which helped create Baroda's textile industry. He is known for offering 【121†B. R. Ambedkar】 a scholarship to study at 【122†Columbia University】.
+L164: Upon 【123†India】 attaining its independence in 1947, the last ruling Maharaja of 【84†Baroda】, Pratapsinhrao, acceded to India. Baroda was eventually merged with 【124†Bombay State】, which was later divided, based on linguistic principle, into the 【125†states】 of 【126†Gujarat】 and 【67†Maharashtra】 in 1960.
+L165: 
+L166: Gaekwad or Gayakwad also survives as a fairly common Maratha 【127†surname】, found mainly in the Indian state of 【67†Maharashtra】.
+L167: ## Gaikwad Maharajas of Baroda
+L168: 
+L169: [【128†edit】]
+L170: 
+L171: Pilaji Rao, the founder of the dynasty
+L172:  | This section does not 【129†cite】 any 【54†sources】. Please help 【55†improve this section】 by 【56†adding citations to reliable sources】. Unsourced material may be challenged and 【57†removed】. (July 2020) (【64†Learn how and when to remove this message】)
+L173: Maharani Gaikwad of Baroda (1907)
+L174:   * Nandaji Rao Gaikwad, died May 1721
+L175:     * Kerojirao
+L176:       * Jhingojirao
+L177:         * 【130†Pilaji Rao Gaikwad】, reigned from 1721, died 14 May 1732
+L178:           * I. 【102†Damaji Rao】, reigned from 1732, died 18 August 1768
+L179:             * II. 【131†Sayaji Rao I】, reigned 1768–1778, died 1792
+L180:             * III. 【132†Fateh Singh Rao I】, born before April 1751, reigned from 1778, died 26 December 1789
+L181:             * IV. 【133†Manaji Rao】, born before April 1751, reigned from 1789, died 27 July 1793
+L182:             * V. 【134†Govind Rao】, born 175?, reigned from 1793, died 19 September 1800
+L183:               * VI. 【116†Anand Rao】, born 179?, reigned from 1800, died 2 October 1819
+L184:               * VI. 【135†Sayajirao II】, born 3 May 1800, reigned from 1819, died 28 December 1847
+L185:                 * VII. 【136†Ganpat Rao】, born 1816, reigned from 1847, died 1856
+L186:                 * VIII. 【137†Khanderao II】 【138†GCSI】, born 1828, reigned from 1856, died 14 June 1870
+L187:                 * IX. 【139†Malhar Rao】, born 1831, reigned 1870 – 19 April 1875, died in obscurity in 1882
+L188:           * Prataprao (d. 1737 Kavlana branch)
+L189:             * Kalojirao
+L190:               * Gabajirao
+L191:                 * Bhikajirao
+L192:                   * Kashirao (1832-1877)
+L193:                     * X. 【140†Sayajirao III】 【138†GCSI】, 【141†GCIE】, born 10 March 1863, reigned from 1875, died 6 February 1939
+L194:                       * Yuvraja Fatehsinhrao (1883-1908)
+L195:                         * XI. 【70†Pratap Singh Rao】 【141†GCIE】, born 29 June 1908, reigned from 1939, titular Maharaja from 1949, deposed 1951, died 19 July 1968
+L196:                           * XII. 【71†Fatehsinhrao II】, born 2 April 1930, titular Maharaja 1951–1971, family head: 1971–1988, died 1 September 1988
+L197:                           * XIII. 【142†Ranjitsinh】, born 8 May 1938, family head from 1988, died 9 May 2012
+L198:                             * XIV. 【69†Samarjitsinh】, born 25 April 1967, family head since 2012
+L199: ## Family tree
+L200: 
+L201: [【143†edit】]
+L202: Gaekwad dynasty and the Family tree of the Maharajas of Baroda
+L203: ---
+L204: 【68†Pilaji Rao】
+L205: ^{(1)}
+L206: r. 1721-1732
+L207: 【102†Damaji Rao】
+L208: ^{(2)}
+L209: r. 1732-1768 Pratap Rao
+L210: 【131†SayajiRao I】
+L211: ^{(3)}
+L212: r. 1768-1778
+L213: 【132†FatehSingh Rao】
+L214: ^{(4)}
+L215: r. 1778-1789 【134†Govind Rao】
+L216: ^{(6)}
+L217: r. 1793-1800 【133†Manaji Rao】
+L218: ^{(5)}
+L219: r. 1789-1793 Kaloji Rao
+L220: 【116†Anand Rao】
+L221: ^{(7)}
+L222: r. 1800-1819
+L223: 【135†SayajiRao II】
+L224: ^{(8)}
+L225: r. 1819-1847 Gabaji Rao
+L226: 【136†Ganpat Rao】
+L227: ^{(9)}
+L228: r. 1847-1856 【137†Khande Rao】
+L229: ^{(10)}
+L230: r. 1856-1870 【139†Malhar Rao】
+L231: ^{(11)}
+L232: r. 1870-1875 Bhikaji Rao
+L233: Kashi Rao
+L234: 【140†SayajiRao III】
+L235: ^{(12)}
+L236: r. 1875-1939
+L237: Fateh Singh
+L238: Rao
+L239: 【70†PratapSingh Rao】
+L240: ^{(13)}
+L241: r. 1939-1949
+L242: – Titular –
+L243: r. 1949-1951
+L244: 【71†FatehSinghRao II】
+L245: ^{(14)}
+L246: – Titular –
+L247: r. 1951-1971
+L248: Head of
+L249: the Family
+L250: 1971-1988
+L251: 【142†RanjitSingh Rao】
+L252: ^{(15)}
+L253: Head of
+L254: the Family
+L255: 1988-2012
+L256: 【69†SamarjitSingh】
+L257: ^{(16)}
+L258: Head of
+L259: the Family
+L260: 2012-present
+L261: ## See also
+L262: 
+L263: [【144†edit】]
+L264: 
+L265:   * 【145†List of Maratha dynasties and states】
+L266:   * 【110†Bhonsle】
+L267:   * 【146†Scindia】
+L268:   * 【147†Holkar】
+L269: ## References
+L270: 
+L271: [【148†edit】]
+L272:   1. 【149†↑】 【150†Ramusack, Barbara N.】 (2004). 【151†The Indian Princes and their States†books.google.com】. The New Cambridge History of India. Cambridge University Press. p. 35&36. 【152†ISBN】 【153†9781139449083】.
+L273:   2. 【154†↑】 Streefkerk, Hein (1985). 【155†Industrial Transition in Rural India: Artisans, Traders, and Tribals in South Gujarat†archive.org】. Popular Prakashan. p. 【156†111†archive.org】. 【152†ISBN】 【157†9780861320677】.
+L274:   3. 【158†↑】 【159†"India Has Rich State in Baroda"†web.archive.org】. 【160†Hartford Courant】. 16 August 1927. Archived from 【161†the original†pqasb.pqarchiver.com】 on 4 November 2012. Retrieved 6 July 2017.
+L275:   4. 【162†↑】 【163†"Sayajirao Gaekwad III: Baroda's Adopted Ruler and a Connoisseur of Arts"†web.archive.org】. INDIAN CULTURE. Archived from 【164†the original†indianculture.gov.in】 on 3 April 2025. Retrieved 19 December 2025.
+L276:   5. 【165†↑】 【166†Charles Augustus Kincaid】; 【167†Dattatray Balwant Parasnis】 (1918). 【168†A History of the Maratha People Volume 3†archive.org】. 【169†Oxford University Press】. pp. 2–10.
+L277: ## External links
+L278: 
+L279: [【170†edit】]
+L280: 
+L281: Wikimedia Commons has media related to 【52†Gaekwad†commons.wikimedia.org】.
+L282: 
+L283:   * 【171†Official Website of the Gaekwads of Baroda†web.archive.org】
+L284: 
+L285: 【172†Image】
+L286: 
+L287: Retrieved from "【46†https://en.wikipedia.org/w/index.php?title=Gaekwad_dynasty&oldid=1378380668】"
+L288: 
+L289: 【173†Categories】:
+L290: 
+L291:   * 【174†Gaekwad dynasty】
+L292:   * 【175†History of Vadodara】
+L293:   * 【176†Hindu dynasties】
+L294:   * 【177†Maratha clans】
+L295:   * 【178†Maratha Empire】
+L296:   * 【179†1721 establishments in India】
+L297: 
+L298: Hidden categories:
+L299:   * 【180†Articles with short description】
+L300:   * 【181†Short description is different from Wikidata】
+L301:   * 【182†Articles needing additional references from August 2020】
+L302:   * 【183†All articles needing additional references】
+L303:   * 【184†Use dmy dates from September 2020】
+L304:   * 【185†Articles needing additional references from July 2020】
+L305:   * 【186†Commons category link is on Wikidata】
+L306:   * This page was last edited on 4 October 2026, at 05:48 (UTC).
+L307:   * Page was rendered with 【187†Parsoid†www.mediawiki.org】.
+L308:   * Text is available under the 【188†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【189†Terms of Use†foundation.wikimedia.org】 and 【190†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【191†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L309:   * 【190†Privacy policy†foundation.wikimedia.org】
+L310:   * 【5†About Wikipedia】
+L311:   * 【192†Disclaimers】
+L312:   * 【6†Contact Wikipedia】
+L313:   * 【193†Legal & safety contacts†foundation.wikimedia.org】
+L314:   * 【194†Code of Conduct†foundation.wikimedia.org】
+L315:   * 【195†Developers†developer.wikimedia.org】
+L316:   * 【196†Statistics†stats.wikimedia.org】
+L317:   * 【197†Cookie statement†foundation.wikimedia.org】
+L318:   * Search
+L319: 
+L320: [Input: Search Wikipedia]
+L321: 
+L322: [Input]
+L323: 
+L324: [Button: Search]
+L325: 
+L326: [Input] Toggle the table of contents
+L327: 
+L328: Gaekwad dynasty
+L329: 13 languages 【17†Add topic】

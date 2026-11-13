@@ -1,0 +1,281 @@
+Bhopal State - Wikipedia (https://en.wikipedia.org/wiki/Bhopal_State)
+citeturn119view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Bhopal_State","lineno":null}); Total lines: 415
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Establishment】
+L50:     * 【20†1.2 Early rulers】
+L51:     * 【21†1.3 The rule of the Begums】
+L52:       * 【22†1.3.1 Qudsia Begum】
+L53:       * 【23†1.3.2 Sikander Jahan Begum】
+L54:       * 【24†1.3.3 Indian Rebellion of 1857】
+L55:       * 【25†1.3.4 Shah Jahan Begum】
+L56:       * 【26†1.3.5 Kaikhusrau Jahan Begum】
+L57:     * 【27†1.4 After Indian independence】
+L58:   * 【28†2 List of rulers of Bhopal】
+L59:   * 【29†3 See also】
+L60:   * 【30†4 References】
+L61:   * 【31†5 Bibliography】
+L62:   * 【32†6 Further reading】
+L63:   * 【33†7 External links】
+L64: [Input] Toggle the table of contents
+L65: # Bhopal State
+L66: 
+L67: [Input] 18 languages
+L68:   * 【34†বাংলা†bn.wikipedia.org】
+L69:   * 【35†Català†ca.wikipedia.org】
+L70:   * 【36†Deutsch†de.wikipedia.org】
+L71:   * 【37†Français†fr.wikipedia.org】
+L72:   * 【38†हिन्दी†hi.wikipedia.org】
+L73:   * 【39†Magyar†hu.wikipedia.org】
+L74:   * 【40†Bahasa Indonesia†id.wikipedia.org】
+L75:   * 【41†Italiano†it.wikipedia.org】
+L76:   * 【42†پنجابی†pnb.wikipedia.org】
+L77:   * 【43†پښتو†ps.wikipedia.org】
+L78:   * 【44†Português†pt.wikipedia.org】
+L79:   * 【45†Русский†ru.wikipedia.org】
+L80:   * 【46†Simple English†simple.wikipedia.org】
+L81:   * 【47†தமிழ்†ta.wikipedia.org】
+L82:   * 【48†Türkçe†tr.wikipedia.org】
+L83:   * 【49†اردو†ur.wikipedia.org】
+L84:   * 【50†Tiếng Việt†vi.wikipedia.org】
+L85:   * 【51†中文†zh.wikipedia.org】
+L86: 【52†Edit links†www.wikidata.org】
+L87: 
+L88:   * 【53†Article】
+L89:   * 【54†Talk】
+L90: 
+L91: [Input] English
+L92: 
+L93:   * 【53†Read】
+L94:   * 【55†Edit】
+L95:   * 【56†View history】
+L96: 
+L97: [Input] Tools
+L98: 
+L99: Tools
+L100: 
+L101: [Button: move to sidebar] [Button: hide]
+L102: 
+L103: Actions
+L104: 
+L105:   * 【53†Read】
+L106:   * 【55†Edit】
+L107:   * 【56†View history】
+L108: 
+L109: General
+L110: 
+L111:   * 【57†What links here】
+L112:   * 【58†Related changes】
+L113:   * 【59†Upload file】
+L114:   * 【60†Permanent link】
+L115:   * 【61†Page information】
+L116:   * 【62†Cite this page】
+L117:   * 【63†Get shortened URL】
+L118:   * 【64†Switch to legacy parser】
+L119: 
+L120: Print/export
+L121:   * 【65†Download as PDF】
+L122:   * Printable version
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【66†Wikimedia Commons†commons.wikimedia.org】
+L127:   * 【67†Wikidata item†www.wikidata.org】
+L128: 
+L129: Appearance
+L130: 
+L131: [Button: move to sidebar] [Button: hide]
+L132: 
+L133: 【68†Coordinates】: 【69†23°15′N 77°24′E﻿ / ﻿23.250°N 77.400°E﻿ / 23.250; 77.400†geohack.toolforge.org】
+L134: 
+L135: This article is about the pre-1949 Indian 【70†princely state】. For the state of the Union of India, see 【71†Bhopal State (1949–56)】.
+L136: Bhopal State
+L137: ---
+L138: 1707^{【72†[1]】}–1949
+L139: Flag Coat of arms
+L140: Motto: "Nasr min Allah"
+L141: (Victory from Allah)^{【73†[2]】}
+L142: Bhopal State as a part of the Central India Agency.
+L143: Status  | 【74†State】 within the 【75†Maratha Confederacy】 (1737-1818)^{【76†[3]】}
+L144: 【70†Princely state】 of India (1818–1947)^{【77†[4]】}
+L145: 【78†Unrecognised state】 (1947–1949)
+L146: Capital  | 【79†Bhopal】 (1707-1728, 1742-1949),
+L147: 【80†Islamnagar】 (1728-1742)^{【81†[5]】}
+L148: Common languages  | 【82†Persian】 (Official) and 【83†Hindustani】
+L149: Religion  | 【84†Islam】 (official)
+L150: 【85†Hinduism】 (majority)^{【86†[6]】}
+L151: Government  | 【87†Islamic principality】^{【88†[7]】}
+L152: 【89†Nawab of Bhopal】  |
+L153: • 1707–1728  | 【90†Dost Mohammad Khan】 (first)
+L154: • 1926–1949  | 【91†Hamidullah Khan】 (last)
+L155: History  |
+L156: • Established  | 1707^{【92†[8]】}
+L157: • Disestablished  | 1 June 1949
+L158: Area
+L159: ---
+L160: 1901  | 17,876 km^{2} (6,902 sq mi)
+L161: Preceded by Succeeded by
+L162: 【93†Image†upload.wikimedia.org】 【94†Maratha Empire】
+L163: 【95†Bhopal State (1949–1956)】 【96†Image†thumb.wikimedia.org】
+L164: Today part of  | 【97†Madhya Pradesh】, India
+L165: Statistics from 【98†Furber 1951】, p. 367
+L166: Bhopal State (pronounced 【99†[bʱoːpaːl]】 ^{【100†ⓘ】}) was an 【87†Islamic principality】,^{【101†[9]】}^{【102†[10]】} founded in the beginning of 18th-century India by the Afghan 【103†Mughal】 noble 【104†Dost Muhammad Khan】.^{【105†[11]】} It was a 【74†tributary state】 within the 【94†Maratha Empire】 during the 18th century (1737–1818), a 【70†princely state】 with rights to a 19-gun salute in a 【106†subsidiary alliance】 with 【107†British India】 from 1818 to 1947, and an independent state from 1947 to 1949.
+L167: 【80†Islamnagar】 was founded and served as the State's first capital, which was later shifted to the city of 【79†Bhopal】.
+L168: The state was founded in 1707 by 【90†Dost Mohammad Khan】, a 【108†Pashtun】 soldier in the 【103†Mughal】 army, who became a mercenary after the Emperor 【109†Aurangzeb】's death and annexed several territories to his 【110†fiefdom】. It came under the suzerainty of the 【111†Nizam of Hyderabad】 in 1723 shortly after its foundation.
+L169: In 1737, the 【94†Marathas】 defeated the Mughals and the 【89†Nawab of Bhopal】 in the 【112†Battle of Bhopal】, and started collecting 【113†tribute】 from the state.^{【114†[12]】} After the defeat of the Marathas in the 【115†Third Anglo-Maratha War】, Bhopal became a 【107†British】 【70†princely state】 in 1818. The state was merged into the 【116†Union of India】 in 1949 as 【71†Bhopal】. In 1901 the state had a population of 665,961 people occupying 6,902 sq. miles of land and an average revenue of Rs.
+L170: 25,00,000.^{【117†[13]】}
+L171: Bhopal state was unique for a continuous lineage of four female 【118†Nawabs】 who ruled its throne for over a century between 1819 and 1926. During this period, the state was noteworthy for its immense contributions to the development of Islamic religious activities, cultural reform and educational efforts which caused a growing appreciation for its rulers in Indian political circles.
+L172: Some of the 【119†Islamic revival】 activities of the Bhopal state were met with disapproval by the 【120†British authorities】.^{【121†[14]】}
+L173: ## History
+L174: 
+L175: [【122†edit】]
+L176: 
+L177: Silver Rupee of Bhopal State struck in the name of Mughal emperor 【123†Akbar II】, minted in Daulatgarh, having the trident symbol in horizontal position. Silver Rupee coin from the princely state of Bhopal, struck in the name of Nawab 【124†Sikander Begum】.
+L178: ### Establishment
+L179: 
+L180: [【125†edit】]
+L181: The State of Bhopal was established by 【90†Dost Mohammad Khan】 (1672–1728), a 【126†pashtun】 soldier in the 【127†Mughal Army】.^{【128†[15]】} After the death of the emperor 【109†Aurangzeb】, Khan started providing mercenary services to several local chieftains in the politically unstable Malwa region. In 1709, he took on the lease of the 【129†Berasia】 estate.
+L182: Later, he usurped the Rajput principality of 【130†Mangalgarh】 and the Gond kingdom of Rani Kamlapati, after the death of their female rulers to whom he had been providing mercenary services.^{【131†[16]】} He also annexed several other territories in Malwa to his state.
+L183: During the early 1720s, Khan founded the city of 【79†Bhopal】 into a fortified city and assumed the title of 【118†Nawab】.^{【132†[17]】} Khan became close to the 【133†Sayyid Brothers】, who had become highly influential king-makers in the Mughal court. Khan's support to the Sayyids earned him the enmity of the rival Mughal nobleman 【134†Nizam-ul-Mulk】, who invaded Bhopal in March 1724, forcing Khan to cede much of his territory, give up his son as a hostage, and accept the Nizam's suzerainty.^{【135†[18]】}
+L184: Dost Mohammad Khan and his 【136†Pakhtun】 【137†Orakzai】 dynasty brought Islamic influence to the culture and architecture in the foundation of Bhopal. Aside from the city of 【79†Bhopal】, which was his capital, Dost Mohammad Khan also renovated the nearby fort of Jagdishpur and renamed it 【80†Islamnagar】. Yet, Dost Mohammad was fated to suffer defeat in his declining years. After Khan's death in 1728, the Bhopal state remained under the influence of the 【137†Orakzai】 dynasty.^{【138†[19]】}
+L185: In 1737, 【94†Marathas】 under the leadership of Peshwa 【139†Baji Rao I】, defeated the forces of the Mughals and the 【89†Nawab of Bhopal】 in the 【112†Battle of Bhopal】. Following the victory of the Marathas, Bhopal came under the suzerainty of the 【94†Maratha Empire】 as a semi-autonomous state and remained so until the 【115†Third Anglo-Maratha War】 in 1818.
+L186: Dost Mohammad Khan's son and successor, 【118†Nawab】 【140†Yar Mohammad Khan】 (r.1728-1742), moved the capital from 【79†Bhopal】 to 【80†Islamnagar】. However, his successor, 【118†Nawab】 【141†Faiz Muhammed Khan】 (r.1742–1777), moved back to Bhopal, which would remain the capital of Bhopal State until its fall in 1949.^{【81†[5]】} 【141†Faiz Muhammad Khan】 was a religious recluse, and the state was effectively ruled by his influential stepmother 【142†Mamola Bai】.^{【138†[19]】}^{【143†[20]】}
+L187: The state became a 【107†British】 protectorate in 1818 after the 【115†Third Anglo-Maratha War】 and was ruled by the 【137†Orakzai】 descendants of 【144†Dost Mohammad Khan】 until 1949, when it was annexed by the 【116†Dominion of India】 after a popular revolt against the ruling dynasty.
+L188: ### Early rulers
+L189: 
+L190: [【145†edit】]
+L191: 
+L192: A procession of Shia Muslims in 【79†Bhopal】 in the 【103†Mughal Empire】.
+L193: 
+L194: By the 1730s, 【94†Marathas】 under the leadership of Peshwa 【139†Baji Rao I】, defeated the forces of the Mughals and the 【89†Nawab of Bhopal】 in the 【112†Battle of Bhopal】. Following the victory of the Marathas, Bhopal came under the suzerainty of the 【94†Maratha Empire】 as a semi-autonomous state.
+L195: The Marathas conquered several nearby states, including 【146†Indore】 to the west and 【147†Gwalior】 to the north, but Bhopal remained a Muslim-ruled state under Dost Mohammed Khan's successors. Subsequently, Nawab Wazir Mohammed Khan, a general, created a stable semi-autonomous state.
+L196: 
+L197: Nawab Jahangir Mohammed Khan established a 【148†cantonment】 at a distance of one mile from the fort. This was called Jahangirabad after him. He built gardens and barracks for British guests and soldiers in Jahangirabad.
+L198: In 1778, during the 【149†First Anglo-Maratha War】, when the British General Thomas Goddard campaigned across India, Bhopal was one of the few states that reached out to the British. In 1809, during the 【150†Second Anglo-Maratha War】, General Close led a British expedition to Central India. The 【89†Nawab of Bhopal】 petitioned in vain to be received under British protection.
+L199: In 1817, when the 【115†Third Anglo-Maratha War】 broke out, a treaty of dependence was signed between the British Government of India and the Nawab of Bhopal. Bhopal remained a friend of British Government during the 【120†British Raj】 in India.
+L200: In February–March 1818, Bhopal became a 【70†princely state】 in 【107†British India】 as a result of the Anglo-Bhopal treaty between the East India Company and Nawab Nazar Muhammad (Nawab of Bhopal during 1816–1819). Bhopal state included the present-day 【151†Bhopal】, 【152†Raisen】, and 【153†Sehore】 districts, and was part of the 【154†Central India Agency】.
+L201: It straddled the 【155†Vindhya Range】, with the northern portion lying on the 【156†Malwa】 【157†plateau】, and the southern portion lying in the 【158†valley】 of the 【159†Narmada River】, which formed the state's southern boundary. 【160†Bhopal Agency】 was formed as an administrative section of Central India, consisting the Bhopal state and some princely states to the northeast, including 【161†Khilchipur】, 【162†Narsingarh】, 【163†Rajgarh】, and after 1931 the 【164†Dewas】 states.
+L202: It was administered by an agent to the British 【165†Governor-General of India】.
+L203: ### The rule of the Begums
+L204: 
+L205: [【166†edit】]
+L206: 
+L207: The Bhopal State postal service was introduced during the rule of the Begums.
+L208: Between 1819 and 1926, it was ruled by four women – Begums – unique in the royalty of those days. Qudsia Begum was the first woman ruler, who was succeeded by her only daughter Sikandar Begum, who in turn was succeeded by her only daughter, Shah Jahan Begum. Sultan Shah Jahan Begum was the last women ruler, who after 25 years of rule, abdicated in favour of her son, Hamidullah Khan. The rule of Begums gave the city its waterworks, railways, a postal system and a municipality constituted in 1907.
+L209: During this period, Bhopal state became a major hub of religious leaders and activists of the so-called Indian "Wahhabi" movement (the followers of 【167†Sayyid Ahmad Shahid】) such as Munshi Jamal al-Din, 【168†Siddiq Hasan Khan】, Abdul Jabbar, Abdul Rahman and Ali Karim. Siddiq Hasan Khan would eventually rise to position of virtual ruler of the state after his marriage to the widowed 【169†Shah Jahan Begum】 in 1870; resulting in the ascendancy of the 【170†Ahl-i Hadith】 movement.
+L210: Various 【171†Islamic educational】 and 【172†political】 【173†reforms】 were initiated by Khan and the doctrines of the Ahl-i Hadith became the 【174†state religion】 under his reign.^{【175†[21]】}^{【176†[22]】}
+L211: #### Qudsia Begum
+L212: 
+L213: [【177†edit】]
+L214: In 1819, 18-year-old Qudsia Begum (also known as Gohar Begum) took over the reins after the assassination of her husband. She was the first female ruler of Bhopal. She refused to follow the 【178†purdah】 tradition. She declared that her 2-year-old daughter Sikander will follow her as the ruler. None of the male family members dared to challenge her decision. She cared very well for her subjects and took her dinners only after receiving the news every night that all her subjects had taken meals.
+L215: She built the Jama Masjid (mosque) and her beautiful palace the 'Gohar Mahal'(also called Nazar Bagh) in Bhopal. She ruled till 1837 when she died having adequately prepared her daughter for ruling the state.
+L216: #### Sikander Jahan Begum
+L217: 
+L218: [【179†edit】]
+L219: 
+L220: Sikandar Begum
+L221: 
+L222: In 1844, Sikander Begum succeeded her mother as the ruler of Bhopal.
+L223: 
+L224: During the 【180†Indian rebellion of 1857】, she sided with the British and crushed all those who revolted against them. She did a lot of public welfare too – she built roads and reconstructed the fort. She also built the Moti Masjid (meaning the Pearl Mosque) and Moti Mahal (the Pearl Palace).
+L225: #### Indian Rebellion of 1857
+L226: 
+L227: [【181†edit】]
+L228: 
+L229: See also: 【182†Indian Rebellion of 1857】
+L230: 
+L231: During the 【182†Indian Rebellion of 1857】, the Bhopal state sided with the East India Company, as per the treaty of 1818. The rebellion in Bhopal and neighbouring areas was suppressed by Sikander Begum in its initial stages.
+L232: By June 1857, the rebellion had spread to neighbouring areas of Bhopal, such as 【146†Indore】, 【183†Mhow】, and 【184†Neemuch】. In the beginning of July 1857, Sikandar Begum was informed by Bakhshi Murawwat Mohammed Khan Nasrat Jang, that the rebel forces from neighbouring areas were marching towards Bhopal. She asked Khan to repulse the rebel forces from Mhow.^{【185†[23]】}
+L233: In some of the mosques of Bhopal, the rebellion against the 【186†East India Company】 was declared as 【187†jihad】 by the 【188†Maulvis】 and the 【126†Pathans】. The rebels maintained contacts with 【189†Rani Lakshmibai】 of Jhansi, 【190†Tatya Tope】, the 【191†Nawab of Tonk】, Nawab of 【192†Banda】 and others. They also acknowledged 【193†Bahadur Shah Zafar】 as the 【194†emperor of India】, and sent offerings to 【195†Delhi】 in form of horses and cash.^{【185†[23]】}
+L234: It was reported that the rebels were mobilising people for revolt by spreading messages through 【196†chapatis】 in villages. Sikander Begum banned the distribution of these chapatis from village to village. She required undertakings from the balahi and 【197†patel】 (chiefs) of every village, to report any violations to the concerned thana (police station). Sikandar Begum also banned the circulation of any 【198†seditious】 notices either found lying on the road or stuck on the walls.
+L235: Maulvi Abdul Qayyum, the 【199†darogha】 of Fatehgarh fort distributed 500 copies of a pamphlet issued by the rebels of 【200†Cawnpore】 (now 【201†Kanpur】). The pamphlet claimed that the British were interfering with the religious sentiments of Hindus and Muslims, and urged them to rebel against the British rule in India. Sikandar Begum instituted an inquiry against the Maulvi, who was charged of 【202†collusion】 with the rebels.
+L236: She also published a pamphlet from Sikandari press, denying the charges of British interference in the religious affairs of Hindus and Muslims.
+L237: The Bhopal state had an army under the direct command of British officers, raised under the Anglo-Bhopal treaty of 1818, and consisting of 600 cavalry and 400 infantry. When the signs of a rebellion started appearing in the army, Major William Henry Richards (the Political Agent at Bhopal) and other British officers withdrew to a safer place at 【203†Hoshangabad】 near Bhopal, leaving the matter under the direct charge of the Begum.
+L238: Mama Qahhar Khan, the 【204†jamadar】 in the Vilayatian Regiment, and the 【205†sepoys】 under him refused to accept their pay, and revolted; they were punished by being discharged from the service.
+L239: In the 【129†Berasia】 tehsil of Bhopal, the rebel leaders Shajaat Khan 【206†Pindari】 and Jahangir Muhammad Khan raised a small force consisting of 70 sepoys. They launched an attack on Berasia on 14 July 1857. The rebels looted the township, and killed Babu Subh Rao (the assistant Political Agent), Munshi Mukhdum Bakhsh and other British loyalists. They also plundered the local treasury and seized the assets of the state officers they had killed.
+L240: They were supported by some sepoys from the Bhopal Contingent stationed at Berasia. Sikandar Begum took measures against the rebels in Berasia and neighbouring areas, forcing them to flee. Shajaat Khan Pindari had plans to flee and join Fazil Muhammad Khan, the 【207†jagirdar】 of Garhi Ambapani, or Prince Bhawani Singh of 【162†Narsingarh】. However, he was arrested with help of spies, and brought to the Sehore jail along with his followers.
+L241: He and his son were hanged near 【208†idgah】 of the town, and then buried beneath a 【209†mahua】 tree by some sweepers.^{【185†[23]】}
+L242: On 6 August 1857, 【210†Risaldar】 Wali Shah and Kotha-【211†Havaldar】 Mahavir declared a 【205†sepoy】 rebellion at 【212†Sehore】 cantonment near Bhopal. They pronounced the symbols of revolt as the Nishan-i-Muhammadi ("the symbol of Muhammad", for Muslims) and the Nishan-i-Mahaviri ("the symbol of Mahavir", for Hindus). The rebel sepoys decided to collect at least Rs. 200,000 from the Mahajans of Sehore, by foul or fair means. The rebel leader Mahavir looted Rs.
+L243: 700 from the state treasury of the Sehore 【213†tehsil】. They also ransacked and burned the 【214†bungalows】 of the British officers, and made attempts to plunder arms and ammunitions from the 【215†magazine】.
+L244: In the Piklon tehsil of Bhopal, the rebellion was led by Muhammad Abu Saeed Khan (popularly known as Nawab of Itarsiwala), Raja Chhatarsal of 【216†Agra】, Aqil Muhammad Khan, Fazil Muhammad Khan and Adil Muhammad Khan of Garhi Ambapani. The rebel leaders planned to occupy the town. Sikander Begum sought help from the 【217†Scindia】 【218†Maharaja】 of 【219†Gwalior】 to defeat the rebels, but the rebel army consisting of around 300 men attacked Piklon.
+L245: The small state force was forced to retreat, and the 【220†tehsildar】 of Piklon fled to Scindia's territory. The rebels plundered the Piklon town, and neighbouring villages such as Chopra, Bisraha and Bisrai. They also established a thana (station) at Piklon. However, they were soon ousted by the state forces.
+L246: #### Shah Jahan Begum
+L247: 
+L248: [【221†edit】]
+L249: 
+L250: A young Shah Jahan Begum
+L251: 
+L252: Main article: 【222†Sultan Shah Jahan, Begum of Bhopal】
+L253: Sikander Begum's successor Shah Jahan Begum (begum 1844–60, Sikandar Begum being regent; ruled 1868–1901) was quite passionate about architecture, like her Mughal namesake emperor 【223†Shah Jahan】. She built a vast mini-city, called Shahjahanabad after her. She also built a new palace for herself, the 【224†Taj Mahal】 (not to be confused with the famous 【225†Taj Mahal】 at Agra).
+L254: She built many other beautiful buildings as well, including Ali Manzil, Amir Ganj, Barah Mahal, Ali Manzil, Be nazir Complex, Khawasoura, Mughalpura, Nematpua and Nawab Manzils. Today, one can see the ruins of Taj Mahal and some of the parts that have stood the test of time; Barah Mahal and Nawab Manzil have also stood the test of time. During her rule, in 1900, the complete failure of the 【226†monsoon】 rains led to a severe famine in Bhopal.
+L255: Most notable among the achievements of Shah Jahan Begum was that under her rule the economy flourished. During this period Bhopal had the highest GDP contribution towards the Indian economy mainly due to its superior craftsmanship and rich gold works.
+L256: #### Kaikhusrau Jahan Begum
+L257: 
+L258: [【227†edit】]
+L259: Sultan Kaikhusrau Jahan Begum, 【228†GCSI】, 【229†GCIE】, 【230†GBE】, 【231†CI】, 【232†KIH】 (9 July 1858 – 12 May 1930) daughter of Shah Jahan Begum, succeeded her in 1901, ruling to her abdication in favour of her son in 1926. She further advanced the emancipation of women and established a modern municipality in 1903.^{【233†[24]】} She had her own palace Sadar Manzil (the present headquarters of 【234†Bhopal Municipal Corporation】); yet preferred the quiet and serene environment at the outskirts of the city.
+L260: She developed her own walled mini-city, named Ahmedabad after her late husband (not to be confused with 【235†Ahmedabad】, Gujarat). This city was situated at Tekri Maulvee Zai-ud-din, which was at located a distance of a mile from the fort. She built a palace called Qaser-e-Sultani (now Saifia College). This area became a posh residency as royalty and elite moved here. The Begum installed the first water pump here and developed a garden called 'Zie-up-Abser'.
+L261: She also constructed a new palace called 'Noor-us-Sabah', which has been converted into a heritage hotel. She was the first president of the All India Conference on Education and first chancellor of the 【236†Aligarh Muslim University】.
+L262: The peaceful rule of Begums led to the rise of a unique mixed culture in Bhopal. The Hindus were given important administrative positions in the state. This led to communal peace and a cosmopolitan culture took its roots.
+L263: ### After Indian independence
+L264: 
+L265: [【237†edit】]
+L266: Sultan Kaikhusrau Jahan Begum's son, 【118†Nawab】 【91†Hamidullah Khan】, ascended the throne in 1926. He was Chancellor of the 【238†Chamber of Princes】. He was the last ruling 【239†nawab of Bhopal】. An active member of the independence movement, 【91†Hamidullah Khan】 was a delegate at the 【240†Round Table Conference】 from 1930 to 1932, an active member of the 【241†All-India Muslim League】, and a close political ally of 【242†Muhammad Ali Jinnah】.
+L267: However, like the rulers of 【243†Kashmir】, 【244†Hyderabad】, 【245†Sikkim】, and others, he desired to maintain his state's autonomy.
+L268: Bhopal, along with 【244†Hyderabad】 and 【246†Travancore】, became one of the Indian 【247†princely states】 which officially refused to join either the 【116†Dominion of India】 or the 【248†Dominion of Pakistan】.^{【249†[25]】} As a Muslim ruler in Central India, Hamidullah Khan opposed the 【250†Partition of India】, in part because he feared it would marginalise Muslims outside 【251†West】 or 【252†East Pakistan】, and instead sought regional Muslim autonomy within India.
+L269: 【91†Hamidullah Khan】 expressed his wish to retain Bhopal as a separate independent state in March 1948. Agitations against the Nawab broke out in December 1948, leading to the arrest of prominent leaders including Bhai Ratan Kumar Gupta and 【253†Shankar Dayal Sharma】, the future president of India on 5 & 6 January 1949 respectively.
+L270: Sharma was sentenced to eight months imprisonment for violating restrictions on public meetings; some other 【254†satyagrahis】 like Ram charan Rai, Biharilal Ghatt, Thakur Lalsingh, Laxminarayan Sinhal were also arrested. Amidst the Vilinikaran Andolan, many were shot dead by the Nawabi police, including the martyrs of Boras. Sardar Patel took the situation seriously, sent V P Menon for the Merger Agreement negotiations on 23 January 1949.
+L271: Later, in February 1949, the political detainees were released and the Nawab Bhopal had to sign the agreement for merger on 30 April 1949.^{【255†[26]】}
+L272: The Bhopal princely state was taken over by the Union Government of India on 1 June 1949. The 【71†new Bhopal State】 was declared a "Part C" state, governed by a chief commissioner appointed by the 【256†President of India】. 【257†Sindhi】 refugees from Pakistan were accommodated in Bairagarh, a western suburb of Bhopal.
+L273: The eldest daughter of Nawab Hamidullah Khan and presumptive heiress, 【258†Abida Sultan】, gave up her right to the throne and opted for Pakistan in 1950. Therefore, the Government of India excluded her from the succession and her younger sister 【259†Begum Sajida】 succeeded in her stead.^{【260†[27]】} In 1971, all princely titles and privy purses were abolished by the Indian government.^{【261†[28]】}
+L274: ## List of rulers of Bhopal
+L275: 
+L276: [【262†edit】]
+L277: 
+L278: Main article: 【239†Nawabs of Bhopal】

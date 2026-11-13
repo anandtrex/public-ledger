@@ -1,0 +1,338 @@
+Pandya dynasty - Wikipedia (https://en.wikipedia.org/wiki/Pandya_dynasty)
+citeturn105view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Pandya_dynasty","lineno":null}); Total lines: 843
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Etymology and origin legends】 Toggle Etymology and origin legends subsection
+L49:     * 【19†1.1 Chandravamsha】
+L50:   * 【20†2 Sources of Pandya history】 Toggle Sources of Pandya history subsection
+L51:     * 【21†2.1 Archaeological sources】
+L52:     * 【22†2.2 Early Tamil literature】
+L53:     * 【23†2.3 Foreign sources】
+L54:   * 【24†3 History】 Toggle History subsection
+L55:     * 【25†3.1 Early historic Pandyas】
+L56:     * 【26†3.2 Medieval Pandyas】
+L57:       * 【27†3.2.1 Pandya revival (7th–10th centuries CE)】
+L58:       * 【28†3.2.2 Under Chola influence (10th–13th centuries)】
+L59:     * 【29†3.3 Imperial Pandyas (13th–14th centuries)】
+L60:       * 【30†3.3.1 Maravarman Sundara I】
+L61:       * 【31†3.3.2 Jatavarman Sundara I】
+L62:       * 【32†3.3.3 Maravarman Kulasekara I】
+L63:       * 【33†3.3.4 Decline of Pandyas】
+L64:     * 【34†3.4 Tenkasi Pandyas (14th–16th centuries)】
+L65:       * 【35†3.4.1 Legacy】
+L66:   * 【36†4 Economy】 Toggle Economy subsection
+L67:     * 【37†4.1 Early history】
+L68:     * 【38†4.2 Pandya coinage】
+L69:   * 【39†5 Religion】
+L70:   * 【40†6 Architecture】
+L71:   * 【41†7 In popular culture】
+L72:   * 【42†8 See also】
+L73:   * 【43†9 References】
+L74:   * 【44†10 Further reading】
+L75:   * 【45†11 External links】
+L76: [Input] Toggle the table of contents
+L77: # Pandya dynasty
+L78: 
+L79: [Input] 42 languages
+L80:   * 【46†العربية†ar.wikipedia.org】
+L81:   * 【47†অসমীয়া†as.wikipedia.org】
+L82:   * 【48†বাংলা†bn.wikipedia.org】
+L83:   * 【49†Català†ca.wikipedia.org】
+L84:   * 【50†Deutsch†de.wikipedia.org】
+L85:   * 【51†Español†es.wikipedia.org】
+L86:   * 【52†فارسی†fa.wikipedia.org】
+L87:   * 【53†Français†fr.wikipedia.org】
+L88:   * 【54†ગુજરાતી†gu.wikipedia.org】
+L89:   * 【55†हिन्दी†hi.wikipedia.org】
+L90:   * 【56†Bahasa Indonesia†id.wikipedia.org】
+L91:   * 【57†Italiano†it.wikipedia.org】
+L92:   * 【58†日本語†ja.wikipedia.org】
+L93:   * 【59†ქართული†ka.wikipedia.org】
+L94:   * 【60†ಕನ್ನಡ†kn.wikipedia.org】
+L95:   * 【61†한국어†ko.wikipedia.org】
+L96:   * 【62†Lietuvių†lt.wikipedia.org】
+L97:   * 【63†മലയാളം†ml.wikipedia.org】
+L98:   * 【64†मराठी†mr.wikipedia.org】
+L99:   * 【65†Bahasa Melayu†ms.wikipedia.org】
+L100:   * 【66†नेपाली†ne.wikipedia.org】
+L101:   * 【67†Nederlands†nl.wikipedia.org】
+L102:   * 【68†Norsk nynorsk†nn.wikipedia.org】
+L103:   * 【69†Norsk bokmål†no.wikipedia.org】
+L104:   * 【70†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L105:   * 【71†Polski†pl.wikipedia.org】
+L106:   * 【72†پنجابی†pnb.wikipedia.org】
+L107:   * 【73†Português†pt.wikipedia.org】
+L108:   * 【74†Русский†ru.wikipedia.org】
+L109:   * 【75†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L110:   * 【76†සිංහල†si.wikipedia.org】
+L111:   * 【77†Simple English†simple.wikipedia.org】
+L112:   * 【78†Svenska†sv.wikipedia.org】
+L113:   * 【79†தமிழ்†ta.wikipedia.org】
+L114:   * 【80†తెలుగు†te.wikipedia.org】
+L115:   * 【81†ไทย†th.wikipedia.org】
+L116:   * 【82†Українська†uk.wikipedia.org】
+L117:   * 【83†اردو†ur.wikipedia.org】
+L118:   * 【84†Tiếng Việt†vi.wikipedia.org】
+L119:   * 【85†閩南語 / Bân-lâm-gí†zh-min-nan.wikipedia.org】
+L120:   * 【86†粵語†zh-yue.wikipedia.org】
+L121:   * 【87†中文†zh.wikipedia.org】
+L122: 【88†Edit links†www.wikidata.org】
+L123: 
+L124:   * 【89†Article】
+L125:   * 【90†Talk】
+L126: 
+L127: [Input] English
+L128: 
+L129:   * 【89†Read】
+L130:   * 【91†Edit】
+L131:   * 【92†View history】
+L132:   * 【17†Save】
+L133: 
+L134: [Input] Tools
+L135: 
+L136: Tools
+L137: 
+L138: [Button: move to sidebar] [Button: hide]
+L139: 
+L140: Actions
+L141: 
+L142:   * 【89†Read】
+L143:   * 【91†Edit】
+L144:   * 【92†View history】
+L145:   * 【17†Save】
+L146: 
+L147: General
+L148: 
+L149:   * 【93†What links here】
+L150:   * 【94†Related changes】
+L151:   * 【95†Upload file】
+L152:   * 【96†Permanent link】
+L153:   * 【97†Page information】
+L154:   * 【98†Cite this page】
+L155:   * 【99†Get shortened URL】
+L156:   * 【100†Switch to legacy parser】
+L157: Print/export
+L158: 
+L159:   * 【101†Download as PDF】
+L160:   * Printable version
+L161: 
+L162: In other projects
+L163: 
+L164:   * 【102†Wikimedia Commons†commons.wikimedia.org】
+L165:   * 【103†Wikiquote†en.wikiquote.org】
+L166:   * 【104†Wikidata item†www.wikidata.org】
+L167: 
+L168: Appearance
+L169: 
+L170: [Button: move to sidebar] [Button: hide]
+L171: 
+L172: For other uses, see 【105†Pandiyan (disambiguation)】.
+L173: 
+L174: "Pandya" redirects here. For other uses, see 【106†Pandya (disambiguation)】.
+L175: 
+L176: Pandyan dynasty
+L177: ---
+L178: c.500 BCE–1618 CE
+L179: Greatest extent of the Pandya Empire, 13th Century^{【107†[2]】}
+L180: Capital  |
+L181:   * 【108†Korkai】 (port, early historic)^{【109†[3]】}
+L182:   * 【110†Madurai】 (till 1335 CE)^{【111†[4]】}
+L183:   * 【112†Tenkasi】 (1422–1618 CE)^{【111†[4]】}
+L184: Official languages  |
+L185: 
+L186:   * 【113†Tamil】^{【114†[5]】}^{【115†[6]】}
+L187: Religion  |
+L188:   * 【116†Hinduism】
+L189: 【117†Jainism】^{【118†[7]】}
+L190:   * 【119†Buddhism】
+L191: 【120†Demonym】  | Pandiyar
+L192: Government  | 【121†Monarchy】
+L193: • Around 270 BCE  | 【122†Nedunjeliyan I】 (first documented)
+L194: • 560–590 CE  | 【123†Kadungon】 (Pandya revival)
+L195: • 1613–1618 CE  | 【124†Varagunarama】
+L196: Historical era  | 【125†Medieval era】
+L197: • Established  | c.500 BCE
+L198: • Disestablished  | 1618 CE
+L199: Succeeded by
+L200: 【124†Tenkasi Pandyas】 【126†Image†upload.wikimedia.org】
+L201: 【127†Madurai Nayak dynasty】 【126†Image†upload.wikimedia.org】
+L202: 【128†Vijayanagara Empire】 【126†Image†upload.wikimedia.org】
+L203: 【129†Jaffna kingdom】 【126†Image†upload.wikimedia.org】
+L204: Today part of  | 【130†India】
+L205: 【131†Sri Lanka】
+L206: The Pandya dynasty (Tamil: 【132†[paːɳɖijɐr]】), also referred to as the Pandyas of Madurai, was an 【133†ancient Tamil dynasty of South India】, and among the three great kingdoms of 【134†Tamilakam】, the other two were the 【135†Cholas】 and the 【136†Cheras】.^{【137†[8]】}^{【138†[9]】} Existing since at least the 5th to 3rd centuries BCE, the dynasty passed through two periods of imperial dominance, the 6th to 10th centuries CE, and under the 'Later Pandyas' (13th to 14th centuries CE).
+L207: In the second half of the 13th century under 【139†Jatavarman Sundara Pandyan I】 and 【140†Maravarman Kulasekara Pandyan I】, the Pandyas ruled extensive territories including regions of present-day 【141†South India】 and northern 【131†Sri Lanka】 through vassal states subject to 【110†Madurai】.^{【142†[10]】}^{【143†[11]】} The Pandya dynasty is considered to be one of the longest ruling dynasties in the world, in power continuously from roughly 500 BCE to 1618 CE, although its territorial and administrative extent varied significantly.
+L208: The rulers of the three Tamil dynasties were referred to as the "【144†three crowned rulers】 (the mu-ventar) of 【134†the Tamil Region】"^{【137†[8]】}^{【145†[12]】} in the southern part of 【130†India】.
+L209: The origin and the timeline of the Pandya dynasty are difficult to establish.^{【143†[11]】} The 【146†early Pandya】 chieftains ruled their country (【147†Pandya Nadu】) from the ancient period, which included the inland city of 【110†Madurai】 and the southern port of 【108†Korkai】.^{【148†[13]】}^{【149†[14]】} The Pandyas are celebrated in the earliest available Tamil poetry (【150†Sangam literature】).^{【143†[11]】} 【151†Graeco-Roman】 accounts (as early as the 4th century BCE^{【143†[11]】}), the edicts of 【152†Maurya】 emperor 【153†Ashoka】, coins with legends in 【154†Tamil-Brahmi】 script, and Tamil-Brahmi inscriptions suggest the continuity of the Pandya dynasty from the 3rd century BCE to the early centuries CE.^{【148†[13]】}^{【155†[15]】}^{【156†[16]】} The early historic Pandyas faded into obscurity upon the rise of the 【157†Kalabhra dynasty】 in south India.^{【158†[17]】}
+L210: From the 6th century to the 9th century CE, the 【159†Chalukyas of Badami】 or 【160†Rashtrakutas】 of the Deccan, the 【161†Pallavas of Kanchi】, and Pandyas of Madurai dominated the politics of south India.
+L211: The Pandyas often ruled or invaded the fertile estuary of 【162†Kaveri】 (the Chola country), the ancient 【136†Chera country】 (Kongu and central 【163†Kerala】) and 【164†Venadu】 (southern Kerala), the 【165†Pallava country】, and 【131†Sri Lanka】.^{【166†[18]】} The Pandyas fell into decline with the rise of the 【167†Cholas】 of Thanjavur in the 9th century and were in constant conflict with the latter.
+L212: The Pandyas allied themselves with the 【168†Sinhalese】 and the 【169†Cheras】 against the 【170†Chola Empire】 until it found an opportunity to revive its frontiers during the late 13th century.^{【171†[19]】}
+L213: The Pandyas entered their golden age under 【172†Maravarman I】 and 【173†Jatavarman Sundara Pandya I】 (13th century).^{【142†[10]】}^{【143†[11]】} Some early efforts by 【172†Maravarman I】 to expand into the 【135†Chola country】 were effectively checked by the 【174†Hoysalas】.^{【175†[20]】} 【173†Jatavarman I】 (c.
+L214: (circa) 1251) successfully expanded the kingdom into the Telugu country (as far north as 【176†Nellore】), south Kerala, and conquered northern 【131†Sri Lanka】.^{【142†[10]】}^{【143†[11]】} The city of 【177†Kanchi】 became a secondary capital of the Pandyas.
+L215: The Hoysalas, in general, were confined to the Mysore Plateau and even king 【178†Somesvara】 was killed in a battle with Pandyas.^{【179†[21]】} 【140†Maravarman Kulasekhara I】 (1268) defeated an alliance of the Hoysalas and the Cholas (1279) and invaded 【131†Sri Lanka】. The venerable 【180†Tooth Relic of the Buddha】 was carried away by the Pandyas.
+L216: During this period, the rule of the kingdom was shared among several royals, one of them enjoying primacy over the rest.^{【179†[21]】} An internal crisis in the Pandya kingdom coincided with the 【181†Khalji】 【182†invasion】 of south India in 1310–11.^{【143†[11]】} The ensuing political crisis saw more sultanate raids and plunder, the loss of south Kerala (1312), and north Sri Lanka (1323) and the establishment of the 【183†Madurai Sultanate】 (1334^{【111†[4]】}).^{【184†[22]】}^{【185†[23]】} The Pandyas of Ucchangi (9th–13th century) in the 【186†Tungabhadra】 valley were related to the Pandyas of Madurai.^{【143†[11]】}
+L217: According to tradition, the legendary 【187†Sangams】 ("the Academies") were held in 【110†Madurai】 under the patronage of the Pandyas, and some of the Pandyan rulers claimed to be poets themselves. Pandya Nadu was home to several renowned temples, including the 【188†Meenakshi Temple】 in 【110†Madurai】.
+L218: It is known that the early Pandya rulers originally followed 【117†Jainism】, while at some point they converted to Hinduism.^{【143†[11]】}^{【189†[24]】} The revival of the Pandya power by 【123†Kadungon】 (late 6th century CE) coincided with the prominence of the Shaivite 【190†Nayanars】 and the Vaishnavite 【191†Alvars】.^{【192†[25]】}
+L219: ## Etymology and origin legends
+L220: 
+L221: [【193†edit】]
+L222: The etymology of Pandya is still a matter of considerable speculation among scholars.
+L223: One theory is that the word pandya is derived from the ancient Tamil word "pandu" meaning "old".^{【194†[26]】} The theory suggests that in 【195†early historic】 Tamil lexicon the word pandya means old country in contrast with 【196†Chola】 meaning new country, 【197†Chera】 meaning hill country and 【198†Pallava】 meaning branch.^{【199†[27]】} Another theory is that the word Pandya is derived from the 【200†Sanskrit】 word 【201†Pandu】 to mean white or pale, in reference to king 【201†Pandu】 and the 【202†Pandavas】.^{【203†[28]】} Apart from these derivations mentioned, several other theories do appear in historical studies.^{【204†[29]】}
+L224: 【205†Tamil legends】 narrate an 【206†origin myth】 for the three crowned kings, described by 【207†K. A. Nilakanta Sastri】 as a legend similar to that of 【208†Romulus and Remus】. According to the myth, the three brothers Cheran, Cholan and Pandyan ruled in common at the southern city of 【108†Korkai】.
+L225: While Pandya remained at home, his two brothers Cheran and Cholan after a separation founded their own kingdoms in north and west.^{【209†[30]】} The epic poem 【210†Silappatikaram】 mentions that the emblem of the Pandyas was that of a fish.^{【211†[31]】} Indian traditions such as the Great Epics and the Puranas often associate southern India with Sage Agastya (who had his ashrama in the south). Agastya appears prominently in medieval Tamil literature also.^{【212†[32]】}
+L226: Ceylonese folklores attribute 【213†Alli Rani】 (meaning "the queen Alli") as one of the 【195†early historic】 rulers of the Pandyas.
+L227: She is attributed as an 【214†"amazonian】 queen" whose servants were men and administrative officials and army were women.^{【215†[33]】} She is thought of ruling the whole western and northern coast of 【131†Sri Lanka】 from her capital 【216†Kudiramalai】, where remains of what is thought of as 【217†her fort】 are found.^{【218†[34]】} She is sometimes seen as an incarnation of the Pandya associated gods, 【219†Meenakshi】 and 【220†Kannagi】.^{【221†[35]】}
+L228: ### Chandravamsha
+L229: 
+L230: [【222†edit】]
+L231: 
+L232: The medieval Pandya kings claimed to belong to the Chandravamsha or the 【223†Lunar Race】.^{【224†[36]】} They claimed 【225†Pururavas】 and 【226†Nahusha】 as their ancestors.^{【227†[37]】} Pururavas is listed as one of their ancestors in the 【228†Velvikudi Inscription】 of Nedunjadaiyan Varaguna-varman I (Jatila Parantaka Nedunjadaiyan).^{【229†[38]】}
+L233: ## Sources of Pandya history
+L234: 
+L235: [【230†edit】]
+L236: The Greek ambassador to 【231†Chandragupta Maurya】, 【232†Megasthenes】 mentions the Queen of the Pandyas as 'Pandaia' and locates them in the south of India extending into the ocean. It consisted of 365 villages which met the needs of the royal palace each day of the year.
+L237: He described the queen 【233†Pandaie】 as daughter of 【234†Heracles】 (by some authors as 【235†Shiva】 or 【236†Krishna】).^{【237†[39]】} 【110†Madurai】, capital of Pandyas is mentioned in Kautilya's 【238†Arthashastra】 (4th century BCE) as '【239†Mathura】 of the south'.^{【240†[40]】}
+L238: ### Archaeological sources
+L239: 
+L240: [【241†edit】]
+L241: 
+L242: Mangulam Jain inscription (270 BCE)
+L243: 
+L244: Pandyas are also mentioned in the inscriptions of 【152†Maurya】 emperor 【153†Asoka】 (3rd century BCE). In his inscriptions (2nd and 13th Major Rock Edict^{【242†[41]】}), 【153†Asoka】 refers to the peoples of south India—the 【167†Cholas】, the 【243†Cheras】, 【244†Pandyas】 and 【245†Satiyaputras】.^{【246†[42]】}^{【247†[43]】} These polities, possibly not part of the Maurya empire, were on friendly terms with Asoka:
+L245: > The conquest by 【248†dharma】 has been won here, on the borders, and even six hundred 【249†yojanas】 (5,400–9,600 km) away, where the Greek king 【250†Antiochos】 rules, beyond there where the four kings named 【251†Ptolemy】, 【252†Antigonos】, 【253†Magas】 and 【254†Alexander】 rule, likewise in the south among the 【167†Cholas】, the Pandyas, and as far as 【255†Tamraparni】 river.
+L246: > (Major Rock Edict No.13), Ven. S. Dhammika translation^{【256†[44]】}
+L247: > Everywhere within the conquered province of King 【257†Piyadasi】 (Ashoka), the beloved of the gods, as well as in the parts occupied by the faithful, such as 【135†Chola】, Pandya, 【258†Satiyaputra】, and 【259†Keralaputra】, even as far as 【260†Tambapanni】 (Ceylon) and within the dominions the 【261†Greek】 (of which 【250†Antiochus】 generals are the rulers ) everywhere the heaven-beloved Raja Piyadasi’s double system of medical aid is established- both medical aid for men and medical aid for animals.
+L248: > (Major Rock Edict No.2), 【262†James Prinsep】 translation^{【263†[45]】}
+L249: The earliest Pandya to be found in 【264†epigraph】 is 【122†Nedunjeliyan】, figuring in the 【154†Tamil-Brahmi】 【265†Mangulam】 inscription (near Madurai) assigned to 3rd and 2nd centuries BCE.^{【266†[46]】} The record documents a gift of rock-cut beds, to a 【267†Jain】 ascetic. It is assumed that the people found in the Mangulam inscription, Nedunjeliyan, Kadalan, and Izhanchadikan predate rulers such as 【268†Talaiyanganam Nedunjelyan】 and Palyaga-salai Mudukudimi Peruvaludi.^{【242†[41]】}^{【269†[47]】}
+L250: 【270†Kharavela】, the 【271†Kalinga】 king who ruled during c. 1st century BCE, in his 【272†Hathigumpha inscription】, claims to have destroyed an old confederacy of Tamil countries ("the tamira–desa–sanghata") which had lasted 132 years, and to have acquired a large number of pearls from the Pandyas.^{【247†[43]】}
+L251: 
+L252: Silver 【273†punch-marked coins】 with the fish symbol of the Pandyas dating from around the same time have also been found.^{【274†[48]】}
+L253: Archaeological excavations at Korkai and other coastal sites in the Pandya region have yielded Roman coins, pottery, and port remains, which support literary references to long-distance trade, including pearls.
+L254: ### Early Tamil literature
+L255: 
+L256: [【275†edit】]
+L257: 
+L258: The early historic Pandyas are celebrated in the earliest available 【150†Tamil poetry】.^{【143†[11]】} The poems refers to about twelve Pandya rulers.^{【155†[15]】} According to tradition, the legendary 【187†Sangams ("the Academies")】 were held in 【110†Madurai】 under the patronage of the Pandyas. Several Tamil literary works, such as Iraiyanar Agapporul, mention the legend of three separate Sangams and ascribe their patronage to the Pandyas.^{【276†[49]】}
+L259: 【277†Srivilliputhur Andal temple】 built by Pandyas primarily, is the official 【278†emblem of Tamil Nadu】.^{【279†[50]】}
+L260: 
+L261: Pandya rulers from early historic south India:^{【155†[15]】}^{【280†[51]】}
+L262:   * Mudattirumaran
+L263:   * 【281†Koon Pandya】
+L264:   * 【122†Nedunjeliyan I】 ("Aariyap Padai Kadantha")
+L265:   * Puda-Pandya
+L266:   * Palyagasalai Mudukudumi Peruvaludi^{【269†[47]】}
+L267:   * 【268†Nedunjeliyan II】("Talaiyaalanganathu Seruvendra")^{【269†[47]】}
+L268:   * Nan Maran
+L269:   * Nedunj Cheliyan III
+L270:   * Maran Valudi
+L271:   * Kadalan Valuthi
+L272:   * Musiri Mutriya Cheliyan
+L273:   * Ukkirap Peruvaludi
+L274:   * Bootha Pāndiyan
+L275:   * Arivudainampi
+L276: Pandya rulers—such as 【268†Nedunjeliyan】, the Victor of Talaiyalanganam, and Mudukudimi Peruvaludi, the Patron of several 【282†sacrificial fires】 ("the Palyaga-salai")—find mention in several poems (such as 【283†Mathuraikkanci】).^{【269†[47]】}^{【284†[52]】}
+L277: Besides several short poems found in the 【285†Akananuru】 and the 【286†Purananuru】 collections, there are two major works—【283†Mathuraikkanci】 and 【287†Netunalvatai】—which give a glimpse into the society and commercial activities in the Pandya country during the early historic period.^{【288†[53]】}^{【289†[54]】} The 【286†Purananuru】 and 【290†Agananuru】 collections contain poems sung in praise of various Pandya rulers and also poems that were claimed to be composed by the rulers themselves.^{【291†[55]】}
+L278: Besides the poems, king Peruvaludi is also mentioned in later copper-plate grant (8th–9th century CE).^{【284†[52]】} In the work 【283†Mathuraikkanci】, the author Mankudi Maruthanar, refers to his patron, 【268†Talaihalanganum Nedunjeliyan】, as the Lord of 【108†Korkai】 and the Warlord of the Southern 【292†Parathavar People】.^{【284†[52]】} It contains a full-length description of 【110†Madurai】 and the Pandya country under the rule of Nedunjeliyan.
+L279: In the famous battle of Talaiyalanganam (in east Tanjore), the Pandya is said to have defeated his enemies (which included the Chera and the Chola).^{【284†[52]】} He is also praised for his victory of Mizhalai and Mutturu, two "vel" centres along the ocean (in Pudukkottai).^{【284†[52]】} The 【293†Netunalvatai】 (in the collection of 【294†Pattupattu】) by Nakkirar contains a description of king Nedunjeliyan's palace.^{【291†[55]】}
+L280: ### Foreign sources
+L281: 
+L282: [【295†edit】]
+L283: 
+L284: 【296†South Asia150 BCE】
+L285: 
+L286: 【297†SATAVAHANAS】
+L287: 
+L288: 【298†MAHAMEGHA-VAHANAS】
+L289: 
+L290: 【299†SAMATATAS】
+L291: 
+L292: 【300†AUDUMBARAS】
+L293: 
+L294: 【301†YAUDHEYAS】
+L295: 
+L296: 【302†PAURAVAS】
+L297: 
+L298: 【303†VRISHNIS】
+L299: 
+L300: 【304†KUNINDAS】
+L301: 
+L302: 【305†INDO-GREEKS】
+L303: 
+L304: 【306†GRECO-BACTRIANS】
+L305: 
+L306: 【307†MITRAS】
+L307: 
+L308: 【308†ARJUNAYANAS】
+L309: 
+L310: 【309†MALAVAS】
+L311: 
+L312: 【310†SHUNGAS】
+L313: 
+L314: 【311†PANDYAS】
+L315: 
+L316: 【135†CHOLAS】
+L317: 
+L318: 【136†CHERAS】
+L319: 
+L320: 【312†LOULAN】
+L321: 
+L322: 【313†HAN DYNASTY】
+L323: 
+L324: South Asia circa 150 BCE.^{【314†[56]】}
+L325: The Buddhist text 【315†Mahavamsa】 (composed in the 5th century CE) mentions a Pandya king in the context of 【316†Prince Vijaya】's (543–505 BCE) arrival in Sri Lanka with his 700 followers.
+L326:   * According to the Mahavamsa, emissaries laden with precious gifts were sent from Sri Lanka to the city of Madhura in southern India. Their mission was to secure a bride for Prince Vijaya. The Pandya King of Madurai agreed to the proposal. He not only sent his own daughter to marry Prince Vijaya but also requested other families to offer their daughters to marry the prince's ministers and retainers.
+L327: So, along with the Princess and hundreds of 【317†maidens】, craftsmen and a thousand families from the eighteen 【318†guilds】 were also sent to Sri Lanka.^{【319†[57]】}
+L328:   * Greek and Latin sources (early centuries CE) refer to the ancient Tamil country, same as the Tamilakam, as "Lymyrike" or "Damirice" (or Dymirice/Dimirixe or Damirice) and its ruling families.^{【155†[15]】}
+L329:   * Pandyas are also mentioned by Greek author 【232†Megasthenes】 (4th century BCE) where he writes about the south Indian kingdom being ruled by women.^{【320†[58]】} He described the Pandya country in 【321†Indika】 as "occupying the portion of India which lies southward and extends to the sea". According to his account, the kingdom had 365 villages, each of which was expected to meet the needs of the royal household for one day in the year.
+L330: He described the Pandya queen at the time, Pandaia as the daughter of 【234†Herakles】.^{【322†[59]】}^{【323†[60]】}
+L331:   * 【324†Pliny the Elder】 refers to the Pandya ruler of Madurai in general terms (first century CE).^{【155†[15]】}
+L332:   * The author of the 【325†Periplus of the Erythraean Sea】 (first century CE) describes the riches of a "Pandian kingdom"^{【155†[15]】}^{【156†[16]】}
+L333: > ...Nelcynda is distant from Muziris by river and sea about five hundred stadia, and is of another kingdom, the Pandian. This place [Nelcynda] also is situated on a river, about one hundred and twenty stadia from the [Arabian] sea....^{【326†[61]】}
+L334:   * The country of the Pandyas was described as Pandya Mediterranea and Modura Regia Pandionis by 【327†Ptolemy】 (c. (circa) 140 CE^{【155†[15]】}).^{【328†[62]】}
+L335:   * 【329†Strabo】 states that an Indian king called Pandion sent 【330†Augustus Caesar】 "presents and gifts of honour".^{【149†[14]】}^{【331†[63]】} The 1st-century 【261†Greek】 historian 【332†Nicolaus of Damascus】 met, at 【333†Antioch】, the ambassador sent by a king from India "named Pandion or, according to others, Porus" to 【334†Caesar Augustus】 c. (circa) 13 CE (Strabo XV.4 and 73).^{【335†[64]】}^{【336†[65]】}

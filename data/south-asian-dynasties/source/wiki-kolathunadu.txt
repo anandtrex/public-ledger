@@ -1,0 +1,239 @@
+Kolathunadu - Wikipedia (https://en.wikipedia.org/wiki/Kolathunadu)
+citeturn103view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Kolathunadu","lineno":null}); Total lines: 513
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Background】
+L50:       * 【20†1.1.1 Ezhimala rulers】
+L51:       * 【21†1.1.2 Mushaka dynasty】
+L52:     * 【22†1.2 Rise of Kolathunadu (Cannanore)】
+L53:   * 【23†2 Administration】 Toggle Administration subsection
+L54:     * 【24†2.1 Decentralized realm】
+L55:     * 【25†2.2 Events leading to British colonization and after】
+L56:   * 【26†3 Constitution of the Kolathiri family】 Toggle Constitution of the Kolathiri family subsection
+L57:     * 【27†3.1 Supersession of the title Kolathiri Rājā】
+L58:     * 【28†3.2 Ascension to Kshatriyahood】
+L59:   * 【29†4 Who is the Kolathiri Rājā】 Toggle Who is the Kolathiri Rājā subsection
+L60:     * 【30†4.1 Former Raja's Of Kolathiri】
+L61:   * 【31†5 Calendar system】
+L62:   * 【32†6 Royal symbols of Kolathiri】 Toggle Royal symbols of Kolathiri subsection
+L63:     * 【33†6.1 Royal flag/standard (Kodikkoora or dwajam)】
+L64:     * 【34†6.2 Royal seal (Mudra)】
+L65:   * 【35†7 See also】
+L66:   * 【36†8 References】
+L67: [Input] Toggle the table of contents
+L68: # Kolathunadu
+L69: 
+L70: [Input] 7 languages
+L71: 
+L72:   * 【37†বাংলা†bn.wikipedia.org】
+L73:   * 【38†Español†es.wikipedia.org】
+L74:   * 【39†ಕನ್ನಡ†kn.wikipedia.org】
+L75:   * 【40†മലയാളം†ml.wikipedia.org】
+L76:   * 【41†Norsk bokmål†no.wikipedia.org】
+L77:   * 【42†தமிழ்†ta.wikipedia.org】
+L78:   * 【43†తెలుగు†te.wikipedia.org】
+L79: 
+L80: 【44†Edit links†www.wikidata.org】
+L81: 
+L82:   * 【45†Article】
+L83:   * 【46†Talk】
+L84: 
+L85: [Input] English
+L86: 
+L87:   * 【45†Read】
+L88:   * 【47†Edit】
+L89:   * 【48†View history】
+L90:   * 【17†Save】
+L91: 
+L92: [Input] Tools
+L93: 
+L94: Tools
+L95: 
+L96: [Button: move to sidebar] [Button: hide]
+L97: 
+L98: Actions
+L99:   * 【45†Read】
+L100:   * 【47†Edit】
+L101:   * 【48†View history】
+L102:   * 【17†Save】
+L103: 
+L104: General
+L105: 
+L106:   * 【49†What links here】
+L107:   * 【50†Related changes】
+L108:   * 【51†Upload file】
+L109:   * 【52†Permanent link】
+L110:   * 【53†Page information】
+L111:   * 【54†Cite this page】
+L112:   * 【55†Get shortened URL】
+L113:   * 【56†Switch to legacy parser】
+L114: 
+L115: Print/export
+L116: 
+L117:   * 【57†Download as PDF】
+L118:   * Printable version
+L119: 
+L120: In other projects
+L121: 
+L122:   * 【58†Wikidata item†www.wikidata.org】
+L123: 
+L124: Appearance
+L125: 
+L126: [Button: move to sidebar] [Button: hide]
+L127: Kola Swarupam Kolathunadu
+L128: ---
+L129: c. 6th century BCE (conventional dating)–modern era
+L130: 【59†Ezhimala】, early historic headquarters of Kola Swaroopam
+L131: Capital  | 【60†Ezhimala】, 【61†Valapattanam】, 【62†Chirakkal】 and various other capitals
+L132: Common languages  | 【63†Malayalam】
+L133: Religion  | 【64†Hinduism】
+L134: Government  | 【65†Absolute Monarchy】
+L135: 【66†Kolattiri】  |
+L136: History  |
+L137: • Established  | c. 6th century BCE (conventional dating)
+L138: • Disestablished  | modern era
+L139: Preceded by Succeeded by
+L140: 【67†Image†upload.wikimedia.org】 【68†Chera dynasty】
+L141: 【69†Company rule in India】 【67†Image†upload.wikimedia.org】
+L142: Kolathunadu (Malayalam: കോലത്തുനാട്, pronounced 【70†[koːlɐt̪ːun̪aːɖə̆]】) (Kola Swarupam, as Kingdom of Cannanore in foreign accounts, Chirakkal (Chericul) in later times) was one of the four most powerful 【71†kingdoms】 on the 【72†Malabar Coast】 during the arrival of the 【73†Portuguese Armadas】 in India, along with 【74†Zamorin】, the 【75†kingdom of Cochin】 and 【76†Quilon】.
+L143: Kolattunādu had its capital at 【60†Ezhimala】 and was ruled by the 【66†Kolattiri royal family】 and roughly comprised the 【77†North Malabar】 region of 【78†Kerala state】 in India.
+L144: Traditionally, Kolattunādu is described as the land lying between the 【79†Chandragiri river】 in the north and the 【80†Korappuzha】 river in the south.^{【81†[1]】} The Kolathunadu (【82†Kannur】) kingdom at the peak of its power, reportedly extended from the 【83†Netravati River】 (【84†Mangalore】) in the north to 【85†Korapuzha】 (【86†Kozhikode】) in the south with the 【87†Arabian Sea】 on the west and 【88†Kodagu】 hills on the eastern boundary, also including the isolated islands of 【89†Lakshadweep】 in the 【87†Arabian Sea】.^{【90†[2]】}
+L145: The ruling house of Kolathunādu, known as the 【66†Kolathiris】, rose to become one of the major political powers in the Kerala region, after the disappearance of the 【91†Cheras of Mahodayapuram】 and the 【92†Pandyan Dynasty】 in the 12th century AD.^{【93†[3]】}^{【94†[4]】}
+L146: . The Indian anthropologist 【95†Ayinapalli Aiyappan】 states that a powerful and warlike clan of the 【96†Bunt community】 of 【97†Tulu Nadu】 was called Kola Bari and the Kolathiri Raja of Kolathunadu was a descendant of this clan.^{【98†[5]】} The more famous 【99†Travancore royal family】 is a close cousin dynasty of the Kolathiris.^{【100†[6]】}^{【101†[7]】}^{【102†[8]】}
+L147: Though the Kolattiris were generally credited with superior political authority over the zone between the kingdoms of 【103†Canara】 and 【74†Zamorin】's Calicut, their political influence was more or less confined to Kolattunādu.^{【104†[9]】}^{【105†[10]】}
+L148: Ezhimala, their ancient capital, was one of the most important trading centres on the Malabar coast along with 【106†Quilon】 and Calicut, and found mention in the writings of 【107†Ibn Battuta】, 【108†Marco Polo】 and Wang Ta-Yuan. In the course of time, their territories were divided into a number of petty vassal principalities, chief among them 【109†Cannanore and Laccadives】, Cotiote and Wynad, Cartinad (Badagara), Irvenaad, and Randaterra.
+L149: The so-called "Five Friendly Northern Rulers" (Nilesvaram, Kumbla, Vitalh, Bangor, and Chowtwara) were contiguous to Kolattnad, north of the 【110†Kavvayi river】. They engaged in frequent rivalry with their powerful neighbors in the south, the 【74†Zamorins】 of Calicut—a permanent feature of Kerala history. The caste restrictions and Korapuzha boundary between North Malabar and the Zamorin's kingdom were established after their rivalry.
+L150: Some historical accounts also suggest that the Kolathunad kingdom was friendly with the 【111†Travancore】 kingdom and the 【112†Tulu】 kingdom.^{【113†[11]】}
+L151: 【114†Cherusseri Namboothiri】 (c. 1375-1475 AD), the author of Krishna Gatha, a landmark in the development of 【115†Malayalam literature】, lived in the court of Udayavarman Kolattiri, one of the kings of the Kolathiri dynasty.
+L152: ## History
+L153: 
+L154: [【116†edit】]
+L155: 
+L156:  | This section needs 【117†more citations】. Please help 【118†improve this section】 by 【119†adding citations to reliable sources】. Unsourced material may be challenged and 【120†removed】.
+L157: Find sources: 【121†"Kolathunadu"†www.google.com】 – 【122†news†www.google.com】 · 【123†newspapers†www.google.com】 · 【124†books†www.google.com】 · 【125†scholar†scholar.google.com】 · 【126†JSTOR†www.jstor.org】 (July 2023) (【127†Learn how and when to remove this message】)
+L158: ### Background
+L159: 
+L160: [【128†edit】]
+L161: 
+L162: The origin of the Ezhimala rulers, the Mushaka kingdom, and Kolathunad is unclear in terms of conventional history.
+L163: Christian missionary 【129†Samuel Mateer】 opined: "There seems reason to believe that the whole of the kings of Malabar also, notwithstanding the pretensions set up for them of late by their dependents, belong to the same great body, and are homogeneous with the mass of the people called Nairs, So Namboodiris were reluctant to give Kshtriyahood to all the Nair lords, In 1617 A.D Kolathiri Rāja, Udayavarman, wished to further promote himself to Soma Kshatriya by performing Hiranya-garbhā,^{【130†[12]】}^{【131†[13]】} which the Nambũdiris refused.
+L164: Consequently, Udayavarman brought 237 Brahmin families (Sāgara Dwijas) from 【132†Gokarnam】 and settled them in five Desams. (Cheruthāzham, Kunniriyam, Arathil, Kulappuram and Vararuchimangalam of Perinchelloor Grāmam). The latter adopted Nambũdiri customs and performed Hiranya-garbhā and conferred Kshatriyahood on the former.^{【131†[13]】}^{【133†[14]】}
+L165: #### Ezhimala rulers
+L166: 
+L167: [【134†edit】]
+L168: 
+L169: See also: 【135†Nannan】
+L170: 
+L171: Names, routes and locations of the 【136†Periplus of the Erythraean Sea】 (1st century CE)
+L172: 
+L173: The ancient port of Naura, which is mentioned in the 【136†Periplus of the Erythraean Sea】 as a port somewhere north of 【137†Muziris】 is identified with 【82†Kannur】.^{【138†[15]】}
+L174: 【139†Pliny the Elder】 (1st century CE) states that the port of 【140†Tyndis】 was located at the northwestern border of Keprobotos (【68†Chera dynasty】).^{【141†[16]】} The 【77†North Malabar】 region, which lies north of the port at 【140†Tyndis】, was ruled by the kingdom of 【60†Ezhimala】 during 【142†Sangam period】.^{【143†[17]】} According to the 【136†Periplus of the Erythraean Sea】, a region known as 【144†Limyrike】 began at 【82†Naura】 and Tyndis.
+L175: However the 【145†Ptolemy】 mentions only Tyndis as the 【144†Limyrike】's starting point. The region probably ended at 【146†Kanyakumari】; it thus roughly corresponds to the present-day Malabar Coast. The value of Rome's annual trade with the region was estimated at around 50,000,000 【147†sesterces】.^{【148†[18]】} Pliny the Elder mentioned that 【144†Limyrike】 was prone by pirates.^{【149†[19]】} The 【150†Cosmas Indicopleustes】 mentioned that the 【144†Limyrike】 was a source of peppers.^{【151†[20]】}^{【152†[21]】}
+L176: During the 【142†Sangam period】, the early centuries of the Christian era, both present-day Kerala and Tamil Nadu were considered part of a common cultural realm and a common geographical settlement pattern, in spite of being under distinct political entities.^{【153†[22]】} More specifically, Tamil anthologies of the early Christian era make no sharp cultural or social distinction between the Pandyas, the Cheras, or the Cholas, and the Velir chiefs, all operating within a common cultural and geographical milieu.
+L177: Also later, the Hindu temples on the western coast were also included in the sacred geography of the Tamil Bhakti movement and were profusely praised by the 【154†Alwars】 and 【155†Nayanars】, the main proponents of the movement, in their verses.^{【156†[23]】}
+L178: In the 【157†Tamil】 【158†Sangam Age】, northern Malabar like the rest of present-day Kerala, 【97†Tulu Nadu】, 【159†Coorg】, and some parts of Tamil Nadu was under the rule of the Cheras. A branch of the Cheras (and others like the Pandyas and Cholas) with its capital at Ezhil mala (and with second capital at Pazhi), known as the Mushika dynasty ruled the area on behalf of the Cheras.
+L179: Ezhil mala (Mount Deli in European accounts) and its neighboring regions became dynamic centers of sociopolitical activities in the early centuries of the Christian era.^{【160†[24]】} The Ezhil mala kingdom (Konka-nam, a part of the Puzhi-nadu) comprised practically the whole of the ypresent Kannur and Wayanad districts and a portion of the Tulu country and parts of Coorg and Gudalur as well. This was the north-westernmost Tamil speaking area of the ancient Tamil country.
+L180: Ezhimala kingdom based at 【60†Ezhimala】 had jurisdiction over two Nadus - coastal Poozhinadu and the hilly eastern Karkanadu. According to the works of 【161†Sangam literature】, Poozhinadu consisted much of the coastal belt between 【84†Mangalore】 and 【86†Kozhikode】.^{【162†[25]】} Karkanadu consisted of 【163†Wayanad】-【164†Gudalur】, a hilly region with parts of 【88†Kodagu】 (Coorg).^{【165†[26]】}
+L181: It is said that Nannan, the most renowned ruler of Ezhimala dynasty, took refuge at 【163†Wayanad】 hills in the 5th century CE when he was lost to 【68†Cheras】, just before his death in a battle, according to the 【161†Sangam works】.^{【165†[26]】} Ezhimala kingdom was succeeded by the 【166†Mushika dynasty】 in the early medieval period, most possibly due to the migration of 【167†Tuluva Brahmins】 from 【97†Tulu Nadu】.
+L182: The Kolathunadu (【82†Kannur】) kingdom, who were the descendants of the Mushika dynasty, at the peak of its power reportedly extended from 【83†Netravati River】 (Mangalore) in the north^{【90†[2]】} to 【85†Korapuzha】 in the south with Arabian Sea on the west and 【88†Kodagu】 hills on the eastern boundary.^{【162†[25]】}
+L183: Nannan of Ezhil mala was the most celebrated ruler of this dynasty. Surviving Tamil anthologies draw a brilliant picture of Nannan and describe his engagements with ruling elites such as the 【168†Cheras】.^{【160†[24]】} He was more of a tribal chieftain who engaged primarily in plundering raids in the neighboring territories.^{【169†[27]】}
+L184: However, in the beginning of the 1st century AD, the kingdom of Ezhil mala rose to political prominence under Nannan with his capital at Pazhi. Nannan was a warrior king who conducted expeditions deep into the interior regions and brought the Wynad-Gudalur region and a part of Kongunadu (Salem-Coimbatore region) under his control. According to Tamil poets he made several victories (including the Battle of Pazhi) over the Cheras.
+L185: King Narmudi Cheral, the successor of Sel Kelu Kuttuvan, sent Chera forces under General Migili against Nannan. But, he was defeated in the Battle of Pazhi against the Ezhil mala forces. But later, Nannan was defeated in a series of subsequent engagements. He was forced to flee his capital Pazhi and seek asylum in Wynad hills. The battles ended when Narmudi Cheral crushed Nannan's forces in the Battle of Vagai Perum Turai. According to Agananuru, Nannan was killed in the battle.
+L186: After his death, the control of the Ezhimala kingdom came under the Cheras.
+L187: The city of Pazhi, the later capital of the Ezhil mala kingdom, was famous for its rich treasures of gold and precious stones. They had close trade relations with the ancient Romans on Malabar Coast.
+L188: 【77†North Malabar】 was a hub of 【170†Indian Ocean trade】 during this era. According to 【171†Kerala Muslim】 tradition, Kolathunadu was home to several of the 【172†oldest mosques】 in the 【173†Indian subcontinent】.
+L189: According to the 【174†Legend of Cheraman Perumals】, the first Indian mosque was built in 624 AD at Kodungallur with the mandate of the last ruler (the Cheraman Perumal) of 【68†Chera dynasty】, who left from 【175†Dharmadom】 to 【176†Mecca】 and converted to 【177†Islam】 during the lifetime of 【178†Muhammad】 (c. 570–632).^{【179†[28]】}^{【180†[29]】}^{【181†[30]】}^{【182†[31]】}
+L190: According to 【183†Qissat Shakarwati Farmad】, the 【184†Masjids】 at Kodungallur, Kollam, 【185†Madayi】, 【186†Barkur】, mMangalore, 【187†Kasaragod】, 【82†Kannur】, 【188†Dharmadam】, 【189†Panthalayani】, and 【190†Chaliyam】, were built during the era of 【191†Malik Dinar】, and they are among the oldest Masjids in 【192†Indian Subcontinent】.^{【193†[32]】} It is believed that 【191†Malik Dinar】 died at 【194†Thalangara】 in 【187†Kasaragod】.^{【195†[33]】}
+L191: Most of them lie in the erstwhile region of Ezhimala. The Koyilandy Jumu'ah Mosque contains an 【196†Old Malayalam】 inscription written in a mixture of 【197†Vatteluttu】 and 【198†Grantha scripts】 which dates back to the 10th century CE.^{【199†[34]】} It is a rare surviving document recording patronage by a 【200†Hindu】 king (Bhaskara Ravi) to the 【201†Muslims】 of Kerala.^{【199†[34]】}
+L192: #### Mushaka dynasty
+L193: 
+L194: [【202†edit】]
+L195: 
+L196: Main article: 【203†Mushika kingdom】
+L197: 
+L198: 【204†Ananthapadmanabhaswamy temple】 at Ananthapura, 【205†Kumbla】
+L199: By the 8th century, the political atmosphere in southern India had changed rather dramatically as a new political culture based on settled agrarian exploitation took root in the region. As in other parts of the Indian sub-continent, Brahmanism provided the ideological support for these newly emerging regional, primarily agrarian states.
+L200: An 【196†Old Malayalam】 inscription (【206†Ramanthali inscriptions】), dated to 1075 CE, mentioning king Kunda Alupa, the ruler of 【207†Alupa dynasty】 of 【84†Mangalore】, can be found at 【60†Ezhimala】 (the former headquarters of 【166†Mushika dynasty】) near 【82†Cannanore】, Kerala.^{【208†[35]】} The 【209†Arabic】 inscription on a copper slab within the 【210†Madayi Mosque】 in 【82†Kannur】 records its foundation year as 1124 CE.^{【211†[36]】} The 【212†Mushika-vamsha】 Mahakavya, written by 【213†Athula】 in the 11th century, throws light on the recorded past of the 【214†Mushika Royal Family】 up until that point.^{【90†[2]】}
+L201: Between the 9th and 12th centuries, a dynasty called "Mushaka" controlled the Chirakkal areas of northern Malabar (the Wynad-Tellichery area was part of the second Chera kingdom). The Mushakas were probably the descendants of the ancient royal family of Nannan of Ezhi mala and were perhaps a vassal of the Cheras.
+L202: Some scholars have expressed the view that Mushakas were not under the Cheras, since the ruler of Mushaka does not figure along with the rulers of Eralnadu and Valluvanadu as a signatory in the famous Terisappalli and Jewish Copper Plates. Up to the 11th century, the Mushaka kings followed patrilineal system of succession, and thereafter they gradually switched over to the matrilineal system. In his book on travels (【215†Il Milione】), 【108†Marco Polo】 recounts his visit to the area in the mid 1290s.
+L203: Other visitors included 【216†Faxian】, the Buddhist pilgrim and 【217†Ibn Batuta】, writer and historian of 【218†Tangiers】.
+L204: 【212†Mushika-vamsha】, a Sanskrit poem written by Atula, describes a number of Mushaka kings such as Vikrama Rama, Jayamani, Vallabha II and Srikantha. Atula was the court poet of King Srikantha who ruled towards the end of the 11th century AD.
+L205: King Vikrama Rama is said to have saved the famous Buddhist vihara of Sri Mulavasa from a terrible sea erosion on the Malabar Coast. Prince Vallabha II was dispatched by King Jayamani to assist the Chera forces during the invasion of the Chola ruler Kulottunga. However, before he could join with the Chera army, he heard the death of his father and he returned to the capital to prevent the usurpation of the Mushaka throne by his enemies.
+L206: On reaching the capital, he defeated his rivals and ascended the throne. Vallabha II also founded the port of Marahi (Madayi) at the mouth of Killa river and the port of Valabha Pattanam (Valiaptam). The city of Valabha Pattanam was protected with lofty towers and high walls. He also annexed Laccadive, Minicoy and Amindivi islands in the Arabian sea. Srikantha (also known as Raja Dharma), his younger brother, succeeded Vallabha II.
+L207: According to the Mushika Vamsa, Rama Ghata Mushaka established the lineage of Kola Swarupam.^{【219†[37]】} In addition, an inscription dating to 929 AD mentions about one Vikrama Rama, identifiable with the ruler Vikrama Rama who appears in the Mushika Vamsa.^{【220†[38]】} Another inscription from 10th century AD mentions a chieftain, Udaya Varma, who bore the title "Rama Ghata Muvar"— an epithet used by the Mushaka kings.
+L208: An inscription from the Tiruvattur temple mentions an Eraman Chemani (Rama Jayamani) who is identifiable with the king who appears as the 109th ruler in the Mushika Vamsa.^{【221†[39]】}
+L209: The Mushaka family has found mention in surviving mythical Indian texts like the 【222†Vishnu Purana】^{【223†[40]】} and also in Greek accounts like that of 【224†Strabo】.^{【225†[41]】} The Kolathiris are praised as Vadakkan Perumals ("Kings of the North") by the noted "【226†Keralolpathi】".^{【227†[42]】}
+L210: ### Rise of Kolathunadu (Cannanore)
+L211: 
+L212: [【228†edit】]
+L213: 
+L214: 【229†Mappila Bay】 harbour at 【230†Ayikkara】. On one side, there is 【231†St. Angelo Fort】 (built in 1505) and on the other side is 【109†Arakkal palace】. A portrait of Kannur drawn in 1572, from 【232†Georg Braun】 and 【233†Frans Hogenberg】's atlas Civitates orbis terrarum, Volume I Kannur fort and Bay; a watercolor by John Johnston (1795–1801)
+L215: The socio-cultural uniqueness of the state called Kolathunadu became more distinctive only after the disappearance of the Second Cheras by the early 12th century.^{【153†[22]】} The Indian anthropologist 【95†Ayinapalli Aiyappan】 states that a powerful and warlike clan of the 【96†Bunt community】 of 【97†Tulu Nadu】 was called Kola Bari and the Kolathiri Raja of Kolathunadu was a descendant of this clan.^{【98†[5]】} Before the arrival the Portuguese, 【86†Calicut】 fought a number of wars against Cannanore (Kolathunad).
+L216: A prince of the Kolattiri royal family was stationed at Pantalayini Kollam as southern Viceroy. Pantalayini Kollam was an important port on the Malabar Coast. During his conquests, the Zamorin occupied Pantalayini Kollam as a preliminary advance to Cannanore. Kolattiri immediately sent ambassadors to submit to whatever terms Calicut might dictate. Cannanore officially transferred the regions already occupied to Calicut and certain Hindu temple rights.
+L217: Foreign accounts also corroborate the distinct identity of Kolathunadu. 【108†Marco Polo】, who visited Malabar coast in the 12th century, noticed the independent status of the king of this region.^{【234†[43]】} The 14th century narrative of 【107†Ibn Battuta】 refers to the ruler of this region as residing at a city called 【235†Balia Patanam】.^{【236†[44]】} This offers a clue that by this time, the capital of Kolathunadu had shifted from Ezhil mala to Balia Patanam, a town located south of Ezhil mala.
+L218: In the 16th century, a Portuguese official Duarte Barbosa also mentions Balia Patanam ("Balia Patam" in European records) as the residence of the king of Cannanore.^{【104†[9]】}
+L219: Until the 16th century CE, 【237†Kasargod】 town was known by the name Kanhirakode (may be by the meaning, 'The land of Kanhira Trees') in 【238†Malayalam】.^{【239†[45]】} The 【205†Kumbla】 dynasty, who swayed over the land of southern 【97†Tulu Nadu】 wedged between 【240†Chandragiri River】 and 【83†Netravati River】 (including present-day Taluks of 【241†Manjeshwar】 and 【187†Kasaragod】) from Maipady Palace at 【205†Kumbla】, had also been vassals to the Kolathunadu kingdom of 【77†North Malabar】, before the 【242†Carnatic】 conquests of 【243†Vijayanagara Empire】.^{【244†[46]】} The Kumbla dynasty had a mixed lineage of 【245†Malayali】 【246†Nairs】 and 【167†Tuluva Brahmins】.^{【247†[47]】} They also claimed their origin from 【174†Cheraman Perumals】 of Kerala.^{【247†[47]】} 【248†Francis Buchanan-Hamilton】 states that the customs of Kumbla dynasty were similar to those of the contemporary 【245†Malayali】 kings, though Kumbla was considered as the southernmost region of 【97†Tulu Nadu】.^{【247†[47]】} During the 17th century, Kannur was the capital city of the only 【201†Muslim】 Sultanate in the Malabar region - 【249†Arakkal】 - who also ruled the 【250†Laccadive Islands】 in addition to the city of Kannur.^{【251†[48]】}
+L220: The port at 【86†Kozhikode】 held the superior economic and political position in medieval Kerala coast, while 【82†Kannur】, 【106†Kollam】, and 【252†Kochi】, were commercially important secondary ports, where the traders from various parts of the world would gather.^{【253†[49]】} The Portuguese arrived at 【254†Kappad】 【86†Kozhikode】 in 1498 during the 【255†Age of Discovery】, thus opening a direct sea route from 【256†Europe】 to 【257†India】.^{【258†[50]】} The 【231†St.
+L221: Angelo Fort】 at Kannur was built in 1505 by Dom 【259†Francisco de Almeida】, the first Portuguese Viceroy of India.
+L222: ## Administration
+L223: 
+L224: [【260†edit】]
+L225: 
+L226: 【66†Kolattiri Raja】's minister Kuruppu's 【209†Arabic】 letter to 【261†Vasco da Gama】 (1524)
+L227: The political lordship of the original kingdom of Kolattiri was partitioned along various matrilineal-divisions of the Kolattiri family and had rulers of the respective parts or Kũrvāzhcha (part-dominions) namely Kolattiri, Tekkālankũr, Vadakkālankũr, Naalāmkũr, and Anjāmkũr. The administration of Kolattunādu was divided into various segments of authority each of which performed functions similar to those of the superior powers but on a smaller scale.^{【262†[51]】}
+L228: The administration was conducted through chiefs-in-tenant under the Kolattiri. This included dignitaries called "nāduvazhis", "desavazhis" and "mukhyastans". The nāduvazhis, who were heads of "nādus" or districts headed Nair militias of 500 -20,000. Below the nāduvazhis in the administrative hierarchy were desavazhis who were heads of hamlets called "desams". These were divisions of nādus. Desavazhis headed Nair militias ranging from 100 to 500 men.
+L229: Below the desavazhis were other local potentates called mukhyastans. However, as in any feudal society, the Kolattiris were unable to centralize their state and the inability of the Kolattiris to monopolize the use of force in the realm on account of their weak economic position meant that the outward appearance of regal authority remained more or less nominal.
+L230: ### Decentralized realm
+L231: 
+L232: [【263†edit】]
+L233: 
+L234: There appears to have been a significant discrepancy between the ideal type of polity presented in Brahmanical texts such as the Keralolpathi, where the Kolathiri Rājā is presented as the custodian of legitimized political power, and the actual working of power relations in the region.
+L235: It appears the Kolathiris never exercised a monopoly of authority in the realm. Authority was a decentralized, shared, and pluralistic entity. The kingly status attributed to the Kolathiris remained more or less a nominal one. The Kolathiris had to sustain their political dignity within the constraints set by the limits of their economic resource base as the geographical features of Kolathunādu did not guarantee a large-scale agricultural surplus.
+L236: Shaped by the limited agrarian economy in Kolathunādu, the possibility of a centralized political structure to emerge was limited.^{【264†[52]】}

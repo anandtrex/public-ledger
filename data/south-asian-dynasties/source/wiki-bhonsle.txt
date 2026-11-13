@@ -1,0 +1,313 @@
+Maratha Empire - Wikipedia (https://en.wikipedia.org/wiki/Maratha_Empire)
+citeturn84view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Maratha_Empire","lineno":null}); Total lines: 844
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Nomenclature】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Shivaji and his descendants】
+L51:     * 【21†2.2 Peshwa era】
+L52:     * 【22†2.3 Confederacy era】
+L53:       * 【23†2.3.1 Maratha–Mysore Wars】
+L54:       * 【24†2.3.2 British intervention】
+L55:   * 【25†3 Geography】
+L56:   * 【26†4 Territorial evolution】
+L57:   * 【27†5 Government and military】 Toggle Government and military subsection
+L58:     * 【28†5.1 Administration】
+L59:     * 【29†5.2 Military】
+L60:       * 【30†5.2.1 Afghan accounts】
+L61:       * 【31†5.2.2 European accounts】
+L62:   * 【32†6 Rulers, administrators and generals】 Toggle Rulers, administrators and generals subsection
+L63:     * 【33†6.1 Chhatrapati】
+L64:     * 【34†6.2 Peshwas】
+L65:       * 【35†6.2.1 Peshwas from the Bhat family】
+L66:     * 【36†6.3 Federal houses of Maratha Confederacy】
+L67:   * 【37†7 See also】
+L68:   * 【38†8 Notes】
+L69:   * 【39†9 References】 Toggle References subsection
+L70:     * 【40†9.1 Citations】
+L71:     * 【41†9.2 Bibliography】
+L72:   * 【42†10 Further reading】
+L73: [Input] Toggle the table of contents
+L74: # Maratha Empire
+L75: 
+L76: [Input] 75 languages
+L77:   * 【43†Afrikaans†af.wikipedia.org】
+L78:   * 【44†अंगिका†anp.wikipedia.org】
+L79:   * 【45†العربية†ar.wikipedia.org】
+L80:   * 【46†অসমীয়া†as.wikipedia.org】
+L81:   * 【47†Asturianu†ast.wikipedia.org】
+L82:   * 【48†Azərbaycanca†az.wikipedia.org】
+L83:   * 【49†تۆرکجه†azb.wikipedia.org】
+L84:   * 【50†Беларуская (тарашкевіца)†be-tarask.wikipedia.org】
+L85:   * 【51†Беларуская†be.wikipedia.org】
+L86:   * 【52†Български†bg.wikipedia.org】
+L87:   * 【53†বাংলা†bn.wikipedia.org】
+L88:   * 【54†Català†ca.wikipedia.org】
+L89:   * 【55†Cebuano†ceb.wikipedia.org】
+L90:   * 【56†کوردی†ckb.wikipedia.org】
+L91:   * 【57†Čeština†cs.wikipedia.org】
+L92:   * 【58†Dansk†da.wikipedia.org】
+L93:   * 【59†Deutsch†de.wikipedia.org】
+L94:   * 【60†Ελληνικά†el.wikipedia.org】
+L95:   * 【61†Esperanto†eo.wikipedia.org】
+L96:   * 【62†Español†es.wikipedia.org】
+L97:   * 【63†Eesti†et.wikipedia.org】
+L98:   * 【64†Euskara†eu.wikipedia.org】
+L99:   * 【65†فارسی†fa.wikipedia.org】
+L100:   * 【66†Suomi†fi.wikipedia.org】
+L101:   * 【67†Français†fr.wikipedia.org】
+L102:   * 【68†ગુજરાતી†gu.wikipedia.org】
+L103:   * 【69†עברית†he.wikipedia.org】
+L104:   * 【70†हिन्दी†hi.wikipedia.org】
+L105:   * 【71†Fiji Hindi†hif.wikipedia.org】
+L106:   * 【72†Hrvatski†hr.wikipedia.org】
+L107:   * 【73†Magyar†hu.wikipedia.org】
+L108:   * 【74†Հայերեն†hy.wikipedia.org】
+L109:   * 【75†Bahasa Indonesia†id.wikipedia.org】
+L110:   * 【76†Íslenska†is.wikipedia.org】
+L111:   * 【77†Italiano†it.wikipedia.org】
+L112:   * 【78†日本語†ja.wikipedia.org】
+L113:   * 【79†ქართული†ka.wikipedia.org】
+L114:   * 【80†Taqbaylit†kab.wikipedia.org】
+L115:   * 【81†ಕನ್ನಡ†kn.wikipedia.org】
+L116:   * 【82†한국어†ko.wikipedia.org】
+L117:   * 【83†Kurdî†ku.wikipedia.org】
+L118:   * 【84†Latviešu†lv.wikipedia.org】
+L119:   * 【85†मगही†mag.wikipedia.org】
+L120:   * 【86†മലയാളം†ml.wikipedia.org】
+L121:   * 【87†मराठी†mr.wikipedia.org】
+L122:   * 【88†Bahasa Melayu†ms.wikipedia.org】
+L123:   * 【89†नेपाली†ne.wikipedia.org】
+L124:   * 【90†नेपाल भाषा†new.wikipedia.org】
+L125:   * 【91†Nederlands†nl.wikipedia.org】
+L126:   * 【92†Norsk nynorsk†nn.wikipedia.org】
+L127:   * 【93†Norsk bokmål†no.wikipedia.org】
+L128:   * 【94†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L129:   * 【95†Polski†pl.wikipedia.org】
+L130:   * 【96†پنجابی†pnb.wikipedia.org】
+L131:   * 【97†پښتو†ps.wikipedia.org】
+L132:   * 【98†Português†pt.wikipedia.org】
+L133:   * 【99†Русский†ru.wikipedia.org】
+L134:   * 【100†संस्कृतम्†sa.wikipedia.org】
+L135:   * 【101†Scots†sco.wikipedia.org】
+L136:   * 【102†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L137:   * 【103†Simple English†simple.wikipedia.org】
+L138:   * 【104†Српски / srpski†sr.wikipedia.org】
+L139:   * 【105†Svenska†sv.wikipedia.org】
+L140:   * 【106†தமிழ்†ta.wikipedia.org】
+L141:   * 【107†తెలుగు†te.wikipedia.org】
+L142:   * 【108†ไทย†th.wikipedia.org】
+L143:   * 【109†Türkçe†tr.wikipedia.org】
+L144:   * 【110†Українська†uk.wikipedia.org】
+L145:   * 【111†اردو†ur.wikipedia.org】
+L146:   * 【112†Oʻzbekcha / ўзбекча†uz.wikipedia.org】
+L147:   * 【113†Tiếng Việt†vi.wikipedia.org】
+L148:   * 【114†吴语†wuu.wikipedia.org】
+L149:   * 【115†閩南語 / Bân-lâm-gí†zh-min-nan.wikipedia.org】
+L150:   * 【116†粵語†zh-yue.wikipedia.org】
+L151:   * 【117†中文†zh.wikipedia.org】
+L152: 【118†Edit links†www.wikidata.org】
+L153: 
+L154:   * 【119†Article】
+L155:   * 【120†Talk】
+L156: 
+L157: [Input] English
+L158: 
+L159:   * 【119†Read】
+L160:   * 【121†View source】
+L161:   * 【122†View history】
+L162:   * 【17†Save】
+L163: 
+L164: [Input] Tools
+L165: 
+L166: Tools
+L167: 
+L168: [Button: move to sidebar] [Button: hide]
+L169: 
+L170: Actions
+L171: 
+L172:   * 【119†Read】
+L173:   * 【121†View source】
+L174:   * 【122†View history】
+L175:   * 【17†Save】
+L176: 
+L177: General
+L178:   * 【123†What links here】
+L179:   * 【124†Related changes】
+L180:   * 【125†Upload file】
+L181:   * 【126†Permanent link】
+L182:   * 【127†Page information】
+L183:   * 【128†Cite this page】
+L184:   * 【129†Get shortened URL】
+L185:   * 【130†Switch to legacy parser】
+L186: 
+L187: Print/export
+L188: 
+L189:   * 【131†Download as PDF】
+L190:   * Printable version
+L191: 
+L192: In other projects
+L193: 
+L194:   * 【132†Wikimedia Commons†commons.wikimedia.org】
+L195:   * 【133†Wikiquote†en.wikiquote.org】
+L196:   * 【134†Wikivoyage†en.wikivoyage.org】
+L197:   * 【135†Wikidata item†www.wikidata.org】
+L198: 
+L199: Appearance
+L200: [Button: move to sidebar] [Button: hide]
+L201: 
+L202: Maratha Empire
+L203: Maratha Confederacy
+L204: ---
+L205: 1674–1818
+L206: 【136†Bhagwa Dhwaj】 Royal seal of 【137†Shivaji I】
+L207: Motto: 【138†Har Har Mahādēv】^{【139†[1]】}^{【140†[2]】}(【141†English】: "Praises to 【142†Mahādēv (Shiva)】")
+L208: The Maratha Empire (yellow) in 1760
+L209: Capital  | Royal seat:
+L210: 
+L211:   * 【143†Rajgad】 (1647-1674)
+L212:   * 【144†Raigad】 (1674–1689, de jure)
+L213:   * 【145†Jinji】 (1689–1698, de facto)
+L214:   * 【146†Satara】 (1700–1818)
+L215: 
+L216: * * *
+L217: 
+L218: Peshwa's seat:
+L219: 【147†Poona】 (1728–1818)
+L220: Official languages  |
+L221:   * 【148†Marathi】 (court language, literature)
+L222:   * 【149†Sanskrit】 (religious)
+L223: Religion  | State religion:
+L224: 【150†Hinduism】
+L225: 
+L226: * * *
+L227: Other:
+L228: 【151†Other religions in South Asia】
+L229: Government  | 【152†Absolute monarchy】 (1674–1761)
+L230: 【153†Federal】 【154†aristocracy】 with a restricted monarchial 【155†figurehead】^{【156†[3]】} (1761–1818)
+L231: 【157†Chhatrapati】  |
+L232: • 1674–1680 (first)  | 【137†Shivaji I】
+L233: • 1808–1818 (last)  | 【158†Pratap Singh】
+L234: 【159†Peshwa】  |
+L235: • 1674–1683 (first)  | 【160†Moropant Pingle】
+L236: • 1803–1818 (last)  | 【161†Baji Rao II】
+L237: • 1858–1859  | 【162†Nana Saheb】 (claimed titular)
+L238: Legislature  | 【163†Ashta Pradhan】
+L239: History  |
+L240: • Coronation of 【164†Shivaji】  | 6 June 1674
+L241: • 【165†Deccan Wars】  | 1680–1707
+L242: • Appointment of 【166†Balaji Vishwanath】 as 【159†Peshwa】  | 16 November 1713^{【167†[4]】}^{【168†[5]】}
+L243: • 【169†Treaty of Bhopal】  | 7 January 1738
+L244: • 【170†Afghan–Maratha War】  | 8 March 1758 – 14 January 1761
+L245: • 【171†Maratha–Mysore wars】  | August 1768–April 1787
+L246: • 【172†Third Anglo-Maratha War】  | 5 November 1817 – 9 April 1819
+L247: • Dissolution of the Marathas  | 1818
+L248: Area
+L249: ---
+L250: 1760^{【173†[6]】}^{【174†[7]】}  | 2,500,000 km^{2} (970,000 sq mi)
+L251: Currency  | 【175†Rupee】, 【176†Paisa】, 【177†Shivrai】
+L252: Preceded by Succeeded by
+L253: 【178†Image†upload.wikimedia.org】 【179†Bijapur Sultanate】
+L254: 【178†Image†upload.wikimedia.org】 【180†Mughal Empire】
+L255: 【181†Company Raj】 【178†Image†upload.wikimedia.org】
+L256: 【182†Satara State】 【178†Image†upload.wikimedia.org】
+L257: Today part of  |
+L258:   * 【183†India】
+L259:   * 【184†Pakistan】
+L260: 
+L261: The Maratha Empire,^{【185†[a]】} also referred to as the Maratha Confederacy, was an 【186†early modern】 【187†polity】 in the 【188†Indian subcontinent】. For most of its existence, it comprised the realms of the 【159†Peshwa】 and four major independent 【189†Maratha states】^{【190†[14]】}^{【191†[15]】} under the nominal leadership of the former and nominal loyalty to the 【157†Chhatrapatis】 who were successors of 【164†Shivaji】.
+L262: The Marathas were a 【148†Marathi】-speaking warrior group from the western 【192†Deccan Plateau】 (present-day 【193†Maharashtra】) that rose to prominence under leadership of 【164†Shivaji】 (17th century), who revolted against the 【194†Bijapur Sultanate】 and the 【180†Mughal Empire】, establishing "【195†Hindavi Swarajya】" (lit.
+L263: (literal translation) 'self-rule of Hindus').^{【196†[16]】}^{【197†[17]】} The religious attitude of 【198†Emperor Aurangzeb】 estranged 【199†non-Muslims】, and the 【200†Maratha insurgency】 came at a great cost for his men and treasury.^{【201†[18]】}^{【202†[19]】} The Maratha government also included warriors, administrators, and other nobles from other 【203†Marathi】 groups.^{【204†[20]】} Shivaji's monarchy, referred to as the Maratha Kingdom,^{【205†[21]】} expanded into a large realm in the 18th century under the leadership of Peshwa 【206†Bajirao I】.
+L264: Marathas from the time of 【207†Shahu I】 recognised the 【208†Mughal emperor】 as their nominal 【209†suzerain】, similar to other contemporary Indian entities, though in practice, 【210†Mughal politics】 were largely controlled by the Marathas between 1737 and 1803.^{【211†[b]】}^{【212†[22]】}^{【213†[23]】}^{【214†[c]】}^{【215†[25]】}^{【216†[26]】}^{【217†[d]】}
+L265: After Aurangzeb's death in 1707, Shivaji's grandson 【207†Shahu】 under the leadership of Peshwa Bajirao revived Maratha power and confided a great deal of authority to the Bhat family, who became hereditary 【159†peshwas】 (【218†prime ministers】). After he died in 1749, they became the effective rulers. The leading Maratha families – Scindia, Holkar, Bhonsle, and Gaekwad – extended their conquests in northern and central India and became more independent.
+L266: The Marathas' rapid expansion was halted with the 【219†defeat of Panipat】 in 1761, at the hands of the 【220†Durrani Empire】.
+L267: However the Marathas managed to retake most of their lost territories ten years later under the leadership of Peshwa 【221†Madhavrao I】.^{【222†[28]】} His death eventually marked the end of Peshwa’s effective authority over other chiefs in the empire.^{【223†[29]】}^{【224†[30]】}^{【225†[31]】} After he was defeated by the Holkar dynasty in 1802, the Peshwa 【161†Baji Rao II】 sought protection from the British 【226†East India Company】, whose intervention destroyed the confederacy by 1818 after the 【227†Second】 and 【172†Third Anglo-Maratha Wars】.
+L268: The structure of the Maratha state was that of a confederacy of four rulers under the leadership of the Peshwa at 【147†Poona】 (now Pune) in 【228†western India】.
+L269: These were the 【229†Scindia】, the 【230†Gaekwad】 based in 【231†Baroda】, the 【232†Holkar】 based in 【233†Indore】 and the 【234†Bhonsle】 based in 【235†Nagpur】.^{【236†[32]】}^{【237†[33]】} The stable borders of the confederacy after the 【238†Battle of Bhopal】 in 1737 extended from modern-day 【193†Maharashtra】^{【239†[34]】} in the south to 【240†Gwalior】 in the north, to 【241†Orissa】 in the east^{【242†[35]】} or about a third (【243†2.5 millions km^{2}】) of the subcontinent.^{【244†[36]】}
+L270: ## Nomenclature
+L271: 
+L272: The Maratha Empire is also referred to as the Maratha Confederacy. Historian 【245†Barbara Ramusack】 notes, "neither term is fully accurate since one implies a substantial degree of centralisation and the other signifies some surrender of power to a central government and a longstanding core of political administrators".^{【246†[37]】}
+L273: Historian 【247†Stewart Gordon】 argues against using the term "【248†empire】" in the same sense as the 【249†Roman】 and 【180†Mughal】 empires since the Maratha polity lacked a grand imperial architecture, as well as the term "【250†confederacy】" because it implies long-term stable power-sharing, which did not characterise the Maratha state. Instead, power dynamics within the Maratha leadership frequently changed, sometimes as often as each decade.^{【251†[38]】}
+L274: 16th and 17th century texts occasionally used terms such as the "Indian Confederacy" or the "Hindu Confederacy" when referring to the coalition of the Maratha chiefs.^{【252†[39]】}^{【253†[40]】}^{【254†[41]】} Although at present, the word 【255†Maratha】 refers to a traditionally Marathi peasantry group, in the past the word has been used to describe all 【203†Marathi people】.^{【256†[42]】}^{【257†[43]】}
+L275: ## History
+L276: ### Shivaji and his descendants
+L277: 
+L278: Early Maratha conquests, in Shivaji's and Shahji's time Portrait of 【164†Shivaji】, in the 【258†Rijksmuseum】, Netherland.
+L279: 【164†Shivaji】 (1630–1680) was a Maratha aristocrat of the 【259†Bhonsle】 clan and was the founder of the Maratha state.^{【260†[44]】} Shivaji led a resistance against the 【261†Sultanate of Bijapur】 in 1645 by winning the fort Torna, followed by many more forts, placing the area under his control and establishing 【195†Hindavi Swarajya】 (self-rule of Hindu people^{【197†[17]】}).
+L280: He created an independent Maratha state with 【262†Raigad】 as its capital^{【263†[45]】} and successfully fought against the Mughals to defend his kingdom. He was crowned as 【157†Chhatrapati】 (sovereign) of the new Maratha Kingdom in 1674.^{【264†[46]】}
+L281: The Maratha dominion under him comprised about 4.1% of the subcontinent, but it was spread over large tracts. At the time of his death,^{【260†[44]】} it was reinforced with about 300 forts, and defended by about 40,000 cavalries, and 50,000 soldiers, as well as naval establishments along the west coast. Over time, the kingdom would increase in size and heterogeneity;^{【265†[47]】} by the time of his grandson's rule, and later under the Peshwas in the early 18th century, it became a vast realm.^{【266†[48]】}
+L282: Shivaji had two sons: 【267†Sambhaji】 and 【268†Rajaram】, who had different mothers and were half-brothers. In 1681, Sambhaji succeeded to the crown after his father's death and resumed his expansionist policies. Sambhaji had earlier defeated the 【269†Portuguese】 and 【270†Chikka Deva Raya】 of 【271†Mysore】. To nullify the alliance between his rebel son, Akbar, and the Marathas,^{【272†[49]】} Mughal Emperor 【198†Aurangzeb】 headed south in 1681.
+L283: With his entire imperial court, administration and an army of about 500,000 troops, he proceeded to expand the Mughal empire, gaining territories such as the sultanates of Bijapur and 【273†Golconda】. During the eight years that followed, Sambhaji led the Marathas successfully against the Mughals.^{【274†[50]】}
+L284: In early 1689, Sambhaji called his commanders for a strategic meeting at 【275†Sangameshwar】 to consider an onslaught on the Mughal forces. In a meticulously planned operation, Ganoji and Aurangzeb's commander, Mukarrab Khan, attacked Sangameshwar when Sambhaji was accompanied by just a few men. Sambhaji was ambushed and captured by the Mughal troops on 1 February 1689.
+L285: He and his advisor, 【276†Kavi Kalash】, were taken to Bahadurgad by the imperial army, where 【277†they were executed】 by the Mughals on 21 March 1689.^{【278†[51]】} Aurangzeb had charged Sambhaji with attacks by Maratha forces on 【279†Burhanpur】.^{【280†[52]】}
+L286: Upon Sambhaji's death, his half-brother Rajaram ascended the throne. The Mughal siege of Raigad continued, and he had to flee to 【281†Vishalgad】 and then to 【145†Gingee】 for safety. From there, the Marathas raided Mughal territory, and many forts were recaptured by Maratha commanders such as 【282†Santaji Ghorpade】, 【283†Dhanaji Jadhav】, 【284†Parshuram Pant Pratinidhi】, Shankaraji Narayan Sacheev and Melgiri Pandit. In 1697, Rajaram offered a truce, which was later rejected by Aurangzeb.
+L287: Rajaram died in 1700 at 【285†Sinhagad】. His widow, 【286†Tarabai】, assumed control in the name of her son 【287†Shivaji II】.^{【288†[53]】}
+L288: A portrait of 【267†Sambhaji】, son of 【164†Shivaji】, and the second Maratha ruler.
+L289: After Aurangzeb died in 1707, 【207†Shahu】, the son of Sambhaji (and grandson of Shivaji), was released by 【289†Bahadur Shah I】, the new Mughal emperor. However, his mother was kept a hostage of the Mughals to ensure that Shahu adhered to the release conditions. Upon release, Shahu immediately claimed the Maratha throne and challenged his aunt Tarabai and her son. The spluttering Mughal-Maratha war became a three-cornered affair.
+L290: This resulted in two rival seats of government being set up in 1707 at Satara and 【290†Kolhapur】 by Shahu and Tarabai respectively. Shahu appointed 【166†Balaji Vishwanath】 as his Peshwa.^{【291†[54]】} The Peshwa was instrumental in securing Mughal recognition of Shahu as the rightful heir of Shivaji and the 【157†Chhatrapati】 of the Marathas.^{【291†[54]】} Balaji also gained the release of Shahu's mother, 【292†Yesubai】, from Mughal captivity in 1719.^{【293†[55]】}
+L291: During Shahu's reign, 【294†Raghoji Bhonsle】 expanded the kingdom eastwards. 【295†Khanderao Dabhade】 and later his son, Triambakrao, expanded it Westwards into Gujarat.^{【296†[56]】} Peshwa Bajirao and his three chiefs, Udaji 【297†Pawar】, 【298†Malharrao Holkar】, and 【299†Ranoji Scindia】 expanded it northwards.^{【300†[57]】}
+L292: ### Peshwa era
+L293: 
+L294: 【301†Shaniwar Wada】 palace fort in 【302†Pune】, it was the seat of the Peshwa rulers of the Maratha Confederacy until 1818.
+L295: 
+L296: Peshwa 【206†Bajirao I】 and 【303†Malhar Rao Holkar】 c.18th century
+L297: Shahu appointed 【166†Balaji Vishwanath】 as Peshwa in 1713. Balaji Vishwanath's first major achievement was the conclusion of the Treaty of Lonavala in 1714 with 【304†Kanhoji Angre】, the most powerful naval chief on the Western Coast who later accepted Shahu as Chhatrapati.
+L298: In 1719, 【305†Marathas】 under Balaji marched to 【306†Delhi】 with 【307†Sayyid Hussain Ali】, the Mughal governor of Deccan, and deposed the Mughal emperor, 【308†Farrukhsiyar】.^{【309†[58]】} The new teenage emperor, 【310†Rafi ud-Darajat】 and a puppet of the Sayyid brothers, granted Shahu rights to collecting 【311†Chauth】 and 【312†Sardeshmukhi】 from the six Mogul provinces of Deccan, and full possession of the territories controlled by Shivaji in 1680.^{【313†[59]】}^{【314†[60]】} After Balaji Vishwanath's death in April 1720, his son, 【315†Baji Rao I】, was appointed Peshwa by Shahu.
+L299: Bajirao is credited with expanding the Maratha Kingdom tenfold from 3% to 30% of the modern Indian landscape during 1720–1740.^{【316†[61]】} The Battle of Palkhed was a land battle that took place on 28 February 1728 at the village of Palkhed, near the city of Nashik, Maharashtra, India between Baji Rao I and 【317†Qamar-ud-din Khan, Asaf Jah I】 of Hyderabad. The Marathas defeated the 【318†Nizam】.
+L300: The battle is considered an example of the brilliant execution of military strategy.^{【309†[58]】} In 1737, Marathas under 【206†Bajirao I】 raided the suburbs of Delhi in a blitzkrieg in the Battle of Delhi (1737).^{【319†[62]】}^{【320†[63]】} The Nizam set out from the Deccan to rescue the Mughals from the invasion of the Marathas, but was defeated decisively in the 【238†Battle of Bhopal】.^{【321†[64]】}^{【322†[65]】} The Marathas extracted a large tribute from the Mughals and signed a treaty which ceded 【323†Malwa】 to the Marathas.^{【324†[66]】} The 【325†Battle of Vasai】 was fought between the Marathas and the 【269†Portuguese】 rulers of 【326†Vasai】, a village lying on the northern shore of Vasai creek, 50 km north of 【327†Mumbai】.
+L301: The Marathas were led by 【328†Chimaji Appa】, brother of Baji Rao. The Maratha victory in this war was a major achievement of Baji Rao's time in office.^{【321†[64]】}
+L302: Baji Rao's son, 【329†Balaji Bajirao】 (Nanasaheb), was appointed as the next Peshwa by Shahu despite the opposition of other chiefs. In 1740, the Maratha forces, under Raghoji Bhonsle, came down upon 【330†Arcot】 and defeated the 【331†Nawab of Arcot】, Dost Ali, in the pass of Damalcherry. In the war that followed, Dost Ali, one of his sons Hasan Ali, and several other prominent people died. This initial success at once enhanced Maratha prestige in the south.
+L303: From Damalcherry, the Marathas proceeded to Arcot, which surrendered to them without much resistance. Then, Raghuji invaded Trichinopoly in December 1740. Unable to resist, 【332†Chanda Sahib】 surrendered the fort to Raghuji on 14 March 1741.
+L304: Chanda Saheb and his son were arrested and sent to Nagpur.^{【333†[67]】} 【334†Rajputana】 also came under Maratha attacks during this time.^{【335†[68]】} In June 1756 Luís Mascarenhas, Count of Alva (Conde de Alva), the Portuguese Viceroy was killed in action by the Maratha Army in Goa.
+L305: After the successful campaign of Karnataka and the 【336†Trichinopolly】, Raghuji returned from Karnataka. He undertook 【337†six expeditions into Bengal】 from 1741 to 1748.^{【338†[69]】} The resurgent Maratha Confederacy launched brutal raids against the prosperous Bengali state in the 18th century, which further added to the decline of the Nawabs of Bengal.
+L306: During their invasions and occupation of 【339†Bihar】^{【340†[70]】} and 【341†western Bengal】 up to the 【342†Hooghly River】^{【343†[71]】} and during their occupation of 【341†western Bengal】, the Marathas perpetrated atrocities against the local population.^{【343†[71]】} The Maratha atrocities were recorded by both Bengali and European sources, which reported that the Marathas demanded payments, and tortured or killed anyone who couldn't pay.^{【343†[71]】}
+L307: Raghuji was able to annex 【344†Odisha】 to his kingdom permanently as he successfully exploited the chaotic conditions prevailing in Bengal after the death of its governor 【345†Murshid Quli Khan】 in 1727. Constantly harassed by the Bhonsles, Odisha, Bengal and parts of Bihar were economically ruined. Alivardi Khan, the 【346†Nawab of Bengal】 made peace with Raghuji in 1751 ceding Cuttack (Odisha) up to the river Subarnarekha, and agreeing to pay Rs.
+L308: 1.2 million annually as the 【311†Chauth】 for Bengal and Bihar.^{【335†[68]】}
+L309: The city of Delhi was sacked ten times by Marathas between 1737 and 1788. During this period, Maratha soldiers raped thousands of women including 350 Mughal queens and princesses.^{【347†[72]】} In May 1754, 【303†Malhar Rao Holkar】 with his 20,000 Maratha soldiers raided the camp of 【348†Emperor Ahmad Shah】 at Sikandarabad, they proceeded to loot the camp and raped women in gangs including queens and princesses after emperor had fled.^{【347†[72]】}
+L310: Balaji Bajirao encouraged agriculture, protected the villagers and brought about a marked improvement in the state of the territory. 【349†Raghunath Rao】, brother of Nanasaheb, pushed into the wake of the Afghan withdrawal after 【350†Ahmed Shah Abdali】's plunder of Delhi in 1756. Delhi was captured by the Maratha army under Raghunath Rao in August 1757, defeating the Afghan garrison in the 【351†Battle of Delhi】. This laid the foundation for the 【352†Maratha conquest of North-west India】.

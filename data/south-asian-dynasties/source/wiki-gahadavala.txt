@@ -1,0 +1,325 @@
+Gahadavala dynasty - Wikipedia (https://en.wikipedia.org/wiki/Gahadavala_dynasty)
+citeturn59view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Gahadavala_dynasty","lineno":null}); Total lines: 573
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】 Toggle Origin subsection
+L49:     * 【19†1.1 Etymology】
+L50:   * 【20†2 Territory】 Toggle Territory subsection
+L51:     * 【21†2.1 Capital】
+L52:   * 【22†3 History】 Toggle History subsection
+L53:     * 【23†3.1 Rise to power】
+L54:     * 【24†3.2 Consolidation】
+L55:     * 【25†3.3 Decline】
+L56:     * 【26†3.4 Claimed descendants】
+L57:   * 【27†4 Administration】
+L58:   * 【28†5 Cultural activities】
+L59:   * 【29†6 Religion】
+L60:   * 【30†7 List of rulers】
+L61:   * 【31†8 Family tree】
+L62:   * 【32†9 See also】
+L63:   * 【33†10 References】 Toggle References subsection
+L64:     * 【34†10.1 Bibliography】
+L65:   * 【35†11 Further reading】
+L66: [Input] Toggle the table of contents
+L67: # Gahadavala dynasty
+L68: 
+L69: [Input] 12 languages
+L70: 
+L71:   * 【36†Català†ca.wikipedia.org】
+L72:   * 【37†Deutsch†de.wikipedia.org】
+L73:   * 【38†Esperanto†eo.wikipedia.org】
+L74:   * 【39†Français†fr.wikipedia.org】
+L75:   * 【40†हिन्दी†hi.wikipedia.org】
+L76:   * 【41†日本語†ja.wikipedia.org】
+L77:   * 【42†ಕನ್ನಡ†kn.wikipedia.org】
+L78:   * 【43†한국어†ko.wikipedia.org】
+L79:   * 【44†मराठी†mr.wikipedia.org】
+L80:   * 【45†नेपाली†ne.wikipedia.org】
+L81:   * 【46†தமிழ்†ta.wikipedia.org】
+L82:   * 【47†Українська†uk.wikipedia.org】
+L83: 
+L84: 【48†Edit links†www.wikidata.org】
+L85: 
+L86:   * 【49†Article】
+L87:   * 【50†Talk】
+L88: [Input] English
+L89: 
+L90:   * 【49†Read】
+L91:   * 【51†Edit】
+L92:   * 【52†View history】
+L93:   * 【17†Save】
+L94: 
+L95: [Input] Tools
+L96: 
+L97: Tools
+L98: 
+L99: [Button: move to sidebar] [Button: hide]
+L100: 
+L101: Actions
+L102: 
+L103:   * 【49†Read】
+L104:   * 【51†Edit】
+L105:   * 【52†View history】
+L106:   * 【17†Save】
+L107: 
+L108: General
+L109: 
+L110:   * 【53†What links here】
+L111:   * 【54†Related changes】
+L112:   * 【55†Upload file】
+L113:   * 【56†Permanent link】
+L114:   * 【57†Page information】
+L115:   * 【58†Cite this page】
+L116:   * 【59†Get shortened URL】
+L117:   * 【60†Switch to legacy parser】
+L118: 
+L119: Print/export
+L120: 
+L121:   * 【61†Download as PDF】
+L122:   * Printable version
+L123: In other projects
+L124: 
+L125:   * 【62†Wikimedia Commons†commons.wikimedia.org】
+L126:   * 【63†Wikidata item†www.wikidata.org】
+L127: 
+L128: Appearance
+L129: 
+L130: [Button: move to sidebar] [Button: hide]
+L131: Gahadavala dynasty
+L132: ---
+L133: 1072–1237
+L134: A 【64†Kalachuri】-style 'seated goddess' coin of 【65†Govindachandra】 (r. c. 1114–1155 CE). 4 1⁄2 masha, gold. Obv: Four-armed Lakshmi seated cross-legged on lotus on obverse side holding a lotus in the upper two hands. Rev: Inscription in Nagari script :'Shrimad-Govindachandra'.
+L135: Approximate territory of the Gahadavalas circa 1150, during the reign of 【65†Govindachandra】.^{【66†[1]】}
+L136: Capital  | 【67†Varanasi】 and 【68†Kannauj】
+L137: Religion  | 【69†Hinduism】
+L138: 【70†Buddhism】
+L139: 【71†Jainism】
+L140: Government  | 【72†Absolute Monarchy】
+L141: History  |
+L142: • Established  | 1072
+L143: • Disestablished  | 1237
+L144: Preceded by Succeeded by
+L145: 【73†Image†upload.wikimedia.org】 【74†Gurjara-Pratihara dynasty】
+L146: 【73†Image†upload.wikimedia.org】 【64†Kalachuris of Tripuri】
+L147: 【75†Ghurid dynasty】 【73†Image†upload.wikimedia.org】
+L148: 【76†Delhi Sultanate】 【73†Image†upload.wikimedia.org】
+L149: Today part of  | 【77†India】
+L150: Part of a series on the
+L151: 【78†History of Bihar】
+L152: Ancient History Prehistoric and Vedic Era - 【79†Chirand】 (Neolithic) - 【80†Vedic period】 - 【81†Videha】 - 【82†Mithila (ancient)】 - 【83†Anga】 - 【84†Kikata】 Urbanisation and 【85†Shramana】 - 【86†Second Urbanisation】 - 【85†Rise of Shramana】 - 【70†Buddhism】 • 【71†Jainism】 • 【87†Ajivika】 【88†Gaṇasaṅghas】 - 【89†Magadha】 - 【90†Vajjika League】
+L153:   *     * 【91†Nāya】
+L154:     * 【92†Vajji (tribe)】
+L155:     * 【93†Licchavis of Vaishali】
+L156: - 【94†Malla (tribe)】 - 【95†Kashi】 - 【96†Bulis】 Imperial Magadha - 【97†Brihadratha dynasty】 - 【98†Haryanka dynasty】
+L157: 
+L158:   *     * 【99†Bimbisara】
+L159:     * 【100†Ajatashatru】
+L160: - 【101†Shishunaga dynasty】 - 【102†Nanda Empire】
+L161: 
+L162:   *     * 【103†Mahapadma Nanda】
+L163: - 【104†Maurya Empire】
+L164: 
+L165:   *     * 【105†Chandragupta Maurya】
+L166:     * 【106†Ashoka】
+L167: Post-Mauryan and 【107†Smriti】 - 【108†Shunga Empire】
+L168:   *     * 【109†Pushyamitra Shunga】
+L169: - 【110†Kanva dynasty】 - 【107†Development of Smriti】 - 【111†Brahmanical Revival】 The Interregnum - 【112†Kushan Influence】 - 【113†Mitra Dynasty】 - 【114†Resurgence of Licchavis】
+L170: Classical and medieval The Classical Age - 【115†Gupta Empire】 Early Medieval - 【116†Later Gupta dynasty】 - 【117†Maukharis】 Pala Era and Feudatories - 【118†Pala Empire】 - 【119†Khayaravala dynasty】 - 【120†Pithipatis of Magadha】 Medieval Mithila - 【121†Karnats of Mithila】 - 【122†Oiniwar dynasty】 Islamic Incursions - 【76†Delhi Sultanate】 Centers of Learning - 【123†Nalanda】 - 【124†Vikramashila】 - 【125†Odantapuri】 - 【126†Telhara monastery】
+L171: Early-modern Afghan and Mughal Rule - 【127†Sur Empire】
+L172:   *     * 【128†Sher Shah Suri】
+L173: - 【129†Mughal Empire】
+L174:   *     * 【130†Bihar Subah】
+L175: Regional Chieftaincies - 【131†Chakwars】 - 【132†Chero dynasty】 - 【133†Gidhaur chieftaincy】 - 【134†Kharagpur Raj】 - 【135†Khokhra chieftaincy】 Major Zamindari Estates - 【136†Bettiah Raj】 - 【137†Khandavala dynasty】 - 【138†Dumraon Raj】 - 【139†Hathwa Raj】 - 【140†Jagdishpur estate】
+L176: Colonial & Independence Era Colonial Rule (1764–1947) - 【141†Battle of Buxar】 (1764) - 【142†East India Company】 - 【143†Permanent Settlement (1793)】 - 【144†Santhal rebellion】 - 【145†Indian Rebellion of 1857】
+L177:   *     * 【146†Kunwar Singh】
+L178: - 【147†Bihar famine of 1873–74】 - 【148†Bihar Province】 (Est. 1912) - 【149†1934 Nepal–Bihar earthquake】 Freedom Struggle - 【150†Champaran Satyagraha】 (1917) - 【151†Salt Satyagraha】 - 【152†Bihar Vidyapeeth】 - 【153†Kisan Sabha】
+L179: 
+L180:   *     * 【154†Swami Sahajanand Saraswati】
+L181: - 【155†Quit India Movement】
+L182:   *     * 【156†Azad Dasta】
+L183: Modern Era (Post-1947) Congress Era (1947–1967) - 【157†Sri Krishna Sinha】 - 【158†Anugrah Narayan Sinha】 - 【159†Zamindari Abolition】 Socialist and JP Era (1967–1989) - 【160†Karpoori Thakur】 - 【161†Bihar Movement】 (1974) - 【162†Jayaprakash Narayan】 - 【163†Bhagalpur riots】 (1989) RJD Era (1990–2005) - 【164†Lalu Prasad Yadav】 - 【165†Rabri Devi】 - 【166†Fodder Scam】 State Division (2000) - 【167†Bihar Reorganisation Act, 2000】 - 【168†Creation of Jharkhand】 NDA Era (2005–Present) - 【169†Nitish Kumar】 - 【170†Politics of Bihar】
+L184: Culture, art, and society Art and architecture - 【171†Mahabodhi Temple】 - 【172†Nalanda】 - 【173†Barabar Caves】 - 【174†Tomb of Sher Shah Suri】 - 【175†Rohtas Fort】 - 【176†Golghar】 - 【177†Mithila Painting】 - 【178†Patna Qalam】 - 【179†Manjusha Art】 - 【180†Didarganj Yakshi】 Society and language - 【181†Bihari culture】 - 【182†Mithila】 • 【183†Magadh】 • 【184†Anga】 - 【185†Bihari languages】
+L185:   *     * 【186†Maithili】 • 【187†Magahi】
+L186:     * 【188†Bhojpuri】 • 【189†Angika】
+L187: Religion - 【190†Religion in Bihar】 - 【191†Buddhism in Bihar】 - 【192†Jainism in Bihar】 - 【193†Islam in Bihar】 - 【194†Sikhism in Bihar】
+L188: 【195†Portal India】 【196†Portal Bihar】
+L189: The Gahadavala dynasty (【197†IAST】: Gāhaḍavāla), also known as Gahadavalas of Kannauj, was a 【198†Rajput dynasty】^{【199†[2]】}^{【200†[3]】} that ruled parts of the present-day 【201†Indian states】 of 【202†Uttar Pradesh】 and 【203†Bihar】, during 11th and 12th centuries. Their capital was located at 【67†Banaras】 (now Varanasi) in the 【204†Gangetic plains】, and for a brief period, they also controlled 【68†Kannauj】.
+L190: 【205†Chandradeva】, the first monarch of the dynasty, established a sovereign kingdom sometime before 1090, after the decline of the 【64†Kalachuri】 power. The kingdom reached its zenith under his grandson 【65†Govindachandra】 who annexed some of the Kalachuri territories, warded off 【206†Ghaznavid】 raids, and also fought the 【118†Palas】. In 1194, Govindachandra's grandson 【207†Jayachandra】 was defeated by the 【75†Ghurid】 army under 【208†Qutbuddin Aibak】, which effectively ended the dynasty's imperial power.
+L191: The kingdom completely ceased to exist when Jayachandra's successors were defeated by the 【76†Delhi Sultanate】 【209†Mamluk dynasty】 's ruler 【210†Iltutmish】 (r. (reigned) 1211–1236).
+L192: ## Origin
+L193: 
+L194: [【211†edit】]
+L195: 【205†Chandradeva】, the first monarch of the dynasty, was a son of Mahichandra and a grandson of Yashovigraha.^{【212†[4]】} The Gahadavala inscriptions state that Yashovigraha "seized the earth and made her fond of the king's sceptre (or justice)".^{【213†[5]】} He did not bear any royal titles, so it appears that he was a petty chief with some military victories to his credit. He probably served a prominent king, possibly the 11th century 【64†Kalachuri】 king 【214†Karna】.
+L196: His son Mahichandra (alias Mahitala or Mahiyala) bore the feudatory title nṛpa, and is said to have defeated several enemies. He may have been a Kalachuri vassal.^{【215†[6]】}
+L197: According to Chandrawati inscriptions from 1093 CE and 1100 CE, the Gahadavalas occupied Kanyakubja after the descendants of Devapala had been destroyed. This Devapala can be identified as the mid-10th century 【216†Gurjara-Pratihara】 king of Kanyakubja.^{【217†[7]】} Chandradeva probably started his career as a feudatory, but declared independence sometime before 1089 CE.^{【218†[8]】}
+L198: 
+L199: 【219†Martanda】 (an aspect of the Sun-God or 【220†Surya】), Gahadavala dynasty, Rajasthan, 12th century CE
+L200: The sudden rise of the Gahadavalas has led to speculation that they descended from an earlier royal house. 【221†Rudolf Hoernlé】 once proposed that the Gahadavalas were an offshoot of the 【118†Pala dynasty】 of 【222†Gauda】, but this theory has been totally rejected now.^{【223†[9]】} Another theory identifies the dynasty's founder 【205†Chandradeva】 as the 【224†Kannauj Rashtrakuta】 scion Chandra, but this theory is contradicted by historical evidence.
+L201: For example, the Rashtrakutas of Kannauj claimed origin from the legendary 【225†solar dynasty】.
+L202: On the other hand, the Gahadavala inscriptions state they gained power after the destruction of the solar and the 【226†lunar】 dynasties.^{【227†[10]】} Moreover, Kumaradevi, the queen of the Gahadavala ruler 【65†Govindachandra】 came from a 【228†Rashtrakuta branch】 that 【229†ruled in Bodh Gaya】.^{【230†[11]】} Her 【231†Sarnath】 inscription mentions the Gahadavalas and the Rashtrakutas as two distinct families and does not indicate that one was a branch of the other.^{【232†[12]】}
+L203: Yet another theory identifies Chandradeva as Chand Rai, a "keeper of elephants" according to the medieval Muslim historian Salman.^{【223†[9]】} The Diwan-i-Salman states that a 【206†Ghaznavid】 army led by 【233†Mahmud】 (c. 971-1030) invaded India and defeated one Jaipal. As a result of this victory, the feudatory chiefs from all over the country lined up to offer allegiance to Mahmud.
+L204: Mahmud received so many elephants as gifts from these chiefs, that an elephant stable was set up in 【68†Kannauj】, with Chand Rai as its manager.^{【234†[13]】} According to the theory, Chand Rai acquired the rulership of Kannauj by promising to pay a tribute to the Ghaznavids. The Ghaznavid raids of the Gahadavala kingdom resulted from the non-payment of this tribute.
+L205: The Gahadavalas inscriptions mention a 【235†Turushka】-danda ("Turkic punishment"^{【236†[14]】}) tax, which according to the proponents of this theory, was collected to pay a tribute to the Ghaznavid (Turkic) overlord.^{【237†[15]】} This theory can be criticized on several grounds. First, no Muslim chronicles mention imposition of any tribute on Chand Rai. Secondly, the meaning of Turushka-danda is not certain.
+L206: Lastly, neither Hindu nor Muslim sources indicate that the Ghaznavid invasions were as a result of non-payment of tribute.^{【238†[16]】}
+L207: ### Etymology
+L208: 
+L209: [【239†edit】]
+L210: The etymology of the term "Gahadavala" is uncertain.
+L211: This dynastic name appears only in four inscriptions of the Gahadavalas: three inscriptions issued by Chandradeva's grandson 【65†Govindachandra】 (as a prince), and the 【231†Sarnath】 inscription issued by his wife Kumaradevi who belonged to the 【229†Pithipati dynasty of Bodh Gaya】.^{【230†[11]】}^{【240†[17]】} No contemporary inscriptions of the neighbouring dynasties use the term "Gahadavala" to describe the rulers of Kanyakubja or Varanasi.^{【234†[13]】} The dynastic name does not appear in contemporary literature, including in the works authored by the Gahadavala courtiers 【241†Shriharsha】 and Lakshmidhara (author of Kṛtya-Kalpataru).^{【223†[9]】}
+L212: 【242†C. V. Vaidya】 and 【243†R. C. Majumdar】, who connected the Gahadavalas to the Rashtrakutas, speculated that the dynastic name might have derived from "Gawarmad", a place-name mentioned in a 1076 CE 【244†Kannada language】 inscription.^{【240†[17]】} However, the term is not mentioned in the early Gahadavala inscriptions. Therefore, if the dynasty's name has any geographical significance, it points to the newly acquired territories in northern India.^{【234†[13]】}
+L213: According to the rulers of the Kantit 【245†feudal estate】, who claimed descent from the Gahadavalas, the term "Gahadavala" derives from the Sanskrit word grahavāra ("overcomer of the evil planet"). Their fanciful legend claims that 【246†Yayati】's son acquired the title grahavāra after defeating the evil planet (【247†graha】) 【248†Saturn】.^{【234†[13]】}
+L214: ## Territory
+L215: 
+L216: [【249†edit】]
+L217: 
+L218: 【250†Find spots】 of the inscriptions from the Gahadavala reign^{【251†[18]】}
+L219: 
+L220: The Gahadavala power was concentrated in what is now eastern 【202†Uttar Pradesh】. At times, their rule extended to the western parts of 【203†Bihar】. The 1090 CE Chandrawati inscription of 【205†Chandradeva】 states that he protected the sacred places of Kashi (【67†Varanasi】), Kushika (【68†Kannauj】), 【252†Uttara Koshala】 (the area around 【253†Ayodhya】), and Indrasthaniyaka.^{【254†[19]】}.
+L221: The identity of an area called Indrasthaniyaka is unknown, but because of its similarity to the word "【255†Indraprastha】", some scholars have identified it as modern 【256†Delhi】.
+L222: Based on this, historians such as Roma Niyogi have proposed that the 【257†Tomara】 rulers of Delhi might have been Gahadavala feudatories.^{【258†[20]】} If this assumption is true, then the Gahadavala kingdom extended up to Delhi in the north-west.^{【259†[21]】}^{【260†[22]】} However, historical evidence suggests that Delhi was under the control of the 【261†Chahamanas】 since 【262†Vigraharaja IV】 (r. c. 1150-1164 CE), and before that under the Tomara sovereigns.
+L223: No historical records indicate that the Gahadavalas ever ruled Delhi. Rahin (or Rahan) village in 【263†Etawah district】 is the furthest point in the north-west where the Gahadavala inscriptions have been discovered. Some coins attributed to 【264†Madanapala】 are associated with Delhi, but according to numismatist P. C. Roy these coins were actually issued by a 【257†Tomara】 king of same name. According to Roy, Indrasthaniyaka should be identified with a place other than Delhi.^{【265†[23]】}
+L224: ### Capital
+L225: 
+L226: [【266†edit】]
+L227: 
+L228: The Gahadavalas are associated with two ancient cities: 【267†Kanyakubja】 and 【67†Varanasi】. According to the medieval legends, Kanyakubja (Kannauj) was their capital.^{【268†[24]】} However, according to 【269†Al-Biruni】, most of the Kanyakubja city was in ruins by 1030 CE, nearly half a century before the dynasty's founder 【205†Chandradeva】 ascended the throne.^{【268†[24]】}
+L229: The vast majority of the Gahadavala inscriptions have been discovered in and around 【67†Varanasi】; only one has been found in the Kanyakubja area.^{【268†[24]】} The majority of these inscriptions state that the king made a grant after bathing in the 【270†Ganga】 river at Varanasi.^{【271†[25]】} This suggests that the Gahadavala kings mainly lived in and around Varanasi, which was their favoured capital.
+L230: They probably considered Kanyakubja as a 'capital of honour', since it had been a seat of reputed kingdoms since the 【272†Maukhari】 period.^{【271†[25]】}^{【268†[24]】}
+L231: A verse in the 1104 CE Basahi inscription of 【264†Madanapala】 states that his father 【205†Chandradeva】 had made Kanyakubja his capital. However, Madanapala's 1105 CE Kamauli grant omits this verse, although it repeats all the other introductory verses from the Basahi grant.^{【273†[26]】} Other than the 1104 CE Basahi inscription, no other inscription describes Kanyakubja as the Gahadavala capital.^{【268†[24]】}
+L232: Historian Roma Niyogi theorized that Chandradeva temporarily moved his seat from Varanasi to Kanyakubja, because Kanyakubja was reputed as the capital of the earlier imperial powers.^{【268†[24]】} However, the Gahadavalas lost Kanyakubja to 【206†Ghaznavids】 somewhere between 1104 CE and 1105 CE, and Madanapala's son Govindachandra had to wage a war to recover it.^{【274†[27]】} As a result, the Gahadavalas probably moved their capital back to Varanasi soon after Chandradeva's reign.^{【268†[24]】} The writings of the Muslim chroniclers such as 【275†Ali ibn al-Athir】, 【276†Minhaj-i-Siraj】, and 【277†Hasan Nizami】 consistently describe 【207†Jayachandra】 as the "Rai of Banaras" (ruler of Varanasi), and make no reference to Kannauj (Kanyakubja) in their description of the Gahadavalas.
+L233: This further suggests that the Gahadavalas no longer controlled Kanyakaubja by Jayachandra's time.^{【278†[28]】}
+L234: ## History
+L235: 
+L236: [【279†edit】]
+L237: ### Rise to power
+L238: 
+L239: [【280†edit】]
+L240: 
+L241: 【281†Vajra Tara】, 【231†Sarnath】, 11th century, Gahadavala Dynasty.
+L242: By the last quarter of the 11th century, the north-central India was a troubled territory as a result of 【206†Ghaznavid】 raids and the lack of a strong imperial power. The 【216†Gurjara-Pratihara】 empire had ceased to exist. Their successors, such as the 【282†Paramaras】 and the 【64†Kalachuris】, had declined in power. In these times of chaos, the first Gahadavala king 【205†Chandradeva】 brought stability to the region by establishing a strong government.
+L243: The 1104 CE Bashai (or Basahi) inscription of his son 【264†Madanapala】 declares that he saved the distressed earth after the deaths of the Paramara 【283†Bhoja】 and the Kalachuri 【214†Karna】.^{【284†[29]】}
+L244: Since the Kalachuris controlled the area around Varanasi before the Gahadavalas, it appears that Chandradeva captured this territory from them.^{【285†[30]】} The Kalachuri king defeated by him was probably Karna's successor 【286†Yashah-Karna】.^{【287†[31]】} Chandradeva's inscriptions indicate that he also tried to expand his kingdom in the east, but the 【118†Pala】 chronicle 【288†Ramacharitam】 suggests that his plan was foiled by 【289†Ramapala】's feudatory Bhimayashas.^{【290†[32]】}
+L245: ### Consolidation
+L246: 
+L247: [【291†edit】]
+L248: Chandradeva was succeeded by 【264†Madanapala】, who faced invasions from the Muslim 【206†Ghaznavid】 dynasty. He is identified with "Malhi", who was the king of 【68†Kannauj】 (Kanyakubja) according to the medieval Muslim chronicles. Diwan-i-Salman by the contemporary Muslim historian Salman states that Malhi was imprisoned by the Ghaznavids, and released only after the payment of a ransom.
+L249: The Gahadavala inscriptions indicate that Madanapala's son 【65†Govindachandra】 led the military expeditions during his reign. As a result of these expeditions, the Ghaznavids were forced to conclude a peace treaty with the Gahadavalas.^{【292†[33]】} The Kṛtya-Kalpataru, written by his courtier Lakashidhara, suggests that he also killed a Ghaznavid general.^{【293†[34]】}
+L250: Govindachandra succeeded his father as the Gahadavala king sometime during 1109-1114 CE. The Gahadavalas became the most prominent power of northern India as a result of his military conquests and diplomatic relations.^{【294†[35]】} His adoption of the Kalachuri titles and coinage indicate that he defeated a Kalachuri king, probably Yashah-Karna or his successor Gaya-Karna.^{【295†[36]】}
+L251: As a prince, Govindachandra appears to have repulsed a 【118†Pala】 invasion, sometime before 1109 CE. The Pala-Gahadavala conflict halted for a few decades as a result of his marriage with Kumaradevi, a relative of the Pala monarch Ramapala.^{【296†[37]】} Epigraphic evidence suggests that there was a revival of the Pala-Gahadavala rivalry in the 1140s CE, during the reign of Govindachandra and the Pala monarch 【297†Madanapala】 (not to be confused with Govindachandra's father).
+L252: Although the identity of the aggressor is not certain, the conflict seems to have happened over control of present-day western 【203†Bihar】. Both Pala and Gahadavala inscriptions were issued in this area during this period.^{【298†[38]】}
+L253: ### Decline
+L254: 
+L255: [【299†edit】]
+L256: 
+L257: 【300†South Asia1175 CE】
+L258: 
+L259: 【301†KARAKHANIDKHANATE】
+L260: 
+L261: 【302†QARA KHITAI】
+L262: 
+L263: 【75†GHURIDEMPIRE】
+L264: 
+L265: 【303†CHAULUKYAS】
+L266: 
+L267: 【261†CHAHAMANAS】
+L268: 
+L269: 【304†LATEGHAZNAVIDS】
+L270: 
+L271: 【282†PARAMARAS】
+L272: 
+L273: 【305†WESTERNCHALUKYAS】
+L274: 
+L275: 【306†KAKATIYAS】
+L276: 
+L277: 【307†SHILA-HARAS】
+L278: 
+L279: 【308†CHOLAS】
+L280: 
+L281: 【309†CHERAS】
+L282: 
+L283: 【310†PANDYAS】
+L284: 
+L285: 【311†KADAMBAS】
+L286: 
+L287: 【312†HOYSALAS】
+L288: 
+L289: 【49†GAHADAVALAS】
+L290: 
+L291: 【313†GUHILAS】
+L292: 
+L293: 【314†KACHCHAPA-GHATAS】
+L294: 
+L295: 【315†CHANDELAS】
+L296: 
+L297: 【64†KALACHURIS(TRIPURI)】
+L298: 
+L299: 【316†KALACHURIS(RATNAPURA)】
+L300: 
+L301: 【317†SENAS】
+L302: 
+L303: 【318†KARNATAS】
+L304: 
+L305: 【319†KAMARUPAS】
+L306: 【320†EASTERNGANGAS】
+L307: 
+L308: 【321†GUGE】
+L309: 
+L310: 【322†MARYUL】
+L311: 
+L312: 【323†LOHA-RAS】
+L313: 
+L314: 【324†SOOMRAEMIRATE】
+L315: 
+L316: 【325†MAKRANSULTANATE】
+L317: 
+L318: The Gahadavalas and main South Asian polities in 1175, on the eve of the 【326†Ghurid Empire】 invasion of the subcontinent.^{【327†[39]】}^{【328†[40]】}
+L319: The last extant inscription of Govindachandra is dated 1154 CE, and the earliest available inscription of his successor 【329†Vijayachandra】 is dated 1168 CE.
+L320: Such a long gap is unusual for the dynasty, and may indicate troubled times arising out of an external invasion or a war of succession after Govindachandra's death.^{【330†[41]】} Vijayachandra faced a 【206†Ghaznavid】 invasion, which he seems to have repulsed sometime before 1164 CE.^{【331†[42]】} His focus on guarding the western frontiers against the Ghaznavids may have led to the neglect of the kingdom's eastern border, which later resulted in 【332†a Sena invasion】.^{【333†[43]】}
+L321: 【207†Jayachandra】, the last powerful king of the dynasty, faced a 【334†Ghurid】 invasion under 【335†Muhammad of Ghor】 and his slave commander 【208†Qutbuddin Aibak】. He was defeated and killed at the 【336†Battle of Chandawar】 in 1194. According to the contemporary Muslim historian 【277†Hasan Nizami】, the Ghurids then sacked Varanasi, where they destroyed a large number of temples.
+L322: After Jayachandra's death, several local feudatory chiefs offered their allegiance to the Ghurids.^{【337†[44]】} A legendary account in 【338†Prithviraj Raso】 states that Jayachandra allied with the Ghurids against 【339†Prithviraj Chauhan】, who had eloped with his daughter 【340†Samyukta】. However, such legends are not supported by historical evidence.^{【341†[45]】}

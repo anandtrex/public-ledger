@@ -1,0 +1,297 @@
+Lohara dynasty - Wikipedia (https://en.wikipedia.org/wiki/Lohara_dynasty)
+citeturn61view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Lohara_dynasty","lineno":null}); Total lines: 397
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origins】
+L49:   * 【19†2 First Lohara dynasty】 Toggle First Lohara dynasty subsection
+L50:     * 【20†2.1 Samgrāmarāja】
+L51:     * 【21†2.2 Harirāja and Ananta】
+L52:     * 【22†2.3 Kalaśa, Utkarsa and Harsa】
+L53:       * 【23†2.3.1 Harsa】
+L54:   * 【24†3 Second Lohara dynasty】 Toggle Second Lohara dynasty subsection
+L55:     * 【25†3.1 Uccala】
+L56:     * 【26†3.2 Radda, Salhana and Sussala】
+L57:     * 【27†3.3 Jayasimha】
+L58:     * 【28†3.4 Successors to Jayasimha】
+L59:       * 【29†3.4.1 Dynasty of the Vuppadevas】
+L60:   * 【30†4 Impact】
+L61:   * 【31†5 See also】
+L62:   * 【32†6 References】 Toggle References subsection
+L63:     * 【33†6.1 Notes】
+L64:     * 【34†6.2 Bibliography】
+L65: [Input] Toggle the table of contents
+L66: # Lohara dynasty
+L67: 
+L68: [Input] 11 languages
+L69: 
+L70:   * 【35†العربية†ar.wikipedia.org】
+L71:   * 【36†भोजपुरी†bh.wikipedia.org】
+L72:   * 【37†Deutsch†de.wikipedia.org】
+L73:   * 【38†हिन्दी†hi.wikipedia.org】
+L74:   * 【39†کٲشُر†ks.wikipedia.org】
+L75:   * 【40†मराठी†mr.wikipedia.org】
+L76:   * 【41†नेपाली†ne.wikipedia.org】
+L77:   * 【42†Nederlands†nl.wikipedia.org】
+L78:   * 【43†தமிழ்†ta.wikipedia.org】
+L79:   * 【44†Українська†uk.wikipedia.org】
+L80:   * 【45†اردو†ur.wikipedia.org】
+L81: 
+L82: 【46†Edit links†www.wikidata.org】
+L83: 
+L84:   * 【47†Article】
+L85:   * 【48†Talk】
+L86: 
+L87: [Input] English
+L88:   * 【47†Read】
+L89:   * 【49†Edit】
+L90:   * 【50†View history】
+L91:   * 【17†Save】
+L92: 
+L93: [Input] Tools
+L94: 
+L95: Tools
+L96: 
+L97: [Button: move to sidebar] [Button: hide]
+L98: 
+L99: Actions
+L100: 
+L101:   * 【47†Read】
+L102:   * 【49†Edit】
+L103:   * 【50†View history】
+L104:   * 【17†Save】
+L105: 
+L106: General
+L107: 
+L108:   * 【51†What links here】
+L109:   * 【52†Related changes】
+L110:   * 【53†Upload file】
+L111:   * 【54†Permanent link】
+L112:   * 【55†Page information】
+L113:   * 【56†Cite this page】
+L114:   * 【57†Get shortened URL】
+L115:   * 【58†Switch to legacy parser】
+L116: 
+L117: Print/export
+L118: 
+L119:   * 【59†Download as PDF】
+L120:   * Printable version
+L121: 
+L122: In other projects
+L123:   * 【60†Wikimedia Commons†commons.wikimedia.org】
+L124:   * 【61†Wikidata item†www.wikidata.org】
+L125: 
+L126: Appearance
+L127: 
+L128: [Button: move to sidebar] [Button: hide]
+L129: 
+L130: This article is about the dynasty of Kashmir. For other uses, see 【62†Lohara (disambiguation)】.
+L131: Lohara dynasty of 【63†Kashmir】𑆬𑆾𑆲𑆳𑆫𑆳 𑆫𑆳𑆘𑆮𑆁𑆯 (【64†Old Kashmiri】 and 【65†Sanskrit】)
+L132: ---
+L133: 1003–1175
+L134: 【66†Image: Lohara dynasty†thumb.wikimedia.org】
+L135: 【67†South Asia1175 CE】
+L136: 【68†KARAKHANIDKHANATE】【69†QARA KHITAI】
+L137: 【70†GHURIDEMPIRE】【71†CHAULUKYAS】【72†CHAHAMANAS】
+L138: 【73†LATEGHAZNAVIDS】【74†PARAMARAS】
+L139: 【75†WESTERNCHALUKYAS】【76†KAKATIYAS】
+L140: 【77†SHILA-HARAS】【78†CHOLAS】【79†CHERAS】【80†PANDYAS】【81†KADAMBAS】【82†HOYSALAS】【83†GAHADAVALAS】【84†GUHILAS】
+L141: 【85†KACHCHAPA-GHATAS】【86†CHANDELAS】
+L142: 【87†KALACHURIS(TRIPURI)】
+L143: 【88†KALACHURIS(RATNAPURA)】【89†SENAS】【90†KARNATAS】【91†KAMARUPAS】
+L144: 【92†EASTERNGANGAS】【93†GUGE】【94†MARYUL】
+L145: 【47†LOHA-RAS】
+L146: 【95†SOOMRAEMIRATE】
+L147: 【96†MAKRANSULTANATE】Location of the Lohara dynasty and neighbouring polities circa 1175 CE^{【97†[1]】}
+L148: Capital  | 【98†Srinagar】
+L149: Common languages  | 【65†Sanskrit】 (official),【64†Kashmiri】 (common)
+L150: Religion  | 【99†Shaivite Hinduism】
+L151: Government  | 【100†Monarchy】
+L152: Monarch  |
+L153: • 1003–1028  | 【101†Sangramaraja】
+L154: • 1301–1320  | Suhadeva
+L155: Historical era  | 【102†Medieval India】
+L156: • Established  | 1003
+L157: • Disestablished  | 1175
+L158: Preceded by Succeeded by
+L159: 【103†Image†upload.wikimedia.org】 【104†Utpala dynasty】
+L160: 【105†Kashmir Sultanate】 【103†Image†upload.wikimedia.org】
+L161: Today part of  | 【106†Afghanistan】
+L162: 【107†India】
+L163: 【108†Pakistan】
+L164: The Lohara dynasty was a dynasty that ruled over 【109†Kashmir】 and surrounding regions in the northwestern part of the 【110†Indian subcontinent】 between 1003 and approximately 1175. The early history of the dynasty was described in the 【111†Rajatarangini】 (Chronicle of Kings), a work written by 【112†Kalhana】 in the mid-12th century, upon which many studies of the first 150 years of the dynasty depend.
+L165: Subsequent accounts which provide information up to and beyond the end of the dynasty come from 【113†Jonarāja】 and 【114†Śrīvara】. The later rulers of the dynasty were perceived as weak. Internal conflicts and instances of corruption were prevalent during this era, occasionally interrupted by short periods of stability. These factors contributed to the dynasty's susceptibility to the expansion of Islamic conquests in the region.^{【115†[2]】}
+L166: ## Origins
+L167: 
+L168: [【116†edit】]
+L169: According to the 12th-century text 【111†Rajatarangini】 translated by Sir 【117†Marc Aurel Stein】, the family of the chiefs of Lohara were from the 【118†Khaśa tribe】.^{【119†[3]】}^{【120†[4]】} The original seat of the Lohara dynasty was a hill fortress called Loharkot. Stein identified its location in the 【121†Pir Panjal】 mountain range, situated on a trade route between western 【122†Punjab】 and Kashmir in the present-day 【123†Poonch district】 of 【124†Jammu】.
+L170: The kingdom of Lohara was centered on a valley that contained a group of large villages, collectively known as Lohrin, and likely extended into neighboring valleys.^{【125†[5]】}
+L171: 【126†Didda】, a daughter of King Simharja of Lohara, married King Kshemgupta of Kashmir, thereby uniting the two regions. In comparison to other societies of the period, women in Kashmir were highly esteemed.^{【127†[6]】} When Kshemgupta died in 958, Didda took on the role of 【128†regent】 for her young son, Abhimanyu II. Following Abhimanyu's death in 972, she assumed the same position for his sons, Nandigupta, Tribhuvanagupta, and Bhimagupta, successively.
+L172: She orchestrated the demise of each of these grandchildren. As regent, she wielded significant power over the kingdom, and after the torture-induced death of Bhimagupta in 980, she ascended to rulership in her own right.^{【129†[7]】}^{【130†[8]】}
+L173: Didda later adopted a nephew, 【101†Samgrāmarāja】, as her heir in Kashmir, while entrusting the rule of Lohara to Vigraharāja, who was either another nephew or possibly one of her brothers. This decision led to the establishment of the Lohara dynasty of Kashmir, with Vigrahāraja making efforts during his lifetime to claim authority over both regions. Subsequently, there ensued approximately three centuries of "endless rebellions and other internal troubles".^{【131†[9]】}
+L174: ## First Lohara dynasty
+L175: 
+L176: [【132†edit】]
+L177: ### Samgrāmarāja
+L178: 
+L179: [【133†edit】]
+L180: 
+L181: The 【134†Bodhisattva】 Sugatisamdarsana-【135†Lokesvara】, Kashmir, Lohara period, c. 11th century.^{【136†[10]】}^{【137†[11]】} The figures of Kashmiri donors (a couple, standing) appear on each side.^{【138†[12]】}
+L182: 【139†Samgrāmarāja】 is considered the founder of the Lohara dynasty.^{【140†[13]】} He inherited the throne from his aunt Queen 【126†Didda】 after her death in 1003. Samgrāmarāja was able to repel 【141†several attacks】 of 【142†Mahmud of Ghazni】 against Kashmir, and he also supported 【143†Shahis】 of 【144†Gandhara】 against 【145†Ghaznavid】 attacks.^{【140†[13]】}
+L183: The reign of Samgrāmarāja between 1003 and June or July 1028 was primarily characterized by the actions of those in his court, those who preyed on his subjects to satisfy their greed, and by the role of the prime minister, Tunga. Tunga was a former herdsman who had become a lover of Didda and served as her prime minister. He wielded significant power in collaboration with Didda to assert her dominance over the kingdom, and he continued to exercise that power after her death.
+L184: Samgrāmarāja feared him and, for many years, allowed him to have his way. Tunga appointed many corrupt officials who proceeded to extract substantial wealth from the kingdom's subjects. These appointees and their actions made Tunga unpopular, and as he aged, his ability to address challenges from opponents within and outside the court is thought to have decreased. Samgrāmarāja quietly supported the plots to remove the minister, and eventually, Tunga was murdered.
+L185: His actions did little to improve matters in the court or the country, as his death led to an influx of royal loyalists who were no less corrupt than those he had appointed.^{【146†[14]】}^{【147†[15]】}
+L186: ### Harirāja and Ananta
+L187: 
+L188: [【148†edit】]
+L189: Samgrāmarāja was succeeded by his son Harirāja, who reigned for only 22 days before dying and being succeeded in turn by another son, 【149†Ananta】.
+L190: It is possible that Harirja was killed by his mother, Shrilakhā, who may have desired holding power herself but was ultimately thwarted by those protecting her children.^{【146†[14]】}^{【150†[16]】} Around this time, Vigraharāja again attempted to seize control of Kashmir; he took an army to battle near the capital at 【98†Srinagar】 but was killed in defeat.^{【129†[7]】}
+L191: The period of rule by Ananta was characterised by royal profligacy; he accumulated debts so large that it necessitated the pawning of the royal 【151†diadem】. The situation improved by the intervention of his queen, Sryamat, who was able to settle her husband's debts using her resources and who oversaw the appointment of ministers able to stabilise the government.^{【146†[14]】} In 1063, she forced Ananta to 【152†abdicate】 in favour of their son, Kalaśa.
+L192: This was probably to preserve the dynasty, but the strategy proved unsuccessful because of Kalaśa's unsuitability. It was then arranged so that Ananta functioned as king even though his son held the title.^{【153†[17]】}
+L193: ### Kalaśa, Utkarsa and Harsa
+L194: 
+L195: [【154†edit】]
+L196: 
+L197: 【155†Vishnu】 and 【156†Lakshmi】 supported by 【157†Garuda】 at the time of the Lohara dynasty, 11th century CE, Jammu and Kashmir.^{【158†[18]】} The sculpture belongs to the 【159†Vaikuntha Chaturmurti】 type.
+L198: Kalaśa was king until 1089. A weak-willed man, he was dominated by those surrounding him at court and spent little time on matters of government until his later years. He involved himself in an incestuous relationship with his daughter. He freed himself from the effective rule of his father in 1076, causing Ananta and many loyal courtiers to leave the capital; he then lay siege to them in their new abode at Vijayesvara.
+L199: On the verge of being pushed into exile and faced with a wife who, even at this stage, doted on her son, Ananta committed suicide in 1081. After this, Kalaśa reformed his licentious ways and began to govern responsibly, as well as operating a foreign policy that improved the influence the dynasty held over surrounding hill tribes.^{【146†[14]】}^{【160†[19]】}
+L200: Kalaśa experienced difficulties with his oldest son, Harsa, who felt that the allowance granted by his father was insufficient for his extravagant tastes. Harsa plotted to kill Kalaśa, but was found out and eventually imprisoned.
+L201: His position as heir to the throne was given instead to his younger brother, Utkarsa, who was already ruler of Lohara.^{【161†[nb 1]】} The strain of dealing with Harsa caused Kalaśa to revert to his previous dissolute lifestyle, which Stein believes contributed to his death in 1089. His succession is disputed. According to Hasan, Harsa immediately succeeded his father despite being removed as heir,^{【162†[20]】} but Stein says that Utkarsa succeeded and that Harsa remained imprisoned.
+L202: With the accession of Utkarsa to the throne of Kashmir came the kingdom's reunification with Lohara, as it had been during the reign of Didda. At this point the fortress became the dynastic seat.^{【129†[7]】}^{【153†[17]】}^{【163†[21]】}
+L203: Hasan and Stein agree that Harsa ultimately became king in 1089. Utkarsa was disliked and soon deposed, with a half-brother called Vijayamalla^{【164†[nb 2]】} supporting Harsa and being at the forefront of the rebellion against the king.^{【163†[21]】} Utkarsa was in turn imprisoned and committed suicide.^{【165†[23]】}
+L204: #### Harsa
+L205: 
+L206: [【166†edit】]
+L207: 
+L208: Main article: 【167†Harsha of Kashmir】
+L209: 
+L210: Coinage of Harsa ("Harshadeva"), Kashmir, 1089–1101 CE^{【168†[24]】}
+L211: 
+L212: Harsa had been a cultured man with much to offer his people but became as prone to the influence of specific favorites and as corrupt, cruel, and profligate as his predecessors. He too indulged in incest. Stein describes him as,
+L213: > "undoubtedly the most striking figure among the later Hindu rulers of Kashmir. His many and varied attainments and the strange contrasts in his character must have greatly exercised the mind of his contemporaries ... Cruelty and kindheartedness, liberality and greed, violent selfwilledness and reckless supineness, cunning and want of thought – these and other apparently irreconcilable features in turn display themselves in Harsa's chequered life."^{【165†[23]】}
+L214: After an initial period during which the economic fortunes of the kingdom appear to have improved – as evidenced by the issue of gold and silver coinage – the situation deteriorated, and even 【169†night soil】 was taxed, while temples were looted to further raise money to fund Harsa's indulgent lifestyle and failed military ventures. All but two of the statues of Buddha in his kingdom were destroyed during his rule.
+L215: Even in 1099, when his kingdom was ravaged by plague, flood, and famine, as well as by lawlessness on a large scale, Harsa continued to plunder the wealth of his subjects.^{【170†[25]】}
+L216: Harsa faced numerous challenges to his reign, and he executed many of his relatives, some but not all of whom had been among the challengers.^{【171†[22]】} He conducted campaigns in the east of the valley to wrest control of land back from feudatory landlords, known as 【172†dāmaras】, and who in 1101 murdered him.^{【162†[20]】}^{【173†[26]】} Stein describes that while Harsa's rule seemed at first to have "secured a period of consolidation and of prosperous peace ...
+L217: [it] had subsequently fallen victim to his own 【174†Nero】-like propensities."^{【175†[27]】}
+L218: ## Second Lohara dynasty
+L219: 
+L220: [【176†edit】]
+L221: ### Uccala
+L222: 
+L223: [【177†edit】]
+L224: 
+L225: Fragment of a 【178†Buddhist】 【179†Prajnaparamita Sutra】 manuscript folio, Kashmir, at the time of Lohara dynasty, 11th–12th century CE^{【180†[28]】}
+L226: 【181†Uccala】, who was from a side branch of the Lohara royal line, succeeded to the throne and reigned for a decade. He and his younger brother Sussala had been spotted by Harsa as pretenders to his crown during the unrest, and were forced to flee in 1100. The move did them no harm as it increased their status among the dāmaras: if Harsa wanted the brothers dead, then that was all the more reason to rally around them.
+L227: Consequently, Uccala was able to mount armed attacks on Harsa, as in 1101, which, although initially unsuccessful, eventually achieved their aim as those closest to Harsa deserted him.^{【182†[29]】}
+L228: The two kingdoms of Kashmir and Lohara were again split at the time of Uccala's accession, with Uccala ceding rule over Lohara to Sussala in an attempt to head off any potential challenge from his ambitious brother.^{【183†[30]】}^{【184†[31]】} Uccala's rule was largely a victim of inherited circumstances; in particular, the power of the dāmaras that had caused Harsa's downfall could now be turned on him.
+L229: He was unable to stabilise the penurious kingdom, either economically or in terms of authority, although it was not due to any lack of capability on his part and he did succeed in forming an alliance with the most powerful dāmara, Gargacandra. He was, in the opinion of Hasan, an able and conscientious ruler.^{【162†[20]】}^{【175†[27]】} Stein explains the method adopted to counter the dāmaras:
+L230: > By fomenting among them jealousy and mutual suspicion, he secured the murder or exile of their most influential leaders, without himself incurring the odium. Then, reassured in his own position, he openly turned upon the Dāmaras and forced them into disarmament and submission.^{【184†[31]】}
+L231: ### Radda, Salhana and Sussala
+L232: 
+L233: [【185†edit】]
+L234: The downfall of Uccala came in December 1111, as a result of a conspiracy and after a prior attempt by Sussala to overthrow him. Sussala was not in the vicinity at the time that Uccala was murdered, but within days he had attempted a hazardous winter crossing over the mountains to Srinagar.
+L235: Foiled by the winter weather on this occasion, he was able a few months later to venture once more, and he proceeded to take control of Kashmir from a half-brother, Salhana.^{【183†[30]】} Salhana had himself taken the throne after the briefest of reigns by Radda, one of the leaders of the conspiracy against Uccala, whose rule lasted a single day.
+L236: It was Gargacandra who had organised the defeat of the conspirators and installed Salhana, using him as a puppet for the violent four months until the arrival of Sussala, a period that Kalhana described as a "long evil dream".^{【175†[27]】}
+L237: Gargacandra had again been a 【186†kingmaker】 in allying with Sussala, whom Stein believes to have been "personally brave but rash, cruel, and inconsiderate" and whose rule was "practically one long and disastrous struggle with the irrepressible Dāmaras and with dangerous pretenders."^{【187†[32]】} As part of their alliance, Gargacandra arranged the marriage of two of his daughters, one to Sussala and one to Sussala's son, Jayasimha.^{【188†[33]】} Having turned on Gargacandra and defeated him,^{【189†[nb 3]】} Sussala was faced by other dāmaras who, in the absence of the once-dominant kingmaker, saw an opportunity to challenge the king.
+L238: They found a potential candidate for the throne in Bhikşācara, a grandson of Harsa, and managed to install him briefly in 1120, when their numbers had swollen sufficiently in opposition to the brutally oppressive measures adopted by Sussala. The restoration of Harsa's dynastic line did not last for long: a fightback by Sussala, who had decamped in defeat from Srinagar to Lohara, resulted in the pretender being deposed around six months later, in early 1121.
+L239: Thereafter, Sussala resumed his oppression and treated the wealth of his people as his own. He also imprisoned troublesome members of his own family, but, like others before him, he was unable to control the lawlessness among the feudatory chiefs.
+L240: While squabbling among the dāmaras had assisted him in regaining the throne, he found himself frequently under siege upon his return as they sought to maintain a state of near anarchy in which they could profit for themselves.^{【162†[20]】}^{【183†[30]】}^{【187†[32]】}
+L241: In 1123, during a period of intense pressure from besieging dāmaras and while mourning the death of one of his wives, Sussala abdicated in favour of his son, Jayasimha. He soon changed his mind, and although Jayasimha was formally crowned as king, Sussala continued to govern.^{【190†[35]】}
+L242: ### Jayasimha
+L243: 
+L244: [【191†edit】]
+L245: 
+L246: 【156†Lakshmi】-【192†Vaikuntha】 riding his vehicle (【193†vahana】) 【157†Garuda】, 11th century CE, Kashmir, Jammu and Kasmir, India. 【194†Los Angeles County Museum of Art】.^{【195†[36]】}
+L247: 
+L248: Jayasimha succeeded his father in 1128, during a period of open rebellion. A plot intended to assert authority backfired on Sussala and caused his death.
+L249: Jayasimha was not a forceful character, but he did nonetheless manage to bring about both peace and a degree of economic well-being during his reign, which lasted until 1155. Bhikşācara mounted further attempts to regain the throne during the first two years, and no sooner had he been killed than another challenger, Lothana, a brother of Salhana, succeeded in taking control of Lohara.
+L250: That territory was subsequently recaptured, but challenges continued from Lothana and two others who sought the throne, Malljuna and Bhoja, the latter being a son of Salhana. Throughout this period, the dāmaras continued to behave troublesomely; however, as in the past, it was the infighting between the chiefs that enabled Jayasimha to survive.
+L251: Peace came after 1145, and Jayasimha was able to employ his methods of kingship, which relied on diplomacy and Machiavellian plotting, for the greater good of his kingdom. In particular, Kalhana refers to the piety of Jayasimha, who rebuilt or constructed many temples which had been destroyed during the long years of war. His success has led Hasan to describe him as "the last great Hindu ruler of Kashmir."^{【162†[20]】}^{【196†[37]】}^{【197†[38]】}
+L252: An example of Jayasimha's vision can be found in his decision to enthrone his oldest son, Gulhana, as king of Lohara, even though Gulhana was a child and Jayasimha was still alive. The reason for this appears to have been better to ensure the succession would not suffer any disturbance.^{【198†[39]】}
+L253: ### Successors to Jayasimha
+L254: 
+L255: [【199†edit】]
+L256: 
+L257: Jayasimha's rule continued until 1155, followed by his son Paramanuka, and then his grandson Vantideva (ruled 1165–72), who is often described as the last king of the Lohara dynasty.^{【140†[13]】}
+L258: #### Dynasty of the Vuppadevas
+L259: 
+L260: [【200†edit】]
+L261: With the end of the Loharas, Vantideva was replaced by a new ruler named Vuppadeva, who was apparently elected by the people and who started the eponymous dynasty of the Vuppadevas.^{【140†[13]】} Vuppadeva was succeeded in 1181 by his brother Jassaka, who was then succeeded by his son Jagadeva in 1199.^{【201†[40]】} Jagadeva attempted to emulate Jayasimha but had a turbulent time; at one stage, he was forced out of his own kingdom by his officials.
+L262: His death came by poison in 1212 or 1213, and his successors met with no more success; his son, Rājadeva, survived until 1235 but any power that he may have had was shackled by the nobility; his grandson, Samgrāmadeva, who ruled from 1235 to 1252, was forced out of the kingdom just as Jagadeva had been and then killed soon after his return.^{【202†[41]】}
+L263: Rāmadeva, another son of Rājadeva, became king in 1252. Childless, he appointed Laksmandadeva, the son of a 【203†Brahmin】, to be his heir. Although the i of Rāmadeva's reign was calm, that of Laksmandadeva saw deterioration in the situation once more. The fractious nobility and a territorial encroachment by mongols troubled his reign, which began in 1273. As with his predecessors and successors, he thought little of spending money on border protection.
+L264: By 1286, when Laksmandadeva'a son, Simhadeva, came to the throne, the kingdom was a much smaller place. Simhadeva survived until 1301, a largely ineffective ruler who was dominated by his advisers. He was killed by a man whom he had cuckolded.^{【202†[41]】}
+L265: Coin of king Jagadeva of the Vuppadevas in Kashmir, 1199–1213
+L266: 
+L267: The last of the dynasty was Sūhadeva, the brother of Simhadeva. He was a strong but unpopular ruler. He taxed heavily and exempted not even the Brahmins from his exactions
+L268: Ladakhi Buddhist prince 【204†Rinchan】 aided in overthrowing Suhadeva and, claiming the widow of Suhadeva, Queen 【205†Kota Rani】, as his wife, claimed the throne for himself in 1320 and reigned until 1323. Shortly after taking the throne, Rinchan converted to Islam, changing his name to Sadr-ud-Din and beginning the 【105†Kashmir Sultanate】. After Sultan Sadr-ud-Din's death, Sūhadeva's brother Udayanadeva was invited to return to Kashmir to rule, while Sadr-ud-Din's son and heir Haidar was still a minor.
+L269: Queen Kota Rani made the decision to marry Udayanadeva to legitimise his rule, but many suspected Kota Rani to be the real ruler of Kashmir, and after Udayanadeva's death in 1338, Kota Rani herself ruled Kashmir directly herself.
+L270: During the reign of Sūhadeva, 【206†Shah Mir】 migrated to Kashmir from Swat with his family, whereupon he entered service to the throne. Proving himself a capable general during these tumultuous times, Shah Mir rose in popularity among Kashmiri nobles.
+L271: When Kota Rani appointed Bhatta Bhikshana over Shah Mir as her prime minister, Shah Mir led a revolt and, upon succeeding, forced Kota Rani to marry him and took the throne for himself, ending the last remnants of the Lohara dynasty and beginning the 【207†Shah Mir dynasty】 of the Kashmir Sultanate.
+L272: ## Impact
+L273: 
+L274: [【208†edit】]
+L275: 
+L276:  | This section needs expansion. You can help by 【209†adding missing information】. (September 2025)
+L277: Describing the collapse of order, Hasan states: "the 【172†Dãmaras】 or feudal chiefs grew powerful, defied royal authority, and by their constant revolts plunged the country into confusion. Life and property were not safe, agriculture declined, and there were periods when trade came to a standstill. Socially and morally too the court and the country had sunk to the depths of degradations."^{【146†[14]】}
+L278: ## See also
+L279: 
+L280: [【210†edit】]
+L281: 
+L282:   * 【211†List of Monarchs of Kashmir】
+L283: ## References
+L284: 
+L285: [【212†edit】]
+L286:   1. 【213†↑】 【214†Chandra, Satish】 (2004). 【215†Medieval India: From Sultanat to the Mughals-Delhi Sultanat (1206–1526) – Part One†books.google.com】. Har-Anand Publications. pp. 19–20. 【216†ISBN】 【217†978-81-241-1064-5】.
+L287:   2. 【218†↑】 Hasan (1959), pp. 29–32.
+L288:   3. 【219†↑】 Stein (1900), Vol. 2, p. 433.
+L289:   4. 【220†↑】 【221†Thakur 1990】, p. 287.
+L290:   5. 【222†↑】 Stein (1900), Vol. 2, pp. 293–294.
+L291:   6. 【223†↑】 Kaw, p. 91.
+L292:   7. 【224†1】 【225†2】 【226†3】 Stein (1900), Vol. 2, p. 294.
+L293:   8. 【227†↑】 Stein (1900), Vol. 1, pp. 104–105.
+L294:   9. 【228†↑】 Stein (1900), Vol. 2, p. 370.

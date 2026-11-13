@@ -1,0 +1,63 @@
+{
+  "checked": "2026-11-13",
+  "cliopatria": {
+    "title": "Cliopatria v0.2.1",
+    "creators": "Seshat Global History Databank / Cliopatria contributors",
+    "url": "https://github.com/Seshat-Global-History-Databank/cliopatria",
+    "commit": "5f433377139a6eeaeacbdc894b70f8805b72c8b5",
+    "download_url": "https://raw.githubusercontent.com/Seshat-Global-History-Databank/cliopatria/5f433377139a6eeaeacbdc894b70f8805b72c8b5/cliopatria.geojson.zip",
+    "archive_member": "cliopatria_polities_only_v021.geojson",
+    "archive_sha256": "e10a4e429fca708788ff9e7572a95fce801fae55852d217cffabc1c59cd4eed4",
+    "original_geojson_sha256": "fc6f0d1e4cc42f45da83522b3696db6f2cc85ec0d12259a85c89b31347b8fc0a",
+    "subset_sha256": "b3efbccca78a2f3b7ce85eb48389e6484431fb360613c730d20f406f4819693c",
+    "records": 1023,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "paper": "https://doi.org/10.1038/s41597-025-04516-9"
+  },
+  "natural_earth": {
+    "title": "Natural Earth admin 0 countries, 1:50m, v5.1.2",
+    "download_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_50m_admin_0_countries.geojson",
+    "sha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb",
+    "license": "Public domain",
+    "license_url": "https://www.naturalearthdata.com/about/terms-of-use/"
+  },
+  "india_1941": {
+    "title": "India State Stories: 1941 state and district boundaries, via ramSeraph / Datameet",
+    "url": "https://www.indiastatestory.in/datadownloads",
+    "download_url": "https://github.com/ramSeraph/indian_admin_boundaries/releases/download/historical/India-State-Districts-1941.geojsonl.7z",
+    "license_url": "https://github.com/ramSeraph/indian_admin_boundaries/blob/main/LICENSE",
+    "license": "Mirror repository CC0; original digitized from Census of India Administrative Atlas; representation only",
+    "sha256": "d55d475f7fcf7cd7074e20e6f128b53bf9959d58978160595dcf76ada69dead7",
+    "reference_year": 1941
+  },
+  "commons_maps": [
+    {
+      "title": "Ahom Kingdom c.1826",
+      "author": "Chaipau",
+      "page": "https://commons.wikimedia.org/wiki/File:Ahom-kingdom-c1826p.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ahom-kingdom-c1826p.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "reference_year": 1826,
+      "sha256": "7de68128a4143b1c5e8fc982153845d642f09ee71288b916da83ec65b2208bf9",
+      "changes": "Manual approximate tracing, affine georeferencing, clipping and simplification. Derivative distributed under CC BY-SA 4.0."
+    },
+    {
+      "title": "Ahom extent before early-sixteenth-century expansion",
+      "author": "Ananya Taye",
+      "page": "https://commons.wikimedia.org/wiki/File:Ahom_kingdom_Map_(till_early_16th_century).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ahom_kingdom_Map_%28till_early_16th_century%29.jpg",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "reference_period": [
+        1228,
+        1520
+      ],
+      "sha256": "7fe7f7cb70285f39d55a4c46c13170f9cda47e0519aeb7ee1ddafa5f48d67b01",
+      "changes": "Used as a qualitative reference for the upper-valley schematic core, not pixel-digitized or treated as an annual map."
+    }
+  ],
+  "derivative_license": "CC BY-SA 4.0",
+  "derivative_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+}

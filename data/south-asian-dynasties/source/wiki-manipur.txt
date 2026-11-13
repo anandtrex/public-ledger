@@ -1,0 +1,307 @@
+Manipur (princely state) - Wikipedia (https://en.wikipedia.org/wiki/Manipur_Kingdom)
+citeturn129view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Manipur_Kingdom","lineno":null}); Total lines: 518
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Kangleipak State】
+L49:   * 【19†2 Manipur State】
+L50:   * 【20†3 British protectorate】 Toggle British protectorate subsection
+L51:     * 【21†3.1 The 'Manipur Expedition'】
+L52:   * 【22†4 Princely state under British Raj】
+L53:   * 【23†5 Twilight and end of the princely state】
+L54:   * 【24†6 Rulers】 Toggle Rulers subsection
+L55:     * 【25†6.1 Rajas under Burmese rule】
+L56:     * 【26†6.2 Rajas under British protection】
+L57:     * 【27†6.3 Rulers of the princely state under British Raj】
+L58:     * 【28†6.4 British Political Agents】
+L59:     * 【29†6.5 British administrators】
+L60:     * 【30†6.6 Indian administration】
+L61:   * 【31†7 Flags】
+L62:   * 【32†8 See also】
+L63:   * 【33†9 Notes】
+L64:   * 【34†10 References】
+L65:   * 【35†11 Bibliography】
+L66:   * 【36†12 Further reading】
+L67:   * 【37†13 External links】
+L68: [Input] Toggle the table of contents
+L69: # Manipur (princely state)
+L70: 
+L71: [Input] 13 languages
+L72: 
+L73:   * 【38†বাংলা†bn.wikipedia.org】
+L74:   * 【39†Español†es.wikipedia.org】
+L75:   * 【40†Euskara†eu.wikipedia.org】
+L76:   * 【41†Français†fr.wikipedia.org】
+L77:   * 【42†हिन्दी†hi.wikipedia.org】
+L78:   * 【43†Bahasa Indonesia†id.wikipedia.org】
+L79:   * 【44†Italiano†it.wikipedia.org】
+L80:   * 【45†한국어†ko.wikipedia.org】
+L81:   * 【46†ꯃꯤꯇꯩ ꯂꯣꯟ†mni.wikipedia.org】
+L82:   * 【47†Русский†ru.wikipedia.org】
+L83:   * 【48†Simple English†simple.wikipedia.org】
+L84:   * 【49†தமிழ்†ta.wikipedia.org】
+L85:   * 【50†中文†zh.wikipedia.org】
+L86: 【51†Edit links†www.wikidata.org】
+L87: 
+L88:   * 【52†Article】
+L89:   * 【53†Talk】
+L90: 
+L91: [Input] English
+L92: 
+L93:   * 【52†Read】
+L94:   * 【54†View source】
+L95:   * 【55†View history】
+L96: 
+L97: [Input] Tools
+L98: 
+L99: Tools
+L100: 
+L101: [Button: move to sidebar] [Button: hide]
+L102: 
+L103: Actions
+L104: 
+L105:   * 【52†Read】
+L106:   * 【54†View source】
+L107:   * 【55†View history】
+L108: 
+L109: General
+L110: 
+L111:   * 【56†What links here】
+L112:   * 【57†Related changes】
+L113:   * 【58†Upload file】
+L114:   * 【59†Permanent link】
+L115:   * 【60†Page information】
+L116:   * 【61†Cite this page】
+L117:   * 【62†Get shortened URL】
+L118:   * 【63†Switch to legacy parser】
+L119: 
+L120: Print/export
+L121:   * 【64†Download as PDF】
+L122:   * 【65†Printable version】
+L123: 
+L124: In other projects
+L125: 
+L126:   * 【66†Wikimedia Commons†commons.wikimedia.org】
+L127:   * 【67†Wikidata item†www.wikidata.org】
+L128: 
+L129: Appearance
+L130: 
+L131: [Button: move to sidebar] [Button: hide]
+L132: 
+L133: 【68†Coordinates】: 【69†24°49′N 93°57′E﻿ / ﻿24.817°N 93.950°E﻿ / 24.817; 93.950†geohack.toolforge.org】
+L134: 
+L135: (Redirected from 【70†Manipur Kingdom】)
+L136: This article is about the Kingdom. For modern Indian political state, see 【71†Manipur】. For the ancient coastal Hindu kingdom mentioned in the epic 【72†Mahabharata】, see 【73†Manipur (Mahabharata)】. For other uses, see 【74†Manipur (disambiguation)】.
+L137: 
+L138: ‹ The 【75†template】 below (【76†Cite check】) is being considered for merging with Verify sources. See 【77†templates for discussion】 to help reach a consensus. ›
+L139: 【78†Image†thumb.wikimedia.org】  | This article contains 【79†citations】 that may not 【80†verify】 the text. Please help 【54†improve it】 by checking for citation inaccuracies and resourcing or removing material failing verification. (November 2025) (【81†Learn how and when to remove this message】)
+L140: Manipur Kingdom
+L141: Meckley【82†Meitei】: Meetei Leipak
+L142: ---
+L143: 1110–1949
+L144: Coat of arms
+L145: Manipur State in the 【83†Hicky's Bengal Gazette】 of 1907
+L146: Capital  | 【84†Imphal】
+L147: Recognised national languages  | 【82†Meitei language】 (officially known as 【85†Manipuri】)
+L148: Religion  |
+L149:   * 【86†Sanamahism】
+L150:   * Later: 【87†Vaishnavite Hinduism】
+L151: History  |
+L152: • Foundation of the 【88†Kangleipak】 Kingdom  | 1110
+L153: • 【89†Protectorate】 of 【90†British Empire】  | 1824
+L154: • 【91†Princely state】 of 【92†India】  | 1891
+L155: • Accession to the 【93†Indian Union】  | 1947
+L156: • Merged into the Indian Union  | 1949
+L157: 【94†Area】
+L158: ---
+L159: 1941  | 22,372 km^{2} (8,638 sq mi)
+L160: 【95†Population】
+L161: ---
+L162: • 1941  | 512,069
+L163: Preceded by Succeeded by
+L164: 【96†Image†thumb.wikimedia.org】 【97†Early Seven Clan State】
+L165: 【71†Manipur】 【98†Image†thumb.wikimedia.org】
+L166: 【99†Kabaw Valley】 【100†Image†thumb.wikimedia.org】
+L167: Today part of  | 【101†India】
+L168: 【102†Myanmar】
+L169: Kangla Uttra Sanglen at the 【103†Kangla Fort】, former residence of the 【104†Meitei kings】 of Manipur. The two statues of 【105†Kangla Sha】 (【106†Meitei dragon】 lions) standing in front of the inner gate were destroyed after the 【107†Anglo-Manipur War】 of 1891 but have been restored by the 【108†Manipur Government】 in recent years. The princes of Manipur, Col.
+L170: Johnstone, Thangal Major and the European officer in 【109†Kohima】 after relieving the fort from the siege of the 【110†Nagas】, 1880 The Kohima Stone Inscription erected by 【104†Meitei King】 【111†Gambhir Singh】 (【82†Meitei】: 【112†Chinglen Nongdrenkhomba】), the 【113†Maharaja】 of Manipur, as the testimony of Meitei presence in the Naga Hills.
+L171: The 【114†Manipuri classical dance】 was developed by 【104†Meitei King】 【115†Rajarshi Bhagyachandra】 (【82†Meitei】: 【116†Ching-Thang Khomba】), the 【117†Maharajah】 of Manipur. Raja 【111†Gambhir Singh】 (1788–1834) accepted British suzerainty to retrieve the kingdom from Burmese occupation
+L172: The Manipur Kingdom,^{【118†[1]】}^{【119†[2]】}^{【120†[3]】}^{【121†[4]】} also known as Meckley,^{【122†[5]】}^{【123†[6]】}^{【124†[7]】} was an ancient kingdom at the India–Burma frontier.^{【125†[8]】}^{【126†[9]】}^{【127†[10]】} Historically, Manipur was an independent kingdom ruled by the 【128†Meitei dynasty】.^{【129†[11]】}^{【130†[12]】}^{【131†[13]】} But it was also invaded and ruled over by 【132†Burmese kingdom】 at various points in time.^{【133†[14]】}^{【134†[15]】} It became a protectorate of the British 【135†East India Company】 from 1824, and a 【91†princely state】 of the 【92†British Raj】 in 1891.^{【136†[16]】} The princely state bordered the 【137†Assam Province】 in the west and 【138†British Burma】 in the east, and in the 20th century covered an area of 22,327 square kilometres (8,621 sq mi) and contained 467 villages.
+L173: The capital of the state was 【84†Imphal】.
+L174: ## Kangleipak State
+L175: 
+L176: The early history of Manipur is composed of mythical narratives. The location of the 【103†Kangla Fort】 on the banks of the 【139†Imphal River】 is believed to be where King Pakhangba built his first palace.^{【140†[17]】}
+L177: 【141†Loyumba Shinyen†simple.wikipedia.org】, the written constitution of Kangleipak was formally developed by King 【142†Loiyumba】 (1074–1121) in 1110 AD.^{【143†[18]】} He consolidated the kingdom by incorporating most of the principalities in the surrounding hills.^{【144†[19]】} After subjugating all the villages within their valley, Kangleipak kings grew in power and began a policy of expansion beyond their territory.
+L178: In 1443 King Ningthoukhomba raided 【145†Akla】 (present day 【146†Tamu, Myanmar】), an area ruled by 【147†Shan people】, initiating a policy of Manipuri claims to the neighbouring 【99†Kabaw Valley】.^{【144†[19]】} The zenith of the Kangleipak State was reached under the rule of King 【148†Khagemba】 (1597–1652). Khagemba's brother Prince Shalungba was not happy about Khagemba's rule so he fled to 【149†Taraf】 where he allied with the local 【150†Bengali Muslim】 leaders.
+L179: With a contingent of Bengali Muslim soldiers led by 【151†Muhammad Sani】, Shalungba then attempted to invade 【71†Manipur】 but the soldiers were captured and made to work as labourers in Manipur. These soldiers married local 【152†Meitei women】 and adapted to the 【82†Meitei language】.
+L180: They introduced 【153†hookah】 to Manipur and founded the 【154†Meitei Pangals】 (Manipuri Muslim community).^{【155†[20]】} It is claimed that Manipur learned the art of making gunpowder from the Chinese merchants who visited the state around 1630 and had started making rockets named Meikappi by the early 18th century.^{【156†[21]】}
+L181: ## Manipur State
+L182: In 1714, King 【157†Pamheiba】 was initiated into 【158†Gaudiya Vaishnavism】 by 【159†Shantidas Gosai】, a 【160†Bengali Hindu】 from 【161†Sylhet】. He made the 【162†Gaudiya Vaishnava】 faith the 【163†state religion】, replacing 【86†Meitei religion】, made the 【82†Meitei language】 (aka 【85†Manipuri language】) written in 【164†Bengali script】, destroying many documents of 【82†Meitei language】 written in 【165†Meitei script】 and changed his name to Garib Niwaj. In 1724, the 【166†Sanskrit】 name Manipur (transl.
+L183: (translation) the City of Jewels) was adopted as the name of the state, to make the realm eponymous with 【167†Manipura of the Mahabharata】. King Garib Niwaj made several incursions into 【168†Burma】, but made no permanent conquest.
+L184: After the death of Gharib Nawaz in 1751, Manipur was occupied by the 【169†Kingdom of Burma】 and the Meitei king 【116†Bhagyachandra】 (【82†Meitei】: 【116†Ching-Thang Khomba】) sought help from the British, but when the British refused help he went to Ahom King 【170†Rajeswar Singha】 who sent a force of 40,000 under Haranath Senapati Phukan to free Manipur.^{【171†[22]】} A treaty of alliance was negotiated in 1762 and a military force was sent to assist Manipur.
+L185: The force was later recalled and then the state was left to its own devices.^{【172†[23]】} Manipur was invaded at the onset of the 【173†First Anglo-Burmese War】, together with 【174†Cachar】 and 【137†Assam】.
+L186: ## British protectorate
+L187: Following the 【175†Burmese occupation of Manipur】 and of 【176†Assam】, in 1824, the British declared war on Burma, which came to be known as the 【173†First Anglo-Burmese War】. The exiled Manipur prince 【111†Gambhir Singh】 sought British help for raising a force and the request was granted. 【177†Sepoys】 and artillery were sent and British officers trained a levy of Manipuri troops for the battles that ensued.
+L188: With British help, 【111†Gambhir Singh】 succeeded in expulsion of Burmese from Manipur, after receiving additional reinforcement, he expelled the Burmese from 【99†Kabaw Valley】 by 1826 as well,^{【178†[24]】}^{【179†[25]】} and Gambhir Singh became the king of Manipur, after the war the Treaty of Yandabo was signed.^{【172†[23]】} According to the British 【180†political agent】 【181†McCulloch】, by the treaty of Yandabo, Manipur was declared independent but being too weak by itself to remain so, and its position being in a military point of view, of too much importance to permit the chance of the Burmese obtaining the command of it, the British government has been compelled to guard against such a chance and to retain in the country a political agent, all border disputes having been settled by this officer.^{【182†[26]】}^{【183†[27]】} However, the Burmese did not agree to the cession of Kabaw Valley.
+L189: After prolonged negotiations, the British agreed to return Kabaw Valley to Burma, on the ground that Marjit Singh had already ceded it earlier. Some Manipuri scholars regard this as a lease to Burma.^{【184†[28]】} as the British paid a compensation of 500 Sicca Rupees per month.^{【185†[29]】}^{【186†[30]】} After these developments, Manipur is deemed to have become a 【187†British protectorate】,^{【188†[31]】} even though its ensuing status is debated till this day.^{【189†[32]】}
+L190: At the death of Gambhir Singh, his son 【190†Chandrakirti Singh】 was only one year old, and his uncle 【191†Nara Singh】 was appointed as regent. That same year the British decided to restore the Kabaw Valley to the 【169†Kingdom of Burma】, which had never been happy about the loss.
+L191: A compensation was paid to Raja of Manipur in the form of an annual allowance of 【192†Rs】 6,370 and a 【193†British residency】 was established in Imphal, the only town of the state, in 1835 to facilitate communication between the British and the rulers of Manipur.^{【172†[23]】}
+L192: After a thwarted attempt on his life, Nara Singh took power and held the throne until his death in 1850. His brother 【194†Devendra Singh】 was given the title of Raja by the British, but he was unpopular. After only three months, the rightful heir Chandrakirti Singh invaded Manipur and rose to the throne. Numerous members of the royal family tried to overthrow Chandrakirti Singh, but none of the rebellions was successful. In 1879, when British Deputy Commissioner G.H.
+L193: Damant was killed by an 【195†Angami Naga】 party, the king of Manipur assisted the British by sending troops to neighbouring 【109†Kohima】. Following this service to the crown, Chandrakirti Singh was rewarded with the 【196†Order of the Star of India】.
+L194: After Maharaja Chandrakriti's death in 1886 his son 【197†Surachandra Singh】 succeeded him. As in previous occasions, several claimants to the throne tried to overthrow the new king. The first three attempts were defeated, but in 1890, following an attack on the palace by 【198†Tikendrajit】 and 【199†Kulachandra Singh】, two of the king's brothers, Surachandra Singh announced his intention to abdicate and left Manipur for Cachar.
+L195: Kulachandra Singh then rose to the throne while Tikendrajit Singh, as the commander of the Manipuri armed forces, held the real power behind the scenes. Meanwhile, Surachandra Singh, after leaving Manipur, appealed to the British for help to recover the throne.^{【172†[23]】}
+L196: ### The 'Manipur Expedition'
+L197: 
+L198: Main article: 【107†Anglo-Manipur War】
+L199: 
+L200: The British decided to recognise Kulachandra Singh as Raja, and to send a military expedition of 400 men to Manipur to punish Senapati Tikendrajit Singh as the main person responsible for the unrest and the dynastic disturbances. This action and the violent events that followed are known in British annals as the 'Manipur Expedition, 1891',^{【200†[33]】} while in Manipur they are known as the 'Anglo-Manipur War of 1891'.
+L201: The British attempt to remove Tikendrajit from his position as military commander (Senapati) and arrest him on 24 March 1891 caused a great stir. The British Residency in Imphal was attacked and the Chief Commissioner for Assam 【201†J.W. Quinton】, Col. Sken, the British Resident and other British officials were murdered.
+L202: In the middle of the unrest 【202†Ethel St Clair Grimwood】, the widow of Frank St Clair Grimmond, the killed British Resident, was credited with leading a retreat of surviving 【177†sepoys】 out of Manipur to Cachar.^{【203†[34]】} She was later lauded as a hero.^{【204†[35]】} A 5,000 strong punitive expedition was sent against Manipur on 27 April 1891.
+L203: Three British columns entered Manipur from 【138†British Burma】, Cachar and the Naga Hills, which after several skirmishes with the 3,000 men strong Manipuri army, managed to pacify the kingdom. Following the British attack, Tikendrajit and Kulachandra Singh fled, but were captured.
+L204: Tikendrajit and those Manipuris involved in the killing of the British officers were tried and hanged, while the deposed King Kulachandra Singh and other leaders of the rebellion were sent to the 【205†Cellular Jail】 in the 【206†Andaman Islands】. Manipur was briefly 【207†annexed】 to 【208†British India】 by virtue of the 【209†doctrine of lapse】.
+L205: On 22 September 1891 when 【210†Meidingngu Churachand】 (Churachandra), a 5-year-old boy, was put on the throne, power was restored nominally to the Manipuri crown over the state. During the dynastic disturbances and the British intervention the Naga and 【211†Kuki】 hill tribes of the state lapsed into lawlessness, with numerous instances of murder and arson in the mountain villages, a situation that lasted well into 1894.^{【172†[23]】}
+L206: ## Princely state under British Raj
+L207: The child ruler Churachand belonged to a side branch of the Manipur royal family, so that all the main contenders to the throne were bypassed. While he was a minor the affairs of state were administered by the British 【180†Political Agent】, which facilitated the introduction and implementation of reforms.
+L208: The first paved road to Manipur was inaugurated in 1900 —until then there had been no proper roads to reach the kingdom— and this improvement in communication facilitated a visit by Viceroy 【212†Lord Curzon】 in 1901. Raja Churachand was formally declared king in 1907 after completing education in 【213†Ajmer】.^{【172†[23]】} In 1918 he was given the privilege to use the title '【113†Maharaja】' and during his reign Manipur enjoyed a period of relative peace and prosperity.
+L209: In 1934 king Churachand was 【214†knighted】 by the British, becoming Sir Churachandra Singh.^{【215†[36]】}
+L210: Between March 1944 and July 1944 part of Manipur and the 【216†Naga Hills District】 of Assam Province were occupied by the 【217†Imperial Japanese Army】. The capital Imphal was shelled on 10 May 1944.^{【218†[37]】}
+L211: ## Twilight and end of the princely state
+L212: On 14 August 1947, with the lapse of paramountcy of the British Crown, Manipur regained its political autonomy that it had prior to 1891.^{【219†[38]】}^{【220†[a]】} The Maharaja had signed the 【221†Instrument of Accession】 on 11 August 1947, which legality is argued by many,^{【222†[41]】}^{【223†[42]】}^{【224†[43]】}^{【225†[44]】} ceding the three subjects of defence, external affairs and communications to the 【93†Union of India】, while retaining internal political autonomy.^{【226†[45]】}^{【227†[46]】}^{【228†[47]】}^{【229†[48]】} A '【230†Manipur State Constitution Act 1947】' was enacted, giving the state its own constitution, although this did not become known in other parts of India owing to the relative isolation of the kingdom.^{【231†[40]】} The Government of India did not recognize the Constitution.^{【232†[49]】}
+L213: On 21 September 1949, the Maharaja was coerced to sign a Manipur Merger Agreement with the Union of India, to take effect on 15 October the same year, which legality is also disputed by many^{【233†[50]】}^{【234†[51]】}^{【235†[52]】} As a result of the agreement, the Manipur State merged into the Indian Union as a 【236†Part C State】 (similar to a 【237†Chief Commissioner's Province】 under the colonial regime or a 【238†Union Territory】 in the present Indian structure), to be governed by a Chief Commissioner appointed by the Government of India.
+L214: The representative assembly of Manipur was abolished.^{【239†[53]】}
+L215: Unhappy with the central rule, 【240†Rishang Keishing】 began a movement for representative government in Manipur in 1954.
+L216: The Indian home minister, however, declared that the time was not yet ripe for the creation of representative assemblies in Part C States such as Manipur and 【241†Tripura】, stating that they were located in strategic border areas of India, that the people were politically backward and that the administration in those states was still weak.^{【239†[53]】} However, it was given a substantial measure of local self-government under the Territorial Councils Act of 1956, a legislative body and council of ministers in 1963, and 【71†full statehood】 in 1972.^{【242†[54]】}
+L217: ## Rulers
+L218: 
+L219: Main article: 【104†List of Meitei kings】
+L220: 
+L221: The rulers of Manipur state were entitled to an 11-【243†gun salute】 by the British authorities. The present dynasty began in 1714.^{【244†[55]】}
+L222:   * 1709–1754 【157†Gharib Nawaz】 (Pamheiba) (d. 1754)
+L223:   * 1754–1756 【245†Bharat Shah】 (Chitsai)
+L224:   * 1756–1764 【246†Guru Sham】 (Gaurisiam) (d. 1764)
+L225:   * 1764–1798 【116†Jai Singh (Bhagya Chandra)】
+L226:   * 1798–1801 【247†Rohinchandra】 (Harshachandra Singh) (d. 1801)
+L227:   * 1801–1806 【248†Maduchandra Singh】 (d. 1806)
+L228:   * 1806–1812 【249†Charajit Singh】 (d. 1812)
+L229:   * 1812–1819 【250†Marjit Singh】 (d. 1824)
+L230: ### Rajas under Burmese rule
+L231: 
+L232: There were two feudatory kings during the time of the 【176†Burmese invasions】.
+L233: 
+L234:   * 1819–1823 Shubol
+L235:   * 1823–1825 Pitambara Singh
+L236: ### Rajas under British protection
+L237: 
+L238:   * 26 Jun 1825 – 9 January 1834 【112†Gambhir Singh】 (d. 1834)
+L239:   * 1834–1844 Nara Singh – Regent (d. 1850)
+L240:   * 1844 – 10 April 1850 【191†Nara Singh】 (s.a.)
+L241:   * 1850 (3 months) 【194†Devendra Singh】 (d. 1871)
+L242:   * 1850 – May 1886 【251†Chandrakirti Singh】 (s.a.) (b. 1831 – d. 1886) (from 18 February 1880, Sir Chandrakirti Singh)
+L243:   * 1886 – 24 September 1890 【197†Surachandra Singh】 (d. 1891)
+L244:   * 24 Sep 1890 – 19 April 1891 【199†Kulachandra Singh】 (b. 18.. – d. 1934)
+L245: ### Rulers of the princely state under British Raj
+L246: 
+L247:   * 19 Apr 1891 – 18 September 1891 【252†Interregnum】
+L248:   * 18 Sep 1891 – September 1941 【253†Churachandra Singh】 (b. 1885 – d. 1941, titled "Maharaja" in 1918, knighted 1934)
+L249:   * Sep 1941 – 15 October 1949 【254†Bodhchandra Singh】 (b. 1909 – d. 1955)
+L250: ### British Political Agents
+L251: 
+L252: The 【255†Political agents】 were subordinated to the 【256†Chief Commissioner】 of Assam (Lieutenant Governor of East Bengal and Assam during 1905–1912)^{【257†[56]】}
+L253:   * 1835–1844 George Gordon
+L254:   * 1844–1863 【181†William McCulloch】 (1st time)^{【258†[57]】}^{【259†[b]】}
+L255:   * 1863–1865 Dillon
+L256:   * 1865–1867 【181†William McCulloch】 (2nd time) (s.a.)
+L257:   * 1867–1875 Robert Brown^{【260†[c]】}
+L258:   * 1875–1877 Guybon Henry Damant (acting)
+L259:   * 1877–1886 James Johnstone^{【261†[d]】}
+L260:   * 1886 (6 weeks) Trotter (acting)
+L261:   * 25 Mar 1886 – 21 April 1886 Walter Haiks (acting)
+L262:   * 1886 – 24 April 1891 【202†St. Clair Grimwood】 (d. 1891)
+L263:   * 1891 Sir 【262†Henry Collett】 (British commander)
+L264:   * 1891–1893 H.St.P. John Maxwell (1st time)
+L265:   * 1893–1895 Alexander Porteous (1st time)
+L266:   * 1895–1896 H.St.P. John Maxwell (2nd time)
+L267:   * 1896–1898 Henry Walter George Cole (1st time) (acting)
+L268:   * 1898–1899 Alexander Porteous (2nd time)
+L269:   * 1899–1902 H.St.P. John Maxwell (3rd time)
+L270:   * 1902–1904 Albert Edward Woods
+L271:   * 1904–1905 H.St.P. John Maxwell (4th time)
+L272:   * 1905–1908 John Shakespear (1st time)^{【263†[e]】}
+L273:   * 1908–1909 A.W. Davis
+L274:   * 1909–1914 John Shakespear (2nd time)
+L275:   * 1914–1917 Henry Walter George Cole (2nd time) (s.a.)
+L276:   * 1917–1918 John Comyn Higgins (1st time)
+L277:   * 1918–1920 【264†William Alexander Cosgrave】
+L278:   * 1920–1922 L.O. Clarke (1st time)
+L279:   * 1922 【265†Christopher Gimson】 (1st time) (acting)
+L280:   * 1922–1924 L.O. Clarke (2nd time)
+L281:   * 1924–1928 John Comyn Higgins (2nd time) (s.a.)
+L282:   * 12 Mar 1928 – 23 November 1928 C.G. Crawford
+L283:   * 1928–1933 John Comyn Higgins (3rd time) (s.a.)
+L284:   * 1933–1938 Christopher Gimson (2nd time) (s.a.)
+L285:   * 1938–1941 Gerald Pakenham Stewart (1st time) (Japanese prisoner 1941–45)
+L286:   * 1941–1946 Christopher Gimson (3rd time) (s.a.)
+L287:   * Dec 1946 – 14 August 1947 Gerald Pakenham Stewart (2nd time)
+L288: ### British administrators
+L289: 
+L290: During the princely state stage (1891–1947), an 【266†Indian Civil Service】 (ICS) officer of the 【267†East Bengal and Assam】 cadre was appointed as the administrator, first as the vice-president of the Manipur State Darbar, and, from 1916, as its president.^{【268†[62]】}^{【269†[63]】}^{【270†[64]】}^{【215†[36]】}
+L291:   * May 1907 – 1910 【264†William Alexander Cosgrave】^{【268†[62]】}
+L292:   * April–June 1910 C. H. Bell
+L293:   * June 1910 – 1917 John Comyn Higgins
+L294:   * 1917–1918 Robert Herriot Henderson (1st time)
+L295:   * 1918 – July 1918 V. Woods
+L296:   * 1918–1919 Sir Robert Herriot Henderson (s.a., 2nd time)
+L297:   * 1919–1921 【265†Christopher Gimson】^{【271†[65]】}
+L298:   * 1921 – June 1921 William Shaw
+L299:   * June 1921 – September 1922 Charles Seymour Mullan
+L300:   * September 1922 – June 1927 【272†Colin Grant Crawford】
+L301:   * June 1925 – February 1926 Hugh Weightman (acting)
+L302:   * June 1927 – 1930 Anthony Gilchrist McCall
+L303:   * 1930 – February 1933 Cecil Walter Lewery Harvey
+L304:   * February 1933 – February 1936 Gerald Pakenham Stewart

@@ -1,0 +1,319 @@
+Licchavis of Nepal - Wikipedia (https://en.wikipedia.org/wiki/Licchavis_of_Nepal)
+citeturn106view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Licchavis_of_Nepal","lineno":null}); Total lines: 317
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Records】
+L50:   * 【19†2 Government】
+L51:   * 【20†3 Culture】 Toggle Culture subsection
+L52:     * 【21†3.1 Language】
+L53:   * 【22†4 Economy】
+L54:   * 【23†5 Geography】 Toggle Geography subsection
+L55:     * 【24†5.1 Domain】
+L56:   * 【25†6 Rulers】
+L57:   * 【26†7 See also】
+L58:   * 【27†8 References】
+L59:   * 【28†9 Sources】
+L60:   * 【29†10 External links】
+L61: 
+L62: [Input] Toggle the table of contents
+L63: # Licchavis of Nepal
+L64: 
+L65: [Input] 17 languages
+L66:   * 【30†Bikol Central†bcl.wikipedia.org】
+L67:   * 【31†डोटेली†dty.wikipedia.org】
+L68:   * 【32†Français†fr.wikipedia.org】
+L69:   * 【33†हिन्दी†hi.wikipedia.org】
+L70:   * 【34†日本語†ja.wikipedia.org】
+L71:   * 【35†한국어†ko.wikipedia.org】
+L72:   * 【36†Lietuvių†lt.wikipedia.org】
+L73:   * 【37†മലയാളം†ml.wikipedia.org】
+L74:   * 【38†नेपाली†ne.wikipedia.org】
+L75:   * 【39†Русский†ru.wikipedia.org】
+L76:   * 【40†Srpskohrvatski / српскохрватски†sh.wikipedia.org】
+L77:   * 【41†සිංහල†si.wikipedia.org】
+L78:   * 【42†Svenska†sv.wikipedia.org】
+L79:   * 【43†தமிழ்†ta.wikipedia.org】
+L80:   * 【44†Українська†uk.wikipedia.org】
+L81:   * 【45†Tiếng Việt†vi.wikipedia.org】
+L82:   * 【46†中文†zh.wikipedia.org】
+L83: 【47†Edit links†www.wikidata.org】
+L84: 
+L85:   * 【48†Article】
+L86:   * 【49†Talk】
+L87: 
+L88: [Input] English
+L89: 
+L90:   * 【48†Read】
+L91:   * 【50†Edit】
+L92:   * 【51†View history】
+L93: 
+L94: [Input] Tools
+L95: 
+L96: Tools
+L97: 
+L98: [Button: move to sidebar] [Button: hide]
+L99: 
+L100: Actions
+L101: 
+L102:   * 【48†Read】
+L103:   * 【50†Edit】
+L104:   * 【51†View history】
+L105: 
+L106: General
+L107: 
+L108:   * 【52†What links here】
+L109:   * 【53†Related changes】
+L110:   * 【54†Upload file】
+L111:   * 【55†Permanent link】
+L112:   * 【56†Page information】
+L113:   * 【57†Cite this page】
+L114:   * 【58†Get shortened URL】
+L115:   * 【59†Switch to legacy parser】
+L116: 
+L117: Print/export
+L118:   * 【60†Download as PDF】
+L119:   * Printable version
+L120: 
+L121: In other projects
+L122: 
+L123:   * 【61†Wikimedia Commons†commons.wikimedia.org】
+L124:   * 【62†Wikidata item†www.wikidata.org】
+L125: 
+L126: Appearance
+L127: 
+L128: [Button: move to sidebar] [Button: hide]
+L129: 
+L130: For the clan that lasted until the 3.5th century BCE, see 【63†Licchavis of Vaishali】.
+L131: Licchavis of Nepal
+L132: ---
+L133: c. 400 CE–c. 879 CE
+L134: Coinage of Licchavi king 【64†Amshuverma】 (605–621 CE). Obverse: winged lion, with 【65†Brahmi】 legend 【66†Śri】 Amśurvarma "Lord Amshurvarma". Reverse: Bull with Brahmi legend Kāmadēhi ("Incarnation of 【67†Kāma】").^{【68†[2]】}
+L135: 【69†South Asia600 CE】【70†MORIS】【71†PANDYAS】【48†LICCHAVIS】【72†CHOLAS】【73†ZHANGZHUNG】【74†CHERAS】【75†SAMATATAS】【76†KAMARUPA】
+L136: 【77†VISHNU-KUNDINAS】【78†PALLAVAS】【79†ALUPAS】【80†NEZAKS】【81†ALCHONS】【82†KALINGAS】【83†PANDUVAMSHIS】【84†GAUDA】【85†MAUKHARIS】【86†SHAILODBHAVAS】【87†GONANDAS】
+L137: 【88†WESTERNTURKS】【89†TOCHARIANS】【90†VALABHI】【91†SINDH】
+L138: 【92†MANDAVYA-PURA】【93†LATER GUPTAS】【94†THANESAR】【95†CHALUKYAS】
+L139: 【96†EARLYKALA-CHURIS】
+L140: 【97†PERSIANEMPIRE】Fragmented South Asian polities circa 600 CE, after the retreat of the 【81†Alchon Huns】.^{【98†[3]】}
+L141: Common languages  | 【99†Sanskrit】
+L142: 【100†Proto-Newar】
+L143: Government  | 【101†Monarchy】
+L144: History  |
+L145: • Established  | c. 400 CE
+L146: • Disestablished  | c. 879 CE
+L147: Preceded by Succeeded by
+L148: 【102†Image†upload.wikimedia.org】 【103†Soma dynasty】
+L149: 【104†Thakuri dynasty】 【102†Image†upload.wikimedia.org】
+L150: 【105†Katyuri kings】 【102†Image†upload.wikimedia.org】
+L151: Today part of  | 【106†Nepal】
+L152: The Licchavis of Nepal (【107†Sanskrit】: लिच्छवि, also Lichchhavi, Lichavi) ruled over a kingdom in the 【108†Kathmandu Valley】 of 【106†Nepal】 from approximately 400 to 879 CE.
+L153: The Licchavi clan originated from a branch of the 【63†Licchavis of Vaishali】, who ruled in the territory of modern-day 【109†Bihar】 and who later conquered the Kathmandu Valley.^{【110†[4]】}^{【111†[5]】}^{【112†[6]】} The Licchavis were ruled by a maharaja, aided by a prime minister and other royal officials, but in practice local communities were controlled by 【113†caste councils】.^{【114†[7]】}
+L154: The ruling period of this dynasty was called the Golden Period of Nepal. A table of the evolution of certain Gupta characters used in Licchavi inscriptions prepared by Gautamavajra Vajrācārya can be found online.^{【115†[8]】}
+L155: ## Records
+L156: 
+L157: [【116†edit】]
+L158: 
+L159: It is believed that a branch of the 【117†Licchavi】 clan, having lost their political fortune and military power in 【118†Vaishali】 (【109†Bihar】),^{【119†[9]】} came to 【120†Kathmandu】 and intermarried with the family of the ruling Queen, Mandeva Shree Vogini of the 【121†Nagvanshi】 clan, thus beginning their rule in Nepal.^{【122†[10]】} They also battled with local militias in 【123†Chyasal】 to gain control of Nepal.
+L160: The earliest known physical record of the kingdom is an inscription of 【124†Mānadeva】, which dates from 464. It mentions three preceding rulers, suggesting that the Licchavi dynasty began in the late 4th century.
+L161: ## Government
+L162: 
+L163: [【125†edit】]
+L164: 
+L165: The Licchavis were ruled by a 【126†Maharaja】 ("great king"), who was aided by a prime minister, in charge of the military and of other ministers. Nobles, known as 【127†samanta】 influenced the court whilst simultaneously managing their own landholdings and militia. At one point, between approximately 605 and 641, a prime minister called 【64†Amshuverma】 assumed the throne.
+L166: The population provided land taxes and conscript labour (vishti) to support the government. Most local administration was performed by village heads or leading families. Many kings ruled but the popular ones were 【128†Manadeva】, 【64†Amshuverma】 etc.
+L167: ## Culture
+L168: 
+L169: [【129†edit】]
+L170: ### Language
+L171: 
+L172: [【130†edit】]
+L173: 
+L174: During the Licchavi dynasty, 【99†Sanskrit】 was the court language, while 【131†Newar language】 was the vernacular language.^{【132†[11]】} The Licchavi inscriptions are 190 in total, and are carved in Sanskrit. Among those inscriptions, 53 were written in 【133†Gupta script】, while 137 were written in 【134†Kutila script】.^{【135†[12]】} Although these inscriptions were written in Sanskrit, they contain frequent Newari derivative words.^{【132†[11]】}^{【136†[13]】}
+L175: ## Economy
+L176: 
+L177: [【137†edit】]
+L178: 
+L179: The economy was agricultural, relying on 【138†rice】 and other grains as staples. Villages (grama) were grouped into dranga for administration. Lands were owned by the royal family and nobles. Trade was also very important, with many trading settlements.
+L180: 
+L181: ## Geography
+L182: 
+L183: [【139†edit】]
+L184: ### Domain
+L185: 
+L186: [【140†edit】]
+L187: 
+L188: Settlements already filled the entire valley during the Licchavi period. Further settlement extended east toward 【141†Banepa】, west toward 【142†Tistung Deurali】, and northwest toward present-day 【143†Gorkha】.
+L189: ## Rulers
+L190: 
+L191: [【144†edit】]
+L192: 
+L193: The following list was adapted from The Licchavi Kings, by Tamot & Alsop,^{【145†[14]】} and is approximate only, especially with respect to dates.
+L194: 
+L195: Copper coin of Jishnu Gupta (c. 622–633) of the Nepalese Licchavi Dynasty. Obverse. The inscription above the winged horse is Sri Jishnu Guptasya Copper coin of Jishnu Gupta (c. 622–633) of the Nepalese Licchavi Dynasty. Reverse
+L196:   * 185 Jayavarmā (also Jayadeva I)
+L197:   * Vasurāja (also Vasudatta Varmā)
+L198:   * c. 400 【146†Vrsadeva】 (also Vishvadeva)
+L199:   * c. 425 Shaṅkaradeva I
+L200:   * c. 450 Dharmadeva
+L201:   * 464-505 【124†Mānadeva】 I
+L202:   * 505-506 Mahīdeva (few sources)
+L203:   * 506-532 Vasantadeva
+L204:   * Manudeva (probable chronology)
+L205:   * 538 Vāmanadeva (also Vardhamānadeva)
+L206:   * 545 Rāmadeva
+L207:   * Amaradeva
+L208:   * Gunakāmadeva
+L209:   * 560-565 Ganadeva
+L210:   * 567-c. 590 Bhaumagupta (also Bhūmigupta, probably not a king)
+L211:   * 567-573 Gaṅgādeva
+L212:   * 575/576 Mānadeva II (few sources)
+L213:   * 590-604 【147†Shivadeva I】
+L214:   * 605-621 【148†Amshuvarma】
+L215:   * 621 Udayadeva
+L216:   * 624-625 Dhruvadeva
+L217:   * 631-633 Bhīmārjunadeva, Jisnugupta
+L218:   * 635 Visnugupta - Jisnugupta
+L219:   * 640-641 Bhīmārjunadeva / Visnugupta
+L220:   * 643-679 【149†Narendradeva】
+L221:   * 694-705 【150†Shivadeva II】
+L222:   * 713-733 【151†Jayadeva II】
+L223:   * 748-749 Shaṅkaradeva II
+L224:   * 756 Mānadeva III
+L225:   * 826 Balirāja
+L226:   * 847 Baladeva
+L227:   * 875–879 Mandeva IV^{【152†[15]】}
+L228: ## See also
+L229: 
+L230: [【153†edit】]
+L231: 
+L232:   * 【154†History of Nepal】
+L233:   * 【106†Nepal】
+L234:   * 【155†Mahajanapadas】
+L235:   * 【118†Vaishali (ancient city)】
+L236: ## References
+L237: 
+L238: [【156†edit】]
+L239:   1. Smith, Vincent Arthur; 【157†Edwardes, Stephen Meredyth】 (1924). 【158†The early history of India : from 600 B.C. to the Muhammadan conquest, including the invasion of Alexander the Great†archive.org】. Oxford : Clarendon Press. p. Plate 2.`{{【159†cite book】}}`: CS1 maint: publisher location (【160†link】)
+L240:   2. 【161†↑】 Smith, Vincent Arthur; 【157†Edwardes, Stephen Meredyth】 (1924). 【158†The early history of India : from 600 B.C. to the Muhammadan conquest, including the invasion of Alexander the Great†archive.org】. Oxford : Clarendon Press. p. Plate 2.`{{【159†cite book】}}`: CS1 maint: publisher location (【160†link】)
+L241:   3. 【162†↑】 Schwartzberg, Joseph E. (1978). 【163†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 26,146. 【164†ISBN】 【165†0226742210】. Archived from 【166†the original†dsal.uchicago.edu】 on 12 January 2024. Retrieved 7 May 2022.
+L242:   4. 【167†↑】 【168†Journal†books.google.com】. 1902.
+L243:   5. 【169†↑】 Kaplan, Robert B.; Baldauf, Richard B. (2008). 【170†Language Planning and Policy in Asia: Japan, Nepal, Taiwan and Chinese characters†books.google.com】. Multilingual Matters. p. 173. 【164†ISBN】 【171†978-1-84769-095-1】.
+L244:   6. 【172†↑】 India), Asiatic Society (Kolkata (1902). 【173†Journal of the Asiatic Society of Bengal†books.google.com】. Asiatic Society of Bengal.
+L245:   7. 【174†↑】 Anil Kathuria, ed. (2007). Encyclopaedia of Nepal, Bhutan and Tibet: Nepal. Anoml Publications. p. 32.
+L246:   8. 【175†↑】 【176†"Gautamavajra Vajrācārya, "Recently Discovered Inscriptions of Licchavi Nepal", Kathmandu Kailash - Journal of Himalayan Studies. Volume 1, Number 2, 1973. (pp. 117-134)"†web.archive.org】. Archived from 【177†the original†www.thdl.org】 on 27 September 2008. Retrieved 20 October 2006.
+L247:   9. 【178†↑】 India), Asiatic Society (Kolkata (1902). 【173†Journal of the Asiatic Society of Bengal†books.google.com】. Asiatic Society of Bengal.
+L248:   10. 【179†↑】 【180†"Virupaksha"†web.archive.org】 (PDF). Archived from 【181†the original†himalaya.socanth.cam.ac.uk】 (PDF) on 6 April 2012.
+L249:   11. 【182†1】 【183†2】 【184†Regmi, Dilli Raman】 (1960). Ancient Nepal (1st ed.). Calcutta: Firma K. L. Mukhopadhyay. p. 21. 【185†OCLC】 【186†131579†search.worldcat.org】.
+L250:   12. 【187†↑】 Tuladhar, Premshanti (2000). 【188†Nepal Bhasa Sahityaya Itihasa†www.google.com】 [The History of Nepal Bhasa Literature] (in Newari). Lalitpur, Nepal: 【189†Nepal Bhasa Academy】. p. 13. 【164†ISBN】 【190†99933560-0-X】.
+L251:   13. 【191†↑】 【192†Tuladhar 2000】, p. 19.
+L252:   14. 【193†↑】 【194†Tamot, Kashinath and Alsop, Ian. "A Kushan-period Sculpture, The Licchavi Kings", Asianart.com†www.asianart.com】
+L253:   15. 【195†↑】 Shrestha, Nanda R. (2003). Historical dictionary of Nepal. Keshav Bhattarai. Lanham, Md.: Scarecrow Press. 【164†ISBN】 【196†0-8108-4797-3】. 【185†OCLC】 【197†51931102†search.worldcat.org】.
+L254: ## Sources
+L255: 
+L256: [【198†edit】]
+L257: 
+L258:   * Ashvini Agrawal (1989). 【199†Rise and Fall of the Imperial Guptas†books.google.com】. Motilal Banarsidass. 【164†ISBN】 【200†978-81-208-0592-7】.
+L259:   * 【201†R. C. Majumdar】 (1981). 【202†A Comprehensive History of India†books.google.com】. Vol. 3, Part I: A.D. 300-985. Indian History Congress / People's Publishing House. 【185†OCLC】 【203†34008529†search.worldcat.org】.
+L260: ## External links
+L261: 
+L262: [【204†edit】]
+L263:   * 【194†Tamot, Kashinath and Alsop, Ian. "A Kushan-period Sculpture, The Licchavi Kings", Asianart.com†www.asianart.com】
+L264:   * 【205†History of Nepal, Thamel.com†www.thamel.com】
+L265:   * 【206†"Nepal: The Early Kingdom of the Licchavis, 400–750", Library of Congress Countryreports.org (September, 1991)†lcweb2.loc.gov】
+L266:   * 【176†Vajrācārya, Gautamavajra, "Recently Discovered Inscriptions of Licchavi, Nepal", Kailash – Journal of Himalayan Studies, Volume 1, Number 2, 1973. (pp. 117–134)†web.archive.org】
+L267: 【207†Image】
+L268: 
+L269: Retrieved from "【55†https://en.wikipedia.org/w/index.php?title=Licchavis_of_Nepal&oldid=1381065722】"
+L270: 
+L271: 【208†Categories】:
+L272: 
+L273:   * 【209†Licchavi kingdom】
+L274:   * 【210†Former monarchies of Asia】
+L275:   * 【211†States and territories established in the 5th century】
+L276:   * 【212†States and territories disestablished in the 8th century】
+L277:   * 【213†Dynasties of Nepal】
+L278:   * 【214†Former monarchies of Nepal】
+L279:   * 【215†8th-century disestablishments in Nepal】
+L280:   * 【216†4th-century establishments in Nepal】
+L281: 
+L282: Hidden categories:
+L283:   * 【217†Articles with short description】
+L284:   * 【218†Short description is different from Wikidata】
+L285:   * 【219†Use dmy dates from December 2015】
+L286:   * 【220†Use Indian English from December 2015】
+L287:   * 【221†All Wikipedia articles written in Indian English】
+L288:   * 【160†CS1 maint: publisher location】
+L289:   * 【222†Pages using infobox country or infobox former country with the symbol caption or type parameters】
+L290:   * 【223†Articles containing Sanskrit-language text】
+L291:   * 【224†CS1 foreign language sources (ISO 639-2)】
+L292:   * 【225†CS1: long volume value】
+L293:   * This page was last edited on 19 October 2026, at 19:59 (UTC).
+L294:   * Page was rendered with 【226†Parsoid†www.mediawiki.org】.
+L295:   * Text is available under the 【227†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【228†Terms of Use†foundation.wikimedia.org】 and 【229†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【230†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L296:   * 【229†Privacy policy†foundation.wikimedia.org】
+L297:   * 【5†About Wikipedia】
+L298:   * 【231†Disclaimers】
+L299:   * 【6†Contact Wikipedia】
+L300:   * 【232†Legal & safety contacts†foundation.wikimedia.org】
+L301:   * 【233†Code of Conduct†foundation.wikimedia.org】
+L302:   * 【234†Developers†developer.wikimedia.org】
+L303:   * 【235†Statistics†stats.wikimedia.org】
+L304:   * 【236†Cookie statement†foundation.wikimedia.org】
+L305:   * Search
+L306: 
+L307: [Input: Search Wikipedia]
+L308: 
+L309: [Input]
+L310: 
+L311: [Button: Search]
+L312: 
+L313: [Input] Toggle the table of contents
+L314: 
+L315: Licchavis of Nepal
+L316: 17 languages 【17†Add topic】

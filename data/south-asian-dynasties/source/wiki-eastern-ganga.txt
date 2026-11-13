@@ -1,0 +1,327 @@
+Eastern Ganga dynasty - Wikipedia (https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty)
+citeturn73view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty","lineno":null}); Total lines: 700
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 The Early Gangas】
+L51:     * 【21†2.2 The Imperial Gangas】
+L52:   * 【22†3 Administration and Military system】
+L53:   * 【23†4 Culture】 Toggle Culture subsection
+L54:     * 【24†4.1 Religion】
+L55:       * 【25†4.1.1 Shaivism】
+L56:       * 【26†4.1.2 Vaishnavism】
+L57:   * 【27†5 List of rulers】 Toggle List of rulers subsection
+L58:     * 【28†5.1 Kalinga Rulers (c. 498–1077 CE)】
+L59:     * 【29†5.2 Trikalinga Rulers (c. 1077–1434 CE)】
+L60:   * 【30†6 Regnal year system (Anka year)】
+L61:   * 【31†7 Coinage】
+L62:   * 【32†8 Legacy】
+L63:   * 【33†9 Descendants】 Toggle Descendants subsection
+L64:     * 【34†9.1 Paralakhemundi branch】
+L65:     * 【35†9.2 Badakhemundi and Sanakhemundi branch】
+L66:     * 【36†9.3 Hindol branch】
+L67:     * 【37†9.4 Bamanda branch】
+L68:     * 【38†9.5 Chikiti branch】
+L69:     * 【39†9.6 Jaffna Branch】
+L70:   * 【40†10 Gallery】
+L71:   * 【41†11 See also】
+L72:   * 【42†12 Notes】
+L73:   * 【43†13 References】
+L74:   * 【44†14 External links】
+L75: [Input] Toggle the table of contents
+L76: # Eastern Ganga dynasty
+L77: 
+L78: [Input] 19 languages
+L79:   * 【45†বাংলা†bn.wikipedia.org】
+L80:   * 【46†Català†ca.wikipedia.org】
+L81:   * 【47†Español†es.wikipedia.org】
+L82:   * 【48†Français†fr.wikipedia.org】
+L83:   * 【49†हिन्दी†hi.wikipedia.org】
+L84:   * 【50†Bahasa Indonesia†id.wikipedia.org】
+L85:   * 【51†日本語†ja.wikipedia.org】
+L86:   * 【52†ქართული†ka.wikipedia.org】
+L87:   * 【53†ಕನ್ನಡ†kn.wikipedia.org】
+L88:   * 【54†한국어†ko.wikipedia.org】
+L89:   * 【55†नेपाली†ne.wikipedia.org】
+L90:   * 【56†ଓଡ଼ିଆ†or.wikipedia.org】
+L91:   * 【57†پنجابی†pnb.wikipedia.org】
+L92:   * 【58†සිංහල†si.wikipedia.org】
+L93:   * 【59†தமிழ்†ta.wikipedia.org】
+L94:   * 【60†తెలుగు†te.wikipedia.org】
+L95:   * 【61†Українська†uk.wikipedia.org】
+L96:   * 【62†اردو†ur.wikipedia.org】
+L97:   * 【63†中文†zh.wikipedia.org】
+L98: 【64†Edit links†www.wikidata.org】
+L99: 
+L100:   * 【65†Article】
+L101:   * 【66†Talk】
+L102: 
+L103: [Input] English
+L104: 
+L105:   * 【65†Read】
+L106:   * 【67†Edit】
+L107:   * 【68†View history】
+L108: 
+L109: [Input] Tools
+L110: 
+L111: Tools
+L112: 
+L113: [Button: move to sidebar] [Button: hide]
+L114: 
+L115: Actions
+L116: 
+L117:   * 【65†Read】
+L118:   * 【67†Edit】
+L119:   * 【68†View history】
+L120: 
+L121: General
+L122: 
+L123:   * 【69†What links here】
+L124:   * 【70†Related changes】
+L125:   * 【71†Upload file】
+L126:   * 【72†Permanent link】
+L127:   * 【73†Page information】
+L128:   * 【74†Cite this page】
+L129:   * 【75†Get shortened URL】
+L130:   * 【76†Switch to legacy parser】
+L131: 
+L132: Print/export
+L133:   * 【77†Download as PDF】
+L134:   * Printable version
+L135: 
+L136: In other projects
+L137: 
+L138:   * 【78†Wikimedia Commons†commons.wikimedia.org】
+L139:   * 【79†Wikidata item†www.wikidata.org】
+L140: 
+L141: Appearance
+L142: 
+L143: [Button: move to sidebar] [Button: hide]
+L144: 
+L145: Eastern Ganga dynasty Purba Gangas, Rudhi Gangas or Prachya Gangas
+L146: ---
+L147:   * 493–1077 AD (Kalinga)
+L148:   * 1077–1436 AD (Trikalinga)
+L149:   * 1436–1947 AD (Khemundi)
+L150: Eastern Ganga Fanam of king 【80†Anantavarman Chodaganga】 (【81†Anka year】 63–1128 AD)
+L151: 【82†South-Asia1400 AD】
+L152: 【83†DELHI SULTANATE(TUGHLAQS)】【84†KAMATAS】
+L153: 【85†TIMURIDEMPIRE】
+L154: 【86†SHAH MIRSULTANATE】【87†PHAGMODRUPAS】【88†SAMMAS】【89†AHOM】【90†KACHARIS】【91†CHUTIAS】
+L155: 【92†BENGALSULTANATE】
+L156: 【93†GUJARATGOVERNORATE】
+L157: 【94†BAHMANISULTANATE】
+L158: 【95†KHANDESHSULTANATE】
+L159: 【92†BENGALSULTANATE】
+L160: 【96†VIJAYANAGARAEMPIRE】 【97†◁】 【98†▷】 Map of the Eastern Gangas, circa 1400 AD.^{【99†[1]】}
+L161: Status  | Kingdom^{【100†[nb 1]】}
+L162: Capital  |
+L163:   * 【101†Kalinganagara】^{【102†[2]】}
+L164:   * 【103†Dantapura】
+L165:   * 【104†Kataka】^{【102†[2]】}
+L166:   * 【105†Paralakhemundi】
+L167: Common languages  |
+L168:   * 【106†Odia】 (court language, literature, early and later medieval period)^{【107†[3]】}^{【108†[4]】}
+L169:   * 【109†Telugu】 (early period)^{【110†[5]】}^{【111†[6]】}
+L170:   * 【112†Sanskrit】 (religious)^{【113†[7]】}
+L171:   * 【114†Other Indian languages】
+L172: Religion  | 【115†Hinduism】
+L173: 【116†Shaivism】
+L174: 【117†Vaishnavism】
+L175: Government  | 【118†Monarchy】
+L176: 【119†Tri-Kalingadhipati】
+L177: 【119†Gajapati】  |
+L178: • 493–532  | Indravarman I (first)
+L179: • 1078–1150  | 【80†Anantavarman Chodaganga】
+L180: • 1211–1238  | 【120†Anangabhima Deva III】
+L181: • 1238–1264  | 【121†Narasingha Deva I】
+L182: • 1736–1771  | 【122†Jagannatha Gajapati Narayana Deo II】
+L183: • 1913–1947  | 【123†Krushna Chandra Gajapati】 (last)
+L184: Historical era  | 【124†Classical India】
+L185: • Established  | 493 AD
+L186: • 【125†Malwese invasion】  | c. (circa) 1422
+L187: • 【126†Sharqi invasions】  | c. (circa) 1444
+L188: • Disestablished  | 1947 AD
+L189: Currency  | 【31†Ganga Fanams】
+L190: Preceded by Succeeded by
+L191: 【127†Image†upload.wikimedia.org】 【128†Pitrbhakta dynasty】
+L192: 【127†Image†upload.wikimedia.org】 【129†Somavamshi dynasty】
+L193: 【127†Image†upload.wikimedia.org】 【130†Mathara dynasty】
+L194: 【131†Gajapati Empire】 【127†Image†upload.wikimedia.org】
+L195: 【132†Bhoi dynasty】 【127†Image†upload.wikimedia.org】
+L196: Today part of  | 【133†India】
+L197: Illustration of a Kalinga mounted archer with a stallion, from the calligraphic 【134†Constitution of India】 (page 106).
+L198: The Eastern Ganga dynasty (also known as Purba Gangas, Rudhi Gangas or Prachya Gangas) were a large 【135†medieval era】 【136†dynasty】 that reigned from 【137†Kalinga】 from as early as the 5th century to the mid 20th century.^{【138†[8]】}^{【139†[9]】} They are known as "Eastern Gangas" to distinguish them from the 【140†Western Gangas】 who ruled over 【141†Karnataka】.
+L199: The territory ruled by the dynasty consisted of the whole of the modern-day 【133†Indian】 state of 【142†Odisha】, as well as major parts of north 【143†Andhra Pradesh】, parts of 【144†Chhattisgarh】^{【145†[10]】} and some southern districts of 【146†West Bengal】.^{【147†[11]】} Eastern Gangas ruled much of the modern region of 【142†Odisha】 in three different phases by the passage of time, known as Early Eastern Gangas (493–1077), Imperial Eastern Gangas (1077–1436) and Khemundi Gangas (1436–1947).^{【148†[12]】}^{【149†[13]】}^{【138†[8]】} 【106†Odia language】 became the official and court language of Eastern Gangas.^{【150†[14]】}^{【151†[15]】} The early rulers of the dynasty ruled from 【103†Dantapura】 (modern Dantapuram in the 【152†Srikakulam district】 in Andhra Pradesh), the capital was later moved to 【153†Kalinganagara】 (modern 【101†Mukhilinga】 in Andhra Pradesh), and ultimately to 【154†Kataka】 (modern 【104†Cuttack】 in Odisha) and then to 【105†Paralakhemundi】 (in Odisha).^{【155†[16]】}^{【138†[8]】}
+L200: Today, they are remembered as the builders of the world renowned 【156†Jagannath Temple of Puri】 and 【157†Konark Sun Temple】 situated in Odisha, as well as the 【101†Madhukeshwara temple of Mukhalinga】, 【158†Nrusinghanath Temple at Simhachalam】 in 【159†Andhra Pradesh】, and 【160†Ananta Vasudeva Temple at Bhubaneswar】. The Gangas have constructed several temples besides the ones mentioned above.
+L201: The rulers of Eastern Ganga dynasty defended their kingdom from the constant attacks of the Muslim invaders. This kingdom prospered through trade and commerce and the wealth was mostly used in the construction of temples. The rule of the dynasty came to an end under the reign of King Bhanudeva IV (c. 1414–34), in the early 15th century and then Khemundi Ganga started ruling up to abolition of zamindari in modern India.
+L202: The Eastern Ganga dynasty is said to be the longest reigning dynasty in Odisha.^{【161†[17]】} Their currency was called Ganga Fanams and was similar to that of the 【162†Cholas】 and 【163†Eastern Chalukyas】 of southern India.^{【164†[18]】}
+L203: ## Origin
+L204: 
+L205: [【165†edit】]
+L206: 
+L207: 【166†Image†thumb.wikimedia.org】  | This section may be 【167†too long】 to read and navigate comfortably. Consider 【168†splitting】 content into sub-articles, 【169†condensing】 it, or adding 【170†subheadings】. Please discuss this issue on the article's 【66†talk page】. (October 2023)
+L208: As per B. Masthanaiah, the origin of the Eastern Gangas is not clearly established. However, renowned British scholar, artist, art critic, historian, archaeologist, and an authority on Indian art and architecture, 【171†Percy Brown】, suggested that the temples of 【101†Mukhalingam】 predated the temples of 【172†Bhubaneswar】 and had been built as per the 【173†Badami Chalukya Temple Architecture】 originating from 【141†Karnataka】 since the 4th century CE.
+L209: A certain temple tower in 【142†Odisha】 shows a combination of both Rekha and Pidha Deul decoration types which was taken from the 【174†Kadamba temples】 of Karnataka where it first appeared. The Mukhalingam (【153†Kalinganagara】) Madhukeswara (Mukhalingeswara) temple too resembles the Kadamba temples of Karnataka.
+L210: The towns of 【175†Aihole】, 【176†Badami】 and 【177†Pattadakal】 had emerged as 'The Cradle of Indian Temple Architecture and Hindu Rock Architecture, Stone Artwork and Construction Techniques' since the 4th century CE. The script used by the Eastern Ganga king Indravarma of the 7th century CE, like his predecessors, is the common 【178†Telugu-Kannada script】 used also by the 【179†Chalukyas of Badami】 and their related offshoot 【163†Vengi Chalukya】 branch.
+L211: All these indicate a strong proof for the Eastern Gangas having originated from the earlier 【180†Western Gangas】 (established c. 350 CE) of Karnataka.^{【181†[19]】}
+L212: According to the historian 【182†Upinder Singh】, In the 4th century CE, Orissa was divided into several small principalities, some of which owed allegiance to the Guptas. Dynasties such as the Pitribhaktas, Matharas, and Vasishthas rose to power in southern Orissa. The 5th century saw the rise of the Eastern Gangas in south Kalinga. These kings were probably a branch of the Western Gangas and were migrants from Karnataka.^{【183†[20]】}
+L213: 
+L214: 【184†South Asia1175 CE】
+L215: 
+L216: 【185†KARAKHANIDKHANATE】
+L217: 
+L218: 【186†QARA KHITAI】
+L219: 【187†GHURIDEMPIRE】
+L220: 
+L221: 【188†CHAULUKYAS】
+L222: 
+L223: 【189†CHAHAMANAS】
+L224: 
+L225: 【190†LATEGHAZNAVIDS】
+L226: 
+L227: 【191†PARAMARAS】
+L228: 
+L229: 【192†WESTERNCHALUKYAS】
+L230: 
+L231: 【193†KAKATIYAS】
+L232: 
+L233: 【194†SHILA-HARAS】
+L234: 
+L235: 【195†CHOLAS】
+L236: 
+L237: 【196†CHERAS】
+L238: 
+L239: 【197†PANDYAS】
+L240: 
+L241: 【198†KADAMBAS】
+L242: 
+L243: 【199†HOYSALAS】
+L244: 
+L245: 【200†GAHADAVALAS】
+L246: 
+L247: 【201†GUHILAS】
+L248: 
+L249: 【202†KACHCHAPA-GHATAS】
+L250: 
+L251: 【203†CHANDELAS】
+L252: 
+L253: 【204†KALACHURIS(TRIPURI)】
+L254: 
+L255: 【205†KALACHURIS(RATNAPURA)】
+L256: 
+L257: 【206†SENAS】
+L258: 
+L259: 【207†KARNATAS】
+L260: 
+L261: 【208†KAMARUPAS】
+L262: 
+L263: 【65†EASTERNGANGAS】
+L264: 
+L265: 【209†GUGE】
+L266: 
+L267: 【210†MARYUL】
+L268: 
+L269: 【211†LOHA-RAS】
+L270: 
+L271: 【212†SOOMRAEMIRATE】
+L272: 【213†MAKRANSULTANATE】
+L273: 
+L274: The Eastern Gangas and main South Asian polities in 1175, on the eve of the 【214†Ghurid Empire】 invasion of the subcontinent.^{【215†[21]】}^{【216†[22]】}
+L275: The 【217†Korni】 and 【218†Vishakhapatnam】 copper plates of 1113 AD and 1118/1119 AD respectively both of 【80†Anantavarman Chodaganga】,^{【219†[23]】} the Dasgoba copper plate of Rajaraja III of 1198/99 AD and the Nagari copperplate of 【120†Anangabhima III】 and other such records trace the ancestry of the Eastern Gangas to Kamarnava I.
+L276: The Kendupatna copper plate of Narasimhadeva II and the 【220†Puri】 copper plate of Narasimhadeva IV also state that Kamarnava came from 【180†Gangawadi】 province, now in Karnataka. The Korni copper plate mentions that Kamarnava I came to the 【221†Mahendra mountain】 situated to the east of Gangawadi and then onwards to 【137†Kalinga】.
+L277: It also states that Kamarnava I, the eldest son of Virasimha, had left 【222†Kolahalapura】 (Kuvalalapura or Kolar), the capital of 【223†Gangawadivisaya】 (Western Ganga kingdom in southern Karnataka) after giving up his rightful throne to his paternal uncle.
+L278: He set forth eastwards along with his four brothers to establish a new kingdom, reached and ascended the mountain summit of Mahendra, worshipped 【224†Shiva】 as God Gokarnaswamin or Gokarneswara, obtained the bull (【225†Nandi】) emblem, descended to the eastern side, defeated and killed the local tribal king Sabaraditya (Savaraditya) or Baladitya in battle and acquired the whole of Kalinga with the blessings of Gokarneswara.^{【226†[24]】} Historian Bhairabi Prasad Sahu states that the Gangas after conquering the area south of Mahendragiri mountain around 498–500 CE, acknowledged a deity of the Saora (【227†Savara】 or Sabara) tribe on the Mahendragiri mountain with the name of Shiva-Gokarnaswamin as the patron deity of their family.^{【228†[25]】}
+L279: Epigraphist, 【229†John Faithfull Fleet】 has identified Gangawadi and Kolahalapuram with the 【180†Ganga Dynasty】 (founded in 350 CE) and 【230†Kolar】, ruled by the 【140†Western Gangas】. Both the early and the later Eastern Ganga kings had close relations with the Eastern Kadambas, who functioned under them as chieftains, heads and provincial governors. Most of the early as well as the later Eastern Ganga kings of Kalinga worshipped the holy feet of Gokarneswara of Mahendragiri.
+L280: This deity also has a strong Karnataka connection through the 【231†Mahabaleshwar Temple】 situated in 【232†Gokarna】 (Karnataka) which is the only Atmalinga of God Shiva in the entire world. The Eastern Kadamba family, feudatories of the Early Gangas in the 10th and early 11th century CE, were ruling a small area in the vicinity of the Mahendra mountain.^{【226†[24]】}^{【233†[26]】}
+L281: Historian Dineshwar Singh lists several facts that point to a relationship between the Eastern and the Western Gangas. Just as the 【223†Gangas】 and the 【234†Kadambas】 of 【141†Karnataka】 had marital relationship with each other, so were the Gangas and the Kadambas of Kalinga. The family God of the Kadambas of 【235†Vaijayanti】 (Banavasi), 【236†Palasige】 and 【237†Hangal】 (all in Karnataka) is described in their inscriptions as 【235†Jayanti】 (Vaijayanti) Madhukeshwara of Banavasi. Historian M.
+L282: Somasekhara Sarma suggests that the Kadambas brought with them their family God Madhukeshwara into their new home Kalinga. It appears that Kamarnava II built the temple of Madhukeshwara in 【153†Nagara】 at the instance of one of his feudatories and relatives, the Eastern Kadambas. Historian G. R. Varma further suggests that the Eastern Ganga king Kamarnava II renovated the existing temple of Gokarneshwara before renaming it as Madhukeshwara. Historian R.
+L283: Subba Rao states that the God Madhukeswara of Kalinganagara was also called Jayanteswara (based on 【235†Vaijayanti】 or Banavasi town) or Gokarneshwara (【231†Gokarna's Mahabaleshwar deity】) in some of the inscriptions found in that temple. Somasekhara Sarma states that the Eastern Kadambas probably came to Kalinga from the districts of 【238†Dharwad】, 【239†Belagavi】 and 【240†Ratnagiri】.
+L284: He substantiates it by showing the presence of a village named as a crude distortion of the Kannada place name Palasige (【236†Halasi】 or Palasi in Old Kannada), as 【241†Palasa】 (Palasika) in the Kalinga region. Most of the early Western Gangas were 【242†Shaivas】, just like the early and the later Eastern Gangas of Kalinga were.^{【233†[26]】}
+L285: Also, while the bardic traditions of the Western Ganga dynasty claim descent from the Sun through the 【243†Ikshavaku dynasty】, the Eastern Ganga genealogies ascribe descent from the Moon; the 【244†Chandravamsa lineage】. Unlike the Western Ganga Dynasty who traced their lineage to the 【245†Solar Dynasty】,^{【246†[27]】} the Later Eastern Gangas claimed a 【247†lunar】 descent from 【248†Vishnu】 through 【249†Brahma】, 【250†Atri】 and 【251†Chandra】 (moon).^{【252†[28]】}
+L286: Dineshwar Singh concludes that in spite of the views and arguments against a relationship between the two Ganga dynasties - the 【180†Western】 and the Eastern Gangas, the similarities listed out between them strongly indicate that the founder of the Eastern Ganga dynasty travelled from the 【223†Gangawadi】 province of Karnataka and arrived in 【253†Trikalinga】.^{【233†[26]】} Historians 【254†R. S. Sharma】 and K. M.
+L287: Shrimali state that several ruling families of 【255†Kannada】 origin flourished and ruled 【142†Odisha】 like the Eastern Gangas, the Eastern Kadambas, the 【256†Rashtrakuta】 branch of Odisha which ruled from Vagharakotta fort probably in the 【257†Sambalpur】 region and the Tailapa-Vamsis (ruled around 【258†Ganjam】 and 【105†Parlakimidi】) who migrated during or after 973 CE on the establishment of the 【192†Kalyani Chalukya empire】 and were their feudatories.
+L288: Some suspect them to have come along with 【259†Vikramaditya VI】's campaigns across north, central, east and north east India, sometime before 1063–68 CE.^{【260†[29]】}
+L289: Five prominent dominions of the Kalingan Prachya Ganga family are identified from five different administrative centers namely – Kalinganagara (Srikakulam), Svetaka Mandala (Ganjam), Giri Kalinga (Simhapur), Ambabadi Mandala (Gunupur, Rayagada) and Vartanni Mandala (Hinjilikatu, Ganjam).
+L290: The heartland of the Prachya Gangas had three parts of Kalinga namely, Daksina Kalinga (Pithapura), Madhya Kalinga (Yellamanchili Kalinga or Visakhapatnam) and Uttara Kalinga (districts of Srikakulam, Ganjam, Gajapati and Rayagada). The earliest known prominent king was Indravarman who is known from his Jirjingi copper plate grant.
+L291: The Godavari grant of Raja Prthivimalla and the Ramatirtham grant of 【261†Vishnukundina】 king Indrbhattaraka refer to a war of four tusked elephants or Chaturdanta Samara in which Indravarman I the son of Mitavarman, a Ganga general of Vakataka king and a local ruler of Dantapura commanded an alliance of small South Kalingan kingdoms against the powerful Vishnukundina king Indrabhattaraka, defeated and killed him.^{【262†[30]】} The Vishnukundins returned with a vengeance, defeated the Vakataka King and members of the alliance while Indravarman declared himself as Tri-Kalingadhipati (the lord of the three Kalingas) rising from obscurity and moving his capital northwards away from the attacking Vishnukundins.
+L292: His son Hastivarman found himself stuck between two Gupta feudal dynasties of Odisha, the Vigrahas of South Toshali and Mudgalas. Joining the onslaught like his father, he commanded major battles against the Vigrahas and won territories in the northern parts of ancient Kalinga and declared himself as Sakala-Kalingadhipati (the ruler of whole Kalinga).
+L293: The dynasty though remaining to be a strong ruling family in ancient Odisha and North Andhra Pradesh continued to remain as vassal rulers under the central authority of the 【263†Bhauma-Kara dynasty】 which is proven by the fact that a smaller Eastern Ganga king belonging to the clan and named as Jayavarmadeva mentioned himself as the vassal of 【264†Sivakara Deva I】 in his 【258†Ganjam】 grant and by whose permission he gave away the grants.
+L294: It was during the rule of Anantavarman Vajrahasta V in the mid eleventh century that the clan started emerging as a major military power challenging the authority of the 【129†Somavanshi Dynasty】 at their northern frontiers and allying with their arch rivals the 【205†Kalchuris】.
+L295: After a series of victories in battle and making land grants to three hundred Brahmin families in his kingdom, Vajrahasta V assumed the titles as Trikalingadhipati (lord of the three Kalingas) and Sakalakalingadhipati (lord of complete Kalinga) challenging the centralized authority of the Somavanshis and laying the foundation to an imperial era for the Eastern Gangas.
+L296: In the later years of the century, Devendravarman Rajaraja I defeated the Somavanshi king Mahasivagupta Janmenjaya II completely while challenging the 【195†Cholas】 in battle, along with establishing authority in the Vengi region.
+L297: 
+L298: The Cholas were defeated by Rajaraja I and Chola princess, Rajasundari, was married off to the Eastern Ganga king as a goodwill gesture for settlement of affairs between the Cholas and the Gangas.^{【265†[31]】}
+L299: ## History
+L300: 
+L301: [【266†edit】]
+L302: ### The Early Gangas
+L303: 
+L304: [【267†edit】]
+L305: 
+L306: Ancient Barbati fort Capital of Eastern ganga dynasty
+L307: After the fall of 【268†Mahameghavahana dynasty】, 【269†Kalinga】 was divided into different kingdoms under feudatory chiefs. Each of these chiefs bore the title Kalingadhipathi (Lord of Kalinga). The beginnings of what became the Eastern Ganga dynasty came about when Indravarma I defeated the 【270†Vishnukundin】 king, Indrabhattaraka and established his rule over the region with Kalinganagara (or 【101†Mukhalingam】) as his capital, and 【103†Dantapuram】 as a secondary capital.
+L308: The Ganga kings assumed various titles viz. Trikalingadhipathi or Sakala Kalingadhipathi (Lord of three Kalinga or all three Kalingas namely 【269†Kalinga】 proper (South), 【271†Utkala】 (North), and 【272†Dakshina Kosala】 (West)).
+L309: 【101†Mukhalingam】 near 【273†Srikakulam】 of Andhra Pradesh bordering Odisha has been identified as Kalinganagara, the capital of the early Eastern Gangas.^{【274†[32]】}
+L310: After the decline of the early Eastern Gangas reign, the 【163†Chalukyas of Vengi】 took control of the region. The first monarch of the dynasty Vajrahastha Aniyakabhima I (980–1015 A.D), took advantage of the internal strife and revived the power of the Ganga dynasty. It was during their rule that 【116†Shaivism】 took precedence over 【275†Buddhism】 and 【276†Jainism】. The magnificent Srimukhalingam Temple at 【101†Mukhalingam】 was built during this period.
+L311: In the 11th century, the 【195†Cholas】 brought the Ganga Kingdom under their rule with the sudden death of Devendravarman Rajraja I.^{【274†[32]】} His son Chodaganga Deva who ascended the throne at the age of five under the protection provide by one of his maternal uncles from the Chola family had to overcome multiple obstacles before securing Kalinga, Vengi, Utkala, Odra and parts of Bengal as one kingdom.
+L312: The Eastern Gangas were known to have intermarried with the 【277†Cholas】, 【278†Chalukyas】.^{【145†[10]】} The early state of the dynasty may have started from the early 5th century.
+L313: ### The Imperial Gangas
+L314: 
+L315: [【279†edit】]
+L316: 
+L317: 【156†Jagannath Temple】 at 【220†Puri】, built by 【280†Maharaja Anantavarman Chodaganga Deva】.
+L318: 【80†Anantavarman Chodaganga】 Succeeded his father in 1078 AD, In the initial years of his reign his kingdom was attacked by the 【162†Cholas】 of the south and for a while 【80†Chodaganga】 lost to them a part of his kingdom comprising the 【281†Visakhapatnam district】, but he did not lose heart and gradually recovered his lost territories.^{【282†[33]】} Anantavarman also captured Utkala (Northern Odisha) from the 【283†Somavamshi】 Kings.
+L319: Anantavarman also went further east wrestling with the 【284†Pala Empire】 king 【285†Ramapala】, He defeated the chief of Mandara, pillaged his capital Aramya, modern Arambagh (【286†Hooghly District】), and pursued him up to the bank of the Ganga, During these wars he seems to have received the co-operation of 【287†Vijayasena】, a ruling chief in Radha.
+L320: He is believed to have ruled from the 【288†Ganges River】 in the north to the 【289†Godavari River】 in the south, thus laying the foundation of the Eastern Ganga Dynasty.
+L321: Also during his rule, the great 【156†Jagannath Temple】 at 【220†Puri】 was built.^{【274†[32]】} He assumed the title of Trikalingadhipathi (ruler of the three 【269†Kalingas】 which comprise 【269†Kalinga】 proper, 【271†Utkala】 north and 【290†Koshala】 west) in 1076 CE, resulting in him being the first to rule all three divisions of Kalinga.^{【291†[34]】}
+L322: He was succeeded by Kamarnava VII who was his oldest son, During his reign he fought with the 【205†Kalachuris of Ratnapura】 for the possession of the 【257†Sambalpur】-【292†Bolangir】 Tract but was unsuccessful.^{【282†[33]】}
+L323: 
+L324: Kamarnava Deva was succeeded but rulers like Raghava, Raja Raja II, and Anangabhima II however, their reign were no much eventful.

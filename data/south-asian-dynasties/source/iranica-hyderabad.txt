@@ -1,0 +1,88 @@
+HYDERABAD - Encyclopaedia Iranica (https://www.iranicaonline.org/articles/hyderabad/)
+citeturn146view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.iranicaonline.org/articles/hyderabad/","lineno":null}); Total lines: 86
+L0: 【0†Skip to main content】
+L1: 
+L2: Search Iranica...
+L3: 
+L4: [Input:  Search Iranica...] search in 8,633 entries of Encyclopædia Iranica.
+L5: 
+L6:   * 【1†Explore】
+L7:   * 【2†News & Events】
+L8:   * 【3†Editorial】
+L9:     * 【3†Current Board】
+L10:     * 【4†Former Boards】
+L11:   * 【5†Authors】
+L12:   * 【6†Style Guide】
+L13:   * 【7†About】
+L14:     * 【7†About Iranica】
+L15:     * 【8†Ehsan Yarshater】
+L16:     * 【9†Advisory Board】
+L17:     * 【10†Board of Directors】
+L18:     * 【11†FAQ】
+L19:     * 【12†Contact】
+L20:   * 【13†Donate】
+L21: 
+L22:   *   * # HYDERABAD
+L23: 
+L24: 【14†Image】
+L25: # HYDERABAD
+L26: 
+L27: Type Headword
+L28: 
+L29: Last Updated June 11, 2013
+L30: 
+L31: Print Detail Vol. XII, Fasc. 6, pp. 592-596
+L32: 
+L33: Published December 15, 2004
+L34: HYDERABAD (Ḥaydarābād), city in the Deccan of India, situated 17°22’ N, 78°27’ E, the former capital of the Nizams (Neẓāms) of Hyderabad (ca. 1724-1948) and at present the state capital of Andhra Pradesh in southern India. Hyderabad from the time of its foundation in 999/1591 until Indian independence in 1947 had a three and a half century history as one of the major Muslim states and as a center of Indo-Persian culture in the subcontinent.
+L35: 
+L36: i. 【15†History】.
+L37: 
+L38: ii. 【16†Monuments】.
+L39: 【17†Plate 1】. Čahār Menār, 1590-91, Hyderabad, India. Courtesy of the author.
+L40: 
+L41: 【18†Plate 2】. Mecca Masjed, begun 1617, with additions in the 17th and 18th centuries, Hyderabad, India. Courtesy of the author.
+L42: ### Subscribe and never miss out
+L43: 
+L44: Email Address * [Input: Your Email]
+L45: 
+L46: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ [Input]
+L47: 
+L48: [Input]
+L49: 
+L50: ## About
+L51: 
+L52:   * 【7†About Iranica】
+L53:   * 【3†Editorial】
+L54:   * 【9†Advisory Board】
+L55:   * 【10†Board of Directors】
+L56:   * 【8†Ehsan Yarshater】
+L57:   * 【11†FAQ】
+L58:   * 【12†Contact】
+L59: ## Encyclopaedia Iranica
+L60: 
+L61:   * 【19†Printed Volumes】
+L62:   * 【20†Sponsors】
+L63:   * 【13†Donate】
+L64: 
+L65: Dr. Samuel M. Jordan Center for Persian Studies
+L66: University of California, Irvine
+L67: 1 Humanities Gateway
+L68: Irvine, California 92697
+L69: 
+L70: Encyclopædia Iranica Foundation, Inc.
+L71: 2585 Broadway, Suite 233
+L72: New York, NY 10025-5655
+L73: 
+L74: © 2026. All Rights Reserved, Encyclopedia Iranica Foundation
+L75: ### Subscribe to Receive Updates
+L76: 
+L77: Email Address * [Input: Your Email]
+L78: 
+L79: /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ [Input]
+L80: 
+L81: [Input]
+L82: 
+L83: [Button: × ]
+L84: 
+L85: [Button: × ]

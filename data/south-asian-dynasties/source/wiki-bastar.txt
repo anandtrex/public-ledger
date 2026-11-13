@@ -1,0 +1,279 @@
+Bastar State - Wikipedia (https://en.wikipedia.org/wiki/Bastar_State)
+citeturn125view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Bastar_State","lineno":null}); Total lines: 277
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Overview】
+L50:   * 【19†2 History】
+L51:   * 【20†3 Rulers】 Toggle Rulers subsection
+L52:     * 【21†3.1 Titular】
+L53:   * 【22†4 See also】
+L54:   * 【23†5 Notes】
+L55:   * 【24†6 External links】
+L56: 
+L57: [Input] Toggle the table of contents
+L58: # Bastar State
+L59: 
+L60: [Input] 8 languages
+L61: 
+L62:   * 【25†বাংলা†bn.wikipedia.org】
+L63:   * 【26†Català†ca.wikipedia.org】
+L64:   * 【27†Čeština†cs.wikipedia.org】
+L65:   * 【28†Deutsch†de.wikipedia.org】
+L66:   * 【29†Français†fr.wikipedia.org】
+L67:   * 【30†हिन्दी†hi.wikipedia.org】
+L68:   * 【31†Italiano†it.wikipedia.org】
+L69:   * 【32†Norsk bokmål†no.wikipedia.org】
+L70: 
+L71: 【33†Edit links†www.wikidata.org】
+L72: 
+L73:   * 【34†Article】
+L74:   * 【35†Talk】
+L75: 
+L76: [Input] English
+L77: 
+L78:   * 【34†Read】
+L79:   * 【36†Edit】
+L80:   * 【37†View history】
+L81: 
+L82: [Input] Tools
+L83: 
+L84: Tools
+L85: 
+L86: [Button: move to sidebar] [Button: hide]
+L87: Actions
+L88: 
+L89:   * 【34†Read】
+L90:   * 【36†Edit】
+L91:   * 【37†View history】
+L92: 
+L93: General
+L94: 
+L95:   * 【38†What links here】
+L96:   * 【39†Related changes】
+L97:   * 【40†Upload file】
+L98:   * 【41†Permanent link】
+L99:   * 【42†Page information】
+L100:   * 【43†Cite this page】
+L101:   * 【44†Get shortened URL】
+L102:   * 【45†Switch to legacy parser】
+L103: 
+L104: Print/export
+L105: 
+L106:   * 【46†Download as PDF】
+L107:   * Printable version
+L108: 
+L109: In other projects
+L110: 
+L111:   * 【47†Wikimedia Commons†commons.wikimedia.org】
+L112:   * 【48†Wikidata item†www.wikidata.org】
+L113: 
+L114: Appearance
+L115: 
+L116: [Button: move to sidebar] [Button: hide]
+L117: 【49†Coordinates】: 【50†20°04′59″N 83°12′00″E﻿ / ﻿20.083°N 83.2°E﻿ / 20.083; 83.2†geohack.toolforge.org】
+L118: Bastar State
+L119: ---
+L120: 【51†Princely State】 of 【52†British India】
+L121: 1324–1948
+L122: Flag
+L123: Bastar State in the 【53†Imperial Gazetteer of India】
+L124: Capital  | 【54†Jagdalpur】
+L125: Area  |
+L126: • 1901  | 33,831 km^{2} (13,062 sq mi)
+L127: Population  |
+L128: • 1901  | 306,501
+L129: History  |
+L130: • Established  | 1324
+L131: • 【55†Accession to the Union of India】  | 1948
+L132: Succeeded by
+L133: 【56†India】 【57†Image†thumb.wikimedia.org】
+L134: 【58†Bastar Princely State†members.iinet.net.au】
+L135: Bastar state was a 【59†princely state】 in India during the 【60†British Raj】. It was founded in the early 14th century by Annamaraja, a brother of the last ruler of the 【61†Kakatiya dynasty】, 【62†Prataparudra II】.
+L136: 
+L137: It is today used to refer to the same region, called 【63†Bastar division】 in 【64†Chhattisgarh】 state.^{【65†[1]】}
+L138: In the early 19th century, the state became part of 【66†Central Provinces and Berar】 under the 【60†British Raj】, and acceded to the Union of India on 1 January 1948, to become part of 【67†Madhya Pradesh】 in 1956, and of the 【68†Bastar district】 of 【64†Chhattisgarh】 state in 2000. The current ceremonial ruler is Kamal Chandra Bhanj Deo, of the 【61†Kakatiya】 and 【69†Bhanj dynasty】.
+L139: ## Overview
+L140: 
+L141: [【70†edit】]
+L142: 
+L143: Bastar state was situated in the south-eastern corner of the Central Provinces and Berar, bounded to the north by the 【71†Kanker State】, south by the Godavari district of 【72†Madras States Agency】, west by 【73†Chanda District】, 【74†Hyderabad State】, and the 【75†Godavari River】, and east by the 【76†Jeypore Estate】 in 【77†Odisha】.
+L144: It had an area of 13,062 square miles (33,830 km^{2}) ^{【78†[2]】} and a population of 306,501 in 1901, when its capital city at 【54†Jagdalpur】, situated on the banks of 【79†Indravati River】, had a population of 4,762.^{【78†[2]】}
+L145: ## History
+L146: 
+L147: [【80†edit】]
+L148: 
+L149: Traditionally the area is mentioned as 【81†Dandakaranya】 in the epic 【82†Ramayana】, and part of the 【83†Kosala Kingdom】 in the 【84†Mahabharata】. Around 450 AD, the Bastar area was ruled by a 【85†Nala】 king called Bhavadatta Varman, who is recorded as having invaded the neighbouring 【86†Vakataka】 kingdom during the reign of its king, 【87†Narendrasena】 (440–460)^{【88†[3]】}
+L150: A brother of 【62†Prataparudra II】, Annamaraja, has been associated with ruling what eventually became the state of Bastar. This appears likely to be historical revisionism, dating from a genealogy published by the ruling family in 1703, because the document records only eight generations spanning almost four centuries of rule. Such revisionism and tenuous claims of connection to the Kakatiyas was not uncommon because it was perceived as legitimising the right to rule and a warrior status.
+L151: Talbot notes that there is a record of a brother called Annamadeva and that:
+L152: > He is said to have left Warangal for the northeast after anointing Prataparudra's son as king. Thus, the founder of the family fortunes in Bastar may very well have been a Telugu warrior from Telangana who was familiar with the prevalent legends about the Kakatiyas.^{【89†[4]】}
+L153: According to this chronology, the state was established around 1324 CE and the founder established his kingdom at Bastar under the tutelage of a local goddess, Danteshwari. That goddess remains the tutelary deity of Bastar region and the 【90†Danteshwari Temple】 stands today at 【91†Dantewada】.^{【92†[5]】} He ruled till 1369 when he was followed successively by Hamir Deva (r.
+L154: 1369–1410), Bhaitai Deva (1410–1468), Purushottama Deva (1468–1534), Pratapa Raja Deva (1602–1625) and Dikpala Deva (1680–1709), after which the Bastar branch of the dynasty became extinct in the third generation with him, after which a descendant of the younger brother of Prataparaja Deva, Rajapala Deva became the next King in 1709.
+L155: Rajapala Deva had two wives, first a Baghela princess, married, who had a son, Dakhin Singh, secondly, a 【93†Chandela】 Princess, who has two sons, Dalapati Deva and Pratap, trouble however struck again when after the death of Rajapala Deva in 1721, the elder queen ousted other claimants and placed her brother on the throne of Bastar, Dalapati Deva took refuge in the neighbouring 【94†kingdom of Jeypore】 and finally regained his throne a decade later in 1731.^{【95†[6]】}^{【96†[7]】}
+L156: Its capital was Jagdalpur, where Bastar royal palace built by its ruler, when its capital was shifted here from old capital Bastar.^{【95†[6]】}
+L157: 
+L158: Later at some point in the 15th century Bastar was divided into two kingdoms, one based in Kanker and the other ruled from Bastar.^{【97†[8]】} The present Halba Tribe claims to descend from the military class of these kingdoms.
+L159: Until the rise of the 【98†Marathas】, the state remained fairly independent until the 18th century. In 1861, Bastar became part of the newly formed Central Provinces and Berar, and in 1863, after years of feud, over the 【99†Kotapad】 region, it was given over to the neighbouring 【94†Jeypore state】 in 1863, on the condition of payment of tribute of Rs. 3,000, two-thirds of which sum was remitted from the amount payable by Bastar.
+L160: By virtue of this arrangement the tribute of Bastar was, reduced to a nominal amount.
+L161: 【100†Pravir Chandra Bhanj Deo】 (1929–1966), the 20th and the last ruling head of the Bastar state, ascended the throne in 1936, before it acceded to India in 1948 during the 【101†political integration of India】.^{【102†[9]】}
+L162: Pravir was immensely popular among the tribals. He was shot dead in a "police action" on 25 March 1966 while leading a tribal movement against encroachment of land by outsider in concert with the authorities in Bastar. He was executed on the steps of his own Palace in Jagdalpur. Scores of other tribals and courtiers too were murdered by the police.
+L163: ## Rulers
+L164: 
+L165: [【103†edit】]
+L166: 
+L167: Map of the 【66†Central Provinces and Berar】 in 1909 showing the districts, divisions, and Bastar princely state under the authority of the province, as well as the 1905 changes to the eastern boundary.
+L168:   * Raja Annam Dev (1313 – 1358) - brother of the Kakatiya Raja of Warangal, Pratap Rudra Dev
+L169:   * Raja Hamir Deo (1358 - 1379)
+L170:   * Raja Bhiraj Deo (1379 - 1408)
+L171:   * Raja Purushotam Deo (1408 - 1439)
+L172:   * Raja Jay Singh Deo (1439 - 1457)
+L173:   * Raja Narsingh Deo (1457 - 1501)
+L174:   * Raja Pratapraj Deo (1501 - 1524)
+L175:   * Raja Jagdeesh rai Deo (1524 - 1538)
+L176:   * Raja Veer Narayan Deo (1538 - 1553)
+L177:   * Raja veer Singh Deo (1553 - 1590)
+L178:   * Raja Durgpal Deo (1590 – 1649)
+L179:   * Raja Rakshpal Deo (1649 – 1716)
+L180:   * Raja Dalpat Deo (1716 – 1775)
+L181:   * Raja Dariyao Deo (1775 – 1800)
+L182:   * Raja Mahipal Deo (1800 - 1842)
+L183:   * Raja Bhupal Deo (1842 – 1852)
+L184:   * Raja Bhairam Deo (27 Aug 1852 – 20 Jul 1891)
+L185:   * Raja Rudra Pratap Deo (20 Jul 1891 – 1921)
+L186:   * 【104†H H Maharani Prafulla Kumari Devi】 (Rani) (23 Nov 1921 – 28 Feb 1936) – married Prince Prafulla Chandra Bhanj Deo of 【105†Mayurbhanj】)
+L187:   * 【100†H H Maharaja Pravir Chandra Bhanj Deo】 (28 Oct 1936 – 1948)
+L188: ### Titular
+L189: 
+L190: [【106†edit】]
+L191: 
+L192:   * 【100†H H Maharaja Pravir Chandra Bhanj Deo】 (1948 – 25 March 1966)
+L193:   * H H Maharaja Vijay Chandra Bhanj Deo (25 March 1966 – 12 April 1970)
+L194:   * H H Maharaja Bharat Chandra Bhanj Deo ( 12 April 1970 – 1996)
+L195:   * H H Maharaja Kamal Chandra Bhanj Deo (1996 – current)
+L196: 
+L197: ## See also
+L198: 
+L199: [【107†edit】]
+L200: 
+L201:   * 【108†Company rule in India】
+L202: ## Notes
+L203: 
+L204: [【109†edit】]
+L205:   1. 【110†↑】 Rahul Pandita. Hello Bastar: The Untold Story Of India’s Maoist Movement. Tranquebar Press (2011). 【111†ISBN】 【112†978-93-8065834-6】.Chapter VI. p. 111
+L206:   2. 【113†1】 【114†2】 【115†Bastar†dsal.uchicago.edu】 【116†The Imperial Gazetteer of India】, 1908. v. 7, p. 121
+L207:   3. 【117†↑】 The Vākātaka-Gupta age: Circa 200-550 A.D., by 【118†Ramesh Chandra Majumdar】, Anant Sadashiv Altekar.Published by Motilal Banarsidass Publ., 1986. 【111†ISBN】 【119†81-208-0026-5】. Page 116.
+L208:   4. 【120†↑】 Talbot, Austin Cynthia (2001). 【121†Pre-colonial India in Practice: Society, Region, and Identity in Medieval Andhra†books.google.com】. Oxford University Press. pp. 192–193. 【111†ISBN】 【122†978-0-19803-123-9】.
+L209:   5. 【123†↑】 【124†Chisholm, Hugh】, ed. (1911). 【125†"Bastar" †en.wikisource.org】. 【126†Encyclopædia Britannica】 (11th ed.). Cambridge University Press.
+L210:   6. 【127†1】 【128†2】 【129†Bastar – History†dsal.uchicago.edu】, 【116†The Imperial Gazetteer of India】, 1908. v. 7, p. 122.
+L211:   7. 【130†↑】 【131†History of Bastar†bastar.nic.in】 【132†Archived†web.archive.org】 9 April 2009 at the 【133†Wayback Machine】 【68†Bastar district】 official website.
+L212:   8. 【134†↑】 Gill, Simeran Man Singh. The Ghotul in Muria Society. (Singapore: Harwood Academic Publishers, 1992) p. 4
+L213:   9. 【135†↑】 【136†Bastar (state) - History and Genealogy†www.uq.net.au】 【137†Queensland University】.
+L214: This article incorporates text from a publication now in the 【138†public domain】: 【124†Chisholm, Hugh】, ed. (1911). "【139†Bastar†en.wikisource.org】". 【126†Encyclopædia Britannica】 (11th ed.). Cambridge University Press.
+L215: ## External links
+L216: 
+L217: [【140†edit】]
+L218: 
+L219:   * 【141†Flag of princely Bastar†flagspot.net】
+L220: 
+L221: 【50†20°04′59″N 83°12′00″E﻿ / ﻿20.083°N 83.2°E﻿ / 20.083; 83.2†geohack.toolforge.org】
+L222: 
+L223: 【142†Image】
+L224: 
+L225: Retrieved from "【41†https://en.wikipedia.org/w/index.php?title=Bastar_State&oldid=1379566275】"
+L226: 
+L227: 【143†Categories】:
+L228:   * 【144†States and territories established in 1324】
+L229:   * 【145†States and territories disestablished in 1948】
+L230:   * 【146†Princely states of Chhattisgarh】
+L231:   * 【147†Bastar district】
+L232:   * 【148†14th-century establishments in India】
+L233:   * 【149†1324 establishments in Asia】
+L234:   * 【150†1948 disestablishments in India】
+L235: 
+L236: Hidden categories:
+L237:   * 【151†Articles with short description】
+L238:   * 【152†Short description is different from Wikidata】
+L239:   * 【153†Use dmy dates from May 2015】
+L240:   * 【154†Use Indian English from May 2015】
+L241:   * 【155†All Wikipedia articles written in Indian English】
+L242:   * 【156†Pages with non-numeric formatnum arguments】
+L243:   * 【157†All articles with specifically marked weasel-worded phrases】
+L244:   * 【158†Articles with specifically marked weasel-worded phrases from December 2025】
+L245:   * 【159†All articles with unsourced statements】
+L246:   * 【160†Articles with unsourced statements from December 2025】
+L247:   * 【161†Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference】
+L248:   * 【162†Webarchive template wayback links】
+L249:   * 【163†Articles with unsourced statements from April 2015】
+L250:   * 【164†Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica】
+L251:   * 【165†Pages using gadget WikiMiniAtlas】
+L252:   * 【166†Coordinates on Wikidata】
+L253:   * This page was last edited on 10 October 2026, at 19:23 (UTC).
+L254:   * Page was rendered with 【167†Parsoid†www.mediawiki.org】.
+L255:   * Text is available under the 【168†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【169†Terms of Use†foundation.wikimedia.org】 and 【170†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【171†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L256:   * 【170†Privacy policy†foundation.wikimedia.org】
+L257:   * 【5†About Wikipedia】
+L258:   * 【172†Disclaimers】
+L259:   * 【6†Contact Wikipedia】
+L260:   * 【173†Legal & safety contacts†foundation.wikimedia.org】
+L261:   * 【174†Code of Conduct†foundation.wikimedia.org】
+L262:   * 【175†Developers†developer.wikimedia.org】
+L263:   * 【176†Statistics†stats.wikimedia.org】
+L264:   * 【177†Cookie statement†foundation.wikimedia.org】
+L265:   * Search
+L266: 
+L267: [Input: Search Wikipedia]
+L268: 
+L269: [Input]
+L270: 
+L271: [Button: Search]
+L272: 
+L273: [Input] Toggle the table of contents
+L274: 
+L275: Bastar State
+L276: 8 languages 【17†Add topic】

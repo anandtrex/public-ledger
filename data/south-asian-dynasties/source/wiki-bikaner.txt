@@ -1,0 +1,352 @@
+Bikaner State - Wikipedia (https://en.wikipedia.org/wiki/Bikaner_State)
+citeturn113view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Bikaner_State","lineno":null}); Total lines: 552
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】
+L49:   * 【19†2 Rulers】 Toggle Rulers subsection
+L50:     * 【20†2.1 Rao/Raja's】
+L51:     * 【21†2.2 Maharajas】
+L52:     * 【22†2.3 Titular Rulers】
+L53:       * 【23†2.3.1 Dewans】
+L54:       * 【24†2.3.2 Chief ministers】
+L55:       * 【25†2.3.3 Dewans】
+L56:     * 【26†2.4 Family tree of the rulers of Bikaner】
+L57:   * 【27†3 Orders of chivalry】
+L58:   * 【28†4 Demographics】 Toggle Demographics subsection
+L59:     * 【29†4.1 Demographic Trends (1891–1931)】
+L60:   * 【30†5 See also】
+L61:   * 【31†6 References】
+L62:   * 【32†7 Notes】
+L63:   * 【33†8 External links】
+L64: [Input] Toggle the table of contents
+L65: # Bikaner State
+L66: 
+L67: [Input] 14 languages
+L68: 
+L69:   * 【34†Català†ca.wikipedia.org】
+L70:   * 【35†Deutsch†de.wikipedia.org】
+L71:   * 【36†Español†es.wikipedia.org】
+L72:   * 【37†Français†fr.wikipedia.org】
+L73:   * 【38†हिन्दी†hi.wikipedia.org】
+L74:   * 【39†Italiano†it.wikipedia.org】
+L75:   * 【40†ਪੰਜਾਬੀ†pa.wikipedia.org】
+L76:   * 【41†پنجابی†pnb.wikipedia.org】
+L77:   * 【42†Русский†ru.wikipedia.org】
+L78:   * 【43†தமிழ்†ta.wikipedia.org】
+L79:   * 【44†తెలుగు†te.wikipedia.org】
+L80:   * 【45†اردو†ur.wikipedia.org】
+L81:   * 【46†Tiếng Việt†vi.wikipedia.org】
+L82:   * 【47†中文†zh.wikipedia.org】
+L83: 【48†Edit links†www.wikidata.org】
+L84: 
+L85:   * 【49†Article】
+L86:   * 【50†Talk】
+L87: 
+L88: [Input] English
+L89: 
+L90:   * 【49†Read】
+L91:   * 【51†Edit】
+L92:   * 【52†View history】
+L93:   * 【17†Save】
+L94: 
+L95: [Input] Tools
+L96: 
+L97: Tools
+L98: 
+L99: [Button: move to sidebar] [Button: hide]
+L100: 
+L101: Actions
+L102: 
+L103:   * 【49†Read】
+L104:   * 【51†Edit】
+L105:   * 【52†View history】
+L106:   * 【17†Save】
+L107: 
+L108: General
+L109: 
+L110:   * 【53†What links here】
+L111:   * 【54†Related changes】
+L112:   * 【55†Upload file】
+L113:   * 【56†Permanent link】
+L114:   * 【57†Page information】
+L115:   * 【58†Cite this page】
+L116:   * 【59†Get shortened URL】
+L117:   * 【60†Switch to legacy parser】
+L118: Print/export
+L119: 
+L120:   * 【61†Download as PDF】
+L121:   * Printable version
+L122: 
+L123: In other projects
+L124: 
+L125:   * 【62†Wikimedia Commons†commons.wikimedia.org】
+L126:   * 【63†Wikidata item†www.wikidata.org】
+L127: 
+L128: Appearance
+L129: 
+L130: [Button: move to sidebar] [Button: hide]
+L131: 
+L132: 【64†Coordinates】: 【65†28°01′N 73°18′E﻿ / ﻿28.01°N 73.3°E﻿ / 28.01; 73.3†geohack.toolforge.org】
+L133: 
+L134: This article is about the princely state during the British Raj. For the natural and historical region, see 【66†History of Bikaner】.
+L135: Kingdom of Bikaner बीकानेर रियासत
+L136: ---
+L137: 1465–1947
+L138: Flag Coat of arms
+L139: Motto: "Jai Jungaldhar Badshah"
+L140: Victory to the king of deserts
+L141: Bikaner State with 【67†Rajputana】, in the 【68†Imperial Gazetteer of India】 (1909).
+L142: Official languages  | 1 【69†Rajasthani dialects】 -
+L143:   * 【70†Bagri】 in the North, North-west, Centre and East,
+L144:   * Marwari in the south ,
+L145: 2 【71†Hindi】
+L146: Religion  | 【72†Hinduism】 (【73†state religion】)^{【74†[1]】}
+L147: 【75†Demonym】  | Bikaneri
+L148: History  |
+L149: • Established  | 1465
+L150: • 【76†Independence of India】  | 1947
+L151: Area
+L152: ---
+L153: • Total  | 61,355 km^{2} (23,689 sq mi)
+L154: Population
+L155: ---
+L156: • 1931 estimate  | 936,218
+L157: Succeeded by
+L158: 【77†India】 【78†Image†thumb.wikimedia.org】
+L159: Today part of  | 【79†Rajasthan】, 【77†India】
+L160: Bikaner Laxmi Niwas Palace Maharaja Anup Singh of Bikaner hunting elephants Honorific insignia in gold offered to the Maharaja of Bikaner by the 【80†Mughal Emperor】. Raja Karan Singh of Bikaner, 【81†Aurangzeb】's ally and enemy. 【82†Maharaja】 【83†Ganga Singh】 of Bikaner with his son 【84†Sadul Singh】 in 1914. Bikaner Camel Corps Board of combat daggers at the Darbar Hall
+L161: Bikaner State was a 【85†princely state】 in the north-western most part of the 【66†Rajputana】 province of imperial 【86†British India】 from 1818 to 1947. The founder of the state, 【87†Rao Bika】, was a younger son of 【88†Rao Jodha】, the ruler and founder of the city of 【89†Jodhpur】 in 【90†Marwar】. Rao Bika chose to establish his own kingdom instead of inheriting his father's.
+L162: Bika defeated the Jat clans of 【91†Jangladesh】, which today refers to the north and north-western 【79†Rajasthan】, along with his uncle Rao Kandhal and his adviser Vikramji Rajpurohit, whereupon he founded his own kingdom. Its capital was the city of 【92†Bikaner】. The emergence of the Mughal Empire witnessed the Kingdom of Bikaner pledging fealty to Mughal emperors, which led to the Kingdom becoming a loyal constituent of the Empire.
+L163: Covering a vast area of 60,391 km^{2} (23,317 sq mi), Bikaner State was the second largest state under the 【93†Rajputana Agency】 after 【89†Jodhpur State】, with a revenue of Rs. 26,00,000 in 1901.^{【94†[2]】} Acquiescing to the 1947 call of 【95†Sardar Vallabhbhai Patel】 to integrate the princely states into the new independent India, Bikaner's then ruler, 【96†Lt General Maharaja Sir Sadul Singh】, advised by his 【97†dewan】 【98†K. M.
+L164: Panikkar】, was one of the first rulers of a princely state to be receptive to integrating with the 【99†Indian Union】. The Maharaja of Bikaner set an example for the other heads of the princely states of India to follow by issuing a public appeal in April 1947 to join the 【100†Constituent Assembly of India】.^{【101†[3]】}
+L165: The state was noted for the 【102†Bikaner style of miniature painting】.^{【103†[4]】}
+L166: ## History
+L167: 
+L168: [【104†edit】]
+L169: 
+L170: Main article: 【66†History of Bikaner】
+L171: The state of Bikaner was founded in 1465. During the reign of the Mughal Empire under Akbar's tutelage, Bikaner State became a loyal vassal of the Empire. It became a 【105†British protectorate】 on 9 March 1818. They were accorded a 17 【106†gun salute】 by the British authorities. Around the time of Indian independence and the 【107†partition of India】, the territory of the state of Bikaner came to share a border with 【108†Pakistan】.
+L172: The 【109†accession】 to the Indian Union was signed by the Maharaja on 7 August 1947.^{【110†[5]】}
+L173: ## Rulers
+L174: 
+L175: [【111†edit】]
+L176: 
+L177: The rulers belong to the 【112†Rathore】 【113†Rajputs】 of the 【114†Suryavanshi】 lineage or of Solar descent representing a third junior branch of the parent ruling family of 【115†Jodhpur】,^{【116†[6]】} the second being 【117†Idar】 yet Bikaner was placed second on the basis of area, wealth and power by the colonial 【86†British India】.
+L178: ### Rao/Raja's
+L179: 
+L180: [【118†edit】]
+L181:   * 1465 – 1504: Rao 【87†Bika】
+L182:   * 1504 – 1505: Rao Nar Singh (Naro) (eldest son of Rao Bika)
+L183:   * 1505 – 1526: Rao 【119†Lunkaran】 (younger brother of Rao Nar, 3rd son of Rao Bika)
+L184:   * 1526 – 1542: Rao Jait Singh (second son of Rao Lunkaran)
+L185:   * 1542 – 1571: Rao Kalyan Mal (acknowledged the suzerainty of Emperor 【120†Akbar】) (eldest son of Rao Jait)
+L186:   * 1571 – 1612: Rao / 【121†Raja Rai Singh】 (Important General in the Mughal army. Given title of "Raja". From 1585 to 1594 he was employed in the Deccan by Emperor 【120†Akbar】 where he was 【122†Subedar】 of 【123†Burhanpur】) (eldest son of Rao Kalyan Mal)
+L187:   * 1612 – 1613: Raja Dalpat (Sur Singh revolted against his elder brother Dalpat and killed him along with his guards with the consent of Emperor 【124†Jahangir】) (second son of Raja Rai Singh)
+L188:   * 1613 – 1631: Raja Sur Singh (younger brother of Raja Dalpat, 3rd son of Raja Rai Singh)
+L189:   * 1631 – 1667: Raja Karan Singh(deposed by 【81†Aurangzeb】 and exiled to Karanapura in the 【125†Deccan】) (eldest son of Raja Sur Singh)
+L190:   * 1667 – 1669: Interregnum
+L191: ### Maharajas
+L192: 
+L193: [【126†edit】]
+L194:   * 1669 – 1698 Maharaja 【127†Anup Singh】 (First to be granted title of "Maharaja" by Emperor 【81†Aurangzeb】) (eldest son of Raja Karan Singh)
+L195:   * 19 Jun 1698 – 15 December 1700: Maharaja Swarup Singh (b. 1689 – d. 1700) (eldest son of Maharaja Anup Singh)
+L196:   * 15 Dec 1700 – 16 December 1735: Maharaja Sujan Singh (b. 1690 – d. 1735) (younger brother of Maharaja Swarup Singh, 2nd son of Maharaja Anup Singh)
+L197:   * 16 Dec 1735 – 15 May 1746: Maharaja 【128†Zorawar Singh】 (b. 1713 – d. 1746) (eldest son of Maharaja Sujan Singh)
+L198:   * 15 May 1746 – 25 March 1787: Maharaja 【129†Gaj Singh】 (b. 1723 – d. 1787) (1st cousin brother of Maharaja Zorawar Singh, grandson of Maharaja Anup Singh from his 3rd son Maharaj Anand Singh)
+L199:   * 25 Mar 1787 – 25 April 1787: Maharaja Raj Singh (b. 1744 – d. 1787) (eldest son of Maharaja Gaj Singh)
+L200:   * 25 Apr 1787 – 9 October 1787: Maharaja Pratap Singh (b. 1781 – d. 1787) (eldest son of Maharaja Raj Singh)
+L201:   * 25 Apr 1787 – 25 March 1828: Maharaja 【130†Surat Singh】 (Regent to 9 October 1787) (b. 1766 – d. 1828) (uncle of Maharaja Pratap Singh, younger brother of Maharaja Raj Singh, 6th son of Maharaja Gaj Singh)
+L202:   * 25 Mar 1828 – 7 August 1851: Maharajadhiraj Shri Narendra Shiromani Maharaja 【131†Ratan Singh】 (b. 1790 – d. 1851) (eldest son of Maharaja Surat Singh)
+L203:   * 7 August 1851 – 16 May 1872: Maharajadhiraj Shri Narendra Shiromani Maharaja 【132†Sardar Singh】 (b. 1818 – d. 1872) (second son of Maharaja Ratan Singh)
+L204:   * 16 May 1872 – 19 August 1887: HH Shri Maharajadhiraj Narendra Shiromani Maharaja Sir 【133†Dungar Singh】 (b. 1854 – d. 1887) (grandson of Maharaja Sardar Singh's second cousin brother: Maharaj Sakat Singh, Great Great Great Grandson of Maharaja Gaj Singh via his 5th son Maharajkumar Chattar Singh ancestor of the Bikaner family of Lalgadh Palace, Ridi and Tejrasar)
+L205:   * 19 Aug 1887 – 2 February 1943: HH Shri Maharajadhiraj Narendra Shiromani Maharaja Sir 【83†Ganga Singh】 Bahadur (b. 1880 – d. 1943) (from 24 July 1901, Sir Ganga Singh) (younger brother of Maharaja Dungar Singh, Great Great Great Grandson of Maharaja Gaj Singh via his 5th son Maharajkumar Chattar Singh ancestor of the Bikaner family of Lalgadh Palace, Ridi and Tejrasar)
+L206:   * 19 Aug 1887 – 16 December 1898: the British 【134†Political Agents】-【135†Regent】
+L207:   * 2 February 1943 – 15 August 1950: HH Shri Maharajadhiraj Narendra Shiromani Maharaja Sir 【96†Sadul Singh】 (b. 1902 – d. 1950) (since 1 January 1946, he was addressed as Sir Sadul Singh) (eldest son of Maharaja Ganga Singh)
+L208: ### Titular Rulers
+L209: 
+L210: [【136†edit】]
+L211: 
+L212:   * 1950 – 1971: Maharaja Dr. 【137†Karni Singh】 (【138†privy purses】 were withdrawn in 1971 and post and titles were also withdrawn) (eldest son of Maharaja Sadul Singh)
+L213: #### Dewans
+L214: 
+L215: [【139†edit】]
+L216: 
+L217: The Dewans and Chief Ministers of the state were:
+L218:   * 1460–1465: Bothra Bachhraj (Mantri-Dewan / Jodhpur) / Rao Jodha
+L219:   * 1465–1505: Bothra Bachhraj (Founding Dewan / Bikaner) / Rao Bika
+L220:   * 1504–1526: Karam Singh Bothra Bachhawat (Descendants of Bachhraj were known as Bachhawats) / Rao Nar Singh and Rao Lunkaran
+L221:   * 1526–1535: Var Singh Bothra Bachhawat / Rao Jait Singh
+L222:   * 1535–1542: Nagraj Bothra Bachhawat / Rao Jait Singh and Rao Kalyan Mal
+L223:   * 1542–1571: Sangram Singh Bothra Bachhawat / Rao Kalyan Mal
+L224:   * 1571–1591: Mehta 【140†Karam Chand bothra Bachhawat】 (Title of Mehta granted by Emperor 【120†Akbar】) / Rao Kalyan Mal and Raja Rai Singh
+L225:   * 1619–1620: Mehta Bhag Chand Bothra Bachhawat / Raja Sur Singh
+L226:   * 1619–1620: Mehta Lakshmi Chand Bothra Bachhawat / Raja Sur Singh
+L227:   * 17.. – 26 February 1733: Anand Ram Khawas (d. 1733)
+L228:   * 1735 – Feb 1751: Mohata Bakhtawar Singh (1st time) (b. 1707 – d. 1779)
+L229:   * Feb 1751 – 1752: Amar Singh Chaturbhujani
+L230:   * 1752 – 1756: Mohata Bakhtawar Singh (2nd time) (s.a.)
+L231:   * 1756 – Dec 1757: Mohata Prithvi Singh
+L232:   * 1757 – 1762: Mohata Bakhtawar Singh (3rd time) (s.a.)
+L233:   * 1762 – Sep 1765: Shah Mool Chand Bardiya
+L234:   * Sep 1765 – 1779: Mohata Bakhtawar Singh (4th time) (s.a.)
+L235:   * 1779 – 178.: Mohata Swaroop Singh
+L236:   * 178. – 1787: Mohata Thakursi
+L237:   * 1787 – 1791: Mohata Madho Rai
+L238:   * 1791 – 1794: Pratap Mal Baid
+L239:   * 1794 – 1805: Mohata Rao Sahib Singh Gun Roop
+L240:   * Apr 1805 – Apr 1815: Amar Chand Surana
+L241:   * Apr 1815 – Feb 1816: Mohata Bhom ji
+L242:   * Feb 1816 – 1828: Abhai Singh Mohta
+L243:   * 1828 – 184.: Hindu Mal Baid
+L244:   * c. 1841: Sri Narayan Singh Bhati
+L245:   * 1844 – 1852?: Sarana Shri Lakshmichand
+L246:   * 1852 – 1853: Guman Singh Baid (1st time)
+L247:   * 1853 – 1853: Leeladhar Mohata + Jalam Chand Kochar
+L248:   * 1853 – 1854: Lachhi Ram Rakhecha
+L249:   * 1854 – 1856: Guman Singh Baid (2nd time)
+L250:   * 1856: Pandit Dojainant
+L251:   * 1856 – 1863: Ram Lal Dwarkani (1st time)
+L252:   * 1864 – 1865: Guman Singh Baid (3rd time)
+L253:   * 1865 – 1866: Ram Lal Dwarkani (2nd time)
+L254:   * 1866: Man Mal Rakhecha
+L255:   * 1866 (3 months): Sheo Lal Nahata
+L256:   * 1867 (15 days): Fateh Chand Surana
+L257:   * 1867: Ganga Ram Purohit
+L258:   * 1867: Shah Mal Kochar
+L259:   * 1868: Man Mal Rakhecha
+L260:   * 1868: Sheo Lal Mohata
+L261:   * 1868: Lakshmi Chand Nahata
+L262:   * Jun 1868 – Aug 1869: Visayat Hussain
+L263:   * Aug 1869 – 13 December 1873: Pandit Manphool
+L264:   * Dec 1873 – 188.: Maharaj Lal Singh
+L265:   * 188. – 1884?: Maharao Hari Singh Baid
+L266:   * 1884 – 11 October 1888: Amin Muhammad
+L267:   * 12 Dec 1888 – 1896: Sodhi Hukam Singh
+L268:   * 1896 – 1898: Raghubar Singh Chauhan
+L269:   * 1898 – 1903: Hamidu Zafar Khan
+L270:   * 1903 – 1916: Post abolished
+L271: #### Chief ministers
+L272: 
+L273: [【141†edit】]
+L274: 
+L275:   * 1916 – 19..: Colonel Maharaj Sir Shri Bhairon Singh, K.C.I.E. (cousin of Maharaja Ganga Singh)
+L276:   * 7 September 1920 – Jan 1925: Maharajkumar (later Maharaja) Sardul Singh (s.a.)
+L277: #### Dewans
+L278: 
+L279: [【142†edit】]
+L280: 
+L281: The post of Dewan was reinstated in 1927.
+L282:   * 1927 – 1934: Manubhai Nandshankar Mehta (b. 1868 – d. 1946)
+L283:   * 3 October 1932 – 31 October 1934: Ram Prasad Dube (acting)
+L284:   * 1 November 1934 – Jan 1936: Coloneo Maharaj Sir Sri Bhairun Singh
+L285:   * Jan 1936 – Dec 1936: 【143†Sadul Singh Rathore of Bagseu】
+L286:   * Dec 1936 – 1938?: V.N. Mehta
+L287:   * Dec 1938 – Jul 1939: Kailash Narain Haksar (b. 1878 – d. 1954)
+L288:   * Jul 1939 – 1944?: Sire Mal Bapna (b. 1882 – d. 1964)
+L289:   * 1944 – 13 March 1948: 【98†K. M. Panikkar】 (b. 1895 – d. 1963)
+L290:   * 14 March 1948 – Oct 1948: Kanwar Jaswant Singh
+L291:   * Oct 1948 – 30 March 1949: 【144†C. S. Venkatachar】 (b. 1899 – d. 1999)
+L292: ### Family tree of the rulers of Bikaner
+L293: 
+L294: [【145†edit】]
+L295:   * I. Rao Bikaji, of Bikaner (1438–1504; Rai: 1488; r. 1465–1504)
+L296:     * II.Rao Naroji, of Bikaner (1468–1505; r. 1504–1505)
+L297:     * III.Rao Lunkaraji, of Bikaner (1470–1526; r. 1505–1526)
+L298:       * IV. Rao Jetaji, of Bikaner (1489–1542; r. 1526–1542)
+L299:         * V.Rao Kalyan Mal, of Bikaner (1519–1574; r. 1542–1574)
+L300:           * VI. Rai Singh I, Raja of Bikaner (1541–1612; r. 1574–1612)
+L301:             * VII. Dalpat Singh, Rai of Bikaner (1565–1613; r. 1612–1613)
+L302:             * VIII. Sur Singh, Raja of Bikaner (1594–1631; r. 1613–1631)
+L303:               * IX. Karan Singh, Raja of Bikaner (1616–1669; r. 1631–1667)
+L304:                 * X. Anup Singh, Maharaja of Bikaner (1638–1698; r. 1667–1698; Rao: 1667; Maharaja: 1675)
+L305:                   * XI. Sarup Singh, Maharaja of Bikaner (1689–1700; r. 1698–1700)
+L306:                   * XII. Sujjan Singh, Maharaja of Bikaner (1690–1735; r. 1700–1735)
+L307:                     * XIII. Zorawar Singh, Maharaja of Bikaner (1713–1746; r. 1735–1746)
+L308:                   * Maharaj Anand Singh of Bikaner
+L309:                     * XIV. Gaj Singh, Maharaja of Bikaner (1723–1787; r. 1746–1787)
+L310:                       * XV. Raj Singh II, Maharaja of Bikaner (1744–1787; r. 1787)
+L311:                         * XVI. Pratap Singh, Maharaja of Bikaner (1781–1787; r. 1787)
+L312:                       * XVII. Surat Singh, Maharaja of Bikaner (1765–1828; r. 1787–1828)
+L313:                         * XVIII. Ratan Singh, Maharaja of Bikaner (1790–1851; r. 1828–1851)
+L314:                           * XIX. Sardar Singh, Maharaja of Bikaner (1818–1872; r. 1851–1872)
+L315:                       * Maharajkumar Chhatar Singh of Chattargarh(1762–1779)
+L316:                         * Maharaj Dalel Singh of Chattargarh
+L317:                           * Maharaj Sakat Singh of Chattargarh
+L318: Maharaj Kharak Singh Maharaj Madan Singh Maharaj Khuman Singh Maharaj Lall Singh of Chattargarh (1831–1887)
+L319:   *     *       *         *           *             *               *                 *                   *                     *                       *                         *                           *                             *                               * XX. Dungar Singh, Maharaja of Bikaner (1854–1887; r. 1872–1887)
+L320:                               * XXI. Ganga Singh, Maharaja of Bikaner 【146†GCSI】, 【147†GCIE】, 【148†GCVO】, 【149†GBE】, 【150†KCB】 (1880–1943; r. 1887–1943)
+L321:                                 * XXII. Sadul Singh, Maharaja of Bikaner 【146†GCSI】, 【147†GCIE】, 【148†CVO】 (1902–1950; r. 1943–1949; titular ruler: 1949–1950)
+L322:                                   *                                     *                                       *                                         *                                           *                                             *                                               *                                                 *                                                   *                                                     *                                                       *                                                         *                                                           *                                                             *                                                               *                                                                 *                                                                   * Maharaj Bijay Singh Ji, younger son of Maharaja Ganga Singh Ji.
+L323:   *     *       *         *           *             *               *                 *                   *                     *                       *                         *                           *                             *                               *                                 *                                   * XXIII. Karni Singh, Maharaja of Bikaner (1924–1988; titular Maharaja: 1950–1971; family head: 1971–1988)
+L324:                                     * XXIV. Narendra Singh, Maharaja of Bikaner (1946–2003; family head: 1988–2003)
+L325:                                   * Maharaj Amar Singh Ji Bahadur (1925–2007)
+L326:                                     * Maharaj Chandra Shekhar Singh Ji (b. 1948)
+L327:                                       * XXV. Ravi Raj Singh, Maharaja of Bikaner (1977–2022; family head: 2003–2022)
+L328: ^{【151†[7]】}
+L329: ## Orders of chivalry
+L330: 
+L331: [【152†edit】]
+L332: The Royal House of Bikaner awarded two dynastic orders, the Order of the Star of Honour and the Order of Vikram Star.
+L333: 【83†Maharaja Ganga Singh】 established the Order of the Star of Honour in six grades in order to "mark his golden jubilee on the throne".^{【153†[8]】} The 【154†Order of the Vikram Star†nl.wikipedia.org】 was established in 1944 by 【96†Maharaja Sadul Singh of Bikaner】 in five grades "to recognize services to the state." The first grade (Grand Commander) includes a cordon with jewel, along with a breast star.^{【153†[8]】} The breast star features "Twelve alternate petals of gold and silver overlapping and radiating from a central motif showing the 【155†Goddess Karni】 blessing Rao Bikaji who is standing with lance in hand next to his horse."^{【156†[9]】} A red enamelled diamond in the center of the breast star, which is surrounded by a wreath, contains the inscription in the 【157†Devanagari】 script Shri Karni Aasisadi Bikatothirraj (Blessing by Karni Mati for his Perpetual Rule).^{【156†[9]】}
+L334: ## Demographics
+L335: 
+L336: [【158†edit】]
+L337: Religious groups in Bikaner State (1901–1941)
+L338: 【159†Religious】
+L339: group  | 1901^{【160†[10]】}  | 1911^{【160†[10]】}  | 1921^{【161†[11]】}  | 1931^{【162†[12]】}  | 1941^{【163†[13]】}
+L340: --- | --- | --- | --- | --- | ---
+L341: Pop. (Population)  | % (percentage)  | Pop. (Population)  | % (percentage)  | Pop. (Population)  | % (percentage)  | Pop. (Population)  | % (percentage)  | Pop. (Population)  | % (percentage)
+L342: --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+L343: 【72†Hinduism】  | 493,534  | 84.42%  | 575,699  | 82.13%  | 552,168  | 83.70%  | 725,084  | 77.45%  | 992,601  | 76.77%
+L344: 【164†Islam】  | 66,050  | 11.30%  | 91,929  | 13.11%  | 74,748  | 11.33%  | 141,578  | 15.12%  | 185,323  | 14.33%
+L345: 【165†Jainism】  | 23,403  | 4.00%  | 24,858  | 3.55%  | 23,555  | 3.57%  | 28,773  | 3.07%  | 34,425  | 2.66%
+L346: 【166†Sikhism】  | 1,481  | 0.25%  | 8,214  | 1.17%  | 8,218  | 1.25%  | 40,469  | 4.32%  | 78,815  | 6.10%
+L347: 【167†Christianity】  | 95  | 0.02%  | 151  | 0.02%  | 191  | 0.03%  | 298  | 0.03%  | 420  | 0.03%
+L348: 【168†Zoroastrianism】  | 21  | 0.00%  | 4  | 0.00%  | 11  | 0.12%  | 16  | 0.00%  | 13  | 0.00%
+L349: Aarya  | 41  | 0.01%  | 128  | 0.02%  | 784  | 0.12%  | -    | 0.00%  | -    | 0.00%

@@ -1,0 +1,307 @@
+Kingdom of Gauda - Wikipedia (https://en.wikipedia.org/wiki/Gauda_Kingdom)
+citeturn70view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Gauda_Kingdom","lineno":null}); Total lines: 305
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Location and extent】
+L50:   * 【19†2 See also】
+L51:   * 【20†3 References】
+L52: 
+L53: [Input] Toggle the table of contents
+L54: # Kingdom of Gauda
+L55: 
+L56: [Input] 15 languages
+L57:   * 【21†অসমীয়া†as.wikipedia.org】
+L58:   * 【22†বাংলা†bn.wikipedia.org】
+L59:   * 【23†Català†ca.wikipedia.org】
+L60:   * 【24†Español†es.wikipedia.org】
+L61:   * 【25†فارسی†fa.wikipedia.org】
+L62:   * 【26†हिन्दी†hi.wikipedia.org】
+L63:   * 【27†Bahasa Indonesia†id.wikipedia.org】
+L64:   * 【28†ქართული†ka.wikipedia.org】
+L65:   * 【29†한국어†ko.wikipedia.org】
+L66:   * 【30†नेपाली†ne.wikipedia.org】
+L67:   * 【31†தமிழ்†ta.wikipedia.org】
+L68:   * 【32†తెలుగు†te.wikipedia.org】
+L69:   * 【33†Türkçe†tr.wikipedia.org】
+L70:   * 【34†اردو†ur.wikipedia.org】
+L71:   * 【35†中文†zh.wikipedia.org】
+L72: 【36†Edit links†www.wikidata.org】
+L73: 
+L74:   * 【37†Article】
+L75:   * 【38†Talk】
+L76: 
+L77: [Input] English
+L78: 
+L79:   * 【37†Read】
+L80:   * 【39†Edit】
+L81:   * 【40†View history】
+L82:   * 【17†Save】
+L83: 
+L84: [Input] Tools
+L85: 
+L86: Tools
+L87: 
+L88: [Button: move to sidebar] [Button: hide]
+L89: 
+L90: Actions
+L91: 
+L92:   * 【37†Read】
+L93:   * 【39†Edit】
+L94:   * 【40†View history】
+L95:   * 【17†Save】
+L96: 
+L97: General
+L98: 
+L99:   * 【41†What links here】
+L100:   * 【42†Related changes】
+L101:   * 【43†Upload file】
+L102:   * 【44†Permanent link】
+L103:   * 【45†Page information】
+L104:   * 【46†Cite this page】
+L105:   * 【47†Get shortened URL】
+L106:   * 【48†Switch to legacy parser】
+L107: Print/export
+L108: 
+L109:   * 【49†Download as PDF】
+L110:   * Printable version
+L111: 
+L112: In other projects
+L113: 
+L114:   * 【50†Wikimedia Commons†commons.wikimedia.org】
+L115:   * 【51†Wikidata item†www.wikidata.org】
+L116: 
+L117: Appearance
+L118: 
+L119: [Button: move to sidebar] [Button: hide]
+L120: 
+L121: 【52†Coordinates】: 【53†24°11′N 88°16′E﻿ / ﻿24.18°N 88.27°E﻿ / 24.18; 88.27†geohack.toolforge.org】
+L122: 
+L123: (Redirected from 【54†Gauda Kingdom】)
+L124: This article is about a medieval kingdom originating in the 【55†Gauda】 region of 【56†Bengal】. For the later kingdom in 【57†Sylhet region】, see 【58†Gour Kingdom】.
+L125: Kingdom of Gauḍa"Gauṛa Sāmrājya" (Sanskrit)
+L126: "Gōur sāmrājja" (Old Bengali)
+L127: ---
+L128: c. (circa) 4th century AD (pre-Gupta)
+L129: 554–636
+L130: Coin of 【59†Shashanka】, king of Gauda, circa 600–635. 【60†Samatata】 type, Assam mint.
+L131: Map of the Shashankas or "Gauda Kingdom", circa 600 CE.^{【61†[2]】}
+L132: Capital  | 【62†Karnasuvarna】
+L133: Religion  | 【63†Hinduism】 (【64†Shaivism】)
+L134: Government  | 【65†Monarchy】
+L135: 【66†Maharajadhiraja】  |
+L136: • 554–593  | 【67†Jayanaga】
+L137: • 593–636  | 【59†Shashanka】
+L138: • 636  | 【68†Manava】
+L139: Preceded by Succeeded by
+L140: 【69†Image†upload.wikimedia.org】 【70†Later Gupta dynasty】
+L141: 【71†Pushyabhuti dynasty】 【69†Image†upload.wikimedia.org】
+L142: 【72†Mallabhum kingdom】 【69†Image†upload.wikimedia.org】
+L143: 【73†Kamarupa】 【69†Image†upload.wikimedia.org】
+L144: Today part of  | 【74†India】
+L145: 【75†Bangladesh】
+L146: The Gauḍa kingdom was a kingdom during the 【76†Classical era】 in the 【77†Indian subcontinent】, which originated in the 【55†Gauda】 region of 【56†Bengal】 (modern-day 【78†West Bengal】 and 【75†Bangladesh】)^{【79†[3]】}^{【80†[4]】} in 4th century CE or possibly earlier.^{【81†[5]】}
+L147: ## Location and extent
+L148: 
+L149: [【82†edit】]
+L150: 
+L151: A Buddhist 【83†Mahāyāna】 Text 【84†Mañjuśrī-Mūlakalpa】 records the existence of Gauda kingdom in Bengal before it was replaced by 【85†Gupta Empire】 in the 4th century. King Loka who was born in Vardhamāna (【86†Bardhamān】) is mentioned who must have ruled in the early 4th century CE.^{【87†[6]】}
+L152: King 【59†Shashanka】 is often attributed to expand 【55†Gauḍa】's influence over 【56†Bengal】 which unified the region under one crown.
+L153: He reigned in 7th century, and some historians place his rule approximately between 593 and 636.^{【88†[7]】}^{【89†[8]】}^{【90†[9]】} His capital was at 【91†Karnasubarna】, 9.6 kilometres (6.0 mi) south-west of 【92†Baharampur】, headquarters of Murshidabad district.^{【79†[3]】} The Chinese monk, 【93†Xuanzang】 (Hiuen Tsang) travelled from the country of Karnasubarna to a region in the present-day state of Orissa ruled by Shashanka.^{【80†[4]】} There is mention of 【94†Pundravardhana】 being part of Gauda in certain ancient records.^{【95†[10]】} Not much is known about the early life of Shashanka.
+L154: Historian D K Ganguly is reported to have concluded that he was a native of Magadha.^{【96†[11]】} The same source reports that the historian 【97†Padmanath Bhattacharya】 took Shashanka to be a son of Mahāsenagupta. R D Banerji concluded that he was descended from the Magadha Guptas. 【98†Nagendranath Basu】 has argued that Shashanka was the son / descendant of Raja Karnadeva, who founded the city of 【91†Karnasubarna】 in Bengal.^{【99†[12]】}
+L155: Royal Seal of 【59†Shashanka】.
+L156: 
+L157: 【100†South Asia600 CE】
+L158: 
+L159: 【101†MORIS】
+L160: 
+L161: 【102†PANDYAS】
+L162: 
+L163: 【103†LICCHAVIS】
+L164: 
+L165: 【104†CHOLAS】
+L166: 
+L167: 【105†ZHANGZHUNG】
+L168: 
+L169: 【106†CHERAS】
+L170: 
+L171: 【60†SAMATATAS】
+L172: 
+L173: 【73†KAMARUPA】
+L174: 
+L175: 【107†VISHNU-KUNDINAS】
+L176: 
+L177: 【108†PALLAVAS】
+L178: 
+L179: 【109†ALUPAS】
+L180: 
+L181: 【110†NEZAKS】
+L182: 
+L183: 【111†ALCHONS】
+L184: 
+L185: 【112†KALINGAS】
+L186: 
+L187: 【113†PANDUVAMSHIS】
+L188: 
+L189: 【114†GAUDA】
+L190: 
+L191: 【115†MAUKHARIS】
+L192: 
+L193: 【116†SHAILODBHAVAS】
+L194: 
+L195: 【117†GONANDAS】
+L196: 
+L197: 【118†WESTERNTURKS】
+L198: 
+L199: 【119†TOCHARIANS】
+L200: 
+L201: 【120†VALABHI】
+L202: 
+L203: 【121†SINDH】
+L204: 
+L205: 【122†MANDAVYA-PURA】
+L206: 
+L207: 【70†LATER GUPTAS】
+L208: 
+L209: 【71†THANESAR】
+L210: 
+L211: 【123†CHALUKYAS】
+L212: 【124†EARLYKALA-CHURIS】
+L213: 
+L214: 【125†PERSIANEMPIRE】
+L215: 
+L216: Location of the Shahshankas and fragmented South Asian polities circa 600 CE, after the retreat of the 【111†Alchon Huns】.^{【126†[13]】}
+L217: 
+L218: In some sources, Shashanka is described as a tribal leader of Bengal.^{【127†[14]】} Shashanka's name appears in multiple forms, including Śaśānka and Śaśānka-deva. The name is derived from 【128†Sanskrit】, as another name for the Moon. Śaśānka-deva therefore loosely translates to "moon god".
+L219: The Hindu god 【129†Shiva】 bears the epithet Shashankasekhara, meaning, "he who bears the moon". The Chinese monk 【93†Xuanzang】's writings, he is mentioned as She-Shang-Kia..^{【130†[15]】} In Sinha's Dynastic History of Magadha, the names 'Śaśānka' and 'Soma' are used interchangeably.
+L220: Some historians believe that Shashanka began his career as a feudatory chief (maha 【131†samanta】) under Mahasenagupta, of the 【70†Later Gupta Dynasty】.^{【132†[16]】} And that after the death of Mahasenagupta, Shashanka drove the later Guptas and other prominent nobles out of the region and established his own kingdom with his capital at 【91†Karnasubarna】.
+L221: Other historians like Sailendra Nath Sen is of the opinion that Mahasenagupta - already under pressure from the Maukharis (for failing to provide adequate protection) - wouldn't have knowingly appointed Shashanka to such an important position. Middleton (2015) argues in a similar vein that Shashanka served as maha samanta to a Gauda king, possibly 【67†Jayanaga】.^{【133†[17]】} Whether Shashanka was a feudatory under the Maukharis or the Guptas is not known.
+L222: But he ruled from Karnasuvarna.^{【134†[18]】} According to Bana, he was the king of Gauda^{【135†[19]】} and was addressed as Maharajadhiraja (king of great kings).^{【135†[19]】}Following his death, Shashanka was succeeded by his son, 【68†Manava】, who ruled the kingdom for eight months. However Gauda was soon divided amongst 【136†Harshavardhana】 and Bhaskarvarmana of 【73†Kamarupa】, the latter even managing to conquer Karnasuvarna.
+L223: Evidence is inconsistent regarding links of Gauda with the 【137†Rarh region】. While Krishna Mishra (11th or 12th century), in his Prabodha-chandrodaya, mentions that Gauda Rashtra includes Rarh (or Rarhpuri) and Bhurishreshthika, identified with 【138†Bhurshut】, in 【139†Hooghly】 and 【140†Howrah】 districts, the Managoli inscription of the 【141†Yadava】 king 【142†Jaitugi I】 distinguishes Lala (Rarh) from Gaula (Gauda).^{【79†[3]】}
+L224: According to Jain writers of the thirteenth and fourteenth centuries, Gauda included Lakshmanavati in present-day 【143†Malda district】.^{【79†[3]】}
+L225: The 【144†Pala emperors】 were referred to as Vangapati (Lord of Vanga) and Gaudesvara (Lord of Gauda). 【145†Sena】 kings also called themselves Gaudesvara. From then Gauda and Vanga seem to be interchangeable names for the whole of Bengal.^{【79†[3]】} Even, in the early 12th-century Sanskrit text 【146†Manasollasa】 (1129 CE), the name Gauda-Vangala was mentioned to denote the whole 【147†Bengal region】.^{【148†[20]】}
+L226: ## See also
+L227: 
+L228: [【149†edit】]
+L229: 
+L230:   * 【150†Gauḍa (city)】
+L231:   * 【62†Karnasuvarna】
+L232: ## References
+L233: 
+L234: [【151†edit】]
+L235:   1. Schwartzberg, Joseph E. (1978). 【152†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. p. 146, map XIV.2 (b). 【153†ISBN】 【154†0226742210】.
+L236:   2. 【155†↑】 Schwartzberg, Joseph E. (1978). 【152†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. p. 146, map XIV.2 (b). 【153†ISBN】 【154†0226742210】.
+L237:   3. 【156†1】 【157†2】 【158†3】 【159†4】 【160†5】 【161†Majumdar, R. C.】 (1971). History of Ancient Bengal. Calcutta: G. Bhardwaj & Co. pp. 6–8. 【162†OCLC】 【163†961157849†search.worldcat.org】.
+L238:   4. 【164†1】 【165†2】 Ghosh, Suchandra (2012). 【166†"Gauda, Janapada"†en.banglapedia.org】. In 【167†Islam, Sirajul】; Jamal, Ahmed A. (eds.). Banglapedia: National Encyclopedia of Bangladesh (Second ed.). 【168†Asiatic Society of Bangladesh】.
+L239:   5. 【169†↑】 K. P. Jayaswal (1934). 【170†An Imperial History Of India†archive.org】. p. 34.
+L240:   6. 【171†↑】 K. P. Jayaswal (1934). 【170†An Imperial History Of India†archive.org】.
+L241:   7. 【172†↑】 Nitish K. Sengupta (2011). Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib. Penguin Books India. pp. 96–98. 【153†ISBN】 【173†978-0-14-341678-4】.
+L242:   8. 【174†↑】 Monier Monier-Williams (1923). 【175†A Sanskrit–English Dictionary†books.google.com】. Oxford University Press. p. 353. 【176†Archived†web.archive.org】 from the original on 7 March 2023. Retrieved 14 April 2022.
+L243:   9. 【177†↑】 James Lochtefeld (2002), "Jyotisha" in The Illustrated Encyclopedia of Hinduism, Vol. 1: A–M, Rosen Publishing, 【153†ISBN】 【178†0-8239-2287-1】, pages 326–327
+L244:   10. 【179†↑】 Bandopadhyay, Rakhaldas, Bangalar Itihas, (in Bengali), first published 1928, revised edition 1971, vol I, p 101, Nababharat Publishers, 72 Mahatma Gandhi Road, Kolkata.
+L245:   11. 【180†↑】 Sinha, Bindeshwari Prasad (1977). 【181†Dynastic History of Magadha†books.google.com】. India: Abhinav Publications. pp. 131–133. Retrieved 16 September 2019.
+L246:   12. 【182†↑】 Basu, Nagendranath (1937). 【183†Bonger Jatiya Itihash (Kayastha Kando)†bn.wikisource.org】. India. p. 63. Retrieved 26 September 2019.`{{【184†cite book】}}`: CS1 maint: location missing publisher (【185†link】)
+L247:   13. 【186†↑】 Schwartzberg, Joseph E. (1978). 【187†A Historical atlas of South Asia†web.archive.org】. Chicago: University of Chicago Press. p. 【188†26†dsal.uchicago.edu】,146. 【153†ISBN】 【154†0226742210】. Archived from 【188†the original†dsal.uchicago.edu】 on 12 January 2024. Retrieved 27 January 2023.
+L248:   14. 【189†↑】 【190†"Kingdoms of South Asia – Indian Kingdom of Bengal"†www.historyfiles.co.uk】. historyfiles.co.uk. Retrieved 19 September 2019.
+L249:   15. 【191†↑】 【192†"Indian Antiquary"†books.google.com】. Journal of Oriental Research (Ed. J.A.S. Burgess). VII. Popular Prakashan: 197. 1878. Retrieved 16 September 2019.
+L250:   16. 【193†↑】 Sen, N. S. (1999). 【194†Ancient Indian history and civilization†books.google.com】 (Second ed.). India: New Age International. 【153†ISBN】 【195†81-224-1198-3】. Retrieved 15 September 2019.
+L251:   17. 【196†↑】 Middleton, John (2015). 【197†World Monarchies and Dynasties†books.google.com】. Routledge. p. 330. 【153†ISBN】 【198†9781317451587】. Retrieved 15 September 2019.
+L252:   18. 【199†↑】 Sinha, Bindeshwari Prasad (1977). 【181†Dynastic History of Magadha†books.google.com】. p. 137.
+L253:   19. 【200†1】 【201†2】 Sinha, Bindeshwari Prasad (1977). 【181†Dynastic History of Magadha†books.google.com】. p. 138.
+L254:   20. 【202†↑】 Sukumar Sen. 【203†"Itihas"†archive.org】. p. 19.
+L255: 【53†24°11′N 88°16′E﻿ / ﻿24.18°N 88.27°E﻿ / 24.18; 88.27†geohack.toolforge.org】
+L256: 
+L257: 【204†Image】
+L258: 
+L259: Retrieved from "【44†https://en.wikipedia.org/w/index.php?title=Kingdom_of_Gauda&oldid=1381926256】"
+L260: 
+L261: 【205†Categories】:
+L262: 
+L263:   * 【206†Gauda Kingdom】
+L264:   * 【207†Medieval Bengal】
+L265:   * 【208†590 establishments】
+L266:   * 【209†States and territories established in the 590s】
+L267:   * 【210†626 disestablishments】
+L268:   * 【211†States and territories disestablished in the 7th century】
+L269: 
+L270: Hidden categories:
+L271:   * 【212†Articles with short description】
+L272:   * 【213†Short description matches Wikidata】
+L273:   * 【214†Use dmy dates from November 2016】
+L274:   * 【215†Use Indian English from November 2016】
+L275:   * 【216†All Wikipedia articles written in Indian English】
+L276:   * 【217†Pages using infobox country or infobox former country with the symbol caption or type parameters】
+L277:   * 【218†Articles with Bengali-language sources (bn)】
+L278:   * 【185†CS1 maint: location missing publisher】
+L279:   * 【219†Pages using gadget WikiMiniAtlas】
+L280:   * 【220†Coordinates on Wikidata】
+L281:   * This page was last edited on 25 October 2026, at 17:25 (UTC).
+L282:   * Page was rendered with 【221†Parsoid†www.mediawiki.org】.
+L283:   * Text is available under the 【222†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【223†Terms of Use†foundation.wikimedia.org】 and 【224†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【225†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L284:   * 【224†Privacy policy†foundation.wikimedia.org】
+L285:   * 【5†About Wikipedia】
+L286:   * 【226†Disclaimers】
+L287:   * 【6†Contact Wikipedia】
+L288:   * 【227†Legal & safety contacts†foundation.wikimedia.org】
+L289:   * 【228†Code of Conduct†foundation.wikimedia.org】
+L290:   * 【229†Developers†developer.wikimedia.org】
+L291:   * 【230†Statistics†stats.wikimedia.org】
+L292:   * 【231†Cookie statement†foundation.wikimedia.org】
+L293:   * Search
+L294: 
+L295: [Input: Search Wikipedia]
+L296: 
+L297: [Input]
+L298: 
+L299: [Button: Search]
+L300: 
+L301: [Input] Toggle the table of contents
+L302: 
+L303: Kingdom of Gauda
+L304: 15 languages 【17†Add topic】

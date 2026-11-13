@@ -1,0 +1,305 @@
+Danish India - Wikipedia (https://en.wikipedia.org/wiki/Danish_India)
+citeturn133view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Danish_India","lineno":null}); Total lines: 448
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 First expedition (1618–1620)】
+L50:     * 【20†1.2 Early years (1621–1639)】
+L51:     * 【21†1.3 Dutch influence (1640–1649)】
+L52:     * 【22†1.4 Abandonment and isolation (1650–1669)】
+L53:     * 【23†1.5 The Second Danish East India Company (1670–1732)】
+L54:     * 【24†1.6 Trade stabilises under Danish Asiatic Company (1732–1772)】
+L55:     * 【25†1.7 The Golden Age of Danish India (1772–1808)】
+L56:     * 【26†1.8 Napoleonic Wars and decline】
+L57:   * 【27†2 Legacy】
+L58:   * 【28†3 See also】
+L59:   * 【29†4 Notes and references】
+L60:   * 【30†5 Further reading】
+L61: [Input] Toggle the table of contents
+L62: # Danish India
+L63: 
+L64: [Input] 30 languages
+L65:   * 【31†العربية†ar.wikipedia.org】
+L66:   * 【32†Български†bg.wikipedia.org】
+L67:   * 【33†বাংলা†bn.wikipedia.org】
+L68:   * 【34†Čeština†cs.wikipedia.org】
+L69:   * 【35†Dansk†da.wikipedia.org】
+L70:   * 【36†Deutsch†de.wikipedia.org】
+L71:   * 【37†Español†es.wikipedia.org】
+L72:   * 【38†Suomi†fi.wikipedia.org】
+L73:   * 【39†Français†fr.wikipedia.org】
+L74:   * 【40†עברית†he.wikipedia.org】
+L75:   * 【41†हिन्दी†hi.wikipedia.org】
+L76:   * 【42†Magyar†hu.wikipedia.org】
+L77:   * 【43†Հայերեն†hy.wikipedia.org】
+L78:   * 【44†Bahasa Indonesia†id.wikipedia.org】
+L79:   * 【45†Íslenska†is.wikipedia.org】
+L80:   * 【46†Italiano†it.wikipedia.org】
+L81:   * 【47†日本語†ja.wikipedia.org】
+L82:   * 【48†Nederlands†nl.wikipedia.org】
+L83:   * 【49†Norsk bokmål†no.wikipedia.org】
+L84:   * 【50†پنجابی†pnb.wikipedia.org】
+L85:   * 【51†Português†pt.wikipedia.org】
+L86:   * 【52†Русский†ru.wikipedia.org】
+L87:   * 【53†Shqip†sq.wikipedia.org】
+L88:   * 【54†தமிழ்†ta.wikipedia.org】
+L89:   * 【55†Türkçe†tr.wikipedia.org】
+L90:   * 【56†Українська†uk.wikipedia.org】
+L91:   * 【57†اردو†ur.wikipedia.org】
+L92:   * 【58†Tiếng Việt†vi.wikipedia.org】
+L93:   * 【59†吴语†wuu.wikipedia.org】
+L94:   * 【60†中文†zh.wikipedia.org】
+L95: 【61†Edit links†www.wikidata.org】
+L96: 
+L97:   * 【62†Article】
+L98:   * 【63†Talk】
+L99: 
+L100: [Input] English
+L101: 
+L102:   * 【62†Read】
+L103:   * 【64†Edit】
+L104:   * 【65†View history】
+L105:   * 【17†Save】
+L106: 
+L107: [Input] Tools
+L108: 
+L109: Tools
+L110: 
+L111: [Button: move to sidebar] [Button: hide]
+L112: 
+L113: Actions
+L114: 
+L115:   * 【62†Read】
+L116:   * 【64†Edit】
+L117:   * 【65†View history】
+L118:   * 【17†Save】
+L119: 
+L120: General
+L121: 
+L122:   * 【66†What links here】
+L123:   * 【67†Related changes】
+L124:   * 【68†Upload file】
+L125:   * 【69†Permanent link】
+L126:   * 【70†Page information】
+L127:   * 【71†Cite this page】
+L128:   * 【72†Get shortened URL】
+L129:   * 【73†Switch to legacy parser】
+L130: Print/export
+L131: 
+L132:   * 【74†Download as PDF】
+L133:   * Printable version
+L134: 
+L135: In other projects
+L136: 
+L137:   * 【75†Wikidata item†www.wikidata.org】
+L138: 
+L139: Appearance
+L140: 
+L141: [Button: move to sidebar] [Button: hide]
+L142: 
+L143: Danish India Dansk Ostindien (【76†Danish】)
+L144: ---
+L145: 1620–1869
+L146: Flag
+L147: Danish settlements in India
+L148: Status  |
+L149: 
+L150:   * 【77†Danish East India Company】 (1620–1777)
+L151:   * 【78†Danish overseas colonies】 (1777–1869)
+L152: Capital  | 【79†Fort Dansborg】
+L153: Common languages  |
+L154:   * 【76†Danish】
+L155:   * 【80†Telugu】
+L156:   * 【81†Tamil】
+L157:   * 【82†Bengali】
+L158:   * 【83†Odia】
+L159:   * 【84†Hindi】
+L160: 【85†King of Denmark】 (and Norway until 1814)  |
+L161: • 1620–1648  | 【86†Christian IV】
+L162: • 1863–1869  | 【87†Christian IX】
+L163: Governor  |
+L164: • 1620–1621  | Ove Gjedde
+L165: • 1673–1682  | Sivert Cortsen Adeler
+L166: • 1759–1760  | Christian Frederik Høyer
+L167: • 1788–1806  | Peter Anker
+L168: • 1825–1829  | Hans de Brinck-Seidelin
+L169: • 1841–1845  | 【88†Peder Hansen】
+L170: Historical era  | 【89†Colonial period】
+L171: • Established  | 1620
+L172: • Disestablished  | 1869
+L173: Currency  | 【90†Danish Indian Rupee】
+L174: Succeeded by
+L175: 【91†Company rule in India】 【92†Image†upload.wikimedia.org】
+L176: 【93†British Raj】 【92†Image†upload.wikimedia.org】
+L177: Today part of  | 【94†India】
+L178: Danish Colonial Merchant Ensign India, (1620-1845/1869).
+L179: Danish India (【76†Danish】: Dansk Ostindien, 【95†lit.】 'Danish East India') was the name given to the forts and 【96†factories】 of 【97†Denmark–Norway】 (【98†Denmark】 after 1814) in the 【99†Indian subcontinent】, forming part of the 【78†Danish overseas colonies】.
+L180: Denmark held colonial possessions in India for more than 200 years, including the town of 【100†Tharangambadi】 in present-day 【101†Tamil Nadu】 state, 【102†Serampore】 in present-day 【103†West Bengal】, and the 【104†Nicobar Islands】, currently part of India's 【105†union territory】 of the 【106†Andaman and Nicobar Islands】.
+L181: The Danish presence in India was of little significance to the major European powers as they presented neither a military nor a mercantile threat.^{【107†[1]】} Danish ventures in India, as elsewhere, were typically undercapitalized and never able to dominate or monopolize trade routes in the same way that British, French, and Portuguese ventures could.^{【108†[2]】}^{【109†[3]】}
+L182: The treaty signed between 【86†Christian IV of Denmark】 and Boshouwer (on behalf of 【110†Adahasin】) in 1618. According to Adahasin, Boshouwer was not authorized to sign such a treaty on his behalf, hence it was null and void. Subsequently, the Danes demanded that the king honor the contract. The king failed to do so, and hence a new treaty was signed, granting Trincomalee to the Danish.^{【111†[4]】}
+L183: Despite these disadvantages, the Danish concerns managed to cling to their colonial holdings and, at times, to carve out a valuable niche in international trade by exploiting wars between larger countries and offering foreign trade under a neutral flag.^{【112†[5]】}^{【113†[6]】} For this reason, their presence was tolerated for many years until the rise of 【114†British imperial power】 led to the sale of all Danish holdings in India to Britain during the nineteenth century.
+L184: ## History
+L185: 
+L186: [【115†edit】]
+L187: The success of Dutch and English traders in the 17th-century 【116†spice trade】 was a source of envy among Danish merchants.^{【117†[7]】}^{【118†[8]】} On 17 March 1616, 【119†Christian IV】 the King of Denmark-Norway, issued a charter creating a 【77†Danish East India Company】 with a monopoly on trade between 【97†Denmark-Norway】 and 【120†Asia】 for 12 years.^{【121†[9]】} It would take an additional two years before sufficient capital had been raised to finance the expedition, perhaps due to a lack of confidence on the part of Danish investors.
+L188: It took the arrival of the Dutch merchant and colonial administrator, Marchelis de Boshouwer, in 1618 to provide the impetus for the first voyage. Marcelis arrived as an envoy (or at least claimed to do so) for the king of 【122†Kandy】, 【110†Cenerat Adassin】, seeking military assistance against the Portuguese and promising a monopoly on all trade with the island.^{【123†[10]】}^{【124†[11]】} His appeal had been rejected by his countrymen, but it convinced the Danish King.^{【125†[12]】}^{【126†[13]】}
+L189: ### First expedition (1618–1620)
+L190: 
+L191: [【127†edit】]
+L192: 
+L193: See also: 【128†Action of 19 February 1619】 and 【129†Conquest of Koneswaram Temple】
+L194: The first expedition set sail in 1618 under Admiral 【130†Ove Gjedde】, taking two years to reach Ceylon and losing more than half their crew on the way. Upon arriving in May 1620, they found the king no longer desiring any foreign assistance – having made a peace agreement with the Portuguese three years earlier. Nor, to the dismay of the admiral, was the king of Kandy the sole, or even the "most distinguished king in this land".^{【131†[14]】}
+L195: Failing to get the Dano-Ceylonese trade contract confirmed, the Danes briefly occupied the 【132†Koneswaram Temple】 before receiving word from their trade director, Robert Crappe.^{【133†[15]】}
+L196: Crappe had sailed on the scouting freighter Øresund one month before the main fleet. Øresund had attacked Portuguese vessels off the coast of 【134†Karaikal】 and was himself sunk, with most of the crew killed or taken prisoner. The heads of two crew members were placed on spikes on the beach as a warning to the Danes.
+L197: Crappe and 13 of the crew had escaped the wreck, making it to shore where they were captured by Indians and taken to 【135†Raghunatha Nayak】, the 【136†Nayak of Tanjore】 (now 【137†Thanjavur】 in 【101†Tamil Nadu】).^{【138†[16]】}^{【139†[17]】} The Nayak turned out to be interested in trading opportunities, and Crappe negotiated a treaty granting them the village of 【100†Tranquebar (or Tharangamabadi)】,^{【140†[18]】} the right to construct a "stone house" (【79†Fort Dansborg】), and permission to levy taxes.^{【141†[19]】} This was signed on 20 November 1620.^{【142†[20]】}
+L198: ### Early years (1621–1639)
+L199: 
+L200: [【143†edit】]
+L201: The early years of the colony were arduous, with poor administration and investment, coupled with the loss of almost two-thirds of all the trading vessels dispatched from Denmark.^{【144†[21]】} The ships that did return made a profit on their cargo, but total returns fell well short of the costs of the venture.^{【145†[22]】} Moreover, the geographical location of the colony was 【146†vulnerable†en.wiktionary.org】 to high tidal waves that repeatedly destroyed what people built – roads, houses, administrative buildings, markets, etc.^{【147†[23]】} Although the intention had been to create an alternative to the English and Dutch traders, the dire financial state of the company and the redirection of national resources towards the 【148†Thirty Years' War】 led the colony to abandon efforts to trade directly for themselves and, instead, to become neutral third-party carriers for goods in the 【149†Bay of Bengal】.
+L202: By 1625, a 【96†factory】 had been established at 【150†Masulipatnam】 (present-day 【151†Krishna district】 of 【152†Andhra Pradesh】), the most important 【153†emporium】 in the region.
+L203: Lesser trading offices were established at 【154†Pipli】 and 【155†Balasore】.^{【156†[24]】}^{【157†[25]】}^{【158†[26]】} Despite this, by 1627 the colony was in such a poor financial state that it had just three ships left and was unable to pay the agreed-upon tribute to the Nayak, increasing local tensions.^{【159†[27]】} The Danish presence was also unwanted by English and Dutch traders. They saw the Danes as benefiting from the protection of their navies, without bearing any of the cost.
+L204: However, the English and Dutch could make no moves to decisively quash the Danish trade, owing to the entanglement of all these trading nations in wars in Europe – most notably, the Thirty Years' War; the consequent ramifications to each nation's foreign policy effectively muted the English and Dutch reactions.^{【160†[28]】}
+L205: ### Dutch influence (1640–1649)
+L206: 
+L207: [【161†edit】]
+L208:   * 1640 – Denmark–Norway attempt to sell 【79†Fort Danesborg】 to the Dutch for a second time.
+L209:   * 1642 – Danish colony 【162†declares war】 on the 【163†Mughal Empire】 and commences raiding ships in the 【149†Bay of Bengal】. Within a few months they had captured one of the Mughal emperor's vessels, incorporated it into their fleet (renamed Bengali Prize) and sold the goods in 【164†Tranquebar】 for a substantial profit.^{【165†[29]】}
+L210:   * 1643 – 【166†Willem Leyel】, designated the new leader of the colony by the company directors in 【167†Copenhagen】 arrives aboard the Christianshavn and 【168†besieges Dansborg】 to insure his succession. (see 【169†Conflict between Willem Leyel and Bernt Pessart】)... 【170†Sweden】 【171†declare war】 on 【97†Denmark-Norway】.
+L211:   * 1645 – Danish factory holdings fall increasingly under Dutch control. The 【172†Nayak sends small bands to raid Tranquebar.】^{【173†[30]】}
+L212:   * 1648 – 【86†Christian IV】, patron of the colony, dies. 【77†Danish East India Company】 bankrupt.
+L213: ### Abandonment and isolation (1650–1669)
+L214: 
+L215: [【174†edit】]
+L216: 
+L217: The lack of financial return led to repeated efforts by the major stockholders of the company to have it dissolved. The King, 【86†Christian IV】, resisted these efforts until his death in 1648.^{【175†[31]】} Two years later his son, 【176†Frederick III】, abolished the company.^{【177†[32]】}
+L218: Although the company had been abolished, the colony was a royal property and still held by a 【178†garrison】 unaware of court developments back at home. As the number of Danes declined through desertions and illness, Portuguese and Portuguese-Indian natives were hired to garrison the fort until eventually, by 1655, Eskild Anderson Kongsbakke was the commander and sole remaining Dane in Tranquebar.^{【107†[1]】}
+L219: An illiterate commoner, Kongsbakke was loyal to his country and successfully held the fort under a Danish flag^{【179†[33]】} against 【180†successive sieges by the Nayak】 for non-payment of tribute, whilst seizing ships in the Bay of Bengal. Using the proceeds of the sale of their goods to repair his defenses, he built a wall around the town and negotiated a settlement with the Nayak.^{【107†[1]】}^{【181†[34]】}
+L220: Kongsbakke's reports, sent to Denmark via other European vessels, finally convinced the Danis government to relieve him. The frigate Færø was dispatched to India, commanded by Capt Sivardt Adelaer, with an official confirmation of his appointment as colony leader. It arrived May 1669 – ending 19 years of isolation.^{【107†[1]】}
+L221: ### The Second Danish East India Company (1670–1732)
+L222: 
+L223: [【182†edit】]
+L224: Trade between 【97†Denmark–Norway】 and 【164†Tranquebar】 now resumed, a new Danish East India Company was formed, and several new commercial outposts were established, governed from Tranquebar: 【183†Oddeway Torre】 on the 【184†Malabar coast】 in 1696,^{【185†[35]】}^{【186†[36]】} and 【187†Dannemarksnagore】,^{【188†[37]】}^{【189†[38]】} southeast of 【190†Chandernagore】 in 1698. The settlement with the Nayak was confirmed and Tranquebar was permitted to expand to include three surrounding villages.
+L225:   * Nayak of Thanjavur tried to 【191†besiege Tranquebar】
+L226:   * 9 June 1706 – 【192†Frederick IV, king of Denmark-Norway】 sends two German 【193†Lutheran】 missionaries to India, 【194†Heinrich Plütschau】 and 【195†Bartholomäus Ziegenbalg】 – the first Protestant missionaries in India. Previously priests had not attempted to convert, and Indians denied entry to European churches. Arriving in 1707, they were not welcomed by their countrymen who suspected them of being spies.^{【196†[39]】}
+L227:   * Ziegenbalg gains converts among the Indians who, by royal decree, are freed to encourage further 【197†Christianisation】 amongst the Indians. Christianity becomes associated with lower caste people and rejected by upper caste Hindus.
+L228:   * Tensions arise between Ziegenbalg, who came under the authority of the King, and the local governor, John Sigismund Hassius who eventually feels Ziegenbalg is undermining Tranquebar's slave trade and jails him for 4 months.^{【198†[40]】}
+L229:   * Ziegenbalg attempts to learn as much as possible of the language of the inhabitants of Tranquebar, hiring tutors to learn 【199†Portuguese】 and 【81†Tamil】, and buying Hindu texts. He finds ways to create rifts in the local society in collusion with a few new converts to Christianity. He eventually writes the first Tamil 【200†glossary】, 【81†Tamil】-【201†German】 dictionary, and translations of Hindu books. He translates parts of the 【202†Bible】 into Tamil.
+L230: He completes the New Testament in prison, and the Old Testament later. Receiving funds from 【203†Europe】 he sets up a 【204†printing press】 and prints 【205†Tamil Bibles】 and 【206†books】. He becomes a book printer in India and produces paper. He establishes a 【207†seminary】 for Indian priests in Tranquebar before his death in Tranquebar 1719.
+L231:   * This 【208†Tranquebar Mission】 leads to missionaries spreading outside the colony, despite opposition from the kings of Tranquebar.
+L232:   * 1729 – Danish-Norwegian King forces the Danish East India Company to loan him money. His failure to repay the loan and inconsistency of Indian trade forces the company into liquidation.
+L233: ### Trade stabilises under Danish Asiatic Company (1732–1772)
+L234: 
+L235: [【209†edit】]
+L236: 
+L237: Colonial merchant ensign of Denmark A view of the Danish colony of Tranquebar with the Dansborg fortress in south east India, 1658.
+L238:   * 12 April 1732 – King 【210†Christian VI】 signs charter of new Asiatic Company with 40-year monopoly on Asian trade with India and China. Both previous companies had failed due to the lack of continuity in trade. This time, the intention of the investors was "to place this Asiatic Trade in Our Realms and Territories on a more constant footing in time to come."^{【211†[41]】}
+L239:   * 1730s – Denmark's Chinese and Indian trade stabilises, with cargo from India dominated by cotton fabrics from the 【212†Coromandel Coast】 and 【213†Bengal】.
+L240:   * 1752–1791 – Pepper procurement lodge established at 【214†Calicut】.^{【215†[42]】}^{【216†[43]】}
+L241:   * November 1754 – A meeting of Danish-Norwegian officials is held in Tranquebar. A decision is made to colonise the Andaman and Nicobar Islands to plant 【217†pepper】, 【218†cinnamon】, 【219†sugarcane】, 【220†coffee】, and 【221†cotton】.
+L242:   * December 1755 – Danish settlers arrive on Andaman Islands. The colony experiences outbreaks of 【222†malaria】 that saw the settlement abandoned periodically until 1848, when it was abandoned for good. This sporadic occupation led to encroachments of other colonial powers onto the islands including 【223†Austria】 and 【224†Britain】.^{【225†[44]】}
+L243:   * October 1755 – Frederiksnagore in 【102†Serampore】, in present-day 【103†West Bengal】.^{【226†[45]】}
+L244:   * 1 January 1756 – The Nicobar Islands are declared Danish property under the name 【227†Frederiksøerne】 (Frederick's Islands).^{【228†[46]】}
+L245:   * 【229†Cattle War】 starts over the stealing of cattle
+L246:   * 1756–1760 – All colonisation efforts on the islands fail with settlers wiped out by 【222†malaria】. Danish-Norwegian claims to the islands were later sold to the British.
+L247:   * 1763 – Danish factory at 【155†Balasore】, which was first opened in 1636, reopens again after receiving a 【230†farman】 from the Marathas.^{【231†[47]】} 【232†The British occupy Serampore for the year.】
+L248: ### The Golden Age of Danish India (1772–1808)
+L249: 
+L250: [【233†edit】]
+L251: 
+L252: A map of the Nicobar Islands under Danish administration, in June 1845
+L253:   * Danish-Norwegian trade grew substantially during these decades due to three key factors
+L254:     * The loss of the Danish Asiatic Company's monopoly on trade with India in 1772, opening up the trade to all Danish-Norwegian merchants. Administration of Tranquebar, Serampore, and factories in Bengal and along the Malabar Coast was taken over by the Crown in 1777.^{【234†[48]】}^{【235†[49]】} This freed the company from the colonial expenses but did not change the conditions of trade with India – leaving it in a better financial position.
+L255:     * The growth in both international trade and the increase in wars between the trading nations of 【236†England】, 【237†France】 and 【238†Holland】. This meant that during these wars, trade from the warring nations would be carried by neutral nations like Denmark–Norway to avoid seizure by the warring parties.
+L256:     * The expansion of the 【239†British East India Company】 in India, particularly after the 【240†Battle of Plassey】 in 1757. After this victory many employees of the company acquired vast private fortunes at the expense of the company itself. Both the company and the British Government made considerable effort to prevent these fortunes from being transported back to England on British vessels, leading to massive laundering through French, Dutch, and Danish competitors.
+L257: This injected enormous amounts of capital into Danish trade during the 1770s. The value of the trade, however, remained extremely volatile.
+L258:     * 1799 – Dispute between Denmark–Norway and Britain over the rights of a neutral nation to carry out trade with foreign colonies to which it did not normally have access during peacetime. Essentially, Britain was trying to prevent Denmark from carrying out the trade of countries Britain was at war with.
+L259: At the time Denmark–Norway was able to make exorbitant profits from fetching colonial products from 【241†French】 and 【242†Dutch】 possessions in the 【243†Indian Ocean】 and discharging them into the European market through 【167†Copenhagen】.
+L260:     * In 1789, the 【244†Andaman Islands】 became a 【93†British】 possession.
+L261: ### Napoleonic Wars and decline
+L262: 
+L263: [【245†edit】]
+L264: During the 【246†Napoleonic Wars】, Denmark-Norway practiced a policy of 【247†armed neutrality】 whilst carrying French and Dutch goods from the 【248†Dutch East Indies】 to Copenhagen.
+L265: This led to the 【249†English Wars】 during which Britain defeated the 【250†Danish-Norwegian fleet】, cut off the Danish East India Company's India trade, and occupied Dansborg, Balasore and Frederiksnagore from 1801 to 1802,^{【251†[50]】}^{【252†[51]】} and again, from 1808 to 1815.^{【253†[52]】}^{【254†[53]】} In 1814 【255†Norway gained independence from Denmark】.
+L266: 【256†Italy】 made an attempt at buying the Nicobar Islands from Denmark between 1864 and 1868.
+L267: In an attempt to gain colonies for the nascent kingdom, the Nicobar Islands were a prospect since it was about to be vacated by the Danes anyway.^{【257†[54]】} Biago Caranti, subordinate to the Italian Minister of Agriculture and Commerce 【258†Luigi Torelli】, first proposed the idea in his report to Torelli in 1865, where he mentioned that apart from establishing a penal colony, the islands were also valuable due to their location and potential for growing tobacco plantations.^{【259†[55]】} Such a distant outpost would also bring prestige to the Italian state.
+L268: Torelli started a negotiation that looked promising, but failed due to the fall of the 【260†Second La Marmora government】 and his resulting departure from office. The negotiations were interrupted and never brought up again.^{【261†[56]】}
+L269: The Danish colonies went into decline, and the British ultimately took possession of them, making them part of 【262†British India】: 【102†Serampore】 was sold to the British in 1839, and Tranquebar and most minor settlements in 1845 (11 October 1845 Frederiksnagore sold; 7 November 1845 other continental Danish India settlements sold);^{【263†[57]】} on 16 October 1868 all Danish rights to the Nicobar Islands, which since 1848 had been gradually abandoned, were sold to Britain.
+L270: The islands were formally annexed by Britain in 1869.^{【264†[58]】}
+L271: ## Legacy
+L272: 
+L273: [【265†edit】]
+L274: After the Danish colony of 【164†Tranquebar】 was ceded to the British, it lost its special trading status and had its administrative roles transferred to Nagapattinam. The town rapidly dwindled in importance,^{【266†[59]】} although the expansion of the British into South India led to Tranquebar becoming a hub for missionary activity for some time and a place particularly known for training native priests.
+L275: By the end of the 19th century, the mission established by 【267†Ziegenbalg】 was functioning entirely independently and lives on today as the 【268†Tamil Evangelical Lutheran Church】.^{【138†[16]】}
+L276: 【79†Fort Dansborg】 at 【164†Tranquebar】 was established in 1620.
+L277: 
+L278: Now primarily a fishing village, the legacy of the Danish colonial presence is entirely local but can be seen in the architecture of the small town that lies within the boundaries of the old (and long gone) city walls.^{【269†[60]】} Journalist 【270†Sam Miller】 describes the town as the most recognisably European of the former colonial settlements.^{【271†[61]】}
+L279: Although only a handful of colonial buildings can be definitely dated to the Danish era, many of the town's residential buildings are in classical styles that would not be dissimilar to those of the era and that contribute to the historic atmosphere. The remaining Danish buildings include a gateway inscribed with a Danish royal seal, a number of colonial bungalows, two churches and principally – 【79†Fort Dansborg】, constructed in 1620.
+L280: The fort was declared a protected monument by the 【272†Government of Tamil Nadu】 in 1977 and now houses a 【273†museum】 dedicated to the Danish in India.^{【138†[16]】}
+L281: There are no known descendants of the Danish settlers in or around the town. Since 2001, 【274†Danes】 have been active in mobilising volunteers and government agencies to purchase and restore Danish colonial buildings in 【100†Tranquebar】.
+L282: 
+L283: 【275†St. Olav's Church, Serampore】 still stands. In 2017 a major heritage restoration project commenced in 【102†Serampore】, 【103†West Bengal】.^{【276†[62]】}
+L284: ## See also
+L285: 
+L286: [【277†edit】]
+L287: 
+L288:   * 【89†Colonial India】
+L289:   * 【278†Portuguese India】
+L290:   * 【242†Dutch India】
+L291:   * 【241†French India】
+L292:   * 【93†British Raj】
+L293:   * 【77†Danish East India Company】
+L294:   * 【279†Danish Asia Company】
+L295:   * 【280†Danish Mission College】
+L296: ## Notes and references
+L297: 
+L298: [【281†edit】]
+L299:   1. 【282†1】 【283†2】 【284†3】 【285†4】 Rasmussen, Peter Ravn (1996). 【286†"Tranquebar: The Danish East India Company 1616–1669"†web.archive.org】. University of Copenhagen. Archived from 【287†the original†scholiast.org】 on 2 February 2014. Retrieved 18 March 2013.
+L300:   2. 【288†↑】 Felbæk, Ole (1990). 【289†"Den danske Asienhandel 1616–1807: Værdi og Volumen"†tidsskrift.dk】. Historisk Tidsskrift. 90 (2): 320–324.
+L301:   3. 【290†↑】 Magdalena, Naum; Nordin, Jonas, eds. (2013). Scandinavian Colonialism and the Rise of Modernity. Contributions To Global Historical Archaeology. Vol. 37. Springer. p. 8. 【291†ISBN】 【292†978-1-4614-6201-9】 – via SpringerLink. "Denmark and particularly Sweden struggled with upholding overseas colonies and recruiting settlers and staff willing to relocate."
+L302:   4. 【293†↑】 Lauring, Kåre. 【294†"Marchells Michielsz Boschouver – imperlebygger eller svindler"†web.archive.org】 (PDF). Danish Maritime Museum. pp. 93–95. Archived from 【295†the original†mfs.dk】 (PDF) on 5 March 2016. Retrieved 25 March 2022.

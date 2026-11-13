@@ -1,0 +1,3401 @@
+{
+  "coverage_end": 1947,
+  "updated": "2026-11-13",
+  "regions": [
+    "Northwest & Indus",
+    "North & Gangetic plain",
+    "Bengal & Northeast",
+    "Deccan & West",
+    "South & East coast",
+    "British rule",
+    "Nepal & Bhutan",
+    "Other colonial rule"
+  ],
+  "sources": {
+    "harvard-pre": {
+      "title": "Harvard: Pre-Mauryan Age",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/pre-mauryan-age",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-pre.txt"
+    },
+    "harvard-post": {
+      "title": "Harvard: Shunga and Indo-Greek ascendancy",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/sunga-and-indo-greek-200-%E2%80%93-1-bce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-post.txt"
+    },
+    "harvard-kushan": {
+      "title": "Harvard: Satavahana–Shaka–Kushan age",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/south-asia-satavahana-saka-kushan-age-c-1-%E2%80%93-300-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-kushan.txt"
+    },
+    "harvard-gupta": {
+      "title": "Harvard: Gupta–Vakataka age",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/gupta-v%C4%81k%C4%81%E1%B9%ADaka-age-c-300-%E2%80%93-550-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-gupta.txt"
+    },
+    "harvard-early": {
+      "title": "Harvard: Pushyabhuti and Chalukya ascendancy",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/pusyabhuti-and-chalukyan-ascendancy-c-550-%E2%80%93-700-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-early.txt"
+    },
+    "harvard-regional": {
+      "title": "Harvard: Pratiharas, Palas and Rashtrakutas",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/gurjara-pratiharas-palas-and-rashtrakutas-c-700-%E2%80%93-975-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-regional.txt"
+    },
+    "harvard-late": {
+      "title": "Harvard: Ghaznavids and regional dynasties",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/ghaznavids-cahamanas-later-calukyas-and-colas-c-975-%E2%80%93-1200-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-late.txt"
+    },
+    "harvard-modern": {
+      "title": "Harvard: Rise of regional powers",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mughal-disintegration-and-rise-regional-powers-c-1707-ce-1766-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-modern.txt"
+    },
+    "harvard-british": {
+      "title": "Harvard: British India",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/british-india-c-1757-ce-1947-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-british.txt"
+    },
+    "met-ancient": {
+      "title": "The Met: South Asia, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa.html",
+      "accessed": "2026-11-13",
+      "snapshot": "source/met-ancient.txt"
+    },
+    "met-north": {
+      "title": "The Met: North, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/ssn.html",
+      "accessed": "2026-11-13",
+      "snapshot": "source/met-north.txt"
+    },
+    "met-south": {
+      "title": "The Met: South, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/sss.html",
+      "accessed": "2026-11-13",
+      "snapshot": "source/met-south.txt"
+    },
+    "met-rulers": {
+      "title": "The Met: Sultanate and Mughal dynastic rulers",
+      "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+      "accessed": "2026-11-13",
+      "snapshot": "source/met-rulers.txt"
+    },
+    "husain": {
+      "title": "University of Barishal: Husain Shahi Bengal, 1494–1538",
+      "url": "https://library.bu.ac.bd/cgi-bin/koha/opac-detail.pl?biblionumber=3750",
+      "accessed": "2026-11-13",
+      "snapshot": "source/husain.txt"
+    },
+    "sikh": {
+      "title": "Cambridge: The Sikh empire (1799–1849)",
+      "url": "https://www.cambridge.org/core/books/sikhs-of-the-punjab/sikh-empire-17991849/F392B4CF5D691DA781A20C00CCF5DC2A",
+      "accessed": "2026-11-13",
+      "snapshot": "source/sikh.txt"
+    },
+    "harvard-mughal": {
+      "title": "Harvard: Mughal period and transition",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mughal-period-and-transition-c-1526-ce-1707-ce",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-mughal.txt"
+    },
+    "harvard-disintegration": {
+      "title": "Harvard: Regional powers, 1390–1450",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/political-disintegration-northern-south-asia-c-1390-1450",
+      "accessed": "2026-11-13",
+      "snapshot": "source/harvard-disintegration.txt"
+    },
+    "company-parliament": {
+      "title": "UK Parliament: East India Company and Raj",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/east-india-company-and-raj-1785-1858/",
+      "accessed": "2026-11-13",
+      "snapshot": "source/company-parliament.txt"
+    },
+    "company-nam": {
+      "title": "National Army Museum: Armies of the East India Company",
+      "url": "https://www.nam.ac.uk/explore/armies-east-india-company",
+      "accessed": "2026-11-13",
+      "snapshot": "source/company-nam.txt"
+    },
+    "raj-archives": {
+      "title": "The National Archives: Other countries, British Indian Empire 1858–1947",
+      "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/other-countries/",
+      "accessed": "2026-11-13",
+      "snapshot": "source/raj-archives.txt"
+    },
+    "wiki-shishunaga": {
+      "title": "Wikipedia: Shaishunaga dynasty",
+      "url": "https://en.wikipedia.org/wiki/Shaishunaga_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-shishunaga.txt"
+    },
+    "wiki-indo-greek": {
+      "title": "Wikipedia: Indo-Greek Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-indo-greek.txt"
+    },
+    "wiki-indo-parthian": {
+      "title": "Wikipedia: Indo-Parthian Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-indo-parthian.txt"
+    },
+    "wiki-western-satrap": {
+      "title": "Wikipedia: Western Satraps",
+      "url": "https://en.wikipedia.org/wiki/Western_Satraps",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-western-satrap.txt"
+    },
+    "wiki-maitraka": {
+      "title": "Wikipedia: Maitraka dynasty",
+      "url": "https://en.wikipedia.org/wiki/Maitraka_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-maitraka.txt"
+    },
+    "wiki-maukhari": {
+      "title": "Wikipedia: Maukhari dynasty",
+      "url": "https://en.wikipedia.org/wiki/Maukhari_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-maukhari.txt"
+    },
+    "wiki-karkota": {
+      "title": "Wikipedia: Karkota dynasty",
+      "url": "https://en.wikipedia.org/wiki/Karkota_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-karkota.txt"
+    },
+    "wiki-utpala": {
+      "title": "Wikipedia: Utpala dynasty",
+      "url": "https://en.wikipedia.org/wiki/Utpala_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-utpala.txt"
+    },
+    "wiki-lohara": {
+      "title": "Wikipedia: Lohara dynasty",
+      "url": "https://en.wikipedia.org/wiki/Lohara_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-lohara.txt"
+    },
+    "wiki-hindu-shahi": {
+      "title": "Wikipedia: Hindu Shahis",
+      "url": "https://en.wikipedia.org/wiki/Hindu_Shahis",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-hindu-shahi.txt"
+    },
+    "wiki-turk-shahi": {
+      "title": "Wikipedia: Turk Shahis",
+      "url": "https://en.wikipedia.org/wiki/Turk_Shahis",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-turk-shahi.txt"
+    },
+    "wiki-paramara": {
+      "title": "Wikipedia: Paramara dynasty",
+      "url": "https://en.wikipedia.org/wiki/Paramara_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-paramara.txt"
+    },
+    "wiki-chauhan": {
+      "title": "Wikipedia: Chahamanas of Shakambhari",
+      "url": "https://en.wikipedia.org/wiki/Chahamanas_of_Shakambhari",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-chauhan.txt"
+    },
+    "wiki-gahadavala": {
+      "title": "Wikipedia: Gahadavala dynasty",
+      "url": "https://en.wikipedia.org/wiki/Gahadavala_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-gahadavala.txt"
+    },
+    "wiki-kalachuri": {
+      "title": "Wikipedia: Kalachuris of Tripuri",
+      "url": "https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kalachuri.txt"
+    },
+    "wiki-yadava": {
+      "title": "Wikipedia: Seuna (Yadava) dynasty",
+      "url": "https://en.wikipedia.org/wiki/Seuna_(Yadava)_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-yadava.txt"
+    },
+    "wiki-kakatiya": {
+      "title": "Wikipedia: Kakatiya dynasty",
+      "url": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kakatiya.txt"
+    },
+    "wiki-eastern-ganga": {
+      "title": "Wikipedia: Eastern Ganga dynasty",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-eastern-ganga.txt"
+    },
+    "wiki-gajapati": {
+      "title": "Wikipedia: Gajapati Empire",
+      "url": "https://en.wikipedia.org/wiki/Gajapati_Empire",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-gajapati.txt"
+    },
+    "wiki-bhauma": {
+      "title": "Wikipedia: Bhauma-Kara dynasty",
+      "url": "https://en.wikipedia.org/wiki/Bhauma-Kara_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bhauma.txt"
+    },
+    "wiki-somavamshi": {
+      "title": "Wikipedia: Somavamshi dynasty",
+      "url": "https://en.wikipedia.org/wiki/Somavamshi_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-somavamshi.txt"
+    },
+    "wiki-gauda": {
+      "title": "Wikipedia: Gauda Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Gauda_Kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-gauda.txt"
+    },
+    "wiki-khadga": {
+      "title": "Wikipedia: Khadga dynasty",
+      "url": "https://en.wikipedia.org/wiki/Khadga_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-khadga.txt"
+    },
+    "wiki-chandra": {
+      "title": "Wikipedia: Chandra dynasty",
+      "url": "https://en.wikipedia.org/wiki/Chandra_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-chandra.txt"
+    },
+    "wiki-varman-kamarupa": {
+      "title": "Wikipedia: Varman dynasty",
+      "url": "https://en.wikipedia.org/wiki/Varman_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-varman-kamarupa.txt"
+    },
+    "wiki-pala-kamarupa": {
+      "title": "Wikipedia: Pala dynasty (Kamarupa)",
+      "url": "https://en.wikipedia.org/wiki/Pala_dynasty_(Kamarupa)",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-pala-kamarupa.txt"
+    },
+    "wiki-ahom": {
+      "title": "Wikipedia: Ahom kingdom",
+      "url": "https://en.wikipedia.org/wiki/Ahom_kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-ahom.txt"
+    },
+    "wiki-koch": {
+      "title": "Wikipedia: Koch dynasty",
+      "url": "https://en.wikipedia.org/wiki/Koch_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-koch.txt"
+    },
+    "wiki-tripura": {
+      "title": "Wikipedia: Manikya dynasty",
+      "url": "https://en.wikipedia.org/wiki/Manikya_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-tripura.txt"
+    },
+    "wiki-sikkim": {
+      "title": "Wikipedia: Kingdom of Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-sikkim.txt"
+    },
+    "wiki-ilyas": {
+      "title": "Wikipedia: Ilyas Shahi dynasty",
+      "url": "https://en.wikipedia.org/wiki/Ilyas_Shahi_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-ilyas.txt"
+    },
+    "wiki-karrani": {
+      "title": "Wikipedia: Karrani dynasty",
+      "url": "https://en.wikipedia.org/wiki/Karrani_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-karrani.txt"
+    },
+    "wiki-gujarat": {
+      "title": "Wikipedia: Gujarat Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Gujarat_Sultanate",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-gujarat.txt"
+    },
+    "wiki-malwa-ghuri": {
+      "title": "Wikipedia: Malwa Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-malwa-ghuri.txt"
+    },
+    "wiki-malwa-khalji": {
+      "title": "Wikipedia: Malwa Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-malwa-khalji.txt"
+    },
+    "wiki-samma": {
+      "title": "Wikipedia: Samma dynasty",
+      "url": "https://en.wikipedia.org/wiki/Samma_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-samma.txt"
+    },
+    "wiki-soomra": {
+      "title": "Wikipedia: Soomra dynasty",
+      "url": "https://en.wikipedia.org/wiki/Soomra_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-soomra.txt"
+    },
+    "wiki-kalhora": {
+      "title": "Wikipedia: Kalhora dynasty",
+      "url": "https://en.wikipedia.org/wiki/Kalhora_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kalhora.txt"
+    },
+    "wiki-talpur": {
+      "title": "Wikipedia: Talpur dynasty",
+      "url": "https://en.wikipedia.org/wiki/Talpur_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-talpur.txt"
+    },
+    "wiki-bhonsle": {
+      "title": "Wikipedia: Maratha Empire",
+      "url": "https://en.wikipedia.org/wiki/Maratha_Empire",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bhonsle.txt"
+    },
+    "wiki-wodeyar": {
+      "title": "Wikipedia: Wadiyar dynasty",
+      "url": "https://en.wikipedia.org/wiki/Wadiyar_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-wodeyar.txt"
+    },
+    "wiki-hyder-tipu": {
+      "title": "Wikipedia: Kingdom of Mysore",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-hyder-tipu.txt"
+    },
+    "wiki-nayak-madurai": {
+      "title": "Wikipedia: Madurai Nayak dynasty",
+      "url": "https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-nayak-madurai.txt"
+    },
+    "wiki-nayak-thanjavur": {
+      "title": "Wikipedia: Thanjavur Nayak kingdom",
+      "url": "https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-nayak-thanjavur.txt"
+    },
+    "wiki-maratha-thanjavur": {
+      "title": "Wikipedia: Thanjavur Maratha kingdom",
+      "url": "https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-maratha-thanjavur.txt"
+    },
+    "wiki-early-chera": {
+      "title": "Wikipedia: Chera dynasty",
+      "url": "https://en.wikipedia.org/wiki/Chera_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-early-chera.txt"
+    },
+    "wiki-chera-perumal": {
+      "title": "Wikipedia: Chera Perumals of Makotai",
+      "url": "https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-chera-perumal.txt"
+    },
+    "wiki-early-chola": {
+      "title": "Wikipedia: Early Cholas",
+      "url": "https://en.wikipedia.org/wiki/Early_Cholas",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-early-chola.txt"
+    },
+    "wiki-early-pandya": {
+      "title": "Wikipedia: Early Pandyan Society",
+      "url": "https://en.wikipedia.org/wiki/Early_Pandyan_Society",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-early-pandya.txt"
+    },
+    "wiki-later-pandya": {
+      "title": "Wikipedia: Pandya dynasty",
+      "url": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-later-pandya.txt"
+    },
+    "wiki-kalabhra": {
+      "title": "Wikipedia: Kalabhra dynasty",
+      "url": "https://en.wikipedia.org/wiki/Kalabhra_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kalabhra.txt"
+    },
+    "wiki-travancore": {
+      "title": "Wikipedia: Travancore",
+      "url": "https://en.wikipedia.org/wiki/Travancore",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-travancore.txt"
+    },
+    "wiki-cochin": {
+      "title": "Wikipedia: Kingdom of Cochin",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Cochin",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-cochin.txt"
+    },
+    "wiki-zamorin": {
+      "title": "Wikipedia: Zamorin",
+      "url": "https://en.wikipedia.org/wiki/Zamorin",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-zamorin.txt"
+    },
+    "wiki-kolathunadu": {
+      "title": "Wikipedia: Kolathunadu",
+      "url": "https://en.wikipedia.org/wiki/Kolathunadu",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kolathunadu.txt"
+    },
+    "wiki-venad": {
+      "title": "Wikipedia: Venad",
+      "url": "https://en.wikipedia.org/wiki/Venad",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-venad.txt"
+    },
+    "wiki-licchavi-nepal": {
+      "title": "Wikipedia: Licchavis of Nepal",
+      "url": "https://en.wikipedia.org/wiki/Licchavis_of_Nepal",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-licchavi-nepal.txt"
+    },
+    "wiki-malla-nepal": {
+      "title": "Wikipedia: Malla dynasty (Nepal)",
+      "url": "https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-malla-nepal.txt"
+    },
+    "wiki-shah-nepal": {
+      "title": "Wikipedia: Shah dynasty",
+      "url": "https://en.wikipedia.org/wiki/Shah_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-shah-nepal.txt"
+    },
+    "wiki-rana-nepal": {
+      "title": "Wikipedia: Rana dynasty",
+      "url": "https://en.wikipedia.org/wiki/Rana_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-rana-nepal.txt"
+    },
+    "wiki-drukpa": {
+      "title": "Wikipedia: History of Bhutan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Bhutan",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-drukpa.txt"
+    },
+    "wiki-wangchuck": {
+      "title": "Wikipedia: Wangchuck dynasty",
+      "url": "https://en.wikipedia.org/wiki/Wangchuck_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-wangchuck.txt"
+    },
+    "travancore-official": {
+      "title": "Thiruvananthapuram Corporation: Local History",
+      "url": "https://tmc.lsgkerala.gov.in/en/local-history-0",
+      "accessed": "2026-11-13",
+      "snapshot": "source/travancore-official.txt"
+    },
+    "wiki-mewar": {
+      "title": "Wikipedia: Mewar",
+      "url": "https://en.wikipedia.org/wiki/Mewar",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-mewar.txt"
+    },
+    "wiki-marwar": {
+      "title": "Wikipedia: Jodhpur State",
+      "url": "https://en.wikipedia.org/wiki/Jodhpur_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-marwar.txt"
+    },
+    "wiki-jaipur": {
+      "title": "Wikipedia: Jaipur State",
+      "url": "https://en.wikipedia.org/wiki/Jaipur_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-jaipur.txt"
+    },
+    "wiki-bikaner": {
+      "title": "Wikipedia: Bikaner State",
+      "url": "https://en.wikipedia.org/wiki/Bikaner_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bikaner.txt"
+    },
+    "wiki-jaisalmer": {
+      "title": "Wikipedia: Jaisalmer State",
+      "url": "https://en.wikipedia.org/wiki/Jaisalmer_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-jaisalmer.txt"
+    },
+    "wiki-scindia": {
+      "title": "Wikipedia: Scindia dynasty",
+      "url": "https://en.wikipedia.org/wiki/Scindia_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-scindia.txt"
+    },
+    "wiki-holkar": {
+      "title": "Wikipedia: Holkar",
+      "url": "https://en.wikipedia.org/wiki/Holkar",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-holkar.txt"
+    },
+    "wiki-gaekwad": {
+      "title": "Wikipedia: Gaekwad dynasty",
+      "url": "https://en.wikipedia.org/wiki/Gaekwad_dynasty",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-gaekwad.txt"
+    },
+    "wiki-nagpur": {
+      "title": "Wikipedia: Nagpur kingdom",
+      "url": "https://en.wikipedia.org/wiki/Nagpur_kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-nagpur.txt"
+    },
+    "wiki-bhopal": {
+      "title": "Wikipedia: Bhopal State",
+      "url": "https://en.wikipedia.org/wiki/Bhopal_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bhopal.txt"
+    },
+    "wiki-patiala": {
+      "title": "Wikipedia: Patiala State",
+      "url": "https://en.wikipedia.org/wiki/Patiala_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-patiala.txt"
+    },
+    "wiki-bahawalpur": {
+      "title": "Wikipedia: Bahawalpur (princely state)",
+      "url": "https://en.wikipedia.org/wiki/Bahawalpur_(princely_state)",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bahawalpur.txt"
+    },
+    "wiki-kutch": {
+      "title": "Wikipedia: Cutch State",
+      "url": "https://en.wikipedia.org/wiki/Cutch_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-kutch.txt"
+    },
+    "wiki-junagadh": {
+      "title": "Wikipedia: Junagadh State",
+      "url": "https://en.wikipedia.org/wiki/Junagadh_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-junagadh.txt"
+    },
+    "wiki-manipur": {
+      "title": "Wikipedia: Manipur Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Manipur_Kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-manipur.txt"
+    },
+    "wiki-bastar": {
+      "title": "Wikipedia: Bastar State",
+      "url": "https://en.wikipedia.org/wiki/Bastar_State",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-bastar.txt"
+    },
+    "wiki-garha": {
+      "title": "Wikipedia: Garha Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Garha_Kingdom",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-garha.txt"
+    },
+    "wiki-portuguese": {
+      "title": "Wikipedia: Portuguese India",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_India",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-portuguese.txt"
+    },
+    "wiki-french": {
+      "title": "Wikipedia: French India",
+      "url": "https://en.wikipedia.org/wiki/French_India",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-french.txt"
+    },
+    "wiki-dutch": {
+      "title": "Wikipedia: Dutch India",
+      "url": "https://en.wikipedia.org/wiki/Dutch_India",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-dutch.txt"
+    },
+    "wiki-danish": {
+      "title": "Wikipedia: Danish India",
+      "url": "https://en.wikipedia.org/wiki/Danish_India",
+      "accessed": "2026-11-13",
+      "snapshot": "source/wiki-danish.txt"
+    },
+    "iranica-hyderabad": {
+      "title": "Encyclopaedia Iranica: Hyderabad",
+      "url": "https://www.iranicaonline.org/articles/hyderabad/",
+      "accessed": "2026-11-13",
+      "snapshot": "source/iranica-hyderabad.txt"
+    }
+  },
+  "dynasties": [
+    {
+      "id": "nanda",
+      "name": "Nanda",
+      "region": "North & Gangetic plain",
+      "area": "Magadha, eastern India",
+      "periods": [
+        {
+          "start": -362,
+          "end": -321
+        }
+      ],
+      "sources": [
+        "harvard-pre"
+      ],
+      "note": "The start is disputed. This follows the Harvard chronology.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nanda_Empire",
+      "longest_reign": 41
+    },
+    {
+      "id": "maurya",
+      "name": "Maurya",
+      "region": "North & Gangetic plain",
+      "area": "Northern and central subcontinent",
+      "periods": [
+        {
+          "start": -323,
+          "end": -185
+        }
+      ],
+      "sources": [
+        "met-ancient"
+      ],
+      "note": "Broad imperial period. Territorial reach changed substantially.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Maurya_Empire",
+      "longest_reign": 138
+    },
+    {
+      "id": "shunga",
+      "name": "Shunga",
+      "region": "North & Gangetic plain",
+      "area": "Magadha and central India",
+      "periods": [
+        {
+          "start": -187,
+          "end": -75
+        }
+      ],
+      "sources": [
+        "harvard-post"
+      ],
+      "note": "Follows the Harvard date range. Other chronologies place the start at 185 BCE.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shunga_Empire",
+      "longest_reign": 112
+    },
+    {
+      "id": "kanva",
+      "name": "Kanva",
+      "region": "North & Gangetic plain",
+      "area": "Magadha",
+      "periods": [
+        {
+          "start": -75,
+          "end": -30
+        }
+      ],
+      "sources": [
+        "harvard-post"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kanva_dynasty",
+      "longest_reign": 45
+    },
+    {
+      "id": "kushan",
+      "name": "Kushan",
+      "region": "Northwest & Indus",
+      "area": "Gandhara, Punjab and northern India",
+      "periods": [
+        {
+          "start": 40,
+          "end": 300
+        }
+      ],
+      "sources": [
+        "harvard-kushan"
+      ],
+      "note": "Start follows Kujula Kadphises in the ruler list. The approximate end follows the dynasty heading, including later rulers.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kushan_Empire",
+      "longest_reign": 260
+    },
+    {
+      "id": "rai",
+      "name": "Rai",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 489,
+          "end": 632
+        }
+      ],
+      "sources": [
+        "harvard-gupta"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rai_dynasty",
+      "longest_reign": 143
+    },
+    {
+      "id": "brahman",
+      "name": "Brahman dynasty of Sindh",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 632,
+          "end": 724
+        }
+      ],
+      "sources": [
+        "harvard-early"
+      ],
+      "note": "Includes successors after Dahir’s defeat in 712, following the source chronology.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Brahman_dynasty_of_Sindh",
+      "longest_reign": 92
+    },
+    {
+      "id": "ghaznavid",
+      "name": "Ghaznavid · Punjab phase",
+      "region": "Northwest & Indus",
+      "area": "Punjab, centred later on Lahore",
+      "periods": [
+        {
+          "start": 1030,
+          "end": 1186
+        }
+      ],
+      "sources": [
+        "met-north",
+        "harvard-late"
+      ],
+      "note": "Shows the Punjab phase from the Met chronology, ending with the last Lahore ruler. Earlier Afghanistan-based rule and raids are outside this bar.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghaznavids",
+      "longest_reign": 156
+    },
+    {
+      "id": "ghurid",
+      "name": "Ghurid · northern rule",
+      "region": "Northwest & Indus",
+      "area": "Punjab and northern plains",
+      "periods": [
+        {
+          "start": 1192,
+          "end": 1206
+        }
+      ],
+      "sources": [
+        "harvard-late"
+      ],
+      "note": "Shows Muhammad Ghuri’s northern Indian phase from the Harvard ruler list, rather than the full Afghanistan-based dynasty.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghurid_dynasty",
+      "longest_reign": 14
+    },
+    {
+      "id": "arghun",
+      "name": "Arghun",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 1520,
+          "end": 1591
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Uses the Met’s dynastic range, which includes a later period of reduced authority.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Arghun_dynasty",
+      "longest_reign": 71
+    },
+    {
+      "id": "sikh",
+      "name": "Sukerchakia · Sikh Empire",
+      "region": "Northwest & Indus",
+      "area": "Punjab, centred on Lahore",
+      "periods": [
+        {
+          "start": 1799,
+          "end": 1849
+        }
+      ],
+      "sources": [
+        "sikh"
+      ],
+      "note": "From the capture of Lahore to British annexation. Ranjit Singh took the title maharaja in 1801.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sikh_Empire",
+      "longest_reign": 50
+    },
+    {
+      "id": "gupta",
+      "name": "Gupta",
+      "region": "North & Gangetic plain",
+      "area": "Northern India",
+      "periods": [
+        {
+          "start": 300,
+          "end": 515
+        }
+      ],
+      "sources": [
+        "harvard-gupta"
+      ],
+      "note": "Uses the Harvard imperial range. The dynasty’s beginnings and the survival of later branches are dated differently elsewhere.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gupta_Empire",
+      "longest_reign": 215
+    },
+    {
+      "id": "vardhana",
+      "name": "Pushyabhuti / Vardhana",
+      "region": "North & Gangetic plain",
+      "area": "Thanesar and Kannauj",
+      "periods": [
+        {
+          "start": 555,
+          "end": 647
+        }
+      ],
+      "sources": [
+        "harvard-early"
+      ],
+      "note": "Begins with the first dated ruler in this source’s list and ends with Harsha. Earlier founders are undated.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pushyabhuti_dynasty",
+      "longest_reign": 92
+    },
+    {
+      "id": "pratihara",
+      "name": "Gurjara-Pratihara",
+      "region": "North & Gangetic plain",
+      "area": "Western and northern India",
+      "periods": [
+        {
+          "start": 725,
+          "end": 1027
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gurjara-Pratihara_dynasty",
+      "longest_reign": 302
+    },
+    {
+      "id": "chandela",
+      "name": "Chandela",
+      "region": "North & Gangetic plain",
+      "area": "Bundelkhand",
+      "periods": [
+        {
+          "start": 831,
+          "end": 1311
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "The bar follows the source’s dynastic range, including periods of changing autonomy.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chandelas",
+      "longest_reign": 480
+    },
+    {
+      "id": "mamluk",
+      "name": "Mamluk · Delhi",
+      "region": "North & Gangetic plain",
+      "area": "Delhi and northern India",
+      "periods": [
+        {
+          "start": 1206,
+          "end": 1290
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Groups the early slave-king lines of the Delhi Sultanate.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mamluk_dynasty_(Delhi)",
+      "longest_reign": 84
+    },
+    {
+      "id": "khalji",
+      "name": "Khalji · Delhi",
+      "region": "North & Gangetic plain",
+      "area": "Delhi, northern India and Deccan campaigns",
+      "periods": [
+        {
+          "start": 1290,
+          "end": 1320
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Khalji_dynasty",
+      "longest_reign": 30
+    },
+    {
+      "id": "tughluq",
+      "name": "Tughluq",
+      "region": "North & Gangetic plain",
+      "area": "Delhi and changing provincial territories",
+      "periods": [
+        {
+          "start": 1320,
+          "end": 1412
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Ends with Mahmud Shah II in the Met ruler list. Authority fragmented before the end.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tughlaq_dynasty",
+      "longest_reign": 92
+    },
+    {
+      "id": "sayyid",
+      "name": "Sayyid · Delhi",
+      "region": "North & Gangetic plain",
+      "area": "Delhi region",
+      "periods": [
+        {
+          "start": 1414,
+          "end": 1451
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sayyid_dynasty",
+      "longest_reign": 37
+    },
+    {
+      "id": "lodi",
+      "name": "Lodi",
+      "region": "North & Gangetic plain",
+      "area": "Delhi and northern India",
+      "periods": [
+        {
+          "start": 1451,
+          "end": 1526
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lodi_dynasty",
+      "longest_reign": 75
+    },
+    {
+      "id": "sur",
+      "name": "Sur",
+      "region": "North & Gangetic plain",
+      "area": "Northern India",
+      "periods": [
+        {
+          "start": 1540,
+          "end": 1555
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Main imperial phase ending with the Mughal restoration. Later regional resistance is not shown.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sur_Empire",
+      "longest_reign": 15
+    },
+    {
+      "id": "mughal",
+      "name": "Mughal",
+      "region": "North & Gangetic plain",
+      "area": "Northern subcontinent, later much of the Deccan",
+      "periods": [
+        {
+          "start": 1526,
+          "end": 1540
+        },
+        {
+          "start": 1555,
+          "end": 1858
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "The gap marks Sur rule. Later emperors had greatly reduced power. The end follows the source’s formal abolition date of 1858, after the capture of Delhi in 1857.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mughal_Empire",
+      "british_paramountcy": {
+        "start": 1803,
+        "end": 1858
+      },
+      "longest_reign": 303
+    },
+    {
+      "id": "sharqi",
+      "name": "Sharqi",
+      "region": "North & Gangetic plain",
+      "area": "Jaunpur and eastern Gangetic plain",
+      "periods": [
+        {
+          "start": 1394,
+          "end": 1483
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Uses the Met range. Later claims beyond this period are not plotted.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jaunpur_Sultanate",
+      "longest_reign": 89
+    },
+    {
+      "id": "awadh",
+      "name": "Nawabs of Awadh",
+      "region": "North & Gangetic plain",
+      "area": "Awadh",
+      "periods": [
+        {
+          "start": 1722,
+          "end": 1856
+        }
+      ],
+      "sources": [
+        "harvard-modern"
+      ],
+      "note": "A regional ruling house with increasing British dependence, ending in annexation.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Oudh_State",
+      "british_paramountcy": {
+        "start": 1801,
+        "end": 1947
+      },
+      "longest_reign": 134
+    },
+    {
+      "id": "pala",
+      "name": "Pala · Bengal",
+      "region": "Bengal & Northeast",
+      "area": "Bengal and Bihar",
+      "periods": [
+        {
+          "start": 750,
+          "end": 1161
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Bengal includes territory in both modern Bangladesh and India.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pala_Empire",
+      "longest_reign": 411
+    },
+    {
+      "id": "mlechchha",
+      "name": "Mlechchha / Salastambha",
+      "region": "Bengal & Northeast",
+      "area": "Kamarupa, present-day Assam",
+      "periods": [
+        {
+          "start": 650,
+          "end": 900
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Kamarupa branch. Source polity geometry is broader than the specific family and is assigned by this chronology’s dates.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mlechchha_dynasty",
+      "longest_reign": 250
+    },
+    {
+      "id": "husain",
+      "name": "Husain Shahi",
+      "region": "Bengal & Northeast",
+      "area": "Bengal",
+      "periods": [
+        {
+          "start": 1494,
+          "end": 1538
+        }
+      ],
+      "sources": [
+        "husain"
+      ],
+      "note": "Dates follow the title of Momtazur Rahman Tarafdar’s study, published by the Asiatic Society of Pakistan.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hussain_Shahi_dynasty",
+      "longest_reign": 44
+    },
+    {
+      "id": "vakataka",
+      "name": "Vakataka",
+      "region": "Deccan & West",
+      "area": "Deccan and central India",
+      "periods": [
+        {
+          "start": 250,
+          "end": 500
+        }
+      ],
+      "sources": [
+        "harvard-gupta"
+      ],
+      "note": "The source gives mid-third to late-fifth century. Endpoints are rounded plotting anchors.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Vakataka_dynasty",
+      "longest_reign": 250
+    },
+    {
+      "id": "kadamba",
+      "name": "Kadamba · early line",
+      "region": "Deccan & West",
+      "area": "Banavasi, Karnataka",
+      "periods": [
+        {
+          "start": 345,
+          "end": 565
+        }
+      ],
+      "sources": [
+        "harvard-gupta"
+      ],
+      "note": "Early dynasty only. Later branches are not included.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kadamba_dynasty",
+      "longest_reign": 220
+    },
+    {
+      "id": "satavahana",
+      "name": "Satavahana · dated phases",
+      "region": "Deccan & West",
+      "area": "Western Deccan",
+      "periods": [
+        {
+          "start": -120,
+          "end": -50
+        },
+        {
+          "start": 50,
+          "end": 230
+        }
+      ],
+      "sources": [
+        "harvard-post",
+        "harvard-kushan"
+      ],
+      "note": "Early and later phases follow separate Harvard lists. The gap is a gap in this selected chronology, not evidence that the dynasty ceased to exist.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+      "longest_reign": 180
+    },
+    {
+      "id": "badami",
+      "name": "Chalukya · Badami",
+      "region": "Deccan & West",
+      "area": "Western Deccan",
+      "periods": [
+        {
+          "start": 500,
+          "end": 753
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "The source gives early sixth century for the start. 500 is a rounded plotting anchor.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chalukya_dynasty",
+      "longest_reign": 253
+    },
+    {
+      "id": "rashtrakuta",
+      "name": "Rashtrakuta",
+      "region": "Deccan & West",
+      "area": "Deccan and central India",
+      "periods": [
+        {
+          "start": 753,
+          "end": 982
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Uses the Harvard dynastic range, including the last claimant after the loss of imperial power in 973.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rashtrakuta_dynasty",
+      "longest_reign": 229
+    },
+    {
+      "id": "hoysala",
+      "name": "Hoysala",
+      "region": "Deccan & West",
+      "area": "Southern Karnataka",
+      "periods": [
+        {
+          "start": 1022,
+          "end": 1346
+        }
+      ],
+      "sources": [
+        "met-south"
+      ],
+      "note": "Follows the Met chronology. Earlier family origins are outside this range.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hoysala_Empire",
+      "longest_reign": 324
+    },
+    {
+      "id": "bahmani",
+      "name": "Bahmani",
+      "region": "Deccan & West",
+      "area": "Northern Deccan",
+      "periods": [
+        {
+          "start": 1347,
+          "end": 1528
+        }
+      ],
+      "sources": [
+        "met-south"
+      ],
+      "note": "Includes the late period when provincial successor states held much of the power.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bahmani_Sultanate",
+      "longest_reign": 181
+    },
+    {
+      "id": "adil",
+      "name": "Adil Shahi",
+      "region": "Deccan & West",
+      "area": "Bijapur",
+      "periods": [
+        {
+          "start": 1489,
+          "end": 1686
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Adil_Shahi_dynasty",
+      "longest_reign": 197
+    },
+    {
+      "id": "nizam",
+      "name": "Nizam Shahi",
+      "region": "Deccan & West",
+      "area": "Ahmadnagar",
+      "periods": [
+        {
+          "start": 1490,
+          "end": 1636
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nizam_Shahi_dynasty",
+      "longest_reign": 146
+    },
+    {
+      "id": "qutb",
+      "name": "Qutb Shahi",
+      "region": "Deccan & West",
+      "area": "Golconda and Hyderabad",
+      "periods": [
+        {
+          "start": 1496,
+          "end": 1687
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "The Met begins with Sultan Quli’s governorship, earlier than the conventional independence date of 1518.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Qutb_Shahi_dynasty",
+      "longest_reign": 191
+    },
+    {
+      "id": "bhat",
+      "name": "Bhat Peshwas",
+      "region": "Deccan & West",
+      "area": "Pune and the Maratha political sphere",
+      "periods": [
+        {
+          "start": 1713,
+          "end": 1818
+        }
+      ],
+      "sources": [
+        "harvard-modern"
+      ],
+      "note": "Hereditary chief ministers who came to exercise executive power. This is not a bar for the full Maratha confederacy.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Peshwa",
+      "british_paramountcy": {
+        "start": 1802,
+        "end": 1818
+      },
+      "longest_reign": 105
+    },
+    {
+      "id": "asaf",
+      "name": "Asaf Jahi",
+      "region": "Deccan & West",
+      "area": "Hyderabad",
+      "periods": [
+        {
+          "start": 1724,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "harvard-british",
+        "iranica-hyderabad"
+      ],
+      "note": "From 1724 the Nizams exercised substantial practical autonomy while acknowledging nominal Mughal suzerainty. French influence shaped the succession struggles of 1748–1762. The dotted phase begins with the permanent Company subsidiary alliance of 1798, strengthened in 1800. A solid bar means before British paramountcy, not complete formal independence.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Asaf_Jahi_dynasty",
+      "british_paramountcy": {
+        "start": 1798,
+        "end": 1947
+      },
+      "longest_reign": 223
+    },
+    {
+      "id": "ikshvaku",
+      "name": "Ikshvaku · Andhra",
+      "region": "South & East coast",
+      "area": "Andhra region",
+      "periods": [
+        {
+          "start": 225,
+          "end": 315
+        }
+      ],
+      "sources": [
+        "harvard-kushan"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ikshvaku_dynasty",
+      "longest_reign": 90
+    },
+    {
+      "id": "pallava",
+      "name": "Pallava · later phase",
+      "region": "South & East coast",
+      "area": "Kanchipuram and northern Tamil region",
+      "periods": [
+        {
+          "start": 550,
+          "end": 912
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Uses the later phase listed by Harvard, not the family’s earliest attestation.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+      "longest_reign": 362
+    },
+    {
+      "id": "pandya",
+      "name": "Pandya · early medieval",
+      "region": "South & East coast",
+      "area": "Madurai and southern Tamil region",
+      "periods": [
+        {
+          "start": 590,
+          "end": 920
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Only this dated phase is shown. Ancient predecessors and the later Pandya revival are not included.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+      "longest_reign": 330
+    },
+    {
+      "id": "eastern-chalukya",
+      "name": "Chalukya · Eastern",
+      "region": "South & East coast",
+      "area": "Vengi, Andhra region",
+      "periods": [
+        {
+          "start": 624,
+          "end": 1061
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
+      "longest_reign": 437
+    },
+    {
+      "id": "chola",
+      "name": "Chola · imperial phase",
+      "region": "South & East coast",
+      "area": "Tamil region and changing southern territories",
+      "periods": [
+        {
+          "start": 848,
+          "end": 1279
+        }
+      ],
+      "sources": [
+        "harvard-regional"
+      ],
+      "note": "Imperial revival only. Earlier Cholas are not represented.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chola_dynasty",
+      "longest_reign": 431
+    },
+    {
+      "id": "sena",
+      "name": "Sena",
+      "region": "Bengal & Northeast",
+      "area": "Bengal",
+      "periods": [
+        {
+          "start": 1097,
+          "end": 1223
+        }
+      ],
+      "sources": [
+        "harvard-late"
+      ],
+      "note": "Uses the source’s dynasty heading. The ruler list also includes earlier founders and later successors, so these are approximate phase dates.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sena_dynasty",
+      "longest_reign": 126
+    },
+    {
+      "id": "solanki",
+      "name": "Chaulukya / Solanki",
+      "region": "Deccan & West",
+      "area": "Gujarat",
+      "periods": [
+        {
+          "start": 940,
+          "end": 1244
+        }
+      ],
+      "sources": [
+        "harvard-late"
+      ],
+      "note": "",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chaulukya_dynasty",
+      "longest_reign": 304
+    },
+    {
+      "id": "kalyani",
+      "name": "Chalukya · Kalyani",
+      "region": "Deccan & West",
+      "area": "Western Deccan",
+      "periods": [
+        {
+          "start": 974,
+          "end": 1190
+        }
+      ],
+      "sources": [
+        "harvard-late"
+      ],
+      "note": "Uses the dynasty heading, rather than the slightly earlier accession of Taila II.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Western_Chalukya_Empire",
+      "longest_reign": 216
+    },
+    {
+      "id": "sangama",
+      "name": "Sangama · Vijayanagara",
+      "region": "South & East coast",
+      "area": "Vijayanagara and southern India",
+      "periods": [
+        {
+          "start": 1336,
+          "end": 1485
+        }
+      ],
+      "sources": [
+        "harvard-disintegration"
+      ],
+      "note": "Begins with Harihara I’s dated rule in the source. Earlier family origins are undated.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Sangama_dynasty",
+      "longest_reign": 149
+    },
+    {
+      "id": "tuluva",
+      "name": "Tuluva · Vijayanagara",
+      "region": "South & East coast",
+      "area": "Vijayanagara and southern India",
+      "periods": [
+        {
+          "start": 1505,
+          "end": 1576
+        }
+      ],
+      "sources": [
+        "harvard-mughal"
+      ],
+      "note": "Begins with Vira Narasimha’s accession. The source includes Sadasiva’s nominal rule to 1576, overlapping the Aravidu line.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Tuluva_dynasty",
+      "longest_reign": 71
+    },
+    {
+      "id": "aravidu",
+      "name": "Aravidu · Vijayanagara",
+      "region": "South & East coast",
+      "area": "Southern India after the loss of Vijayanagara",
+      "periods": [
+        {
+          "start": 1570,
+          "end": 1669
+        }
+      ],
+      "sources": [
+        "harvard-mughal"
+      ],
+      "note": "Uses the source’s dynasty heading. Its ruler list extends the last king’s life or claims beyond this end date.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Aravidu_dynasty",
+      "longest_reign": 99
+    },
+    {
+      "id": "shah-mir",
+      "name": "Shah Mir",
+      "region": "Northwest & Indus",
+      "area": "Kashmir",
+      "periods": [
+        {
+          "start": 1339,
+          "end": 1540
+        },
+        {
+          "start": 1551,
+          "end": 1561
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "The gap marks Mirza Haydar Dughlat’s governorship in the source ruler list.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shah_Mir_dynasty",
+      "longest_reign": 201
+    },
+    {
+      "id": "chak",
+      "name": "Chak",
+      "region": "Northwest & Indus",
+      "area": "Kashmir",
+      "periods": [
+        {
+          "start": 1561,
+          "end": 1588
+        }
+      ],
+      "sources": [
+        "met-rulers"
+      ],
+      "note": "Includes the last ruler after the Mughal conquest in 1586, following the Met’s list.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chak_dynasty",
+      "longest_reign": 27
+    },
+    {
+      "id": "company",
+      "name": "East India Company · territorial rule",
+      "kind": "colonial regime",
+      "region": "British rule",
+      "area": "Changing British-controlled territories in the subcontinent",
+      "periods": [
+        {
+          "start": 1757,
+          "end": 1858
+        }
+      ],
+      "sources": [
+        "company-nam",
+        "company-parliament"
+      ],
+      "note": "A colonial company regime. The phase begins at Plassey, not the company’s foundation or its earlier trading settlements. Territories expanded over time.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/Company_rule_in_India",
+      "longest_reign": 101
+    },
+    {
+      "id": "british-raj",
+      "name": "British Raj · Crown rule",
+      "kind": "colonial regime",
+      "region": "British rule",
+      "area": "Changing British-controlled territories in the subcontinent",
+      "periods": [
+        {
+          "start": 1858,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "company-parliament",
+        "raj-archives"
+      ],
+      "note": "British Crown administration. Provinces under direct rule and princely states under paramountcy had different relationships with it. Annual dating includes the transfer year 1947.",
+      "approximate": false,
+      "wikipedia": "https://en.wikipedia.org/wiki/British_Raj",
+      "longest_reign": 89
+    },
+    {
+      "id": "shishunaga",
+      "name": "Shishunaga",
+      "region": "North & Gangetic plain",
+      "area": "Magadha",
+      "periods": [
+        {
+          "start": -413,
+          "end": -345
+        }
+      ],
+      "sources": [
+        "wiki-shishunaga"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shaishunaga_dynasty",
+      "longest_reign": 68
+    },
+    {
+      "id": "indo-greek",
+      "name": "Indo-Greek kingdoms",
+      "region": "Northwest & Indus",
+      "area": "Gandhara and Punjab",
+      "periods": [
+        {
+          "start": -200,
+          "end": 10
+        }
+      ],
+      "sources": [
+        "wiki-indo-greek"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+      "longest_reign": 209
+    },
+    {
+      "id": "indo-parthian",
+      "name": "Indo-Parthian / Gondopharid",
+      "region": "Northwest & Indus",
+      "area": "Gandhara, Punjab and Sindh",
+      "periods": [
+        {
+          "start": 19,
+          "end": 226
+        }
+      ],
+      "sources": [
+        "wiki-indo-parthian"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom",
+      "longest_reign": 207
+    },
+    {
+      "id": "western-satrap",
+      "name": "Western Kshatrapas",
+      "region": "Deccan & West",
+      "area": "Gujarat, Malwa and western India",
+      "periods": [
+        {
+          "start": 35,
+          "end": 405
+        }
+      ],
+      "sources": [
+        "wiki-western-satrap"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Western_Satraps",
+      "longest_reign": 370
+    },
+    {
+      "id": "maitraka",
+      "name": "Maitraka",
+      "region": "Deccan & West",
+      "area": "Vallabhi, Saurashtra",
+      "periods": [
+        {
+          "start": 475,
+          "end": 776
+        }
+      ],
+      "sources": [
+        "wiki-maitraka"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Maitraka_dynasty",
+      "longest_reign": 301
+    },
+    {
+      "id": "maukhari",
+      "name": "Maukhari",
+      "region": "North & Gangetic plain",
+      "area": "Kannauj",
+      "periods": [
+        {
+          "start": 510,
+          "end": 606
+        }
+      ],
+      "sources": [
+        "wiki-maukhari"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Maukhari_dynasty",
+      "longest_reign": 96
+    },
+    {
+      "id": "karkota",
+      "name": "Karkota",
+      "region": "Northwest & Indus",
+      "area": "Kashmir",
+      "periods": [
+        {
+          "start": 625,
+          "end": 855
+        }
+      ],
+      "sources": [
+        "wiki-karkota"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Karkota_dynasty",
+      "longest_reign": 230
+    },
+    {
+      "id": "utpala",
+      "name": "Utpala",
+      "region": "Northwest & Indus",
+      "area": "Kashmir",
+      "periods": [
+        {
+          "start": 855,
+          "end": 1003
+        }
+      ],
+      "sources": [
+        "wiki-utpala"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Utpala_dynasty",
+      "longest_reign": 148
+    },
+    {
+      "id": "lohara",
+      "name": "Lohara",
+      "region": "Northwest & Indus",
+      "area": "Kashmir",
+      "periods": [
+        {
+          "start": 1003,
+          "end": 1175
+        }
+      ],
+      "sources": [
+        "wiki-lohara"
+      ],
+      "note": "Uses the source’s 1003–1175 dynasty heading. Later Kashmiri lines are not automatically treated as Lohara.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Lohara_dynasty",
+      "longest_reign": 172
+    },
+    {
+      "id": "hindu-shahi",
+      "name": "Hindu Shahi",
+      "region": "Northwest & Indus",
+      "area": "Gandhara and Punjab",
+      "periods": [
+        {
+          "start": 822,
+          "end": 1026
+        }
+      ],
+      "sources": [
+        "wiki-hindu-shahi"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Hindu_Shahis",
+      "longest_reign": 204
+    },
+    {
+      "id": "turk-shahi",
+      "name": "Turk Shahi",
+      "region": "Northwest & Indus",
+      "area": "Kabul and Gandhara",
+      "periods": [
+        {
+          "start": 665,
+          "end": 822
+        }
+      ],
+      "sources": [
+        "wiki-turk-shahi"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Turk_Shahis",
+      "longest_reign": 157
+    },
+    {
+      "id": "paramara",
+      "name": "Paramara",
+      "region": "Deccan & West",
+      "area": "Malwa",
+      "periods": [
+        {
+          "start": 948,
+          "end": 1305
+        }
+      ],
+      "sources": [
+        "wiki-paramara"
+      ],
+      "note": "Independent imperial phase from Siyaka, rather than earlier family origins around the ninth century.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Paramara_dynasty",
+      "longest_reign": 357
+    },
+    {
+      "id": "chauhan",
+      "name": "Chahamana / Chauhan · Shakambhari",
+      "region": "North & Gangetic plain",
+      "area": "Rajasthan and Ajmer",
+      "periods": [
+        {
+          "start": 551,
+          "end": 1192
+        }
+      ],
+      "sources": [
+        "wiki-chauhan"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chahamanas_of_Shakambhari",
+      "longest_reign": 641
+    },
+    {
+      "id": "gahadavala",
+      "name": "Gahadavala",
+      "region": "North & Gangetic plain",
+      "area": "Kannauj and Varanasi",
+      "periods": [
+        {
+          "start": 1072,
+          "end": 1237
+        }
+      ],
+      "sources": [
+        "wiki-gahadavala"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gahadavala_dynasty",
+      "longest_reign": 165
+    },
+    {
+      "id": "kalachuri",
+      "name": "Kalachuri · Tripuri",
+      "region": "North & Gangetic plain",
+      "area": "Tripuri and central India",
+      "periods": [
+        {
+          "start": 675,
+          "end": 1212
+        }
+      ],
+      "sources": [
+        "wiki-kalachuri"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri",
+      "longest_reign": 537
+    },
+    {
+      "id": "yadava",
+      "name": "Seuna / Yadava",
+      "region": "Deccan & West",
+      "area": "Devagiri and Maharashtra",
+      "periods": [
+        {
+          "start": 850,
+          "end": 1334
+        }
+      ],
+      "sources": [
+        "wiki-yadava"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Seuna_(Yadava)_dynasty",
+      "longest_reign": 484
+    },
+    {
+      "id": "kakatiya",
+      "name": "Kakatiya",
+      "region": "South & East coast",
+      "area": "Warangal, Telangana and Andhra",
+      "periods": [
+        {
+          "start": 1083,
+          "end": 1323
+        }
+      ],
+      "sources": [
+        "wiki-kakatiya"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+      "longest_reign": 240
+    },
+    {
+      "id": "eastern-ganga",
+      "name": "Eastern Ganga",
+      "region": "South & East coast",
+      "area": "Kalinga and Odisha",
+      "periods": [
+        {
+          "start": 493,
+          "end": 1434
+        }
+      ],
+      "sources": [
+        "wiki-eastern-ganga"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
+      "longest_reign": 941
+    },
+    {
+      "id": "gajapati",
+      "name": "Suryavamshi · Gajapati",
+      "region": "South & East coast",
+      "area": "Odisha and eastern coast",
+      "periods": [
+        {
+          "start": 1434,
+          "end": 1541
+        }
+      ],
+      "sources": [
+        "wiki-gajapati"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gajapati_Empire",
+      "longest_reign": 107
+    },
+    {
+      "id": "bhauma",
+      "name": "Bhauma-Kara",
+      "region": "South & East coast",
+      "area": "Toshali, Odisha",
+      "periods": [
+        {
+          "start": 736,
+          "end": 950
+        }
+      ],
+      "sources": [
+        "wiki-bhauma"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bhauma-Kara_dynasty",
+      "longest_reign": 214
+    },
+    {
+      "id": "somavamshi",
+      "name": "Somavamshi",
+      "region": "South & East coast",
+      "area": "Odisha",
+      "periods": [
+        {
+          "start": 882,
+          "end": 1110
+        }
+      ],
+      "sources": [
+        "wiki-somavamshi"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Somavamshi_dynasty",
+      "longest_reign": 228
+    },
+    {
+      "id": "gauda",
+      "name": "Gauda kings",
+      "region": "Bengal & Northeast",
+      "area": "Bengal",
+      "periods": [
+        {
+          "start": 554,
+          "end": 636
+        }
+      ],
+      "sources": [
+        "wiki-gauda"
+      ],
+      "note": "Regional kingdom including Jayanaga and Shashanka. The plotted dates describe the kingdom rather than an established single genealogy.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gauda_Kingdom",
+      "longest_reign": 82
+    },
+    {
+      "id": "khadga",
+      "name": "Khadga",
+      "region": "Bengal & Northeast",
+      "area": "Samatata, eastern Bengal",
+      "periods": [
+        {
+          "start": 625,
+          "end": 716
+        }
+      ],
+      "sources": [
+        "wiki-khadga"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Khadga_dynasty",
+      "longest_reign": 91
+    },
+    {
+      "id": "chandra",
+      "name": "Chandra · southeastern Bengal",
+      "region": "Bengal & Northeast",
+      "area": "Samatata and Harikela",
+      "periods": [
+        {
+          "start": 900,
+          "end": 1050
+        }
+      ],
+      "sources": [
+        "wiki-chandra"
+      ],
+      "note": "Bengal phase from c. 900 to 1050. Earlier Arakan rulers with the same dynastic name are not included.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chandra_dynasty",
+      "longest_reign": 150
+    },
+    {
+      "id": "varman-kamarupa",
+      "name": "Varman · Kamarupa",
+      "region": "Bengal & Northeast",
+      "area": "Brahmaputra valley",
+      "periods": [
+        {
+          "start": 350,
+          "end": 655
+        }
+      ],
+      "sources": [
+        "wiki-varman-kamarupa"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Varman_dynasty",
+      "longest_reign": 305
+    },
+    {
+      "id": "pala-kamarupa",
+      "name": "Pala · Kamarupa",
+      "region": "Bengal & Northeast",
+      "area": "Brahmaputra valley",
+      "periods": [
+        {
+          "start": 900,
+          "end": 1100
+        }
+      ],
+      "sources": [
+        "wiki-pala-kamarupa"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pala_dynasty_(Kamarupa)",
+      "longest_reign": 200
+    },
+    {
+      "id": "ahom",
+      "name": "Ahom",
+      "region": "Bengal & Northeast",
+      "area": "Upper Brahmaputra valley, Assam",
+      "periods": [
+        {
+          "start": 1228,
+          "end": 1826
+        },
+        {
+          "start": 1833,
+          "end": 1838
+        }
+      ],
+      "sources": [
+        "wiki-ahom"
+      ],
+      "note": "Includes Purandar Singha’s short restoration, 1833–1838, under British supervision. Both phases are retained because the earlier reign exceeds 50 years.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ahom_kingdom",
+      "british_paramountcy": {
+        "start": 1833,
+        "end": 1838
+      },
+      "longest_reign": 598
+    },
+    {
+      "id": "koch",
+      "name": "Koch",
+      "region": "Bengal & Northeast",
+      "area": "Cooch Behar and western Assam",
+      "periods": [
+        {
+          "start": 1515,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-koch"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Koch_dynasty",
+      "british_paramountcy": {
+        "start": 1773,
+        "end": 1947
+      },
+      "longest_reign": 432
+    },
+    {
+      "id": "tripura",
+      "name": "Manikya · Tripura",
+      "region": "Bengal & Northeast",
+      "area": "Tripura",
+      "periods": [
+        {
+          "start": 1400,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-tripura"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Manikya_dynasty",
+      "british_paramountcy": {
+        "start": 1809,
+        "end": 1947
+      },
+      "longest_reign": 547
+    },
+    {
+      "id": "sikkim",
+      "name": "Namgyal · Sikkim",
+      "region": "Nepal & Bhutan",
+      "area": "Sikkim",
+      "periods": [
+        {
+          "start": 1642,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-sikkim"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim",
+      "british_paramountcy": {
+        "start": 1861,
+        "end": 1947
+      },
+      "longest_reign": 305
+    },
+    {
+      "id": "ilyas",
+      "name": "Ilyas Shahi · Bengal",
+      "region": "Bengal & Northeast",
+      "area": "Bengal",
+      "periods": [
+        {
+          "start": 1342,
+          "end": 1415
+        },
+        {
+          "start": 1437,
+          "end": 1487
+        }
+      ],
+      "sources": [
+        "wiki-ilyas"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Ilyas_Shahi_dynasty",
+      "longest_reign": 73
+    },
+    {
+      "id": "karrani",
+      "name": "Karrani · Bengal",
+      "region": "Bengal & Northeast",
+      "area": "Bengal and Bihar",
+      "periods": [
+        {
+          "start": 1564,
+          "end": 1576
+        }
+      ],
+      "sources": [
+        "wiki-karrani"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Karrani_dynasty",
+      "longest_reign": 12
+    },
+    {
+      "id": "gujarat",
+      "name": "Muzaffarid · Gujarat",
+      "region": "Deccan & West",
+      "area": "Gujarat",
+      "periods": [
+        {
+          "start": 1407,
+          "end": 1573
+        }
+      ],
+      "sources": [
+        "wiki-gujarat"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gujarat_Sultanate",
+      "longest_reign": 166
+    },
+    {
+      "id": "malwa-ghuri",
+      "name": "Ghuri · Malwa",
+      "region": "Deccan & West",
+      "area": "Mandu and Malwa",
+      "periods": [
+        {
+          "start": 1401,
+          "end": 1436
+        }
+      ],
+      "sources": [
+        "wiki-malwa-ghuri"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+      "longest_reign": 35
+    },
+    {
+      "id": "malwa-khalji",
+      "name": "Khalji · Malwa",
+      "region": "Deccan & West",
+      "area": "Mandu and Malwa",
+      "periods": [
+        {
+          "start": 1436,
+          "end": 1531
+        }
+      ],
+      "sources": [
+        "wiki-malwa-khalji"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malwa_Sultanate",
+      "longest_reign": 95
+    },
+    {
+      "id": "samma",
+      "name": "Samma · Sindh",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 1351,
+          "end": 1524
+        }
+      ],
+      "sources": [
+        "wiki-samma"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Samma_dynasty",
+      "longest_reign": 173
+    },
+    {
+      "id": "soomra",
+      "name": "Soomra · Sindh",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 1026,
+          "end": 1351
+        }
+      ],
+      "sources": [
+        "wiki-soomra"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Soomra_dynasty",
+      "longest_reign": 325
+    },
+    {
+      "id": "kalhora",
+      "name": "Kalhora · Sindh",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 1701,
+          "end": 1783
+        }
+      ],
+      "sources": [
+        "wiki-kalhora"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kalhora_dynasty",
+      "longest_reign": 82
+    },
+    {
+      "id": "talpur",
+      "name": "Talpur · Sindh",
+      "region": "Northwest & Indus",
+      "area": "Sindh",
+      "periods": [
+        {
+          "start": 1783,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-talpur"
+      ],
+      "note": "Includes the Khairpur branch after the conquest of the main Talpur territories in 1843. Territorial reach differs by phase.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Talpur_dynasty",
+      "british_paramountcy": {
+        "start": 1843,
+        "end": 1947
+      },
+      "longest_reign": 164
+    },
+    {
+      "id": "bhonsle",
+      "name": "Marathas / Bhonsle",
+      "region": "Deccan & West",
+      "area": "Western Deccan and changing Maratha territories",
+      "periods": [
+        {
+          "start": 1674,
+          "end": 1818
+        }
+      ],
+      "sources": [
+        "wiki-bhonsle"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "aliases": [
+        "Maratha Empire",
+        "Marathas",
+        "Bhosale",
+        "Bhonsale"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Maratha_Empire",
+      "longest_reign": 144
+    },
+    {
+      "id": "wodeyar",
+      "name": "Wodeyar · Mysore",
+      "region": "Deccan & West",
+      "area": "Mysore, Karnataka",
+      "periods": [
+        {
+          "start": 1399,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-wodeyar"
+      ],
+      "note": "Includes nominal monarchy while Hyder Ali and Tipu Sultan exercised effective power, and later rule under British paramountcy.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Wadiyar_dynasty",
+      "british_paramountcy": {
+        "start": 1799,
+        "end": 1947
+      },
+      "longest_reign": 548
+    },
+    {
+      "id": "hyder-tipu",
+      "name": "Hyder Ali and Tipu Sultan",
+      "region": "Deccan & West",
+      "area": "Mysore",
+      "periods": [
+        {
+          "start": 1761,
+          "end": 1799
+        }
+      ],
+      "sources": [
+        "wiki-hyder-tipu"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Mysore",
+      "longest_reign": 38
+    },
+    {
+      "id": "nayak-madurai",
+      "name": "Nayaks · Madurai",
+      "region": "South & East coast",
+      "area": "Southern Tamil region",
+      "periods": [
+        {
+          "start": 1529,
+          "end": 1736
+        }
+      ],
+      "sources": [
+        "wiki-nayak-madurai"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty",
+      "longest_reign": 207
+    },
+    {
+      "id": "nayak-thanjavur",
+      "name": "Nayaks · Thanjavur",
+      "region": "South & East coast",
+      "area": "Kaveri delta, Tamil region",
+      "periods": [
+        {
+          "start": 1532,
+          "end": 1673
+        }
+      ],
+      "sources": [
+        "wiki-nayak-thanjavur"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom",
+      "longest_reign": 141
+    },
+    {
+      "id": "maratha-thanjavur",
+      "name": "Bhonsle · Thanjavur",
+      "region": "South & East coast",
+      "area": "Thanjavur",
+      "periods": [
+        {
+          "start": 1674,
+          "end": 1855
+        }
+      ],
+      "sources": [
+        "wiki-maratha-thanjavur"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Thanjavur_Maratha_kingdom",
+      "longest_reign": 181
+    },
+    {
+      "id": "early-chera",
+      "name": "Chera · early phase",
+      "region": "South & East coast",
+      "area": "Kerala and western Tamil region",
+      "periods": [
+        {
+          "start": -300,
+          "end": 300
+        }
+      ],
+      "sources": [
+        "wiki-early-chera"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chera_dynasty",
+      "longest_reign": 599
+    },
+    {
+      "id": "chera-perumal",
+      "name": "Chera Perumals",
+      "region": "South & East coast",
+      "area": "Mahodayapuram, Kerala",
+      "periods": [
+        {
+          "start": 844,
+          "end": 1124
+        }
+      ],
+      "sources": [
+        "wiki-chera-perumal"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Chera_Perumals_of_Makotai",
+      "longest_reign": 280
+    },
+    {
+      "id": "early-chola",
+      "name": "Chola · early phase",
+      "region": "South & East coast",
+      "area": "Tamil region",
+      "periods": [
+        {
+          "start": -300,
+          "end": 300
+        }
+      ],
+      "sources": [
+        "wiki-early-chola"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Early_Cholas",
+      "longest_reign": 599
+    },
+    {
+      "id": "early-pandya",
+      "name": "Pandya · ancient phase",
+      "region": "South & East coast",
+      "area": "Madurai and southern Tamil region",
+      "periods": [
+        {
+          "start": -300,
+          "end": 300
+        }
+      ],
+      "sources": [
+        "wiki-early-pandya"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Early_Pandyan_Society",
+      "longest_reign": 599
+    },
+    {
+      "id": "later-pandya",
+      "name": "Pandya · later imperial phase",
+      "region": "South & East coast",
+      "area": "Southern Tamil region",
+      "periods": [
+        {
+          "start": 1216,
+          "end": 1345
+        }
+      ],
+      "sources": [
+        "wiki-later-pandya"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+      "longest_reign": 129
+    },
+    {
+      "id": "kalabhra",
+      "name": "Kalabhra",
+      "region": "South & East coast",
+      "area": "Tamil region",
+      "periods": [
+        {
+          "start": 250,
+          "end": 600
+        }
+      ],
+      "sources": [
+        "wiki-kalabhra"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kalabhra_dynasty",
+      "longest_reign": 350
+    },
+    {
+      "id": "travancore",
+      "name": "Travancore",
+      "region": "South & East coast",
+      "area": "Southern Kerala and Kanyakumari",
+      "periods": [
+        {
+          "start": 1729,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-travancore",
+        "travancore-official"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Travancore",
+      "british_paramountcy": {
+        "start": 1795,
+        "end": 1947
+      },
+      "longest_reign": 218
+    },
+    {
+      "id": "cochin",
+      "name": "Perumpadappu · Cochin",
+      "region": "South & East coast",
+      "area": "Central Kerala",
+      "periods": [
+        {
+          "start": 1102,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-cochin"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Cochin",
+      "british_paramountcy": {
+        "start": 1795,
+        "end": 1947
+      },
+      "longest_reign": 845
+    },
+    {
+      "id": "zamorin",
+      "name": "Zamorin · Calicut",
+      "region": "South & East coast",
+      "area": "Kozhikode and Malabar coast",
+      "periods": [
+        {
+          "start": 1124,
+          "end": 1766
+        }
+      ],
+      "sources": [
+        "wiki-zamorin"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Zamorin",
+      "longest_reign": 642
+    },
+    {
+      "id": "kolathunadu",
+      "name": "Kolathiri · Kolathunadu",
+      "region": "South & East coast",
+      "area": "Northern Malabar",
+      "periods": [
+        {
+          "start": 1100,
+          "end": 1766
+        }
+      ],
+      "sources": [
+        "wiki-kolathunadu"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Kolathunadu",
+      "longest_reign": 666
+    },
+    {
+      "id": "venad",
+      "name": "Venad",
+      "region": "South & East coast",
+      "area": "Kollam and southern Kerala",
+      "periods": [
+        {
+          "start": 1102,
+          "end": 1729
+        }
+      ],
+      "sources": [
+        "wiki-venad"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Venad",
+      "longest_reign": 627
+    },
+    {
+      "id": "licchavi-nepal",
+      "name": "Licchavi · Nepal",
+      "region": "Nepal & Bhutan",
+      "area": "Kathmandu valley",
+      "periods": [
+        {
+          "start": 400,
+          "end": 879
+        }
+      ],
+      "sources": [
+        "wiki-licchavi-nepal"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Licchavis_of_Nepal",
+      "longest_reign": 479
+    },
+    {
+      "id": "malla-nepal",
+      "name": "Malla · Nepal",
+      "region": "Nepal & Bhutan",
+      "area": "Kathmandu valley, later divided kingdoms",
+      "periods": [
+        {
+          "start": 1201,
+          "end": 1769
+        }
+      ],
+      "sources": [
+        "wiki-malla-nepal"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Malla_dynasty_(Nepal)",
+      "longest_reign": 568
+    },
+    {
+      "id": "shah-nepal",
+      "name": "Shah · Gorkha and Nepal",
+      "region": "Nepal & Bhutan",
+      "area": "Gorkha and later Nepal",
+      "periods": [
+        {
+          "start": 1559,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-shah-nepal"
+      ],
+      "note": "Royal authority and the hereditary prime ministership overlapped. Their bars do not represent two separate, exclusive territories.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Shah_dynasty",
+      "longest_reign": 388
+    },
+    {
+      "id": "rana-nepal",
+      "name": "Rana · hereditary prime ministers",
+      "region": "Nepal & Bhutan",
+      "area": "Nepal",
+      "periods": [
+        {
+          "start": 1846,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-rana-nepal"
+      ],
+      "note": "Royal authority and the hereditary prime ministership overlapped. Their bars do not represent two separate, exclusive territories.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Rana_dynasty",
+      "longest_reign": 101
+    },
+    {
+      "id": "drukpa",
+      "name": "Drukpa · dual government",
+      "region": "Nepal & Bhutan",
+      "area": "Bhutan",
+      "periods": [
+        {
+          "start": 1616,
+          "end": 1907
+        }
+      ],
+      "sources": [
+        "wiki-drukpa"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/History_of_Bhutan",
+      "longest_reign": 291
+    },
+    {
+      "id": "wangchuck",
+      "name": "Wangchuck · Bhutan",
+      "region": "Nepal & Bhutan",
+      "area": "Bhutan",
+      "periods": [
+        {
+          "start": 1907,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-wangchuck"
+      ],
+      "note": "Regional chronology. Dates are approximate phase anchors; they do not imply uniform control of every locality throughout the interval.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Wangchuck_dynasty",
+      "longest_reign": 40
+    },
+    {
+      "id": "mewar",
+      "name": "Guhila / Sisodia · Mewar",
+      "region": "North & Gangetic plain",
+      "area": "Mewar, Rajasthan",
+      "periods": [
+        {
+          "start": 728,
+          "end": 1303
+        },
+        {
+          "start": 1326,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-mewar"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Mewar",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 621
+    },
+    {
+      "id": "marwar",
+      "name": "Rathore · Marwar",
+      "region": "North & Gangetic plain",
+      "area": "Jodhpur and Marwar",
+      "periods": [
+        {
+          "start": 1226,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-marwar"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jodhpur_State",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 721
+    },
+    {
+      "id": "jaipur",
+      "name": "Kachwaha · Jaipur / Amber",
+      "region": "North & Gangetic plain",
+      "area": "Dhundhar, Rajasthan",
+      "periods": [
+        {
+          "start": 1028,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-jaipur"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jaipur_State",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 919
+    },
+    {
+      "id": "bikaner",
+      "name": "Rathore · Bikaner",
+      "region": "North & Gangetic plain",
+      "area": "Northern Rajasthan",
+      "periods": [
+        {
+          "start": 1465,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-bikaner"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bikaner_State",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 482
+    },
+    {
+      "id": "jaisalmer",
+      "name": "Bhati · Jaisalmer",
+      "region": "North & Gangetic plain",
+      "area": "Western Rajasthan",
+      "periods": [
+        {
+          "start": 1156,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-jaisalmer"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Jaisalmer_State",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 791
+    },
+    {
+      "id": "scindia",
+      "name": "Scindia · Gwalior",
+      "region": "North & Gangetic plain",
+      "area": "Gwalior and central India",
+      "periods": [
+        {
+          "start": 1731,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-scindia"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Scindia_dynasty",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 216
+    },
+    {
+      "id": "holkar",
+      "name": "Holkar · Indore",
+      "region": "Deccan & West",
+      "area": "Indore and Malwa",
+      "periods": [
+        {
+          "start": 1731,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-holkar"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Holkar",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 216
+    },
+    {
+      "id": "gaekwad",
+      "name": "Gaekwad · Baroda",
+      "region": "Deccan & West",
+      "area": "Baroda, Gujarat",
+      "periods": [
+        {
+          "start": 1721,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-gaekwad"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Gaekwad_dynasty",
+      "british_paramountcy": {
+        "start": 1802,
+        "end": 1947
+      },
+      "longest_reign": 226
+    },
+    {
+      "id": "nagpur",
+      "name": "Bhonsle · Nagpur",
+      "region": "Deccan & West",
+      "area": "Nagpur and central India",
+      "periods": [
+        {
+          "start": 1739,
+          "end": 1853
+        }
+      ],
+      "sources": [
+        "wiki-nagpur"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Nagpur_kingdom",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 114
+    },
+    {
+      "id": "bhopal",
+      "name": "Nawabs · Bhopal",
+      "region": "North & Gangetic plain",
+      "area": "Bhopal",
+      "periods": [
+        {
+          "start": 1707,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-bhopal"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bhopal_State",
+      "british_paramountcy": {
+        "start": 1818,
+        "end": 1947
+      },
+      "longest_reign": 240
+    },
+    {
+      "id": "patiala",
+      "name": "Phulkian · Patiala",
+      "region": "Northwest & Indus",
+      "area": "Punjab",
+      "periods": [
+        {
+          "start": 1762,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-patiala"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Patiala_State",
+      "british_paramountcy": {
+        "start": 1809,
+        "end": 1947
+      },
+      "longest_reign": 185
+    },
+    {
+      "id": "bahawalpur",
+      "name": "Abbasi · Bahawalpur",
+      "region": "Northwest & Indus",
+      "area": "Southern Punjab",
+      "periods": [
+        {
+          "start": 1748,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-bahawalpur"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bahawalpur_(princely_state)",
+      "british_paramountcy": {
+        "start": 1833,
+        "end": 1947
+      },
+      "longest_reign": 199
+    },
+    {
+      "id": "kutch",
+      "name": "Jadeja · Kutch",
+      "region": "Deccan & West",
+      "area": "Kutch, Gujarat",
+      "periods": [
+        {
+          "start": 1147,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-kutch"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Cutch_State",
+      "british_paramountcy": {
+        "start": 1819,
+        "end": 1947
+      },
+      "longest_reign": 800
+    },
+    {
+      "id": "junagadh",
+      "name": "Babi · Junagadh",
+      "region": "Deccan & West",
+      "area": "Saurashtra, Gujarat",
+      "periods": [
+        {
+          "start": 1730,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-junagadh"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Junagadh_State",
+      "british_paramountcy": {
+        "start": 1807,
+        "end": 1947
+      },
+      "longest_reign": 217
+    },
+    {
+      "id": "manipur",
+      "name": "Ningthouja · Manipur, documented phase",
+      "region": "Bengal & Northeast",
+      "area": "Manipur valley and adjoining hills",
+      "periods": [
+        {
+          "start": 1467,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-manipur"
+      ],
+      "note": "Begins with the documented reign of Kyamba in 1467. Earlier traditional royal genealogies are not used for the start of this plotted phase.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Manipur_Kingdom",
+      "british_paramountcy": {
+        "start": 1891,
+        "end": 1947
+      },
+      "longest_reign": 480
+    },
+    {
+      "id": "bastar",
+      "name": "Kakatiya · Bastar",
+      "region": "Deccan & West",
+      "area": "Bastar, Chhattisgarh",
+      "periods": [
+        {
+          "start": 1324,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-bastar"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Bastar_State",
+      "british_paramountcy": {
+        "start": 1853,
+        "end": 1947
+      },
+      "longest_reign": 623
+    },
+    {
+      "id": "garha",
+      "name": "Gond · Garha",
+      "region": "North & Gangetic plain",
+      "area": "Garha-Mandla, central India",
+      "periods": [
+        {
+          "start": 1440,
+          "end": 1781
+        }
+      ],
+      "sources": [
+        "wiki-garha"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Garha_Kingdom",
+      "longest_reign": 341
+    },
+    {
+      "id": "portuguese",
+      "name": "Portuguese India",
+      "region": "Other colonial rule",
+      "area": "Goa, Daman, Diu and changing coastal possessions",
+      "periods": [
+        {
+          "start": 1505,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-portuguese"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Portuguese_India",
+      "longest_reign": 442
+    },
+    {
+      "id": "french",
+      "name": "French India",
+      "region": "Other colonial rule",
+      "area": "Pondicherry and other settlements",
+      "periods": [
+        {
+          "start": 1674,
+          "end": 1947
+        }
+      ],
+      "sources": [
+        "wiki-french"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/French_India",
+      "longest_reign": 273
+    },
+    {
+      "id": "dutch",
+      "name": "Dutch India",
+      "region": "Other colonial rule",
+      "area": "Coastal settlements, including Malabar",
+      "periods": [
+        {
+          "start": 1605,
+          "end": 1825
+        }
+      ],
+      "sources": [
+        "wiki-dutch"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Dutch_India",
+      "longest_reign": 220
+    },
+    {
+      "id": "danish",
+      "name": "Danish India",
+      "region": "Other colonial rule",
+      "area": "Tranquebar, Serampore and settlements",
+      "periods": [
+        {
+          "start": 1620,
+          "end": 1845
+        }
+      ],
+      "sources": [
+        "wiki-danish"
+      ],
+      "note": "Regional state. Dates are approximate phase anchors and include changing autonomy or subordinate status. The 1947 endpoint is the display cutoff.",
+      "approximate": true,
+      "wikipedia": "https://en.wikipedia.org/wiki/Danish_India",
+      "longest_reign": 225
+    }
+  ]
+}

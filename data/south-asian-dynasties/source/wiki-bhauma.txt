@@ -1,0 +1,295 @@
+Bhauma-Kara dynasty - Wikipedia (https://en.wikipedia.org/wiki/Bhauma-Kara_dynasty)
+citeturn66view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Bhauma-Kara_dynasty","lineno":null}); Total lines: 465
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Origin】
+L49:   * 【19†2 History】 Toggle History subsection
+L50:     * 【20†2.1 Early rulers】
+L51:     * 【21†2.2 Pala and Rashtrakuta invasions】
+L52:     * 【22†2.3 Internal strife】
+L53:   * 【23†3 Territory】
+L54:   * 【24†4 Religion】 Toggle Religion subsection
+L55:     * 【25†4.1 Buddhism】
+L56:     * 【26†4.2 Brahmanism】
+L57:   * 【27†5 List of rulers】
+L58:   * 【28†6 Inscriptions】 Toggle Inscriptions subsection
+L59:     * 【29†6.1 Issued by the Bhauma-Kara family】
+L60:     * 【30†6.2 Issued by the Bhauma-Kara feudatories】
+L61:   * 【31†7 Architecture】
+L62:   * 【32†8 References】 Toggle References subsection
+L63:     * 【33†8.1 Bibliography】
+L64:   * 【34†9 External links】
+L65: [Input] Toggle the table of contents
+L66: # Bhauma-Kara dynasty
+L67: 
+L68: [Input] 2 languages
+L69: 
+L70:   * 【35†हिन्दी†hi.wikipedia.org】
+L71:   * 【36†தமிழ்†ta.wikipedia.org】
+L72: 
+L73: 【37†Edit links†www.wikidata.org】
+L74: 
+L75:   * 【38†Article】
+L76:   * 【39†Talk】
+L77: 
+L78: [Input] English
+L79: 
+L80:   * 【38†Read】
+L81:   * 【40†Edit】
+L82:   * 【41†View history】
+L83:   * 【17†Save】
+L84: 
+L85: [Input] Tools
+L86: 
+L87: Tools
+L88: 
+L89: [Button: move to sidebar] [Button: hide]
+L90: 
+L91: Actions
+L92: 
+L93:   * 【38†Read】
+L94:   * 【40†Edit】
+L95:   * 【41†View history】
+L96:   * 【17†Save】
+L97: 
+L98: General
+L99:   * 【42†What links here】
+L100:   * 【43†Related changes】
+L101:   * 【44†Upload file】
+L102:   * 【45†Permanent link】
+L103:   * 【46†Page information】
+L104:   * 【47†Cite this page】
+L105:   * 【48†Get shortened URL】
+L106:   * 【49†Switch to legacy parser】
+L107: 
+L108: Print/export
+L109: 
+L110:   * 【50†Download as PDF】
+L111:   * Printable version
+L112: 
+L113: In other projects
+L114: 
+L115:   * 【51†Wikidata item†www.wikidata.org】
+L116: 
+L117: Appearance
+L118: 
+L119: [Button: move to sidebar] [Button: hide]
+L120: Bhauma-Kara dynasty
+L121: ---
+L122: c. 8th century CE–c. 10th century CE
+L123: Capital  | Guhadevapataka (or Guheshvarapataka), modern Gohiratikar in 【52†Jajpur district】
+L124: Common languages  | 【53†Sanskrit】 (Religious and Official)
+L125: Odra-【54†Prakrit】 (Court)
+L126: Religion  | 【55†Hinduism】
+L127: 【56†Buddhism】
+L128: Government  | Monarchy
+L129: 【57†Maharajadhiraja】^{【58†[1]】}  |
+L130: • 736 - 756  | Kshemankara-deva ( founder)
+L131: • 756 - 790  | 【59†Sivakara Deva I】 (greatest extent)
+L132: • 845-850  | 【60†Tribhuvana Mahadevi I】
+L133: • 940 - 950  | 【61†Dharma Mahadevi】 (last ruler)
+L134: Historical era  | 【62†Classical India】
+L135: • Established  | c. 8th century CE
+L136: • Disestablished  | c. 10th century CE
+L137: Preceded by Succeeded by
+L138: 【63†Image†upload.wikimedia.org】 【64†Shailodbhava dynasty】
+L139: 【65†Somavamshi dynasty】 【63†Image†upload.wikimedia.org】
+L140: 【66†Bhanja dynasty】 【63†Image†upload.wikimedia.org】
+L141: The Bhauma dynasty, also known as Kara dynasty, ruled in eastern India between 8th and 10th centuries. Their kingdom, called Toshala (IAST: Toṣala), included parts of present-day 【67†Odisha】.
+L142: Baitāḷa deuḷa or Vaitāḷa deuḷa (Odia: ବଇତାଳ ଦେଉଳ) is an 8th-century Hindu temple of the typical Khakara style of the Kalinga architecture dedicated to Goddess Chamunda located in Bhubaneswar, the capital city of Odisha, India. It is also locally known as Tini-mundia deula due to the three spires on top of it, a very distinct and unusual feature. The three spires are believed to represent the three powers of the goddess Chamunda - Mahasaraswati, Mahalakshmi and Mahakali.
+L143: By the last quarter of the 8th century, the Bhauma-Karas had gained control of the former 【64†Shailodbhava】 territory. The early rulers of the dynasties followed 【56†Buddhism】, and its later rulers followed 【68†Shaivism】 and 【69†Vaishnavism】. The 【70†dynasty】, whose rulers included seven women, was supplanted by the 【66†Bhanjas】 and the 【65†Somavamshis】 in the 10th century.
+L144: ## Origin
+L145: 
+L146: [【71†edit】]
+L147: 
+L148: The origin of the Bhauma-Kara family is not certain.^{【72†[2]】} The earliest records of the dynasty name their family as "Bhauma". "Kara" is first mentioned as a dynastic name in an inscription of the dynasty's sixth king, Shubhakara II. The names of all the male kings ended in "-kara", which may explain the usage of "Kara" as a family name.^{【73†[3]】}
+L149: Some scholars, such as Binayak Misra and 【74†R. C. Majumdar】, argued that the dynasty was associated with a tribe called Bhauma, whose members originally lived on the 【75†Mahendra mountain】. This theory is based on the occurrence of the phrase "Mahendra Bhauma" in a manuscript of 【76†Vishnu Purana】.^{【77†[4]】} The text also associates the Bhauma tribe with a king called Guha, which according to Misra, explains the name of dynasty's capital – Guhadevapataka (or Guheshvarapataka).
+L150: Critics of this theory point out that the term "Mahendra Bhauma" occurs in only one manuscript of Vishnu Purana, and its meaning is not clear.^{【78†[5]】} Moreover, the 【79†Vayu Purana】 suggests that king Guha lived in the 4th century, while the Bhauma-Kara rule started in the 8th century: the gap between the two cannot be explained satisfactorily.
+L151: Finally, if the Bhauma-Karas were really descended from a reputed legendary king like Guha, they would not have failed to mention this king as their ancestor in their records.^{【80†[6]】}
+L152: Misra also believed that the Bhauma tribe was connected with the ancient "【81†Utkala】 race", because the Chaurasi copper-plate inscription of king Shivakara II states that he belonged to the "Bhauma lineage of the Utkala family". However, according to Biswarup Das, "Utkala" here is a geographic designation indicating the family's contemporary residence.^{【82†[7]】}
+L153: One theory connects the Bhauma-Karas with the 【83†Bhumij】 tribe.^{【84†[8]】} N. K. Sahu and some other scholars connected the Bhauma-Karas to the Bhuyan tribe of northern Odisha or the 【85†Bhuyan aristocrats】. This theory is based on the similarity of the words "Bhuyan" and "Bhauma". However, this evidence is not strong, as several similar-sounding words are derived from the Sanskrit word bhu (land).
+L154: Another point cited in support of this theory is the fact that among some Bhuyan aristocratic families, the eldest son was named after his grandfather. This also appears to be true for the Bhauma-Kara kings. However, in these Bhuyan families, the second son was named after the great-grandfather, a tradition not followed in the Bhauma-Kara family. Moreover, there is no evidence that the ancestors of the Bhuyans ruled any area before the 10th century.^{【86†[9]】}
+L155: Yet another theory connects the family to the legendary 【87†Bhauma dynasty】 of 【88†Pragjyotisha】 (modern 【89†Assam】). According to some ancient texts, the Bhaumas of Pragjyotisha descended from 【90†Naraka】 (alias Bhauma), who was a son of the god 【91†Vishnu】.
+L156: Similarly, the 15th century writer 【92†Sarala Dasa】, in his 【93†Odia language】 version of 【94†Mahabharata】, states that "Vishnukara" was the founder of the Kara family.^{【95†[10]】} According to this theory, the Bhauma-Karas originally served as feudatories to the 【96†Mlechchha】 ruler Harsha, who may have captured a part of Odisha.^{【97†[11]】} However, this theory is not supported by any concrete evidence either.^{【98†[12]】}
+L157: Baital Deul (front), Bubanaswar (Bhubaneswar) by James Fergusson 1850–1886
+L158: 
+L159: Baital Deul (back), Bubanaswar by James Fergusson 1850–1886
+L160: ## History
+L161: 
+L162: [【99†edit】]
+L163: ### Early rulers
+L164: 
+L165: [【100†edit】]
+L166: The Bhauma-Kara inscriptions are dated in the years of an unspecified 【101†calendar era】, simply called samvat (【53†Sanskrit】 for calendar era).^{【102†[13]】} Historian 【103†Krishna Chandra Panigrahi】 believed that this era begins from year 736 【104†CE】, and marks the beginning of the Bhauma-Kara rule.^{【72†[2]】} However, 【105†Dineshchandra Sircar】 dated the beginning of this era to 831 CE, based on his analysis of the astronomical data in the 【106†Dashapalla】 inscription of the Bhauma-Kara feudatory Shatrubhanja II.
+L167: 【107†Richard G. Salomon】 calls Sircar's suggestion as most convincing, although he notes that it is not conclusive.^{【108†[14]】}
+L168: The earlier Bhauma-Kara kings appear to have ruled the northern 【109†Toshali】 area, contemporaneously with the 【110†Shailodbhavas】, who ruled the southern Kongoda region.^{【111†[15]】} The dynasty probably ruled most of the coastal Odisha by the time of king 【59†Shivakara I】 (c. 756 or 786).^{【84†[8]】} According to the Ganjam inscription of the Shvetaka Ganga king Jayavarmadeva, Shivakara I conquered Kongoda and the northern part of 【112†Kalinga】.
+L169: The Talcher inscription of his descendant Shivakara III states that he defeated the king of 【113†Rāḍha】 (in present-day 【114†West Bengal】), and married the daughter of the defeated king.^{【111†[15]】}
+L170: ### Pala and Rashtrakuta invasions
+L171: 
+L172: [【115†edit】]
+L173: 
+L174: Shubhakara I (c. 790), according to his 【116†Neulpur】 inscription, crushed a revolt by his relatives, who had claimed the throne.^{【117†[16]】} Between 790 and 829, during the reigns of Shubhakara I and his elder son Shivakara II, a series of 【118†Rashtrakuta】 and 【119†Pala】 invasions weakened and disintegrated the Bhauma kingdom.^{【84†[8]】}^{【117†[16]】}
+L175: Shantikara I, the younger son of Shubhakara I, married 【60†Tribhuvana-Mahadevi I】, a daughter of the 【120†Western Ganga】 king Rajamalla. The 【121†Dhenkanal】 inscription of Tribhuvana-Mahadevi I (c.
+L176: 846) suggests that the Bhauma-Kara kingdom was in a bad shape before her father Rajmalla put an end to the Rashtrakuta-Pala domination.^{【117†[16]】} She reunified the kingdom, but the family probably never regained its former power.^{【84†[8]】} Her Talcher inscription suggests that she abdicated the throne when her grandson Shantikara II became an adult.^{【122†[17]】}
+L177: ### Internal strife
+L178: 
+L179: [【123†edit】]
+L180: 
+L181: The Bhauma-Kara family appears to have suffered from internal strifes starting around c. 880, which gradually led to its downfall. The reign of Shubhakara IV, the dynasty's first known 【124†Shaivite】 king, lasted for less than five years (c. 881–884). He was succeeded by his brother Shivakara III, whose reign lasted for around nine years.^{【84†[8]】}
+L182: The next ruler was Tribhuvana-Mahadevi II (c.
+L183: 894), who was the queen of Shubhakara IV.^{【84†[8]】} Her inscriptions falsely claim that Shivakara III died heirless, a deliberate attempt to ignore the claims of her nephews to the throne.^{【125†[18]】} Most modern scholars believe that she acquired the throne with the help of her father Janmejaya I, who was a ruler of the neighbouring 【65†Somavamshi dynasty】.^{【126†[19]】} A 【127†Brahmeswara Temple】 inscription suggests that Janmejaya killed the king of the 【128†Odra】 country.
+L184: Panigrahi identified the slain king as Shivakara III, but other historians identify him as a rebel Bhanja vassal of Janmejaya.^{【129†[20]】} The reign of Tribhuvana-Mahadevi II was probably very short, as her ascension may have been disputed by the court factions.^{【126†[19]】} The records of the later Bhauma-Kara kings do not mention her reign, which suggests that she was not recognized as a legitimate ruler by the sons of Shivakara III, who probably set up parallel governments.^{【125†[18]】}
+L185: At least five rulers claimed the Bhauma-Kara throne during 894–923, which suggests that the kingdom had become unstable. Tribhuvana-Mahadevi II was succeeded by two of her nephews Shantikara III and Shubhakara V. Subsequently, Gauri-Mahadevi, the queen of Shubhakara V, controlled the kingdom, probably as a regent for their young daughter Dandi-Mahadevi. After Dandi (c.
+L186: 916 or 923), her step-mother Vakula-Mahadevi (another queen of Shubhakara V) ascended the throne.^{【130†[21]】} Vakula's paternal family may have helped her dethrone Dandi.^{【125†[18]】} Her rule was followed by Dharma-Mahadevi, a queen of Shantikara III.^{【126†[19]】} These queens assumed the imperial titles Parama-Maheshvari, Parama- Bhattarika, Maharajadhiraja, and Parameshvari.^{【130†[21]】}
+L187: It appears that the neighbouring Somavamshi and Bhanja dynasties attempted to take over the Bhauma-Kara kingdom, leading to dissensions and political intrigues. According to historian 【103†Krishna Chandra Panigrahi】, the Bhanjas of Khinjali married two of their princesses (Vakula and Dharma) into the Bhauma-Kara family, and later controlled the Bhauma-Kara throne through them. The Bhauma-Kara territory ultimately came under the control of the Somavamshis.^{【126†[19]】}
+L188: ## Territory
+L189: 
+L190: [【131†edit】]
+L191: 
+L192: 【132†Find spots】 of the inscriptions issued by the Bhauma-Kara royals (blue) and their feudatories (gray)
+L193: The Bhauma-Kara kingdom was called Toshala, a name believed to be derived from 【109†Toshali】, the ancient capital of 【112†Kalinga】. Their land grant inscriptions suggest that in its palmy days^{【133†[22]】} their kingdom included a major part of 【67†Odisha】, as well as the 【134†Midnapore district】 of 【114†West Bengal】.
+L194: A part of this territory was administered by their semi-autonomous feudatories.^{【135†[23]】} These feudatories included the Gangas of Shvetaka, the Shulkis of Kodalaka, the Tungas of Yamagartta, the Nandodbhavas of Jayapura, and the Bhanjas (of Khigingakotta, Khinjali, and Vajulvaka).^{【136†[24]】}
+L195: The Bhauma-Kara period saw the beginning of the unification of historically distinct regions such as Odra, Toshala, Kongoda and Utkala.^{【137†[25]】} The kingdom was divided into administrative units called the mandalas (revenue divisions), 【138†vishaya】s (districts), khandas (sub-divisions), and villages (Patakas, Patikas and gramas).^{【139†[26]】}
+L196: Their capital was located at Guhadevapataka (or Guheshvarapataka), identified with modern Gohiratikar (or Gohiratikra) in 【52†Jajpur district】.^{【111†[15]】}^{【136†[24]】} This was either a new name for the city that was earlier called Viraja, or was a new city built in the vicinity of ancient Viraja.^{【140†[27]】} The later Somavamshi rulers moved their capital from Yayatinagara (modern 【141†Binka】) to Guheshvarapataka, and renamed the city Abhinava-Yayatinagara ("the new city of Yayati").^{【140†[27]】}
+L197: ## Religion
+L198: 
+L199: [【142†edit】]
+L200: 
+L201: A sculpture at the 【143†Vaitala Deula】 temple
+L202: The Bhauma-Kara kings were tolerant towards Buddhism as well as Shaivism. Shubhakara I, a Buddhist, married Madhava-devi, who was a 【124†Shaivite】. Shubhakara III, also a Buddhist, granted a portion of the Noddilo village to the Pulindeshvara shrine dedicated to Vaidyanatha-bhattaraka (an aspect of 【144†Shiva】), as attested by his 【145†Hindol】 inscription. Shivakara III, a Shaivite, granted two villages to a Buddhist temple in Jayashrama-【146†vihara】.
+L203: According to the 【121†Dhenkanal】 inscription of Tribhuvana-Mahadevi I, her predecessors Shivakara I and Shantikara I "exhausted treasures of their vast empire on religious works in order to enlighten their country and others", and constructed several 【147†mathas】, monasteries and temples.^{【117†[16]】}
+L204: ### Buddhism
+L205: 
+L206: [【148†edit】]
+L207: 
+L208: Main article: 【149†Pushpagiri Vihara】
+L209: Sculpture of the Buddha at one of the monasteries of Lalitagiri. It (also known as Naltigiri) is a major Buddhist complex in Odisha, comprising major stupas, 'esoteric' Buddha images, and monasteries (viharas), one of the oldest sites in the region. Together with the Ratnagiri and Udayagiri sites, Lalitagiri is part of Puspagiri University located on top of hills of the same names.
+L210: Lalitagiri is a major center of Buddhism hemmed between the Parabhadi and Landa sandstone hills in the standalone Asian hill range. The three complexes are known as the "Diamond Triangle". Significant finds at this complex include Buddha's relics. Tantric Buddhism was practiced at this site.
+L211: The first three kings of the dynasty - Keshmankara, Shivakara I (alias Unmattasimha) and Shubhakara I were 【56†Buddhists】.^{【84†[8]】} At least two of their successors - Shivakara II and Shubhakara III - were also Buddhists.^{【117†[16]】} The Bhauma-Kara patronage played an important role in the growth of 【150†Ratnagiri】 as a major Buddhist centre.^{【151†[28]】} The Bhauma-Kara territory also included other important Buddhist sites of 【152†Lalitagiri】, 【149†Pushpagiri】, and 【153†Udayagiri】.
+L212: Their rule saw a gradual shift from 【154†Mahayana】 to 【155†Vajrayana】 in the region.^{【137†[25]】}
+L213: According to the Chinese records, 【156†Shubhakara-simha】, a former king of 【128†Odra】, arrived at the 【157†Tang】 capital in 716, at the invitation of emperor 【158†Xuanzong】. He bought several Buddhist texts with him, and helped popularize Vajrayana in China.^{【111†[15]】} This Shubhakara-simha may have been an ancestor of the Bhauma-Kara kings.^{【159†[29]】}^{【160†[30]】}
+L214: The Chinese records also state that, in 795, the 【157†Tang】 emperor 【161†Dezong】 received an autographed manuscript as a gift from the king of the Odra country. The manuscript contained the last section of the Buddhist texts 【162†Avatamsaka Sutra】 and the 【163†Gandavyuha Sutra】. The Indian king can be identified as either 【59†Shivakara I】 or his son Shubhakara I, who ruled the Odra region at the time.
+L215: In the 9th century, the Buddhist monk 【164†Prajna】, who had earlier visited several important Buddhist sites including 【165†Nalanda】, settled in a monastery in Odra. This suggests the Buddhist monasteries of Odra had become reputed throughout the Buddhist world by this time.^{【111†[15]】}
+L216: According to the Baudh inscription of Tribhuvana-Mahadevi II, Shubhakara I (c. 790) constructed lofty stone 【146†viharas】. During his reign, the Buddhist leader dedicated an image of 【166†Padmapani】, as attested by an inscription on the image. According to a 【167†Dhauli】 cave inscription, Bhimata and Bhatta Loyamaka constructed a monastery named Arghyaka Varatika in the Bhauma year 93 (c. 829), during the reign of Shantikara I.
+L217: Another inscription of Bhimata, who was the son of a famous physician, has been found at the Ganeshagumpha cave in 【168†Udayagiri】.^{【117†[16]】}
+L218:   * 【150†Ratnagiri, Odisha】
+L219: 
+L220:   * 【152†Lalitgiri】
+L221: 
+L222:   * 【153†Udayagiri】
+L223: 
+L224:   * 【149†Pushpagiri】
+L225: ### Brahmanism
+L226: 
+L227: [【169†edit】]
+L228: 
+L229: Vaitala-Deula temple Lord Surya, the Indian Hindu Son God depicted on his chariot drawn by seven horses at Barahi Deula or Varahi Temple.
+L230: The later part of the Bhaumakara rule marked the revival of 【170†Brahmanism】 in Odisha, which may have resulted from the royal attempts to curb the unconventional activities being carried out in name of Tantric Buddhism (Vajrayana).^{【171†[31]】} Madhava-devi, the queen of Shubhakara I constructed a temple dedicated to Madhaveshvara (【144†Shiva】), and appointed a Shaivite 【172†acharya】 (religious leader) for conducting worship.^{【84†[8]】}
+L231: Queen 【60†Tribhuvana-Mahadevi I】 (c. 846), whose father appears to have played an important role in evicting the Rashtrakuta and Pala invaders from the kingdom, was a 【173†Vaishnavite】.^{【117†[16]】}
+L232: 
+L233: Varahi Temple is an ancient 9th century built temple situated on the eastern coast of Orissa in Puri district.
+L234: The tenth king Shubhakara IV (c. 881) is the earliest known Bhauma-Kara ruler to have called himself a devotee of Shiva (Parama-Maheshvara). The subsequent rulers of the family were all Shaivites. Nearly all the temples constructed by the family were Shiva shrines, the only exception being the 【143†Vaitala Deula】 temple dedicated to the goddess 【174†Chamunda】.^{【84†[8]】}
+L235: ## List of rulers
+L236: 
+L237: [【175†edit】]
+L238: 
+L239: The Bhauma-Kara rulers are known from their copper-plate inscriptions, which are dated in their own 【101†calendar era】, as well as in the regnal years of the issuing rulers. These dates are further corroborated by records of other dynasties, such as the Somavamshis. The following is a list of Bhauma rulers, with approximately regnal dates (in 【104†CE】), assuming 736 CE as the start of the Bhauma-Kara calendar era.^{【176†[32]】}^{【177†[33]】}^{【178†[34]】}
+L240: Name (【179†IAST】 in bracket)  | Known dates  | Spouse  | Note
+L241: --- | --- | --- | ---
+L242: Kshemankara-deva (Kṣemaṃkaradeva) a.k.a. (also known as) Lakshmikara  | c. 736  | Vatsa-devi  |
+L243: 【59†Shivakara-deva I】 (Śivakaradeva) a.k.a. (also known as) Unmattasimha a.k.a. (also known as) Unmattakeshari  | c. 756 or 786  | Jayavali-devi (daughter of king of 【113†Radha】)  | Son of Kshemankara
+L244: Shubhakara-deva I (Śubhākaradeva)  | c. 790?  | Madhava-devi  | Son of Shivakara I
+L245: Shivakara-deva II  | c. 809?  | Mohini-devi  | Son of Shubhakara I
+L246: Shantikara-deva I (Śāntikaradeva) a.k.a. (also known as) Lalitahara I / Lalitabhara a.k.a. (also known as) Gayada I  | c. 810-835  | 【60†Tribhuvana-Mahadevi I】  | Son of Shubhakara I
+L247: Shubhakara-deva II  | c. 836  |  | Son of Shivakara II
+L248: Shubhakara-deva III a.k.a. (also known as) Kusumahara I / Kusumabhara a.k.a. (also known as) Simhaketu  | c. 839  |  | Son of Shantikara I and Tribhuvana-Mahadevi I
+L249: 【60†Tribhuvana-Mahādevī I】  | c. 846  | Shantikara I  | Daughter of 【120†Western Ganga】 king Rajamalla, Mother of Shubhakara III
+L250: Shantikara-deva II a.k.a. (also known as) Lavanabhara I / Lonabhara a.k.a. (also known as) Gayada II  |  | Hira-Mahadevi (daughter of Simhamana)  | Son of Shubhakara III
+L251: Shubhakara-deva IV a.k.a. (also known as) Kusumahara II  | c. 881-884  | 【180†Prithvi-Mahadevi or Tribhuvana-Mahadevi II】  | Son of Shantikara III
+L252: Shivakara-deva III a.k.a. (also known as) Lalitahara II  | c. 885  | 【181†Tribhuvana Mahadevi III】  | Son of Shantikara III
+L253: 【180†Tribhuvana-Mahadevī II】  | c. 890  | Shubhakara IV  | Daughter of Somavamshi king Janmejaya I
+L254: 【181†Tribhuvana-Mahadevī III】  | c. 896  | Shivakara III  |
+L255: Shantikara-deva III (Śāntikaradeva) a.k.a. (also known as) Lavanabhara II / Lonabhara II  |  | 【61†Dharma-Mahadevi】  | Son of Shivakara III, Nephew of Tribhuvana-Mahadevi II
+L256: Shubhakara-deva V  |  | 【182†Gauri-Mahadevi】 and 【183†Vakula-Mahadevi】  | Son of Shivakara III
+L257: 【182†Gaurī-Mahadevī】  |  | Shubhakara V  | Probably a regent for her daughter Dandi
+L258: 【184†Daṇḍi-Mahadevī】  | c. 916 or 923  |  | Daughter of Shubhakara V and Gauri
+L259: 【183†Vakula-Mahadevī】  |  | Shubhakara V  | Daughter of a Bhanja king, Step-mother of Dandi
+L260: 【61†Dharma-Mahadevī】  |  | Shantikara III  |
+L261: ## Inscriptions
+L262: 
+L263: [【185†edit】]
+L264: 
+L265: The following inscriptions of Bhauma-Karas and their feudatories have been discovered:^{【186†[35]】}
+L266: ### Issued by the Bhauma-Kara family
+L267: 
+L268: [【187†edit】]
+L269: Find-spot / Place of issue  | Issuer  | Type
+L270: --- | --- | ---
+L271: Neulpur  | Shubhakara  | Copper-plate
+L272: 【188†Chaurasi】  | Shivakara  | Copper-plate
+L273: Dhanurjayapur  | Shantikara  | Copper-plate
+L274: Terundia  | Shubhakara II  | Copper-plate
+L275: Hindol  | Shubhakara  | Copper-plate
+L276: Dharakota  | Shubhakara  | Copper-plate
+L277: Dhehkanal  | Tribhuvana-Mahadevi  | Copper-plate
+L278: Talcher  | Shubhakara  | Copper-plate
+L279: Talcher  | Shivakara  | Copper-plate
+L280: Boudh  | Tribhuvana-Mahadevi  | Copper-plate
+L281: Ganjam  | Dandi-Mahadevi  | Copper-plate
+L282: Kumurang  | Dandi-Mahadevi  | Copper-plate
+L283: Santiragrama  | Dandi-Mahadevi  | Copper-plate
+L284: Aruala  | Dandi-Mahadevi  | Copper-plate
+L285: Unknown  | Vakula-Mahadevi  | Copper-plate
+L286: Angul  | Dharma-Mahadevi  | Copper-plate
+L287: Taltali  | Dharma-Mahadevi  | Copper-plate
+L288: Khadipada  | Shubhakara  | Stone
+L289: Dhauli Cave  | Shantikara  | Stone
+L290: 【168†Ganesh Gumpha】  | Santikara  | Stone
+L291: Hameseshvara Temple  | Madhava-devi  | Stone
+L292: Chamunda image  | Vatsa-devi  | Stone

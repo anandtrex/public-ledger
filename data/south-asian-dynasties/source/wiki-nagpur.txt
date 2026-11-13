@@ -1,0 +1,335 @@
+Kingdom of Nagpur - Wikipedia (https://en.wikipedia.org/wiki/Nagpur_kingdom)
+citeturn121view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Nagpur_kingdom","lineno":null}); Total lines: 388
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 History】 Toggle History subsection
+L49:     * 【19†1.1 Gond kingdom】
+L50:     * 【20†1.2 Maratha Bhonsle kingdom】
+L51:       * 【21†1.2.1 Raghoji I Bhonsle (1739–1755)】
+L52:       * 【22†1.2.2 Janoji, Madhoji I, and Raghoji II Bhonsle (1755–1816)】
+L53:       * 【23†1.2.3 Mudhoji II Bhonsle (1817–1818)】
+L54:       * 【24†1.2.4 Raghoji III Bhonsle (1818–1853)】
+L55:       * 【25†1.2.5 Aftermath】
+L56:   * 【26†2 Rajas of Nagpur】
+L57:   * 【27†3 Family tree】
+L58:   * 【28†4 Army】 Toggle Army subsection
+L59:     * 【29†4.1 Artillery】
+L60:   * 【30†5 See also】
+L61:   * 【31†6 References】
+L62: [Input] Toggle the table of contents
+L63: # Kingdom of Nagpur
+L64: 
+L65: [Input] 13 languages
+L66: 
+L67:   * 【32†Català†ca.wikipedia.org】
+L68:   * 【33†Deutsch†de.wikipedia.org】
+L69:   * 【34†हिन्दी†hi.wikipedia.org】
+L70:   * 【35†Bahasa Indonesia†id.wikipedia.org】
+L71:   * 【36†Italiano†it.wikipedia.org】
+L72:   * 【37†日本語†ja.wikipedia.org】
+L73:   * 【38†मराठी†mr.wikipedia.org】
+L74:   * 【39†پنجابی†pnb.wikipedia.org】
+L75:   * 【40†Русский†ru.wikipedia.org】
+L76:   * 【41†தமிழ்†ta.wikipedia.org】
+L77:   * 【42†తెలుగు†te.wikipedia.org】
+L78:   * 【43†Українська†uk.wikipedia.org】
+L79:   * 【44†اردو†ur.wikipedia.org】
+L80: 【45†Edit links†www.wikidata.org】
+L81: 
+L82:   * 【46†Article】
+L83:   * 【47†Talk】
+L84: 
+L85: [Input] English
+L86: 
+L87:   * 【46†Read】
+L88:   * 【48†Edit】
+L89:   * 【49†View history】
+L90:   * 【17†Save】
+L91: 
+L92: [Input] Tools
+L93: 
+L94: Tools
+L95: 
+L96: [Button: move to sidebar] [Button: hide]
+L97: 
+L98: Actions
+L99: 
+L100:   * 【46†Read】
+L101:   * 【48†Edit】
+L102:   * 【49†View history】
+L103:   * 【17†Save】
+L104: 
+L105: General
+L106: 
+L107:   * 【50†What links here】
+L108:   * 【51†Related changes】
+L109:   * 【52†Upload file】
+L110:   * 【53†Permanent link】
+L111:   * 【54†Page information】
+L112:   * 【55†Cite this page】
+L113:   * 【56†Get shortened URL】
+L114:   * 【57†Switch to legacy parser】
+L115: Print/export
+L116: 
+L117:   * 【58†Download as PDF】
+L118:   * Printable version
+L119: 
+L120: In other projects
+L121: 
+L122:   * 【59†Wikimedia Commons†commons.wikimedia.org】
+L123:   * 【60†Wikidata item†www.wikidata.org】
+L124: 
+L125: Appearance
+L126: 
+L127: [Button: move to sidebar] [Button: hide]
+L128: 
+L129: 【61†Coordinates】: 【62†21°09′N 79°05′E﻿ / ﻿21.15°N 79.09°E﻿ / 21.15; 79.09†geohack.toolforge.org】
+L130: 
+L131: (Redirected from 【63†Nagpur kingdom】)
+L132:  | This article needs 【64†more citations】. Please help 【65†improve this article】 by 【66†adding citations to reliable sources】. Unsourced material may be challenged and 【67†removed】.
+L133: Find sources: 【68†"Kingdom of Nagpur"†www.google.com】 – 【69†news†www.google.com】 · 【70†newspapers†www.google.com】 · 【71†books†www.google.com】 · 【72†scholar†scholar.google.com】 · 【73†JSTOR†www.jstor.org】 (September 2023) (【74†Learn how and when to remove this message】)
+L134: Kingdom of Nagpur
+L135: ---
+L136: 1739–1853
+L137: Flag
+L138: The Kingdom of Nagpur at its greatest extent.^{【75†[2]】}
+L139: Status  | State within the 【76†Maratha Empire】 (1729–1818)
+L140: 【77†Protectorate】 of the 【78†East India Company】 (1818–1853)
+L141: Capital  | 【79†Nagpur】
+L142: Common languages  |
+L143:   * 【80†Marathi】 (official and court language)
+L144:   * 【81†Other Indian languages】
+L145: Government  | 【82†Monarchy】
+L146: 【83†Raja】  |
+L147: • 1739–1755 (first)  | 【84†Raghoji I】
+L148: • 1818–1853 (last)  | 【85†Raghoji III】
+L149: History  |
+L150: • Founded by 【84†Raghoji I】 after making 【86†Burhan Shah】 a state pensionary.  | 1739
+L151: • British Protectorate  | 1818
+L152: • Death of the last ruler, 【85†Raghoji III】  | 1853
+L153: 【87†Area】
+L154: ---
+L155: 217,560 km^{2} (84,000 sq mi)
+L156: Preceded by Succeeded by
+L157: 【88†Image†upload.wikimedia.org】 【86†Gonds of Deogarh】
+L158: 【88†Image†upload.wikimedia.org】 【89†Marathas of Saugor】
+L159: 【88†Image†upload.wikimedia.org】 【90†Kingdom of Chanda】
+L160: 【88†Image†upload.wikimedia.org】 【91†Garha Kingdom】
+L161: 【92†Nagpur Province】 【88†Image†upload.wikimedia.org】
+L162: Today part of  | 【93†India】
+L163: 【94†Princely States of India – Nagpur†www.worldstatesmen.org】
+L164: The Kingdom of Nagpur was a kingdom within the 【76†Maratha Empire】 in the 18th and 19th centuries. It was ruled by the Maratha 【95†Bhonsle dynasty】 in the mid-18th century. The city of 【79†Nagpur】 was the capital of the state.
+L165: 
+L166: After the 【96†Third Anglo-Maratha War】, it became a 【97†princely state】 of the British Empire in 1818, and was annexed to 【98†British India】 in 1853 becoming 【92†Nagpur Province】.
+L167: ## History
+L168: 
+L169: [【99†edit】]
+L170: ### Gond kingdom
+L171: 
+L172: [【100†edit】]
+L173: 
+L174: Main article: 【86†Gonds of Deogarh】
+L175: The 【101†historical record】 of the Nagpur kingdom begins in the early 18th century, when it formed part of the 【86†Gond Kingdom of Deogarh】. 【102†Bakht Buland Shah】, the ruler of Deogarh, visited 【103†Delhi】 during the reign of 【104†Aurangzeb】 and converted to 【105†Islam】. Afterwards, determined to encourage the development of his own kingdom, he invited Hindu and Muslim artisans and cultivators to settle in the plains country, and founded the city of Nagpur.
+L176: His successor, 【106†Chand Sultan】, continued the development of the country, and moved his capital to Nagpur. After the death of Chand Sultan, the 【107†Bhonsles】 took over the control of the kingdom.^{【108†[3]】}^{【109†[4]】}^{【110†[5]】}^{【111†[6]】}^{【112†[7]】}^{【113†[8]】}^{【114†[9]】}^{【115†[10]】}^{【116†[11]】}^{【117†[12]】}^{【118†[13]】}^{【119†[14]】}
+L177: After Chand Sultan's death in 1739,^{【116†[11]】} there was quarrel over the succession, leading to the throne being usurped by Wali Shah,^{【114†[9]】}^{【117†[12]】}^{【120†[15]】} an illegitimate son of Bakht Buland Shah.^{【114†[9]】}^{【118†[13]】} Chand Sultan's widow invoked the aid of the Maratha leader 【121†Raghuji Bhonsle】 of Berar in the interest of her sons Akbar Shah and Burhan Shah. Wali Shah was put to death and the rightful heirs placed on the throne.
+L178: Raghoji I Bhonsle was sent back to Berar with a plentiful bounty for his aid. The Maratha general judged that Nagpur must be a plentiful and rich country by the magnificence of his reward.^{【120†[15]】}^{【117†[12]】}^{【114†[9]】}
+L179: However, dissensions continued between the brothers and once again, the elder brother Burhan Shah requested the aid of Raghuji Bhonsla. Akbar Shah was driven into exile and finally poisoned at 【122†Hyderabad】. However this time, Ragoji Bhonsle did not intend to leave such a rich country, with it being within his grasp.^{【117†[12]】}^{【114†[9]】} He declared himself 'protector' of the Gond king.
+L180: Thus in 1743, Burhan Shah was practically made a state pensionary, with real power being in the hands of the Maratha ruler. After this event the history of the Gond kingdom of Deogarh is not recorded.^{【116†[11]】} A series of 【123†Maratha rulers】 came to power following the fall of the Gonds from the throne of Nagpur, starting with Raghoji Bhonsle.^{【124†[16]】}^{【125†[17]】}
+L181: ### Maratha Bhonsle kingdom
+L182: 
+L183: [【126†edit】]
+L184: #### Raghoji I Bhonsle (1739–1755)
+L185: 
+L186: [【127†edit】]
+L187: 
+L188: An inside view of Nagardhan Fort in 【128†Nagpur district】, commissioned by Raghoji I.
+L189: Bold and decisive in action, Raghoji was the archetype of a Maratha leader; he saw in the troubles of other states an opening for his own ambition, and did not even require a pretext for plunder and invasion. Twice his armies invaded Bengal, and he obtained the cession of 【129†Cuttack】. 【130†Chanda】, 【131†Chhattisgarh】, and 【132†Sambalpur】 were added to his dominions between 1745 and 1755, the year of his death.
+L190: #### Janoji, Madhoji I, and Raghoji II Bhonsle (1755–1816)
+L191: 
+L192: [【133†edit】]
+L193: 
+L194: Main entrance of the Nagardhan Fort, built by the Bhonsle dynasty of the 【134†Maratha Confederacy】
+L195: 
+L196: His successor 【135†Janoji Bhonsle】 took part in the wars between the 【136†Peshwa】 and the 【137†Nizam of Hyderabad】. After he had in turn betrayed both of them, they united against him and sacked and burnt Nagpur in 1765.
+L197: On Janoji's death on 21 May 1772, his brothers fought for the succession, until 【138†Mudhoji Bhonsle】 shot the other in the 【139†Battle of Panchgaon】, six miles (10 km) south of Nagpur, and succeeded to the regency on behalf of his infant son 【140†Raghoji II Bhonsle】 who was Janoji's adopted heir. In 1785 【141†Mandla】 and the upper 【142†Narmada】 valley were added to the Nagpur dominions by treaty with the Peshwa.
+L198: Mudhoji had courted the favor of the 【143†British East India Company】, and this policy was continued for some time by Raghoji II, who acquired 【144†Hoshangabad】 and the lower Narmada valley. But in 1803 he united with 【145†Daulat Rao Sindhia】 of 【146†Gwalior】 against the British.
+L199: The two leaders were decisively defeated at the battles of 【147†Assaye】 and 【148†Argaon】, and by the Treaty of Deogaon of that year Raghoji ceded Cuttack, southern 【149†Berar】, and Sambalpur to the British, although Sambalpur was not relinquished until 1806.
+L200: Until the close of the 18th century the Maratha administration had been on the whole good, and the country had prospered. The first four of the Bhonsles were military chiefs with the habits of rough soldiers, connected by blood and by constant familiar interaction with all their principal officers. Up to 1792 their territories were seldom the theater of hostilities, and the area of cultivation and revenue continued to increase under a fairly equitable and extremely simple system of government.
+L201: After the treaty of Deogaon, however, all this changed. Raghoji II was deprived of a third of his territories, and he attempted to make up the loss of revenue from the remainder. The villages were mercilessly 【150†rack-rented】, and many new taxes imposed. The pay of the troops was in arrears, and they maintained themselves by plundering the cultivators. At the same time the raids of the 【151†Pindaris】 commenced, who became so bold that in 1811 they advanced to Nagpur and burnt the suburbs.
+L202: It was at this time that most of the numerous village forts were built; on the approach of these marauders the peasantry retired to the forts and fought for bare life, all they possessed outside the walls being already lost to them.
+L203: #### Mudhoji II Bhonsle (1817–1818)
+L204: 
+L205: [【152†edit】]
+L206: On the death of Raghoji II in 1816, his son Parsoji was supplanted by Mudhoji II Bhonsle, also known as Appa Sahib, son of Vyankoji, brother of Raghoji II, in 1817.
+L207: A treaty of alliance providing for the maintenance of a subsidiary force by the British was signed in this year,^{【153†[18]】} a British resident having been appointed to the Nagpur court since 1799.^{【154†[19]】} In 1817, on the outbreak of war between the British and the Peshwa, Appa Sahib threw off his cloak of friendship, and accepted an embassy and a title from the Peshwa. His troops attacked the British, and were defeated in the action at 【155†Sitabuldi】, and a second time close to Nagpur city.
+L208: As a result of these battles the remaining portion of Berar and the territories in the Narmada valley were ceded to the British. Appa Sahib was reinstated to the throne, but shortly afterwards was discovered to be again conspiring, and was deposed and sent to 【156†Allahabad】 in custody. On the way, however, he bribed his guards and escaped, first to the 【157†Mahadeo Hills】, subsequently to the 【158†Punjab】 and finally took asylum in the court of 【159†Man Singh】 of Jodhpur.
+L209: Man Singh gave him refuge against the wishes of British.
+L210: #### Raghoji III Bhonsle (1818–1853)
+L211: 
+L212: [【160†edit】]
+L213: A grandchild of Raghoji II was then placed on the throne, and the territories were administered by the resident from 1818 to 1830, in which year the young ruler known as Raghoji III was allowed to assume the actual government. He died without a male heir in 1853, and the kingdom was annexed by the British under the 【161†doctrine of lapse】.
+L214: After Raghoji's ill-health and death the reins of the kingdom were handed over to his cousin Tukaramji Mehere who was a Maratha land administrator and landlord in belt who managed large portions of land from Nagpur to 【162†Akola】 until India got the independence in 1947
+L215: #### Aftermath
+L216: 
+L217: [【163†edit】]
+L218: The former kingdom was administered as 【92†Nagpur Province】, under a commissioner appointed by the 【164†Governor-General of India】, until the formation of the 【165†Central Provinces】 in 1861. During the 【166†revolt of 1857】 a scheme for an uprising was formed by a regiment of irregular cavalry in conjunction with the disaffected Muslims of the city, but was frustrated by the prompt action of the civil authorities, supported by Madras troops from 【167†Kamptee】.
+L219: Some of the native officers and two of the leading Muslims of the city were hanged from the ramparts of the fort, and the disturbances ended. The aged princess 【168†Baka Bai】, widow of Raghoji II, used all her influence in support of the British, and by her example kept the Maratha districts loyal.^{【169†[20]】}
+L220: ## Rajas of Nagpur
+L221: 
+L222: [【170†edit】]
+L223: 
+L224: Raja of Nagpur
+L225: ---
+L226: Flag
+L227: ---
+L228: Last to reign
+L229: 【171†Raghuji III】
+L230: 26 June 1818 – 11 December 1853
+L231: ---
+L232: ---
+L233: Details
+L234: ---
+L235: Style  | 【172†His Majesty】
+L236: First monarch  | 【173†Raghuji I】
+L237: Last monarch  | 【171†Raghuji III】
+L238: Formation  | 1739
+L239: Abolition  | 11 December 1853
+L240:   * 【174†Raghoji I】 (1739 – 14 Feb 1755)
+L241:   * 【175†Janoji】 (1755 – 21 May 1772)
+L242:   * 【138†Mudhoji】 (1772 – 19 May 1788)
+L243:   * 【140†Raghoji II】 (1788 – 22 Mar 1816)
+L244:   * Parsoji (1816 – 2 Feb 1817) (b. 1778 – d. 1817)
+L245:   * 【176†Mudhoji II】 "Appa Sahib" (1817 – 15 Mar 1818) (b. 1796 – d. 1840)
+L246:   * 【177†Raghuji III】 (1818 – 11 Dec 1853) (b. 1808 – d. 1853)
+L247: Senior Bhonsle palace
+L248: ## Family tree
+L249: 
+L250: [【178†edit】]
+L251: 
+L252: Family tree of Maratha Rajas and later Maharajas of Nagpur
+L253: ---
+L254: 【179†Raghoji Ithe Great】
+L255: ^{(1)}
+L256: r. 1739-1755
+L257: 【180†Janoji】
+L258: ^{(2)}
+L259: r. 1755-1772 【138†Mudhoji I】
+L260: ^{(3)}
+L261: r. 1772-1788
+L262: 【140†Raghoji II】
+L263: ^{(4)}
+L264: r. 1788-1816 Vyankoji
+L265: Parsoji
+L266: ^{(5)}
+L267: r. 1816-1817 Banubai
+L268: 【176†Mudhoji IIAppa Sahib】
+L269: ^{(6)}
+L270: r. 1817-1818
+L271: 【177†Raghoji III】
+L272: ^{(7)}
+L273: r. 1818-1853
+L274: 【181†Tukramji Mehere】
+L275: ^{(7)}
+L276: r. 1854-1920
+L277: 【182†Bhikaji Mehere】
+L278: ^{(7)}
+L279: r. 1921-1955
+L280: ## Army
+L281: 
+L282: [【183†edit】]
+L283: Though Marathas constituted 30% of the total army, they deployed families across the region that were the main task force in the expansion of Maratha Empire in Gondwana and Northern region.
+L284: As a part of that, the Bhonsles raised two infantry brigades with modern military training, however without guidance of European officers.^{【184†[21]】} They extensively employed 【151†Pindaris】 and silently supported them like the 【185†Holkars of Indore】 and 【186†Scindias of Gwalior】.^{【187†[22]】}^{【188†[23]】} Light cavalry mercenaries called 【189†Bargi】 were employed by the Bhonsles during the brutal 【190†Maratha invasions of Bengal】.
+L285: The 【189†Bargi】 mercenaries led by the general 【191†Bhaskar Pandit】 into Bengal caused so much destruction that lullabies were composed in which mothers would use the fear of a Maratha raid to get their children to go to sleep. These poems are popular amongst Bengalis even today, one traditional song translated is as follows, When the children fall asleep, silence sets in, the Bargis come to our lands.
+L286: Bulbuls have eaten the grains, how shall I pay the nawab's tax demands.^{【192†[24]】}^{【193†[25]】}^{【194†[26]】}
+L287: ### Artillery
+L288: 
+L289: [【195†edit】]
+L290: 
+L291: 【196†Mahadaji Shinde】, a distinguished Maratha general from the 【197†Shinde】 royal clan, focused his attention on European artillery and secured the services of the noted 【198†Frenchman】 【199†Benoît de Boigne】 who had received training from the best of the European military schools. Following suit, the Bhosales and other Maratha chiefs also raised French-trained artillery battalions.^{【200†[27]】}
+L292: ## See also
+L293: 
+L294: [【201†edit】]
+L295: 
+L296:   * 【107†Bhonsle】
+L297:   * 【202†Maratha (caste)】
+L298:   * 【76†Maratha Confederacy】
+L299:   * 【203†List of Maratha dynasties and states】
+L300:   * 【204†List of princely states of British India (by region)】
+L301:   * 【79†Nagpur】
+L302:   * 【128†Nagpur district】
+L303:   * 【205†Nagpur division】
+L304: ## References
+L305: 
+L306: [【206†edit】]
+L307:   1. 【207†"-- Schwartzberg Atlas -- Digital South Asia Library"†dsal.uchicago.edu】. dsal.uchicago.edu. 【208†Archived†web.archive.org】 from the original on 6 February 2022. Retrieved 29 March 2022.
+L308:   2. 【209†↑】 【207†"-- Schwartzberg Atlas -- Digital South Asia Library"†dsal.uchicago.edu】. dsal.uchicago.edu. 【208†Archived†web.archive.org】 from the original on 6 February 2022. Retrieved 29 March 2022.
+L309:   3. 【210†↑】 【211†Host Bibliographic Record for Boundwith Item Barcode 30112050248951 and Others†books.google.com】. 2013. 【212†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L310:   4. 【213†↑】 Sil, Jogendra Nath (1917). 【214†History of the Central Provinces and Berar†books.google.com】. J.N. Sil. 【215†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L311:   5. 【216†↑】 Pradesh (India), Madhya; Krishnan, V. S. (1995). 【217†Madhya Pradesh District Gazetteers: Chhindwara†books.google.com】. Government Central Press. 【218†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L312:   6. 【219†↑】 【220†Bulletin of the Anthropological Survey of India†books.google.com】. Director, Anthropological Survey of India, Indian Museum. 1976. 【221†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L313:   7. 【222†↑】 Bahadur), Sarat Chandra Roy (Rai (1979). 【223†Man in India†books.google.com】. A. K. Bose. 【224†Archived†web.archive.org】 from the original on 8 April 2023. Retrieved 19 March 2023.
+L314:   8. 【225†↑】 【226†Maharashtra State Gazetteers: Bhandara†books.google.com】. Director of Government Printing, Stationery and Publications, Maharashtra State. 1979. 【227†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L315:   9. 【228†1】 【229†2】 【230†3】 【231†4】 【232†5】 Society (MANCHESTER), Northern Central British India (1840). 【233†Proceedings of a Public Meeting for the formation of The Northern Central British India Society held in the Corn Exchange, Manchester, on Wednesday evening, August 26th, 1840†books.google.com】. Northern Central British India Society. 【234†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L316:   10. 【235†↑】 Naik, C. D. (2010). 【236†Buddhism and Dalits: Social Philosophy and Traditions†books.google.com】. Gyan Publishing House. 【237†ISBN】 【238†978-81-7835-792-8】. 【239†Archived†web.archive.org】 from the original on 24 March 2023. Retrieved 19 March 2023.
+L317:   11. 【240†1】 【241†2】 【242†3】 Kurup, Ayyappan Madhava (1986). 【243†Continuity and Change in a Little Community†books.google.com】. Concept Publishing Company. 【244†Archived†web.archive.org】 from the original on 8 April 2023. Retrieved 16 February 2022.
+L318:   12. 【245†1】 【246†2】 【247†3】 【248†4】 Hunter, William Wilson (1881). 【249†Naaf to Rangmagiri†books.google.com】. Trübner. 【250†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L319:   13. 【251†1】 【252†2】 Deogaonkar, Shashishekhar Gopal (2007). 【253†The Gonds of Vidarbha†books.google.com】. Concept Publishing Company. 【237†ISBN】 【254†978-81-8069-474-5】. 【255†Archived†web.archive.org】 from the original on 8 April 2023. Retrieved 16 February 2022.
+L320:   14. 【256†↑】 【257†Indian Railways†books.google.com】. Railway Board. 1997. 【258†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L321:   15. 【259†1】 【260†2】 Thusu, Kidar Nath (1980). 【261†Gond Kingdom of Chanda: With Particular Reference to Its Political Structure†books.google.com】. Anthropological Survey of India, Government of India. 【262†Archived†web.archive.org】 from the original on 5 April 2023. Retrieved 19 March 2023.
+L322:   16. 【263†↑】 【264†"Nagpur – History – People – Art and Culture – Festivals"†www.nagpur-hotels.com】. Nagpur-hotels.com. 【265†Archived†web.archive.org】 from the original on 9 May 2017. Retrieved 25 November 2016.
+L323:   17. 【266†↑】 【267†"Gond King"†web.archive.org】. Archived from 【268†the original†nagpur.nic.in】 on 31 May 2014.
+L324:   18. 【269†↑】 Naravane, M.S. (2014). Battles of the Honorourable East India Company. A.P.H. Publishing Corporation. p. 82. 【237†ISBN】 【270†9788131300343】.
+L325:   19. 【271†↑】 【272†""Mahratta (Maratha) states- Nagpur": Indian Princely States K–Z"†www.worldstatesmen.org】. World statesmen. 【273†Archived†web.archive.org】 from the original on 26 December 2019. Retrieved 4 February 2023.
+L326:   20. 【274†↑】 【275†Central Provinces District Gazetteers- Nagpur†archive.org】. Nagpur. Archived from 【276†the original†www.new.dli.ernet.in】 on 19 January 2017.
+L327:   21. 【277†↑】 Roy, Kaushik (30 March 2011). 【278†War, Culture and Society in Early Modern South Asia, 1740–1849†books.google.com】. Routledge. 【237†ISBN】 【279†978-0-415-58767-9】. 【280†Archived†web.archive.org】 from the original on 8 April 2023. Retrieved 1 October 2022.
+L328:   22. 【281†↑】 Collins, Bruce (19 September 2014). 【282†War and Empire: The Expansion of Britain, 1790–1830†books.google.com】. Routledge. 【237†ISBN】 【283†978-1-317-87076-0】. 【284†Archived†web.archive.org】 from the original on 8 April 2023. Retrieved 19 March 2023.
+L329:   23. 【285†↑】 Gadre, Prabhakar (1994). 【286†Bhosle of Nagpur and East India Company†www.google.co.in】. Publication Scheme. 【237†ISBN】 【287†978-81-85263-65-6】.
+L330:   24. 【288†↑】 Ahmed, Wakil (2012). 【289†"Folk Literature"†en.banglapedia.org】. In 【290†Islam, Sirajul】; Jamal, Ahmed A. (eds.). Banglapedia: National Encyclopedia of Bangladesh (Second ed.). 【291†Asiatic Society of Bangladesh】. 【292†Archived†web.archive.org】 from the original on 22 September 2022. Retrieved 1 October 2022.
+L331:   25. 【293†↑】 【294†The story behind the lullaby: Maratha invasions in Bengal†timesofindia.indiatimes.com】. 7 June 2020. 【295†Archived†web.archive.org】 from the original on 21 September 2022. Retrieved 1 October 2022.
+L332:   26. 【296†↑】 Daniyal, Shoaib. 【297†"Forgotten Indian history: The brutal Maratha invasions of Bengal"†scroll.in】. Scroll.in. 【298†Archived†web.archive.org】 from the original on 21 September 2022. Retrieved 1 October 2022.

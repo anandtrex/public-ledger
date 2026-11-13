@@ -1,0 +1,268 @@
+Soomra dynasty - Wikipedia (https://en.wikipedia.org/wiki/Soomra_dynasty)
+citeturn85view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Soomra_dynasty","lineno":null}); Total lines: 266
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Sources】
+L50:   * 【19†2 History】 Toggle History subsection
+L51:     * 【20†2.1 Establishment】
+L52:     * 【21†2.2 Territory】
+L53:   * 【22†3 List of Soomro rulers】
+L54:   * 【23†4 Kingdom of Umarkot】
+L55:   * 【24†5 See also】
+L56:   * 【25†6 Notes】
+L57:   * 【26†7 References】
+L58: 
+L59: [Input] Toggle the table of contents
+L60: # Soomra dynasty
+L61: 
+L62: [Input] 10 languages
+L63: 
+L64:   * 【27†العربية†ar.wikipedia.org】
+L65:   * 【28†বাংলা†bn.wikipedia.org】
+L66:   * 【29†Català†ca.wikipedia.org】
+L67:   * 【30†Français†fr.wikipedia.org】
+L68:   * 【31†Magyar†hu.wikipedia.org】
+L69:   * 【32†سنڌي†sd.wikipedia.org】
+L70:   * 【33†தமிழ்†ta.wikipedia.org】
+L71:   * 【34†తెలుగు†te.wikipedia.org】
+L72:   * 【35†Türkçe†tr.wikipedia.org】
+L73:   * 【36†اردو†ur.wikipedia.org】
+L74: 
+L75: 【37†Edit links†www.wikidata.org】
+L76: 
+L77:   * 【38†Article】
+L78:   * 【39†Talk】
+L79: 
+L80: [Input] English
+L81: 
+L82:   * 【38†Read】
+L83:   * 【40†View source】
+L84:   * 【41†View history】
+L85: [Input] Tools
+L86: 
+L87: Tools
+L88: 
+L89: [Button: move to sidebar] [Button: hide]
+L90: 
+L91: Actions
+L92: 
+L93:   * 【38†Read】
+L94:   * 【40†View source】
+L95:   * 【41†View history】
+L96: 
+L97: General
+L98: 
+L99:   * 【42†What links here】
+L100:   * 【43†Related changes】
+L101:   * 【44†Upload file】
+L102:   * 【45†Permanent link】
+L103:   * 【46†Page information】
+L104:   * 【47†Cite this page】
+L105:   * 【48†Get shortened URL】
+L106:   * 【49†Switch to legacy parser】
+L107: 
+L108: Print/export
+L109: 
+L110:   * 【50†Download as PDF】
+L111:   * Printable version
+L112: 
+L113: In other projects
+L114: 
+L115:   * 【51†Wikidata item†www.wikidata.org】
+L116: 
+L117: Appearance
+L118: [Button: move to sidebar] [Button: hide]
+L119: Soomra dynasty【52†Sindhi】: سومرا گهراڻو
+L120: ---
+L121: 1026–1351 (Continued in exile until 1440 in 【53†Umerkot】)
+L122: 【54†South Asia1175 CE】
+L123: 【55†KARAKHANIDKHANATE】【56†QARA KHITAI】
+L124: 【57†GHURIDEMPIRE】【58†CHAULUKYAS】【59†CHAHAMANAS】
+L125: 【60†LATEGHAZNAVIDS】【61†PARAMARAS】
+L126: 【62†WESTERNCHALUKYAS】【63†KAKATIYAS】
+L127: 【64†SHILA-HARAS】【65†CHOLAS】【66†CHERAS】【67†PANDYAS】【68†KADAMBAS】【69†HOYSALAS】【70†GAHADAVALAS】【71†GUHILAS】
+L128: 【72†KACHCHAPA-GHATAS】【73†CHANDELAS】
+L129: 【74†KALACHURIS(TRIPURI)】
+L130: 【75†KALACHURIS(RATNAPURA)】【76†SENAS】【77†KARNATAS】【78†KAMARUPAS】
+L131: 【79†EASTERNGANGAS】【80†GUGE】【81†MARYUL】
+L132: 【82†LOHA-RAS】
+L133: 【38†SOOMRAEMIRATE】
+L134: 【83†MAKRANSULTANATE】
+L135: Status  | Vassals of the 【84†Abbasid Caliphate】 (1026–1351)^{【85†[1]】}
+L136: Tributary of the 【60†Ghaznavids】 (1026–1030)
+L137: Capital  | Mansura (1026)
+L138: Thari (in present-day 【86†Badin District】 in 【87†Sindh】)
+L139: Official languages  | 【52†Sindhi】 (in Arabic and Devanagari scripts)^{【88†[2]】}^{【89†[3]】}
+L140: Common languages  | 【52†Sindhi】 (native language)
+L141: 【90†Arabic】 (liturgical language)
+L142: Religion  | 【91†Shia】 【92†Ismaili】
+L143: Government  | Monarchy
+L144: History  |
+L145: • Soomra dynasty begins  | 1026
+L146: • Soomra dynasty ends  | 1351 (Continued in exile until 1440 in 【53†Umerkot】)
+L147: Preceded by Succeeded by
+L148: 【93†Image†upload.wikimedia.org】 【94†Habbari dynasty】
+L149: 【95†Samma Dynasty】 【93†Image†upload.wikimedia.org】
+L150: Today part of  | 【87†Sindh】
+L151: The Soomra dynasty (【52†Sindhi】: سومرا گهراڻو, 【96†romanized】: Sūmrā Gharāṇō)^{【97†[4]】} was a late medieval dynasty of 【87†Sindh】, and at times adjacent regions, founded by the 【98†Soomro】 tribe, in modern-day 【99†Pakistan】.^{【100†[5]】}
+L152: ## Sources
+L153: The only extant source is the Diwan-i Farruhi, a Persian chronicle by Abul-Hasan Ali describing 【101†Mahmud of Ghazni】's invasion (1025 AD) of 【102†Mansura】, the erstwhile capital of Sindh.^{【103†[6]】} Contemporary coinage from Sindh is scarce and of poor quality with offset flans — while some of them can be read to contain the name of 【104†al-Zahir li-i'zaz Din Allah】 and 【105†al-Mustansir Billah】, the 【106†Fatimid caliphs】 from 1021 until 1094, thereafter, they lack the name of the issuer and cannot evidence the dynasty.^{【107†[7]】}
+L154: ## History
+L155: ### Establishment
+L156: The early history of Soomras is unclear. Ali describes the flight and eventual death by drowning of Hafif (var. Khafif), then-ruler of Sindh, during the faceoff with Mahmud but does not specify whether he was the last Habbarid or first Soomra.^{【103†[6]】}^{【108†[a]】} Later chroniclers like 【109†Ali ibn al-Athir】 (c. late 12th c.) and 【110†Ibn Khaldun】 (c.
+L157: late 14th c.) attributed the fall of Habbarids to Mahmud of Ghazni, lending credence to the argument of Hafif being the last Habbarid.^{【103†[6]】} The Soomras appear to have established themselves as a regional power in this vacuum.^{【103†[6]】}^{【111†[8]】}
+L158: According to 【112†André Wink】, the Soomras were a dynasty of local origin, later claiming to be 【113†Rajputs】 as well as 【114†Arabs】.^{【115†[9]】}^{【116†[10]】} They have been retrospectively claimed to be 【117†Parmar】 Rajputs.^{【118†[11]】} In 【119†Ain-i-Akbari】 (16th century) the Soomra dynasty is mentioned as of Rajput lineage.^{【120†[12]】} Some of them were adherents of 【121†Isma'ilism】 — Arab travelers held them to be 【122†Qarmatians】, and correspondence with the Fatimid caliph, al-Mustansir Billah has been located.^{【111†[8]】}
+L159: ### Territory
+L160: 
+L161: The 【57†Ghurids】 and 【60†Ghaznavids】 continued to rule parts of Sindh, across the eleventh and early twelfth century, alongside Soomras.^{【103†[6]】} The precise delineations have yet to be discovered, but the Soomras were probably centered in lower Sindh.^{【103†[6]】} One of their kings Shimuddin Chamisar had submitted to 【123†Iltutmish】, the 【124†Sultan of Delhi】, and was allowed to continue as a vassal.^{【125†[13]】}
+L162: ## List of Soomro rulers
+L163: Name  | Lifespan  | Reign Start  | Reign End
+L164: --- | --- | --- | ---
+L165: Khafif  | 976-1026 (aged 49-50)  | 1010  | 1026
+L166: 【126†Soomar】  | 998-1053 (aged 54-55)  | 1026  | 1053
+L167: 【127†Bhoongar I】  | 1023–1068 (aged 44–45)  | 1053  | 1068
+L168: Dodo I  | 1046–1092 (aged 45–46)  | 1068  | 1092
+L169: 【128†Zainab Tari】  | 1068-?  | 1092  | 1098 (as Regent)
+L170: Sanghar  | 1076–1107 (aged 30–31)  | 1092  | 1107
+L171: Khafif II  | 1087–1142 (aged 54–55)  | 1107  | 1142
+L172: 【129†Umar I】  | 1095–1181 (aged 85–86)  | 1142  | 1181
+L173: Dodo II  | 1134–1195 (aged 60–61)  | 1181  | 1195
+L174: Bhoongar II  | 1164–1226 (aged 61–62)  | 1195  | 1226
+L175: Chanesar  | 1193–1237 (aged 43–44)  | (1st reign) 1226  | 1228
+L176: Ganhwar  | 1200–1241 (aged 40–41)  | (1st reign) 1228-  | 1236
+L177: Chanesar  | 1193–1371 (aged 43–44)  | (2nd reign) 1236  | 1237
+L178: Ganhwar  | 1200–1241 (aged 40–41)  | (2nd reign) 1237  | 1241
+L179: Muhammad Tur  | 1221–1256 (aged 34–35)  | 1241  | 1256
+L180: Ganhwar II  | 1238–1259 (aged 20–21)  | 1256  | 1259
+L181: Dodo III  | 1254–1273 (aged 19–20)  | 1259  | 1273
+L182: Tai  | 1268–1283 (aged 14–15)  | 1273  | 1283
+L183: Chanesar II  | 1270–1300 (aged 29–30)  | 1283  | 1300
+L184: Bhoongar III  | 1291–1315 (aged 23–24)  | 1300  | 1315
+L185: Khafif III  | 1297–1333 (aged 35–36)  | 1315  | 1333
+L186: Dodo IV  | 1298–1336 (aged 37–38)  | 1333  | 1336
+L187: Umar II  | 1315–1337 (aged 21–22)  | 1336  | 1337
+L188: Bhoongar IV  | 1319–1341 (aged 21–22)  | 1337  | 1341
+L189: Hamir II  | 1322–1351 (aged 28–29)  | 1341  | 1351
+L190: Source:
+L191: ## Kingdom of Umarkot
+L192: 
+L193: Name  | Lifespan  | Reign Start  | Reign End
+L194: --- | --- | --- | ---
+L195: Umar III  | 1340–1390 (aged 49–50)  | 1351  | 1390
+L196: Bhungar V  | 1358–1400 (aged 41–42)  | 1390  | 1400
+L197: Hamir III  | 1377–1440 (aged 62–63)  | 1400  | 1440
+L198: 
+L199: ## See also
+L200: 
+L201:   * 【130†List of monarchs of Sindh】
+L202:   * 【131†Dodo Chanesar】
+L203: ## Notes
+L204: 
+L205:   1. 【132†↑】 C. 1105, Isma'ilis of Multan had sought refuge in Mansura during Mahmud's invasion of the city and reasons for his campaign(s) against Hafif are noted to be the flourishing river trade of Isma'ilis and his (Hafif's) alliance with Jats.
+L206: ## References
+L207:   1. 【133†↑】 Stanton, Andrea (2012). 【134†Cultural Sociology of the Middle East, Asia, & Africa, Volume 4†books.google.com】. SAGE Publications. p. 110. 【135†ISBN】 【136†978-1-4129-8176-7】.
+L208:   2. 【137†↑】 Panhwar, M. H. (2003). An Illustrated Historical Atlas of Soomra Kingdom of Sindh: 1011–1351 AD. Soomra National Council, Pakistan. p. 222.
+L209:   3. 【138†↑】 Lakho, Ghulam Muhammad (2006). The Samma Kingdom of Sindh: historical studies (1st ed.). Jamshoro: Institute of Sindhology, University of Jamshoro. pp. 176–177. 【135†ISBN】 【139†9789694050782】.
+L210:   4. 【140†↑】 Balocu, Nabī Bakhshu Khānu (2021). Jāmiʻ Sindhī lughāta. Sindhī Adabī Borḍ. p. 1036.
+L211:   5. 【141†↑】 "The Arab Conquest". International Journal of Dravidian Linguistics. 36 (1): 91. 2007. "The Soomras are believed to be Parmar Rajputs found even today in Rajasthan, Saurashtra, Kutch and Sindh. The Cambridge History of India refers to the Soomras as "a Rajput dynasty the later members of which accepted Islam" (p. 54 )."
+L212:   6. 【142†1】 【143†2】 【144†3】 【145†4】 【146†5】 【147†6】 Collinet, Annabelle (2008). "Chronology of Sehwan Sharif through Ceramics (The Islamic Period)". In Boivin, Michel (ed.). Sindh through history and representations : French contributions to Sindhi studies. Karachi: Oxford University Press. pp. 9, 11, 113 (note 43). 【135†ISBN】 【148†978-0-19-547503-6】.
+L213:   7. 【149†↑】 Fishman, A. M.; Todd, I. J. (2018). "Uncertain Late Habbarid and Soomra Sindh ca. 1000-50 CE". The silver damma : on the mashas, daniqs, qanhari dirhams and other diminutive coins of India, 600–1100 CE. Mumbai, India: IIRNS Publications. pp. 176–184. 【135†ISBN】 【150†978-81-938291-0-3】. 【151†OCLC】 【152†1097788735†search.worldcat.org】.
+L214:   8. 【153†1】 【154†2】 Boivin, Michel (2008). "Shivaite Cults And Sufi Centres: A Reappraisal Of The Medieval Legacy In Sindh". In Boivin, Michel (ed.). Sindh through history and representations : French contributions to Sindhi studies. Karachi: Oxford University Press. p. 30. 【135†ISBN】 【148†978-0-19-547503-6】.
+L215:   9. 【155†↑】 Wink, André (2002). 【156†Al-Hind, the Making of the Indo-Islamic World: Early Medieval India and the Expansion of Islam 7Th-11th Centuries†books.google.com】. BRILL. p. 166. 【135†ISBN】 【157†978-0-391-04173-8】. "The Sumras were a dynasty of local origin, later claiming to be Rajputs as well as Arabs, and are clearly distinguishable from the pastoral-nomadic Jats or Mids."
+L216:   10. 【158†↑】 Siddiqui, Habibullah. 【159†"The Soomras of Sindh: their origin, main characteristics and rule – an overview (general survey) (1025 – 1351 AD)"†uok.edu.pk】 (PDF). University of Karachi.
+L217:   11. 【160†↑】 Dani, Ahmad Hasan (2007). 【161†History of Pakistan: Pakistan through ages†books.google.com】. Sang-e Meel Publications. p. 218. 【135†ISBN】 【162†978-969-35-2020-0】. "But as many kings of the dynasty bore Hindu names, it is almost certain that the Soomras were of local origin. Sometimes they are connected with Paramara Rajputs, but of this there is no definite proof."
+L218:   12. 【163†↑】 Sarkar, Jadunath (1949). 【164†Ain-i-akbari Of Abul Fazl I Allami Vol. 2 Ed. 2nd†archive.org】. p. 343.
+L219:   13. 【165†↑】 Aniruddha Ray (4 March 2019). 【166†The Sultanate of Delhi (1206–1526): Polity, Economy, Society and Culture†books.google.com】. Taylor & Francis. pp. 43–. 【135†ISBN】 【167†978-1-00-000729-9】.
+L220: 【168†Image】
+L221: 
+L222: Retrieved from "【45†https://en.wikipedia.org/w/index.php?title=Soomra_dynasty&oldid=1375902929】"
+L223: 
+L224: 【169†Categories】:
+L225: 
+L226:   * 【170†History of Sindh】
+L227:   * 【171†Medieval Indian dynasties】
+L228:   * 【172†Dynasties of Pakistan】
+L229:   * 【173†States and territories disestablished in 1351】
+L230:   * 【174†States and territories established in 1026】
+L231:   * 【175†Soomra dynasty】
+L232: 
+L233: Hidden categories:
+L234:   * 【176†Wikipedia extended-confirmed-protected pages】
+L235:   * 【177†Articles with short description】
+L236:   * 【178†Short description is different from Wikidata】
+L237:   * 【179†Use British English from April 2017】
+L238:   * 【180†All Wikipedia articles written in British English】
+L239:   * 【181†Use dmy dates from April 2017】
+L240:   * 【182†Articles containing Sindhi-language text】
+L241:   * 【183†Location maps with marks outside map and outside parameter not set】
+L242:   * This page was last edited on 20 September 2026, at 19:44 (UTC).
+L243:   * Page was rendered with 【184†Parsoid†www.mediawiki.org】.
+L244:   * Text is available under the 【185†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【186†Terms of Use†foundation.wikimedia.org】 and 【187†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【188†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L245:   * 【187†Privacy policy†foundation.wikimedia.org】
+L246:   * 【5†About Wikipedia】
+L247:   * 【189†Disclaimers】
+L248:   * 【6†Contact Wikipedia】
+L249:   * 【190†Legal & safety contacts†foundation.wikimedia.org】
+L250:   * 【191†Code of Conduct†foundation.wikimedia.org】
+L251:   * 【192†Developers†developer.wikimedia.org】
+L252:   * 【193†Statistics†stats.wikimedia.org】
+L253:   * 【194†Cookie statement†foundation.wikimedia.org】
+L254:   * Search
+L255: 
+L256: [Input: Search Wikipedia]
+L257: 
+L258: [Input]
+L259: 
+L260: [Button: Search]
+L261: 
+L262: [Input] Toggle the table of contents
+L263: 
+L264: Soomra dynasty
+L265: 10 languages 【17†Add topic】

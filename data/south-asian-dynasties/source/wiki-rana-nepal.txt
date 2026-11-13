@@ -1,0 +1,272 @@
+Rana dynasty - Wikipedia (https://en.wikipedia.org/wiki/Rana_dynasty)
+citeturn112view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Rana_dynasty","lineno":null}); Total lines: 433
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Genealogy】
+L49:   * 【19†2 Origins and Background】
+L50:   * 【20†3 Historical background】 Toggle Historical background subsection
+L51:     * 【21†3.1 Rise of Jung Bahadur】
+L52:     * 【22†3.2 Kot massacre episode】
+L53:   * 【23†4 Rana Regime; Rule of Jang】 Toggle Rana Regime; Rule of Jang subsection
+L54:     * 【24†4.1 Battle of Alau】
+L55:     * 【25†4.2 Rise to royalty】
+L56:   * 【26†5 Rana Regime; Rule of the Shamshers】
+L57:   * 【27†6 Kunwar family tree】
+L58:   * 【28†7 Rana Prime Ministers】 Toggle Rana Prime Ministers subsection
+L59:     * 【29†7.1 Succession】
+L60:   * 【30†8 Notable Rana members】 Toggle Notable Rana members subsection
+L61:     * 【31†8.1 Other notable connected members】
+L62:   * 【32†9 Gallery】
+L63:   * 【33†10 See also】
+L64:   * 【34†11 References】 Toggle References subsection
+L65:     * 【35†11.1 Footnotes】
+L66:     * 【36†11.2 Notes】
+L67:     * 【37†11.3 Bibliography】
+L68:   * 【38†12 Further reading】
+L69:   * 【39†13 External links】
+L70: [Input] Toggle the table of contents
+L71: # Rana dynasty
+L72: 
+L73: [Input] 19 languages
+L74:   * 【40†বাংলা†bn.wikipedia.org】
+L75:   * 【41†Deutsch†de.wikipedia.org】
+L76:   * 【42†डोटेली†dty.wikipedia.org】
+L77:   * 【43†Español†es.wikipedia.org】
+L78:   * 【44†Eesti†et.wikipedia.org】
+L79:   * 【45†ગુજરાતી†gu.wikipedia.org】
+L80:   * 【46†हिन्दी†hi.wikipedia.org】
+L81:   * 【47†Bahasa Indonesia†id.wikipedia.org】
+L82:   * 【48†Italiano†it.wikipedia.org】
+L83:   * 【49†日本語†ja.wikipedia.org】
+L84:   * 【50†한국어†ko.wikipedia.org】
+L85:   * 【51†मैथिली†mai.wikipedia.org】
+L86:   * 【52†नेपाली†ne.wikipedia.org】
+L87:   * 【53†Norsk bokmål†no.wikipedia.org】
+L88:   * 【54†Português†pt.wikipedia.org】
+L89:   * 【55†Русский†ru.wikipedia.org】
+L90:   * 【56†Simple English†simple.wikipedia.org】
+L91:   * 【57†தமிழ்†ta.wikipedia.org】
+L92:   * 【58†中文†zh.wikipedia.org】
+L93: 【59†Edit links†www.wikidata.org】
+L94: 
+L95:   * 【60†Article】
+L96:   * 【61†Talk】
+L97: 
+L98: [Input] English
+L99: 
+L100:   * 【60†Read】
+L101:   * 【62†View source】
+L102:   * 【63†View history】
+L103:   * 【17†Save】
+L104: 
+L105: [Input] Tools
+L106: 
+L107: Tools
+L108: 
+L109: [Button: move to sidebar] [Button: hide]
+L110: 
+L111: Actions
+L112: 
+L113:   * 【60†Read】
+L114:   * 【62†View source】
+L115:   * 【63†View history】
+L116:   * 【17†Save】
+L117: 
+L118: General
+L119:   * 【64†What links here】
+L120:   * 【65†Related changes】
+L121:   * 【66†Upload file】
+L122:   * 【67†Permanent link】
+L123:   * 【68†Page information】
+L124:   * 【69†Cite this page】
+L125:   * 【70†Get shortened URL】
+L126:   * 【71†Switch to legacy parser】
+L127: 
+L128: Print/export
+L129: 
+L130:   * 【72†Download as PDF】
+L131:   * Printable version
+L132: 
+L133: In other projects
+L134: 
+L135:   * 【73†Wikimedia Commons†commons.wikimedia.org】
+L136:   * 【74†Wikidata item†www.wikidata.org】
+L137: 
+L138: Appearance
+L139: 
+L140: [Button: move to sidebar] [Button: hide]
+L141:  | This article needs 【75†more citations】. Please help 【76†improve this article】 by 【77†adding citations to reliable sources】. Unsourced material may be challenged and 【78†removed】.
+L142: Find sources: 【79†"Rana dynasty"†www.google.com】 – 【80†news†www.google.com】 · 【81†newspapers†www.google.com】 · 【82†books†www.google.com】 · 【83†scholar†scholar.google.com】 · 【84†JSTOR†www.jstor.org】 (September 2011) (【85†Learn how and when to remove this message】)
+L143: Rana dynasty
+L144: राणा वंश
+L145: Ranas of Nepal
+L146: ---
+L147: Parent family  | 【86†Kunwar family】
+L148: Country  | 【87†Kingdom of Nepal】
+L149: Founded  | 15 September 1846 (1846-09-15)
+L150: Founder  | 【88†Jung Bahadur Rana】
+L151: Current head  | 【89†Pashupati Shumsher Rana】
+L152: Final ruler  | 【90†Mohan Shumsher Rana】
+L153: Titles  |
+L154:   * Maharaja of 【91†Lamjung and Kaski】
+L155:   * Shri Tin Maharaja of 【87†Kingdom of Nepal】
+L156: 【92†Style】  | Ranaji
+L157: Motto  |
+L158: 
+L159:   * 【93†Janani Janmabhumishcha Swargadapi Gariyasi】.
+L160:   * lit. "Mother and motherland are greater than heaven."
+L161: Estate  | 【91†Lamjung and Kaski】
+L162: Properties  | 【94†Rana Palaces】
+L163: Dissolution  | 18 February 1951
+L164: The Rana dynasty (【95†Nepali】: राणा वंश, romanized: rāṇā baṃśa) was a 【96†Chhetri】^{【97†[note 1]】} dynasty that^{【98†[6]】} imposed 【99†authoritarianism】 in the 【87†Kingdom of Nepal】 from 15 September 1846 until 18 February 1951, reducing the 【100†Shah monarch】 to a figurehead, and making the 【101†Prime Minister】 and other government positions held by the Ranas hereditary.
+L165: The Rana dynasty is historically known for their iron-fisted rule in Nepal.^{【102†[7]】} This changed after the 【103†Revolution of 1951】 with the promulgation of a new constitution, when power shifted back to the 【104†monarchy】 of 【105†King Tribhuvan】.^{【106†[8]】}
+L166: The Rana dynasty were descended from the 【86†Kunwar family】, a nobility of the 【107†Gorkha Kingdom】.^{【108†[9]】} Due to their marital lineages with the politically reigning 【109†Thapa dynasty】 (of 【110†Mukhtiyar】 【111†Bhimsen Thapa】) from the early 19th century, the Ranas gained entry to central 【112†Darbar】 politics.^{【113†[10]】}^{【114†[5]】} The Ranas were also linked to a minor faction of the 【115†Pande dynasty】 of Gorkha through the Thapa dynasty.^{【114†[5]】}
+L167: ## Genealogy
+L168: 
+L169: The genealogy of 【116†Jang Bahadur Rana】, a prominent figure of the Rana dynasty, was documented by 19th-century chronicler Daniel Wright. According to his account, the lineage begins with Tattā Rāṇā, described as a king of 【117†Chittaurgarh】.^{【118†[11]】} This account has been regarded by historians such as 【119†John Whelpton】 as likely fabricated, lacking corroborative historical evidence prior to the nineteenth century.^{【118†[11]】}
+L170: Wright claims that Fakht Siṃha Rāṇā, the nephew of Tattā Rāṇā, had a son named Rāma Siṃha Rāṇā who migrated to the Himalayan foothills after the siege of Chittaur.^{【120†[4]】} Rāma Siṃha was employed by a local hill raja and later married the daughter of the Raja of Bīnātī, a Bagāle 【96†Kṣetrī】.^{【120†[4]】} They had six sons over a span of 10–12 years, one of whom earned the title 【121†Kum̐vara】 【122†Khaḍkā】 for his role in a battle against the Raja of Satān Koṭ.^{【120†[4]】} This title was inherited by his descendants.
+L171: Rāma Siṃha reportedly returned to Chittaur at his brother's request and died shortly thereafter.^{【123†[12]】} His son, Rāut Kunwar, became a nobleman (Sardār) and military commander under the local ruler.^{【123†[12]】} Rāut Kunwar's son, Ahirāma Kunwar, was later invited by the King of Kaski, who granted him land at Dhuage Saghu as birta (tax-free grant).^{【123†[12]】} When the King of Kaski attempted to seize Ahirāma's daughter by force after he refused to marry her off through informal rites, a conflict ensued.
+L172: With the help of villagers from the Parājulī Thāpā caste, Ahirāma resisted the King's forces.^{【123†[12]】}
+L173: Following this, Ahirāma migrated with his sons, including 【124†Ram Krishna Kunwar】 and Jaya Krishna Kunwar, to 【125†Gorkha】, where 【126†Prithvi Narayan Shah】 granted them lands known as Kunwar-Khola as birta.^{【127†[13]】}
+L174: 
+L175: Historian 【119†John Whelpton】 suggests that the Kunwar origin story, involving a marriage into the Bagāle Kshetri lineage, may have been constructed to imply connections with the influential 【128†Bagale Thapa】 clan of Mukhtiyar 【111†Bhimsen Thapa】.^{【129†[14]】}
+L176: According to The Ranas of Nepal, the dynasty traced its descent from 【130†Kumbhakaran Singh】, younger brother of Guhila king Rawal 【131†Ratnasimha】 of 【132†Mewar】. During the 【133†siege of Chittorgarh】 in 1303 CE, his descendants are said to have migrated north toward the Himalayas.^{【134†[15]】}^{【135†[16]】}
+L177: ## Origins and Background
+L178: 
+L179: The Rana dynasty was a hereditary line of 【136†prime ministers】 who ruled 【137†Nepal】 from 1846 until the early 1950s. The family established a de facto oligarchic rule, reducing the 【100†Shah】 monarchs to ceremonial figures. The dynasty was founded by 【88†Jung Bahadur Rana】 following the 【138†Kot Massacre】 in 1846, which marked a turning point in 【139†Nepalese politics】.
+L180: The Ranas claimed descent from the 【140†Rajput】 aristocracy of 【141†western India】, specifically the 【142†Guhila dynasty】 of 【132†Mewar】.
+L181: According to family lore and publications such as The Ranas of Nepal, the dynasty descended from 【130†Kumbhakaran Singh】, the younger brother of Rawal Ratnasimha, the 【143†Guhila】 ruler of 【144†Chittorgarh】 during the siege of 1303 CE.^{【145†[17]】}^{【146†[18]】} However, several historians argue that such genealogical claims were politically motivated and part of a broader pattern in 【147†South Asia】 where ruling families adopted prestigious lineages to legitimize their authority.^{【148†[19]】}
+L182: Although the Ranas identified as 【140†Rajputs】, they spoke the 【149†Khas language】 and had strong cultural and social ties to the local 【150†Khas people】.^{【151†[20]】} The family belonged to the 【152†Vatsa】 【153†gotra】, a Brahminical lineage identifier that they adopted to reinforce their social standing.^{【154†[2]】}
+L183: ## Historical background
+L184: 
+L185: Further information: 【86†Kunwar family】
+L186: 
+L187: 【155†Sardar】 【124†Ram Krishna Kunwar】, prominent male ancestor of Ranas of Nepal
+L188: The founder of this dynasty was 【156†Jang Bahadur Kunwar Rana】, who belonged to the 【86†Kunwar family】,^{【108†[9]】} which was then considered a noble family of 【157†Kshatriya】 status.^{【108†[9]】} Jang Bahadur was a son of Gorkhali governor 【158†Bal Narsingh Kunwar】 and nephew of 【159†Mathabarsingh Thapa】,^{【113†[10]】} the reigning 【160†Prime Minister of Nepal】 (1843–1845) from the 【109†Thapa dynasty】.^{【161†[21]】} Bal Narsingh Kunwar was the son of Kaji 【162†Ranajit Kunwar】 and grandson of 【155†Sardar】 【124†Ram Krishna Kunwar】,^{【163†[22]】} who was prominent military general of King 【126†Prithvi Narayan Shah】.^{【164†[23]】}^{【165†[24]】} Ram Krishna Kunwar was born to Ahiram Kunwar.^{【163†[22]】} There were ample of rewards and recognitions received by Sardar Ram Krishna Kunwar from the Gorkhali monarch Prithvi Narayan.^{【166†[25]】} His grandson Bal Narsingh was initially a follower of the renounced King 【167†Rana Bahadur Shah】 and Kaji 【111†Bhimsen Thapa】, and followed the King in his exile to 【168†Banaras】 on 1 May 1800.^{【169†[26]】} On the night of 25 April 1806, King Rana Bahadur was killed by step-brother Sher Bahadur in desperation after which Bal Narsingh immediately killed the King's assassin.^{【170†[27]】}^{【171†[28]】}^{【172†[29]】} He was a close ally of the influential minister Bhimsen Thapa,^{【170†[27]】} who initiated a great massacre at Bhandarkhal garden following the chaos from the King's murder.^{【173†[30]】}^{【174†[31]】}^{【175†[32]】} Following closeness to Mukhtiyar Bhimsen, he became the son-in-law of Bhimsen's brother Kaji 【176†Nain Singh Thapa】 of 【109†Thapa dynasty】.^{【114†[5]】} The close relatives and supporters of Thapa faction replaced the old courtiers and administrators.^{【173†[30]】} The Kunwar family came to power being relatives of powerful Mukhtiyar Bhimsen Thapa.
+L189: Similarly, Kunwars were related to 【115†Pande dynasty】 by their maternal grandmother Rana Kumari Pande who was daughter of 【177†Mulkaji】 【178†Ranajit Pande】.^{【114†[5]】}
+L190: ### Rise of Jung Bahadur
+L191: 
+L192: Portrait of 【88†Jung Bahadur Kunwar Ranaji】, founder of Rana dynasty
+L193: Bal Narsingh's son Kaji 【116†Jang Bahadur Rana】 became a significant person in the central politics of Nepal during the prime ministership of his uncle 【179†Mathabar Singh Thapa】.^{【164†[23]】} On 17 May 1845 around 11 pm, Mathabar Singh was summoned to the royal palace and was assassinated in a cold blood by Jung Bahadur on the royal orders.^{【164†[23]】} He was considered to have been merciless, ruthless and fatal due to his association with Mathabar Singh.^{【164†[23]】} Jung Bahadur was made a 【180†Kaji】 (equivalent to minister) after following the order of assassination of Mathabar.^{【108†[9]】}
+L194: On the night of 14 September 1846, Queen 【181†Rajya Lakshmi Devi】 summoned the courtiers on the mysterious murderer of her aide General Kaji 【182†Gagan Singh】, to which courtiers hurried to the Kot quickly.^{【183†[33]】} Many of the courtiers were unarmed except for a sword, as they had responded immediately to the royal summons. The armies allocated by 【88†Jung Bahadur Rana】 also had taken most of the arms of courtiers who had managed to bring them.
+L195: Queen Rajya Lakshmi Devi and King 【184†Rajendra Bikram Shah】 were also present in the Kot.^{【185†[34]】} Queen Rajya Lakshmi demanded the execution of Kaji Bir Keshar (Kishor) Pande on alleged suspicion to which General 【186†Abhiman Singh Rana Magar】 looked towards King for confirmation. Jang misinformed Queen that Abhiman Singh's troops were arriving for overpowering the Queen's faction and demanded an immediate arrest.^{【108†[9]】} Abhiman tried to force his way out and was killed by Jung's soldier.
+L196: In the chaos followed, Jung and his brothers began bloodshed and many rival nobles and courtiers were eliminated by them.^{【187†[35]】} The letter to British Resident 【188†Henry Montgomery Lawrence】 stated that there were 32 Bharadars (courtiers) killed in the massacre.^{【189†[36]】}
+L197: ### Kot massacre episode
+L198: 
+L199: Further information: 【190†1846 Bhandarkhal massacre】
+L200: When Jang Bahadur refused the Junior Queen's request to place Prince Ranendra in the place of Crown Prince 【191†Surendra】, the Queen secretly contacted the victims of Kot and conspired to assassinate Jung Bahadur in the royal Bhandarkhal garden. After receiving a command from the Queen to come to Bhandarkhal, Jang Bahadur took his fully armed troops and headed towards the garden.
+L201: The troops killed the chief conspirator, Birdhwaj Basnyat on the way, and marched towards Bhandarkhal where seeing Jang Bahadur approach fully armed with his troops, the other conspirators started to flee. 23 people were killed in the massacre while 15 escaped.^{【192†[37]】} On 23 September 1846, all officers of military and bureaucracy were called upon to their respective offices within 10 days.
+L202: Then, Jung Bahadur appointed his brothers and nephews to the highest ranks of the government.^{【193†[38]】} He consolidated the position of premiership after conducting 【138†Kot massacre】 (Kot Parva) and Bhandarkhal Parva^{【194†[39]】} on the basic templates provided by his maternal 【195†grand-uncle】 Mukhtiyar 【111†Bhimsen Thapa】.^{【113†[10]】}
+L203: ## Rana Regime; Rule of Jang
+L204: After the massacres of Kot and Bhandarkhal, the 【109†Thapas】, 【115†Pandes】, 【196†Basnyats】 and other citizens had settled in 【168†Banaras】. Similarly, some citizens had gone to settle in 【197†Nautanwa】 and 【198†Bettiah】. Chautariya Guru Prasad Shah too had gone to live with the King of Bettiah. After knowing about the presence of the King and the Queen in Benaras, Guru Prasad went there and started to congregate an army and a plan to execute Jung Bahadur started to be formed.^{【193†[38]】}
+L205: ### Battle of Alau
+L206: On 12 May 1847, Jung Bahadur gave a speech in 【199†Tundikhel】. There he accused the King of the attempted assassination of the Prince and the Prime Minister. The Council then decided to dethrone King Rajendra deeming him mentally ill, and on the same day 【191†Surendra】 was crowned as the new king of Nepal. Hearing the news of the coronation of Surendra, Rajendra decided to take the responsibility of removing Jung Bahadur upon himself and declaring himself as the leader of the army, he left Benaras.
+L207: Rajendra then appointed Guru Prasad Shah as the Chief of the Army for the operation of removal of Jung Bahadur Rana from Nepal and started to accumulate weapons and training the troops. Antagonism from the 【200†British-India Company】 forced Rajendra and his troops to enter Nepal. On 23 July, the troops reached a village called 【201†Alau】 in Bara and set a camp there. One spy group of the Government of Nepal was keeping close eyes on the event of the rebel groups at 【198†Bettiah】.
+L208: They sent the news to Jung Bahadur, immediately after which he sent a troop in the leadership of Sanak Singh Tandon to Alau. They were told to suppress the rebellions, arrest Rajendra and bring him to Kathmandu. On 27 July, the Gorakhnath Paltan (Gorakhnath Battalion) reached and rested in a village called 【202†Simraungadh】, not too far from Alau. The battle of Alau was a decisive one between the forces of King Rajendra and Jang Bahadur. The King lost significantly in the battle.
+L209: If the massacre of Kot had established Jung Bahadur as a dictator, the battle of Alau had helped him strengthen his dictatorship. Rajendra was imprisoned in an old palace in Bhaktapur.^{【193†[38]】}
+L210: ### Rise to royalty
+L211: On 15 May 1848, a lal mohar (royal seal) was issued, issued claiming descent for the Kunwars/self-style Ranas from 【203†Ranas of Mewar】 and authorizing the Kunwar family of Jang Bahadur to style themselves as Kunwar Ranaji.^{【204†[40]】} On 6 August 1856, Jang Bahadur Kunwar (now Ranaji) was conferred the title of 【205†Maharaja】 (Great King) of 【206†Lamjang and Kaski】, two former hill principalities, by King of Nepal, 【207†Surendra Bikram Shah】.
+L212: This was done through indirect control of the king via his wife 【208†Queen Trailokya】, and through threats against the king.^{【209†[41]】} Before this, the Ranas had merely been regarded as Khas-Chhetris, and had had no pretensions to any kind of royal origin.^{【118†[11]】}
+L213: ## Rana Regime; Rule of the Shamshers
+L214: 
+L215: 【210†Bir Shumsher Jang Bahadur Rana】, the first Shumsher Rana ruler
+L216: In 1885, the Shumsher family, the nephews of 【88†Jung Bahadur Kunwar Rana】, murdered many of the sons of 【211†Jung Bahadur】 and took over Nepal in a military 【212†coup d'état】 thus bringing in the rule of the Shumsher Rana family also known as the Satra Bhai (17 brothers) Rana family. They murdered 【213†Ranodip Singh Kunwar】 and occupied the hereditary throne of Prime Minister.
+L217: After this they added 【214†Jang Bahadur】 to their name, although they were descended from Jang's younger brother Dhir Shumsher.^{【114†[5]】}
+L218: ## Kunwar family tree
+L219:  | This section does not 【215†cite】 any 【75†sources】. Please help 【76†improve this section】 by 【77†adding citations to reliable sources】. Unsourced material may be challenged and 【78†removed】. (June 2020) (【85†Learn how and when to remove this message】)
+L220:  |  |  |  |  |  |  |  |  |  |  |  | 【124†Ram Krishna Kunwar】  |
+L221:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L222:  |  |  |  |  |  |  |  |  |  |  |  | 【162†Ranajit Kunwar】  |  |
+L223:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L224:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L225: 【158†Bal Narsingh Kunwar】  |  |  |  |  |  |  |  | Balaram Kunwar  |  |  |  |  |  | Rewant Kunwar
+L226:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L227:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L228: Bhakta Bir Kunwar  |  | 【116†Jang Bahadur Rana】  |  | 【216†Bam Bahadur Rana】  |  | 【217†Badri Narsingh Rana】  |  | 【218†Krishna Bahadur Rana】  |  | 【213†Ranauddip Singh】  |  | 【219†Jagat Shumsher Rana】  |  | 【220†Dhir Shamsher Rana】
+L229: The relation between the Thapa, Kunwar, Rana, Pandey, and Shah families of Nepal showcasing the transfer of power throughout the history of Nepal.
+L230: The chart to the right shows the transition from 【121†Kunwar】 to Rana. The 【221†Rana family】 has married into the royal family multiple times, as shown. The dark blue boxes represent the people who have held the position of 【136†prime minister】 or some equivalent position. 【88†Jung Bahadur Rana】 is the maternal grandson of 【176†Nain Singh Thapa】 and the paternal grandson of 【162†Ranajit Kunwar】.
+L231: ## Rana Prime Ministers
+L232: 
+L233: Further information: 【222†Succession to the Nepalese throne】
+L234: 
+L235: Nine Rana rulers took the hereditary office(s) of Prime Minister, Supreme Commander-in-Chief and Grand Master of the Royal Orders. All were crowned as the Maharaja of 【223†Lamjung】 and 【224†Kaski】.
+L236:   * 【162†Ranajit Kunwar】 Rana (1723–1815)
+L237:     * 【158†Bal Narsingh Kunwar】 Rana (1783–1841)
+L238:       * I. Shrī Tīn 【88†Jung Bahadur Kunwar Rana】 【225†GCB】, 【226†GCSI】 (18 June 1816 – 25 February 1877). Prime Minister and C-in-C 15 September 1846 to 1 August 1856 and from 28 June 1857 until his death. Granted the hereditary title of Rana on 5 May 1848, as a suffix to the male members of his family.
+L239: Granted the hereditary title of Maharaja of Lamjung and Kaski (to be enjoyed ‘offspring to offspring’, and the hereditary offices of Prime Minister and C-in-C (to be enjoyed in succession by his surviving brothers, his sons, then his nephews), 6 August 1856. Received a 【227†salute】 of 19 guns from the 【228†British】.
+L240:       * 【216†Bam Bahadur Kunwar】 Rana (1818 – 25 May 1857; Prime Minister: 1 August 1856 – 25 May 1857)
+L241:       * II. Shrī Tīn 【213†Ranodip Singh Kunwar】 (aka Ranodip Singh Rana) 【226†KCSI】 (3 April 1825 – assassinated 22 November 1885). Ruled 25 February 1877 to 22 November 1885.
+L242:       * General Sri 【229†Dhir Shumsher Kunwar Rana】 (1828–1884)
+L243:         * III. Shrī Tīn 【210†Bir Shumsher Jung Bahadur Rana】 【226†GCSI】 (10 December 1852 – 5 March 1901). Ruled 22 November 1885 to 5 March 1901.
+L244:         * IV. Shrī Tīn 【230†Dev Shumsher Jung Bahadur Rana】 (17 July 1862 – 20 February 1914). Ruled 5 March to 27 June 1901, when as a result of his progressive nature, he was deposed by his relatives and 【231†exiled】 to India.
+L245:         * V. Shrī Tīn 【232†Chandra Shumsher Jung Bahadur Rana】 【225†GCB】, 【226†GCSI】, 【233†GCMG】, 【234†GCVO】 (8 July 1863 – 26 November 1929). Ruled 27 June 1901 to 26 November 1929.
+L246:           * IX. Shrī Tīn 【235†Mohan Shumsher Jung Bahadur Rana】 【225†GCB】, 【226†GCIE】, 【236†GBE】 (23 December 1885 – 6 January 1967). Ruled 30 April 1948 to 18 February 1951, at which date he was divested of his titles and later went to 【237†India】.
+L247:         * VI. Shrī Tīn 【238†Bhim Shumsher Jang Bahadur Rana】 【226†GCSI】, 【233†GCMG】, 【234†KCVO】 (16 April 1865 – 1 September 1932). Ruled 26 November 1929 to 1 September 1932.
+L248:           * VIII. Shrī Tīn 【239†Padma Shumsher Jung Bahadur Rana】 【226†GCSI】, 【240†GCIE】, 【236†GBE】, (5 December 1882 – 11 April 1961). Ruled 29 November 1945 to 30 April 1948, whereupon he 【241†abdicated】 in favor of his cousin.
+L249:         * VII. Shrī Tīn 【242†Juddha Shumsher Jung Bahadur Rana】 【225†GCB】, 【226†GCSI】, 【240†GCIE】 (19 April 1875 – 20 November 1952). Ruled 1 September 1932 to 29 November 1945, whereupon he 【243†abdicated】 in favour of his nephew.
+L250: ### Succession
+L251: 
+L252: Succession to the role of the Prime Ministers and the title of Shree Teen Maharaja of Nepal and Maharaja of Lamjung and Kaski was by 【244†agnatic seniority】, by which the oldest male heir among the sons of equal (a-class) marriages in a generation would succeed. The order of succession was determined by seniority, with each eligible male heir holding a military command, as follows:
+L253:   1. Prime Minister and Commander-in-Chief (Mukhtiyar the Heir Apparent, with the rank of Field Marshal).
+L254:   2. Western Commanding-General.
+L255:   3. Eastern Commanding-General.
+L256:   4. Southern Commanding-General.
+L257:   5. Northern Commanding-General.
+L258: ## Notable Rana members
+L259:   * 【88†Jung Bahadur Rana】
+L260:   * 【245†Subarna Shamsher Rana】
+L261:   * 【246†Khadga Shumsher Jung Bahadur Rana】
+L262:   * 【216†Bam Bahadur Kunwar】
+L263:   * 【213†Ranodip Singh Kunwar】
+L264:   * 【247†Baber Shumsher Jung Bahadur Rana】
+L265:   * 【248†Bhim Shumsher Jung Bahadur Rana】
+L266:   * 【210†Bir Shumsher Jung Bahadur Rana】
+L267:   * 【249†Dambar Shumsher Rana】
+L268:   * 【250†Chandra Shumsher Jang Bahadur Rana】
+L269:   * 【230†Dev Shumsher Jung Bahadur Rana】

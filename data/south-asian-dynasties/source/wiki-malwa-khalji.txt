@@ -1,0 +1,312 @@
+Malwa Sultanate - Wikipedia (https://en.wikipedia.org/wiki/Malwa_Sultanate)
+citeturn82view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Malwa_Sultanate","lineno":null}); Total lines: 310
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 History】 Toggle History subsection
+L50:     * 【19†1.1 Ghurid dynasty】
+L51:     * 【20†1.2 Khalji dynasty】
+L52:     * 【21†1.3 Muzaffarid conquest】
+L53:     * 【22†1.4 Restored Khalji dynasty】
+L54:   * 【23†2 Art】
+L55:   * 【24†3 List of rulers】
+L56:   * 【25†4 See also】
+L57:   * 【26†5 Notes】
+L58:   * 【27†6 External links】
+L59: 
+L60: [Input] Toggle the table of contents
+L61: # Malwa Sultanate
+L62: 
+L63: [Input] 22 languages
+L64:   * 【28†العربية†ar.wikipedia.org】
+L65:   * 【29†تۆرکجه†azb.wikipedia.org】
+L66:   * 【30†বাংলা†bn.wikipedia.org】
+L67:   * 【31†Català†ca.wikipedia.org】
+L68:   * 【32†Deutsch†de.wikipedia.org】
+L69:   * 【33†فارسی†fa.wikipedia.org】
+L70:   * 【34†Français†fr.wikipedia.org】
+L71:   * 【35†हिन्दी†hi.wikipedia.org】
+L72:   * 【36†Bahasa Indonesia†id.wikipedia.org】
+L73:   * 【37†Italiano†it.wikipedia.org】
+L74:   * 【38†日本語†ja.wikipedia.org】
+L75:   * 【39†ಕನ್ನಡ†kn.wikipedia.org】
+L76:   * 【40†한국어†ko.wikipedia.org】
+L77:   * 【41†മലയാളം†ml.wikipedia.org】
+L78:   * 【42†پنجابی†pnb.wikipedia.org】
+L79:   * 【43†Русский†ru.wikipedia.org】
+L80:   * 【44†தமிழ்†ta.wikipedia.org】
+L81:   * 【45†Türkçe†tr.wikipedia.org】
+L82:   * 【46†Українська†uk.wikipedia.org】
+L83:   * 【47†اردو†ur.wikipedia.org】
+L84:   * 【48†Oʻzbekcha / ўзбекча†uz.wikipedia.org】
+L85:   * 【49†中文†zh.wikipedia.org】
+L86: 【50†Edit links†www.wikidata.org】
+L87: 
+L88:   * 【51†Article】
+L89:   * 【52†Talk】
+L90: 
+L91: [Input] English
+L92: 
+L93:   * 【51†Read】
+L94:   * 【53†Edit】
+L95:   * 【54†View history】
+L96:   * 【17†Save】
+L97: 
+L98: [Input] Tools
+L99: 
+L100: Tools
+L101: 
+L102: [Button: move to sidebar] [Button: hide]
+L103: 
+L104: Actions
+L105: 
+L106:   * 【51†Read】
+L107:   * 【53†Edit】
+L108:   * 【54†View history】
+L109:   * 【17†Save】
+L110: 
+L111: General
+L112: 
+L113:   * 【55†What links here】
+L114:   * 【56†Related changes】
+L115:   * 【57†Upload file】
+L116:   * 【58†Permanent link】
+L117:   * 【59†Page information】
+L118:   * 【60†Cite this page】
+L119:   * 【61†Get shortened URL】
+L120:   * 【62†Switch to legacy parser】
+L121: Print/export
+L122: 
+L123:   * 【63†Download as PDF】
+L124:   * Printable version
+L125: 
+L126: In other projects
+L127: 
+L128:   * 【64†Wikimedia Commons†commons.wikimedia.org】
+L129:   * 【65†Wikiquote†en.wikiquote.org】
+L130:   * 【66†Wikidata item†www.wikidata.org】
+L131: 
+L132: Appearance
+L133: 
+L134: [Button: move to sidebar] [Button: hide]
+L135: Malwa Sultanate سلطنت مالوا
+L136: ---
+L137: 1401–1562
+L138: Malwa Sultanate under the Ghurid dynasty Malwa Sultanate under the Khalji dynasty.^{【67†[1]】}
+L139: Capital  | 【68†Dhar】 (1401–1406)
+L140: 【69†Mandu】 (1406–1562)
+L141: Common languages  | 【70†Persian】 (official)
+L142: Religion  | 【71†Sunni Islam】
+L143: Government  | 【72†Absolute monarchy】
+L144: 【73†Sultan】  |
+L145: • 1401 – 1406  | 【74†Dilawar Khan】 (first)
+L146: • 1555 – 1562  | 【75†Baz Bahadur】 (last)
+L147: History  |
+L148: • Established  | 1401
+L149: • 【76†Muzaffar Shah's invasion of Malwa】  | 1407
+L150: • 【77†Kalpi War】  | 1413–1444
+L151: • 【78†Malwa–Bahmani Wars】  | 1425–1466
+L152: • 【79†Siege of Mandu (1518)】  | 1518
+L153: • 【80†Battle of Gagron】  | 1519
+L154: • 【81†Mughal conquest of Malwa】  | 1562
+L155: Preceded by Succeeded by
+L156: 【82†Image†upload.wikimedia.org】 【83†Delhi Sultanate】
+L157: 【82†Image†upload.wikimedia.org】 【84†Kherla kingdom】
+L158: 【82†Image†upload.wikimedia.org】 【85†Kingdom of Kalpi】
+L159: 【86†Malwa Subah】 【82†Image†upload.wikimedia.org】
+L160: 【87†Gujarat Sultanate】 【82†Image†upload.wikimedia.org】
+L161: Today part of  | 【88†India】
+L162: The Malwa Sultanate^{【89†[n 1]】} was a late medieval kingdom in the 【90†Malwa region】, covering the present day 【91†Indian states】 of 【92†Madhya Pradesh】 and south-eastern 【93†Rajasthan】 from 1401 to 1562. It was founded by the 【94†Afghan】 【74†Dilawar Khan】, who following 【95†Timur】's invasion and the disintegration of the Delhi Sultanate, in 1401, made Malwa an independent realm.
+L163: Malwa was 【76†invaded】 and occupied by 【96†Muzaffar Shah】 of 【87†Gujarat】 in 1407 and restored in 1408 AD.
+L164: Following the 【80†Battle of Gagron】 in 1519, much of the Sultanate came under the brief control of 【97†Maharana of Mewar】 【98†Rana Sanga】,^{【99†[2]】} and he appointed one of his vassals, 【100†Medini Rai】, to rule over the Sultanate.^{【101†[3]】} In 1562, the Sultanate was conquered from its last ruler, 【75†Baz Bahadur】, by the 【102†Mughal Empire】 under 【103†Akbar the Great】, and it became a 【86†subah】 of the empire.
+L165: The Sultanate was predominantly ruled by Afghan and Turco-Afghan dynasties throughout its existence.
+L166: ## History
+L167: 
+L168: [【104†edit】]
+L169: 
+L170: Depiction of a "Ghurid tyrant". 【105†Bustan】 of 【106†Sa‘di】 (1257). Copy from 【69†Mandu】, Malwa Sultanate, India, c. 1500
+L171: 【74†Dilawar Khan Ghuri】 was an 【94†Afghan】^{【107†[4]】} governor of the 【83†Delhi Sultanate】. Dilawar Khan had ceased to pay tribute to Delhi after 1392.^{【108†[5]】} In 1437, the Ghurid dynasty of Dilawar Khan was overthrown by 【109†Mahmud Khan】, a 【110†Khalji】 Afghan descendant of the 【111†Khalji dynasty】 of the 【83†Delhi Sultanate】.^{【112†[6]】}^{【113†[7]】}^{【114†[8]】} After the Khaljis were deposed, it was ruled by Shujaat Khan, an Afghan governor of Malwa under 【115†Sher Shah Suri】.
+L172: Shujaat Khan's son, 【75†Baz Bahadur】 declared independence in 1555, and ruled until the end of the Malwa Sultanate.^{【116†[9]】}^{【117†[10]】}
+L173: ### Ghurid dynasty
+L174: 
+L175: [【118†edit】]
+L176: 
+L177: 【119†Hoshang Shah】's Tomb in 【69†Mandu】
+L178: The sultanate of 【90†Malwa】 was founded by 【74†Dilawar Khan Ghuri】, the Afghan governor of Malwa for the 【83†Delhi Sultanate】, who asserted his independence in 1392 and founded a "Ghurid dynasty", but did not actually assume the ensigns of royalty till 1401.^{【107†[4]】} Initially 【68†Dhar】 was the capital of the new kingdom, but soon it was shifted to 【69†Mandu】, which was renamed Shadiabad (the city of joy).
+L179: After his death, he was succeeded by his son 【120†Alp Khan】, who assumed the title of Hoshang Shah.
+L180: The Muzaffarids under 【96†Zafar Khan Muzaffar Shah I】 accused Hoshang of 【121†parricide】 and invaded Malwa. Hoshang was defeated and captured as a prisoner, while a Muzaffarid governor was appointed at 【68†Dhar】.^{【122†[11]】}
+L181: ### Khalji dynasty
+L182: 
+L183: [【123†edit】]
+L184: The Ghurid dynasty, founded by Dilawar Khan Ghuri, was replaced by 【109†Mahmud Shah I】, the Afghan who proclaimed himself king on 16 May 1436. The Khalji dynasty, founded by him, ruled over Malwa till 1531. Mahmud Shah I was related to the Khalji dynasty of Delhi, as his great-great-great-great grandfather, Malik Nasiruddin, was a cousin of 【124†sultan】 【125†Jalaluddin Khalji】, and was given the iqta of Amroha as his jagir.
+L185: Mahmud was also a grandnephew of 【74†Dilawar Khan】, the first sultan, through his sister. His father, Malik Mughlith, himself a nephew of Dilawar, played a key role in restoring his maternal cousin Hushang Shah to the throne after it had been seized by 【126†Ahmad Shah I】.
+L186: Mahmud had distinguished himself as a capable military commander, earning the title Khan from Hushang Shah in 1419 at the age of sixteen, who also gave him his daughter in marriage.^{【127†[12]】} Following Hushang’s death, Mahmud supported the accession of his oldest surviving son, Ghazni Khan, who took the regnal name Muhammad Shah. However, relations between the two deteriorated, as Muhammad Shah grew increasingly suspicious and repeatedly demanded assurances of Mahmud’s loyalty.
+L187: When Muhammad Shah allegedly began plotting his assassination, Mahmud pre-empted him by having him poisoned. Muhammad’s thirteen-year-old son, Masud, was briefly placed on the throne, but Mahmud soon attacked the palace, deposed the young ruler, and seized power for himself, ascending the throne on 14 May 1436.^{【128†[13]】}
+L188: Preparation of 【129†Samosa】 for 【130†Ghiyath al-Din】 (r.1469-1500), Sultan of Malwa, at Mandu
+L189: 
+L190: 【109†Mahmud Khalji】 I was succeeded by his eldest son 【130†Ghiyas-ud-Din】. The last days of Ghiyas-ud-Din were embittered by a struggle for throne between his two sons, with Nasir-ud-Din emerging victorious over Ala-ud-Din and ascending the throne on 22 October 1510.
+L191: ### Muzaffarid conquest
+L192: 
+L193: [【131†edit】]
+L194: 
+L195: Main articles: 【79†Siege of Mandu (1518)】 and 【80†Battle of Gagron】
+L196: Since 1518, 【132†Mahmud Shah II】 became dependent on 【133†Bahadur Shah】.
+L197: The last ruler 【132†Mahmud Shah II】 surrendered to Bahadur Shah, the 【134†sultan of Gujarat】 after the fort of Mandu fell to Bahadur on 25 May 1531.^{【117†[10]】} The sultanate saw heavy decline in 1519 after the continues invasions of 【135†Rajput】 chief 【98†Rana Sanga】 of 【136†Mewar】.^{【137†[14]】} During 1531 – 1537 the kingdom was annexed under the control of Bahadur Shah, though the 【102†Mughal】 emperor 【138†Humayun】 captured it for a short period during 1535–36.
+L198: The Gujaratis regained Malwa giving allegiance to Bahadur Shah until 1542.
+L199: ### Restored Khalji dynasty
+L200: 
+L201: [【139†edit】]
+L202: 
+L203: In 1537, Qadir Shah, an ex-officer of the previous Khalji dynasty rulers, regained control over a part of the erstwhile kingdom.^{【140†[15]】} But in 1542, 【115†Sher Shah Suri】 conquered the kingdom, defeating him and appointed Shuja'at Khan as the governor. His son, 【75†Baz Bahadur】, declared himself independent in 1555. Darya Khan Gujarati, the ex-Wazir of Mahmud Khan of Gujarat ruled Ujjain.^{【116†[9]】}
+L204: In 1561, emperor 【103†Akbar】 sent the Mughal army, led by 【141†Adham Khan】 and Pir Muhammad Khan, which attacked 【90†Malwa】 and defeated Baz Bahadur in the battle of 【142†Sarangpur】 on 29 March 1561, culminating in the 【81†Mughal conquest of Malwa】. Akbar soon recalled Adham Khan and made over command to Pir Muhammad.
+L205: Pir Muhammad attacked 【143†Khandesh】 and proceeded up to 【144†Burhanpur】, but he was defeated by a coalition of three powers: 【145†Miran Mubarak Shah II】 of 【143†Khandesh】, Tufal Khan of 【146†Berar Sultanate】 and Baz Bahadur. Pir Muhammad died while retreating. The confederate army pursued the Mughals and drove them out of Malwa. Baz Bahadur regained his kingdom for a short period. In 1562, Akbar sent another army, led by Abdullah Khan, an Uzbeg, which finally defeated Baz Bahadur.
+L206: He fled to 【147†Chittor】.^{【148†[16]】} It became the 【86†Malwa Subah】 (top-level province) of the Mughal empire, with seat at 【149†Ujjain】 and Abdullah Khan became its first governor.
+L207: ## Art
+L208: 
+L209: [【150†edit】]
+L210: 
+L211: An illustration from the manuscript of the 【151†Nimat Nama】
+L212: Many remarkable illustrated manuscripts were prepared during the period of the sultanate. An illustrated manuscript of Kalpa Sutra (1439) (presently in the National Museum, Delhi) was prepared in Mandu during the reign of Mahmud Shah I^{【152†[17]】} But the most interesting is a manuscript of the 【151†Nimat Nama】, a treatise on the art of cooking, which bears many portraits of Ghiyas-ud-Din Shah but the colophon bears the name of Nasir-ud-Din Shah.
+L213: The other notable illustrated manuscripts of this period are of the Miftah-ul-Fuzala, a dictionary of rare words, the Bustan (1502) painted by Haji Mahmud and the Aja'ib-us-San'ati (1508). Another manuscript of the Anwar-i-Suhaili (now in the National Museum, Delhi) probably also belong to this period.^{【153†[18]】}
+L214: ## List of rulers
+L215: 
+L216: [【154†edit】]
+L217: 
+L218: Main article: 【155†List of sultans of Malwa】
+L219: 
+L220: See also: 【156†List of rulers of Malwa】
+L221: 
+L222: ## See also
+L223: 
+L224: [【157†edit】]
+L225: 
+L226:   * 【158†Mandsaur】
+L227:   * 【69†Mandu】
+L228:   * 【159†Mewar–Malwa conflicts】
+L229:   * 【160†History of Madhya Pradesh】
+L230: 
+L231: Kingdom of Malwa
+L232: 
+L233:   * 【161†Aulikaras】
+L234:   * 【162†Second Aulikara dynasty】
+L235:   * 【163†Paramara dynasty】
+L236: ## Notes
+L237: 
+L238: [【164†edit】]
+L239:   1. 【165†↑】 Schwartzberg, Joseph E. (1978). 【166†A Historical atlas of South Asia†dsal.uchicago.edu】. Chicago: University of Chicago Press. p. 148, map XIV.4 (b). 【167†ISBN】 【168†0226742210】.
+L240:   2. 【169†↑】 Sharma, Dasharatha (1970). 【170†Lectures on Rajput History and Culture†books.google.com】. Motilal Banarsidass. p. 27. 【167†ISBN】 【171†978-0-8426-0262-4】.
+L241:   3. 【172†↑】 Chaurasia, Radhey Shyam (2002). 【173†History of Medieval India: From 1000 A.D. to 1707 A.D.†books.google.com】 Atlantic Publishers & Dist. p. 156. 【167†ISBN】 【174†978-81-269-0123-4】.
+L242:   4. 【175†1】 【176†2】 Haig, T.W. & Islam, Riazul (1991). 【177†"Mālwā"†referenceworks.brillonline.com】. In 【178†Bosworth, C. E.】; 【179†van Donzel, E.】 & 【180†Pellat, Ch.】 (eds.). 【181†The Encyclopaedia of Islam, Second Edition】. Volume VI: Mahk–Mid. Leiden: E. J. Brill. 【167†ISBN】 【182†978-90-04-08112-3】.
+L243:   5. 【183†↑】 Islam, Riazul; 【184†Bosworth, C. E.】 (1998). "Delhi Sultanate". History of civilizations of Central Asia, v. 4: The Age of achievement, A.D. 750 to the end of the fifteenth century; Pt. I: the historical, social and economic setting. UNESCO Publishing. p. 285.
+L244:   6. 【185†↑】 Wink, André (2004). 【186†Indo-Islamic society: 14th - 15th centuries†books.google.com】. BRILL. p. 140. 【167†ISBN】 【187†90-04-13561-8】. "The Subsequent Khalji dynasty (1436-1531) had the same origin as the Khalji dynasty of Delhi..."
+L245:   7. 【188†↑】 Hadi, Nabi (1995). 【189†Dictionary of Indo-Persian Literature†books.google.com】. Abhinav Publications. 【167†ISBN】 【190†978-81-7017-311-3】. "Originally he belonged to a neighborhood of Bukhara, and after much wandering across the cities of the Islamic world, at last, came to settle in Mandu, capital city of the Independent Sultans of Malwah claiming descent from the Khalji clan, the Turko-Afghan mixture."
+L246:   8. 【191†↑】 Lee, Jonathan (2019). Afghanistan: A History from 1260 to the Present. Reaktion Books. p. 55. 【167†ISBN】 【192†9781789140101】.
+L247:   9. 【193†1】 【194†2】 V. S. Krishnan · (1982). 【195†Madhya Pradesh District Gazetteers: Ujjain†books.google.com】. p. 46.
+L248:   10. 【196†1】 【197†2】 Majumdar, R.C. (ed.) (2006). The Delhi Sultanate, Mumbai: Bharatiya Vidya Bhavan, pp. 173-186
+L249:   11. 【198†↑】 Publications Division. 【199†India - Medieval History (A.D.1206-1761)†books.google.com】. Publications Division Ministry of Information & Broadcasting. 【167†ISBN】 【200†9788123026374】.
+L250:   12. 【201†↑】 Day, Upendra Nath (1965). 【202†Medieval Malwa: a Political and Cultural History, 1401–1562†archive.org】. Delhi: Munshi Ram Manohar Lal. p. 86-90.
+L251:   13. 【203†↑】 【204†Day 1965】, pp. 67–85, 93.
+L252:   14. 【205†↑】 【206†Dasharatha Sharma】 (1970). 【170†Lectures on Rajput History and Culture†books.google.com】. Motilal Banarsidass. p. 27. 【167†ISBN】 【171†978-0-8426-0262-4】. "Early 16th century marks the rise of patriotic one eyed chief of Mewar named as Rana Sanga who defeat several of his neighbour kingdom and establish Rajput hold on Malwa first time after fall of Parmara dynasty through series of victories over Malwa, Gujarat and Delhi Sultanate"
+L253:   15. 【207†↑】 Kolff, Dirk H. A. (2002). Naukar, Rajput, and Sepoy: The Ethnohistory of the Military Labour Market of Hindustan, 1450-1850. Cambridge: Cambridge University Press. p. 103. 【167†ISBN】 【208†9780521523059】.
+L254:   16. 【209†↑】 Majumdar, R.C. (ed.) (2007) The Mughul Empire, Mumbai: Bharatiya Vidya Bhavan, 【167†ISBN】 【210†81-7276-407-1】 `{{【211†isbn】}}`: ignored ISBN errors (【212†link】), pp.112-3
+L255:   17. 【213†↑】 Khare, M.D. (ed.) (1981). Malwa through the Ages, Bhopal: the Directorate of Archaeology & Museums, Government of M.P., pp.193-5
+L256:   18. 【214†↑】 Majumdar, R.C. (ed.) (2007). The Mughul Empire, Mumbai:Bharatiya Vidya Bhavan, 【167†ISBN】 【210†81-7276-407-1】 `{{【211†isbn】}}`: ignored ISBN errors (【212†link】), pp.804-5
+L257:   1. 【215†↑】 【70†Persian】: سلطنت مالوا
+L258: ## External links
+L259: 
+L260: [【216†edit】]
+L261: 
+L262: 【217†Image†thumb.wikimedia.org】
+L263: 
+L264: Wikiquote has quotations related to 【218†Malwa Sultanate†en.wikiquote.org】.
+L265: 
+L266:   * 【219†Coins of the Malwa Sultanate†coinindia.com】 at the Coin India Galleries
+L267: 
+L268: 【220†Image】
+L269: 
+L270: Retrieved from "【58†https://en.wikipedia.org/w/index.php?title=Malwa_Sultanate&oldid=1380447288】"
+L271: 
+L272: 【221†Categories】:
+L273: 
+L274:   * 【222†Malwa Sultanate】
+L275:   * 【223†History of Ujjain】
+L276:   * 【224†States and territories disestablished in the 1560s】
+L277: 
+L278: Hidden categories:
+L279:   * 【225†Articles with short description】
+L280:   * 【226†Short description matches Wikidata】
+L281:   * 【227†Use dmy dates from March 2017】
+L282:   * 【228†Use Indian English from March 2017】
+L283:   * 【229†All Wikipedia articles written in Indian English】
+L284:   * 【230†Articles containing Persian-language text】
+L285:   * 【212†Ignored ISBN errors】
+L286:   * This page was last edited on 15 October 2026, at 19:31 (UTC).
+L287:   * Page was rendered with 【231†Parsoid†www.mediawiki.org】.
+L288:   * Text is available under the 【232†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【233†Terms of Use†foundation.wikimedia.org】 and 【234†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【235†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L289:   * 【234†Privacy policy†foundation.wikimedia.org】
+L290:   * 【5†About Wikipedia】
+L291:   * 【236†Disclaimers】
+L292:   * 【6†Contact Wikipedia】
+L293:   * 【237†Legal & safety contacts†foundation.wikimedia.org】
+L294:   * 【238†Code of Conduct†foundation.wikimedia.org】
+L295:   * 【239†Developers†developer.wikimedia.org】
+L296:   * 【240†Statistics†stats.wikimedia.org】
+L297:   * 【241†Cookie statement†foundation.wikimedia.org】
+L298:   * Search
+L299: 
+L300: [Input: Search Wikipedia]
+L301: 
+L302: [Input]
+L303: 
+L304: [Button: Search]
+L305: 
+L306: [Input] Toggle the table of contents
+L307: 
+L308: Malwa Sultanate
+L309: 22 languages 【17†Add topic】

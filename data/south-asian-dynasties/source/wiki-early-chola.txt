@@ -1,0 +1,280 @@
+Early Cholas - Wikipedia (https://en.wikipedia.org/wiki/Early_Cholas)
+citeturn92view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Early_Cholas","lineno":null}); Total lines: 278
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Sources】
+L50:   * 【19†2 Early Cholas】
+L51:   * 【20†3 Cholas in Sangam literature】 Toggle Cholas in Sangam literature subsection
+L52:     * 【21†3.1 Karikala Chola】
+L53:     * 【22†3.2 Nalankilli and Nedunkilli】
+L54:     * 【23†3.3 Kocengannan】
+L55:   * 【24†4 Social conditions】
+L56:   * 【25†5 See also】
+L57:   * 【26†6 Notes】
+L58:   * 【27†7 References】
+L59: 
+L60: [Input] Toggle the table of contents
+L61: # Early Cholas
+L62: 
+L63: [Input] 8 languages
+L64: 
+L65:   * 【28†Bahasa Indonesia†id.wikipedia.org】
+L66:   * 【29†ಕನ್ನಡ†kn.wikipedia.org】
+L67:   * 【30†한국어†ko.wikipedia.org】
+L68:   * 【31†Lietuvių†lt.wikipedia.org】
+L69:   * 【32†മലയാളം†ml.wikipedia.org】
+L70:   * 【33†Bahasa Melayu†ms.wikipedia.org】
+L71:   * 【34†தமிழ்†ta.wikipedia.org】
+L72:   * 【35†తెలుగు†te.wikipedia.org】
+L73: 
+L74: 【36†Edit links†www.wikidata.org】
+L75: 
+L76:   * 【37†Article】
+L77:   * 【38†Talk】
+L78: 
+L79: [Input] English
+L80: 
+L81:   * 【37†Read】
+L82:   * 【39†Edit】
+L83:   * 【40†View history】
+L84:   * 【17†Save】
+L85: 
+L86: [Input] Tools
+L87: 
+L88: Tools
+L89: [Button: move to sidebar] [Button: hide]
+L90: 
+L91: Actions
+L92: 
+L93:   * 【37†Read】
+L94:   * 【39†Edit】
+L95:   * 【40†View history】
+L96:   * 【17†Save】
+L97: 
+L98: General
+L99: 
+L100:   * 【41†What links here】
+L101:   * 【42†Related changes】
+L102:   * 【43†Upload file】
+L103:   * 【44†Permanent link】
+L104:   * 【45†Page information】
+L105:   * 【46†Cite this page】
+L106:   * 【47†Get shortened URL】
+L107:   * 【48†Switch to legacy parser】
+L108: 
+L109: Print/export
+L110: 
+L111:   * 【49†Download as PDF】
+L112:   * Printable version
+L113: 
+L114: In other projects
+L115: 
+L116:   * 【50†Wikidata item†www.wikidata.org】
+L117: 
+L118: Appearance
+L119: 
+L120: [Button: move to sidebar] [Button: hide]
+L121: The Early Cholas were a 【51†Tamil】 kingdom of the 【52†Chola dynasty】 - pre and post 【53†Sangam period】 (600 BCE–300 CE). It was one of the three main kingdoms of 【54†Tamilakam】. Their early capitals were 【55†Urayur】 or 【56†Tiruchirapalli】 and 【57†Kaveripattinam】. Along with the 【58†Pandyas】 and the 【59†Cheras】, the 【60†Chola】 history goes back to the period when written records were scarce.^{【61†[1]】}
+L122: ## Sources
+L123: 
+L124: [【62†edit】]
+L125: 【63†Ancient】 【64†Tamil Nadu】 contained three monarchical states, headed by kings called Vendhar and several chieftaincies, headed by the chiefs called by the general denomination Vel or 【65†Velir】.^{【66†[2]】} Still lower at the local level there were clan chiefs called kizhar or mannar.^{【67†[3]】} The Tamil area had an independent existence outside the control of these northern empires. The Tamil kings and chiefs were always in conflict with each other mostly over property.
+L126: The royal courts were mostly places of social gathering rather than places of dispensation of authority; they were centres for distribution of resources.^{【68†[4]】}
+L127: The names of the three dynasties, 【52†Cholas】, 【69†Pandyas】, and 【70†Cheras】, are mentioned in the 【71†Pillars of Ashoka】 (inscribed 273–232 BCE) inscriptions, among the kingdoms, which though not subject to 【72†Ashoka】, were on friendly terms with him.^{【73†[5]】}^{【74†[6]】} The king of 【75†Kalinga】, 【76†Kharavela】, who ruled around 150 BCE, mentioned in the famous 【77†Hathigumpha inscription】 of the confederacy of the Tamil kingdoms that had existed for over 100 years.^{【78†[7]】}
+L128: Another source for the available information of the early Cholas is the early Tamil literature of the Sangam Period. 【79†Karikala Chola】 was the most famous early Chola. He is mentioned in a number of poems in the Tamil 【80†Sangam literature】.^{【81†[8]】} There are also brief notices on the Chola country and its towns, ports and commerce furnished by the 【82†Periplus of the Erythraean Sea】 (Periplus Maris Erythraei).
+L129: Periplus is a work by an anonymous 【83†Alexandrian】 merchant, written in the time of 【84†Domitian】 (81–96 CE) and contains precious information of the Chola country. Writing half a century later, the geographer 【85†Ptolemy】 has more to tell us about the Chola country, its port and its inland cities.^{【86†[9]】}
+L130: 【87†Mahavamsa】, a 【88†Buddhist】 text, also recounts a number of conflicts between the inhabitants of 【89†Ceylon】 and the Tamil immigrants from Chola Country.
+L131: Chronicles such as the 【90†Yalpana Vaipava Malai】 and stone inscriptions like Konesar Kalvettu recount that 【91†Kulakkottan】, an early Chola king and descendant of 【92†Manu Needhi Cholan】, was the restorer of the ruined 【93†Koneswaram temple】 and tank at 【94†Trincomalee】 in 438 CE, the 【95†Munneswaram temple】 of the west coast, and as the royal who settled ancient People.^{【96†[10]】}^{【97†[11]】}
+L132: ## Early Cholas
+L133: 
+L134: [【98†edit】]
+L135: 【99†Srirangam Ranganathaswamy temple】 is the largest functioning religious complex in the world and mentioned in the 【80†Sangam literature】 of the 【100†Sangam era】 (500 BCE - 300 CE^{【101†[12]】}), there are mentions in many books like 【102†Akanaṉūṟu】, 【103†Purananuru】, 【104†Paripāṭal】 and 【105†Silapadikaram】.^{【106†[13]】} The temple was first built by the Chola ruler, Dharmavarma.
+L136: The Kaveri river flood destroyed the temple, and later, the early Cholas King 【107†Killivalavan】 rebuilt the temple complex after seeing the Golden Vimana directed by a parrot. Beyond the ancient textual history, archaeological evidence such as inscriptions refer to this temple, and these stone inscriptions are from late 100 BCE to 100 CE. Hence, making it one of the oldest surviving active temple complexes in South India.
+L137: there are many mandapas which were built near the main 【108†Sanctum Sanctorum】 which dates around 100 CE to 300 CE built by 【109†Uraiyur】 【60†Cholas】.
+L138: The inscriptions of the 【110†Medieval Cholas】 are replete with history about the Early Chola kings. The Cholas were looked upon as descended from the sun. These historic incidents speak of the Chola king Kantaman, supposed contemporary of the sage 【111†Agastya】, whose devotion brought the river Kaveri into existence. There is also the story of the king 【112†Manu】 who sentenced his son to death for having accidentally killed a calf.
+L139: Mahavamasa portrays King 【113†Ellaalan】^{【114†[14]】} who was defeated by 【115†Duttha Gamini】 (c. (circa) 3rd century BCE) as the just king who '..had a bell with a rope attached at the head of his bed, so that all who sought redress might ring it..'. King 【116†Sibi】 who rescued a dove from a hawk by giving his own flesh to the hungry hawk was also part of the early Chola history.
+L140: These historic incidents received enormous emphasis in the later Chola period in the long mythical genealogies incorporated into the copper-plate charters of the 10th and 11th centuries. The earliest version of this is found in the 【117†Anbil Plates】 which gives fifteen names before Vijayalaya Cholan including the historical ones of Karikala, Perunarkilli and Kocengannan. The Thiruvalangadu Plate swells this list to forty-four, and the Kanyakumari Plate runs up to fifty-two.
+L141: There are other lists gathered from literary works such as Kalingathuparani. No two of these lists agree, although some names and details are common to all.
+L142: The Chola kings namely Dharmavarcholan and Killivalavan developed the shrine of Srirangam into big temple seen now. They laid the basic foundations and primary Buildings. Killi, Thiru Mangai, Kulasekaran, Rajamahendra and Thiru Vikrama were named in the Sri Ranganathar temple in Tiruchchirappalli as being ancestors of Killivallavan. Dharmavarma was another ancestor of Killivallavan, possibly his father. It is located in the middle of the Trichy town.^{【118†[15]】}^{【119†[16]】}^{【120†[17]】}^{【121†[18]】}
+L143: ## Cholas in Sangam literature
+L144: 
+L145: [【122†edit】]
+L146: 
+L147: See also: 【123†Tamil history from Sangam literature】 and 【80†Sangam literature】
+L148: The earliest Chola kings of whom we have tangible evidence are those mentioned in the Sangam literature, written in the period 600 BCE–300 CE.^{【124†[19]】}^{【125†[20]】} Unfortunately, it has not been possible to piece together an internal chronology of the Sangam works. Due to this, we know of several rulers, but not their chronology. All three kings have been portrayed as fighting the war or involved in feeding both the armies at that legendary war.
+L149: ### Karikala Chola
+L150: 
+L151: [【126†edit】]
+L152: 
+L153: Main article: 【79†Karikala Chola】
+L154: 【127†Karikala Chola】 (c. 90 BCE) stands pre-eminent amongst all those mentioned in 【128†Pattinappaalai】. Karikala's father was 【129†Ilamcetcenni】, a brave king and a hard fighter. 'Karikala' means 'elephant feller' or 'charred leg', which is assumed to be a reference to an accident by fire that befell the prince early in his life. Pattinappaalai describes this accident and the enterprising way in which the prince escaped and established himself in the Chola throne.
+L155: Pattinappalai is a long poem on the then Chola capital 【130†Kaveripattinam】. This work also describes the numerous battles Karikala fought against the other two Tamil kings in one of which the Chera king was disgraced (received a wound on his back) and committed suicide. Karikala thus broke the confederacy that was formed against him and established hegemony over Pandyas and Cheras.
+L156: Kallanai / Grand Anicut built by Karikala Cholan, on the River Kaveri, near Tiruchirappalli
+L157: In later times Karikala was the subject of many legends found in the 【131†Cilappatikaram】 and in inscriptions and literary works of the 11th and 12th centuries. They attribute to him the conquest of the whole of India up to the Himalayas and the construction of the flood banks, 【132†Grand Anicut】, of the 【133†Kaveri River】 with the aid of his feudatories. These legends however are conspicuous by their absence in the works of Sangam.
+L158: Sangam literature notes that the ancestors of Karikalan had the distinction of navigating ships on the ocean using the wind in a region known as Munnir. While Munnir is generally interpreted to mean the sea, ancient Egyptian sculptures and paintings reveal a cultural practice of drawing three water (munnir in Tamil) for ships and seafarers in antiquity. Consequently, Karikalan’s ancestors must have maintained maritime trade routes as far as Egypt.
+L159: Confirming this, many references to Karikalan recorded in Sangam literature can also be found documented in ancient Egyptian paintings and sculptures. (See: Sanga Ilakkiyam (Tamil), Rig Veda, Mahabharata (Sanskrit), Old Testament (Hebrew), Egyptian hieroglyphs, and Greek ἄρχον (Achilles, Osiris, Bhishma and Karikalan), GJHSS Volume 26 Issue H1, 【134†https://socialscienceresearch.org/index.php/GJHSS/article/view/104671†socialscienceresearch.org】)
+L160: ### Nalankilli and Nedunkilli
+L161: 
+L162: [【135†edit】]
+L163: 
+L164: Main articles: 【136†Nalankilli】 and 【137†Nedunkilli】
+L165: 
+L166: The poet Kovur Kilar mentions a protracted civil war between two Chola chieftains 【136†Nalankilli】 and 【137†Nedunkilli】. Nedunkilli shut himself in a fort in Avur, which was being besieged by Mavalattan, Nalankilli's younger brother. The poet chided Nedunkilli to come out and fight like a man instead of causing untold misery to the people of the city.
+L167: In another poem, the poet begs both the princes to give up the civil war as whoever wins, the loser will be a Chola.
+L168: ### Kocengannan
+L169: 
+L170: [【138†edit】]
+L171: 
+L172: Main article: 【139†Kocengannan】
+L173: 
+L174: Kalavali by Poygayar mentions the Chola King Kocengannan and his battle with the Chera king Kanaikkal Irumporai. The Chera was taken prisoner and Poygayar, who was a friend of the Chera, sang a poem praising the Chola King Kochchenganan in 40 stanzas. The Chola king, pleased with the work, released the Chera. Kalavali describes the battle fought at Kalumalam, near the Chera capital. 【139†Kocengannan】 is one of the 63 【140†nayanars】.
+L175: Kocengannan became the subject of many instances in later times and is portrayed as a pious 【141†Siva】 devotee who built many fine temples for Siva along the banks of the river 【142†Kaveri】.
+L176: 
+L177: Sembiyan Cholan
+L178: Numerous references to Sembiyan appear in Sangam literature. He is noted for his renowned chariots and is also praised as the one who relieved the suffering of a dove. In the Silappatikaram, Kannagi mentions that she belongs to the Chola country, and that the fame of her king—who alleviated the suffering of a dove—had spread far beyond Tamil Nadu. The truth of this is substantiated by ancient paintings and sculptures regarding this narrative found in both Indonesia and China.
+L179: Greek researchers themselves have accepted this and published it in their research journals. (See: Greek, Tamil and Sanskrit: Comparison between the Myths of Prometheus, Sembian and Sibi by D. Pugazhendhi, Athens Journal of Philology – Volume 8, Issue 3, September 2021 – Pages 157-180, 【143†https://www.athensjournals.gr/philology/2021-8-3-1-Pugazhendhi.pdf†www.athensjournals.gr】)
+L180: ## Social conditions
+L181: 
+L182: [【144†edit】]
+L183: 
+L184: Main article: 【53†Sangam period】
+L185: 
+L186: Sangam literature gives an unusually complete and true picture of the social and economic conditions during the early Chola period.
+L187: 
+L188: The land of the Cholas was fertile and there was ample food. Sangam poems say that in the Chola country watered by the river Kaveri, in a space in which an elephant could lie, one can produce enough grain to feed seven.
+L189: Hereditary monarchy was the prevailing form of government. Disputed succession and civil war was not uncommon. The sphere of state activity was limited. In a society steeped in respect for custom, even the most perverse dictator could not have done much harm.
+L190: The Chola monarchs were approachable by subjects and justice was meted out directly by the king in most occasions. This is in marked contrast to the magnificent empires of the later Cholas where the Emperor was kept much away from contact with the lay people. The kings often took the field in person in battles and if the kings was killed or wounded in battle, his army immediately gave up the fight and surrendered.
+L191: The trade that flourished between the Chola country and the ancient 【145†Roman Empire】 is given in much detail by Periplus of the Erythraean Sea (c. (circa) 75 CE).^{【146†[21]】}
+L192: ## See also
+L193: 
+L194: [【147†edit】]
+L195: 
+L196:   * 【148†Chola Empire】
+L197:   * 【52†Chola Dynasty】
+L198:   * 【80†Sangam literature】
+L199: ## Notes
+L200: 
+L201: [【149†edit】]
+L202:   1. 【150†↑】 【151†Cholas I†archive.org】.
+L203:   2. 【152†↑】 K.A.N. Sashtri, A History of South India, pp 109–112
+L204:   3. 【153†↑】 'There were three levels of redistribution corresponding to the three categories of chieftains, namely: the Ventar, Velir and Kilar in descending order. Ventar were the chieftains of the three major lineages, viz Cera, Cola and Pandya. Velir were mostly hill chieftains, while Kilar were the headmen of settlements...' —【154†"Perspectives on Kerala History"†web.archive.org】. P.J.Cherian (Ed). Kerala Council for Historical Research.
+L205: Archived from 【155†the original†www.keralahistory.ac.in】 on 26 August 2006. Retrieved 15 November 2006.
+L206:   4. 【156†↑】 K.A.N. Sastri, A History of South India, p 129
+L207:   5. 【157†↑】 'Everywhere within Beloved-of-the-Gods, King Piyadasi's domain, and among the people beyond the borders, the Cholas, the Pandyas, the 【65†Satyaputras】, the Keralaputras, as far as Tamraparni...' —【158†"Ashoka's second minor rock edict"†www.cs.colostate.edu】. Colorado State University. Retrieved 15 November 2006.
+L208:   6. 【159†↑】 K.A.N. Sastri, The CōĻas, 1935 p 20
+L209:   7. 【160†↑】 【161†"Hathigumpha Inscription"†web.archive.org】. Epigraphia Indica, Vol. XX (1929–1930). Delhi, 1933, pp 86–89. Missouri Southern State University. Archived from 【162†the original†www.mssu.edu】 on 17 November 2006. Retrieved 15 November 2006.
+L210:   8. 【163†↑】 【128†Pattinappaalai】, 【164†Porunaraatruppadai】 and a number of individual poems in Akananuru and 【103†Purananuru】 have been the main source for the information we attribute now to Karikala. See also K.A.N. Sastri, The Colas, 1935
+L211:   9. 【165†↑】 【166†The Periplus of the Erythraean Sea†books.google.com】. Ashgate Publishing. 1980. 【167†ISBN】 【168†978-0-904180-05-3】.
+L212:   10. 【169†↑】 Hellmann-Rajanayagam, Dagmar (1994). "Tamils and the meaning of history". Contemporary South Asia. 3 (1). Routledge: 3–23. 【170†doi】:【171†10.1080/09584939408719724†doi.org】.
+L213:   11. 【172†↑】 Schalk, Peter (2002). "Buddhism Among Tamils in Pre-colonial Tamilakam and Ilam: Prologue. The Pre-Pallava and the Pallava period". Acta Universitatis Upsaliensis. 19–20. 【173†Uppsala University】: 159, 503. "The Tamil stone inscription Konesar Kalvettu details King Kulakottan's involvement in the restoration of Koneswaram temple in 438 A.D. (Pillay, K., Pillay, K. (1963). South India and Ceylon);"
+L214:   12. 【174†↑】 【175†Sangam literature†www.britannica.com】, Encyclopaedia Britannica
+L215:   13. 【176†↑】 Silappadikaram book 11, lines 35–40
+L216:   14. 【177†↑】 Allen, C. (2017). 【178†Coromandel: A Personal History of South India†books.google.com】. Little, Brown Book Group. p. 154. 【167†ISBN】 【179†978-1-4087-0540-7】.
+L217:   15. 【180†↑】 【181†"27. King Killivazhavan"†web.archive.org】. Archived from 【182†the original†mudiraja.weebly.com】 on 29 June 2020. Retrieved 29 June 2020.
+L218:   16. 【183†↑】 【184†"Welcome to Sri Ranganathar Swamy Temple"†web.archive.org】. Archived from 【185†the original†srirangam.org】 on 30 October 2022. Retrieved 29 June 2020.
+L219:   17. 【186†↑】 【187†"History of Srirangam"†www.speakingtree.in】.
+L220:   18. 【188†↑】 【189†"Sri Ranganathaswamy Temple, Srirangam"†whc.unesco.org】.
+L221:   19. 【190†↑】 Kamil Veith Zvelebil, Companion Studies to the History of Tamil Literature, p12
+L222:   20. 【191†↑】 Nilakanta Sastri, A History of South India, p 105
+L223:   21. 【192†↑】 【166†The Periplus of the Erythraean Sea†books.google.com】. Ashgate Publishing. 1980. 【167†ISBN】 【168†978-0-904180-05-3】.
+L224: ## References
+L225: 
+L226: [【193†edit】]
+L227:   * Nilakanta Sastri, K.A. (1955). A History of South India, OUP, New Delhi (Reprinted 2002).
+L228:   * South Indian Inscriptions - 【194†http://www.whatisindia.com/inscriptions/†www.whatisindia.com】
+L229:   * Nagaswamy, R, Roman Karur, Brahadish Publications (1995)
+L230:   * Krishnamurthy, R Non-Roman Ancient Foreign Coins from Karur in India, Garnet Publishers, Chennai
+L231:   * Codrington, H. W. A short History of Ceylon, London (1926) <*【195†http://lakdiva.org/codrington/†lakdiva.org】>.
+L232:     Keay, John (2000). India: A History. New Delhi: Harper Collins Publishers. 【167†ISBN】 【196†0-00-255717-7】.
+L233:   * D Pugazhendhi Sanga Ilakkiyam (Tamil), Rig Veda, Mahabharata (Sanskrit), Old Testament (Hebrew), Egyptian hieroglyphs, and Greek ἄρχον (Achilles, Osiris, Bhishma and Karikalan), GJHSS Volume 26 Issue H1, 【134†https://socialscienceresearch.org/index.php/GJHSS/article/view/104671†socialscienceresearch.org】)
+L234:   * D. Pugazhendhi,Greek, Tamil and Sanskrit: Comparison between the Myths of Prometheus, Sembian and Sibi , Athens Journal of Philology – Volume 8, Issue 3, September 2021 – Pages 157-180, 【143†https://www.athensjournals.gr/philology/2021-8-3-1-Pugazhendhi.pdf†www.athensjournals.gr】)
+L235: 【197†Image】
+L236: 
+L237: Retrieved from "【44†https://en.wikipedia.org/w/index.php?title=Early_Cholas&oldid=1376555892】"
+L238: 
+L239: 【198†Categories】:
+L240: 
+L241:   * 【199†Chola dynasty】
+L242:   * 【200†History of Tiruchirappalli】
+L243: 
+L244: Hidden categories:
+L245:   * 【201†Articles with short description】
+L246:   * 【202†Short description matches Wikidata】
+L247:   * 【203†Use dmy dates from March 2017】
+L248:   * 【204†Use Indian English from March 2017】
+L249:   * 【205†All Wikipedia articles written in Indian English】
+L250:   * 【206†CS1: long volume value】
+L251:   * 【207†All articles with unsourced statements】
+L252:   * 【208†Articles with unsourced statements from August 2023】
+L253:   * 【209†Articles with unsourced statements from November 2022】
+L254:   * This page was last edited on 24 September 2026, at 22:36 (UTC).
+L255:   * Page was rendered with 【210†Parsoid†www.mediawiki.org】.
+L256:   * Text is available under the 【211†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【212†Terms of Use†foundation.wikimedia.org】 and 【213†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【214†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L257:   * 【213†Privacy policy†foundation.wikimedia.org】
+L258:   * 【5†About Wikipedia】
+L259:   * 【215†Disclaimers】
+L260:   * 【6†Contact Wikipedia】
+L261:   * 【216†Legal & safety contacts†foundation.wikimedia.org】
+L262:   * 【217†Code of Conduct†foundation.wikimedia.org】
+L263:   * 【218†Developers†developer.wikimedia.org】
+L264:   * 【219†Statistics†stats.wikimedia.org】
+L265:   * 【220†Cookie statement†foundation.wikimedia.org】
+L266:   * Search
+L267: 
+L268: [Input: Search Wikipedia]
+L269: 
+L270: [Input]
+L271: 
+L272: [Button: Search]
+L273: 
+L274: [Input] Toggle the table of contents
+L275: 
+L276: Early Cholas
+L277: 8 languages 【17†Add topic】

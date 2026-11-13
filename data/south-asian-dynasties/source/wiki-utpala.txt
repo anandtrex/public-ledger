@@ -1,0 +1,336 @@
+Utpala dynasty - Wikipedia (https://en.wikipedia.org/wiki/Utpala_dynasty)
+citeturn56view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Utpala_dynasty","lineno":null}); Total lines: 422
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47:   * 【17†(Top)】
+L48:   * 【18†1 Sources】 Toggle Sources subsection
+L49:     * 【19†1.1 Literature】
+L50:     * 【20†1.2 Coins】
+L51:   * 【21†2 History】 Toggle History subsection
+L52:     * 【22†2.1 Establishment】
+L53:     * 【23†2.2 Avantivarman】
+L54:     * 【24†2.3 Sankaravarman】
+L55:       * 【25†2.3.1 Accession and early rule】
+L56:       * 【26†2.3.2 Despotism and death】
+L57:     * 【27†2.4 Gopalavarman】
+L58:     * 【28†2.5 Sugandha】
+L59:     * 【29†2.6 Partha and Nirjitavarman】
+L60:     * 【30†2.7 Cakravarman and others】
+L61:       * 【31†2.7.1 Cakravarman restored】
+L62:     * 【32†2.8 Unmattavanti】
+L63:     * 【33†2.9 Suravarman II and disintegration】
+L64:   * 【34†3 Society】 Toggle Society subsection
+L65:     * 【35†3.1 Religion】
+L66:   * 【36†4 Art and architecture】 Toggle Art and architecture subsection
+L67:     * 【37†4.1 Literature】
+L68:     * 【38†4.2 Shrines and cities】
+L69:     * 【39†4.3 Sculpture】
+L70:   * 【40†5 List of rulers】
+L71:   * 【41†6 Notes】
+L72:   * 【42†7 References】
+L73: [Input] Toggle the table of contents
+L74: # Utpala dynasty
+L75: 
+L76: [Input] 9 languages
+L77: 
+L78:   * 【43†Deutsch†de.wikipedia.org】
+L79:   * 【44†हिन्दी†hi.wikipedia.org】
+L80:   * 【45†Bahasa Indonesia†id.wikipedia.org】
+L81:   * 【46†کٲشُر†ks.wikipedia.org】
+L82:   * 【47†Nederlands†nl.wikipedia.org】
+L83:   * 【48†தமிழ்†ta.wikipedia.org】
+L84:   * 【49†తెలుగు†te.wikipedia.org】
+L85:   * 【50†Українська†uk.wikipedia.org】
+L86:   * 【51†اردو†ur.wikipedia.org】
+L87: 
+L88: 【52†Edit links†www.wikidata.org】
+L89: 
+L90:   * 【53†Article】
+L91:   * 【54†Talk】
+L92: 
+L93: [Input] English
+L94: 
+L95:   * 【53†Read】
+L96:   * 【55†Edit】
+L97:   * 【56†View history】
+L98:   * 【17†Save】
+L99: [Input] Tools
+L100: 
+L101: Tools
+L102: 
+L103: [Button: move to sidebar] [Button: hide]
+L104: 
+L105: Actions
+L106: 
+L107:   * 【53†Read】
+L108:   * 【55†Edit】
+L109:   * 【56†View history】
+L110:   * 【17†Save】
+L111: 
+L112: General
+L113: 
+L114:   * 【57†What links here】
+L115:   * 【58†Related changes】
+L116:   * 【59†Upload file】
+L117:   * 【60†Permanent link】
+L118:   * 【61†Page information】
+L119:   * 【62†Cite this page】
+L120:   * 【63†Get shortened URL】
+L121:   * 【64†Switch to legacy parser】
+L122: 
+L123: Print/export
+L124: 
+L125:   * 【65†Download as PDF】
+L126:   * Printable version
+L127: 
+L128: In other projects
+L129: 
+L130:   * 【66†Wikidata item†www.wikidata.org】
+L131: 
+L132: Appearance
+L133: [Button: move to sidebar] [Button: hide]
+L134: Utpala dynasty 𑆇𑆠𑇀𑆥𑆬: 𑆫𑆳𑆘𑆮𑆁𑆯 (【67†Old Kashmiri】 and 【68†Sanskrit】)
+L135: ---
+L136: 855–1003
+L137: Copper 【69†stater】 of King Sankaravarman, Dupatalas (Kashmir), c. (circa) 883–902 CE^{【70†[1]】}^{【71†[2]】}^{【72†[3]】}
+L138: 【73†South Asia1000 CE】【74†Image: Utpala dynasty†thumb.wikimedia.org】
+L139: 【75†KARAKHANIDKHANATE】【76†KHOTAN】
+L140: 【77†GHAZNAVIDEMPIRE】
+L141: 【78†MULTANEMIRATE】【79†PALA EMPIRE】【80†KAMARUPA】
+L142: 【81†HINDUSHAHIS】【82†MARYUL】
+L143: 【53†UTPA-LAS】【83†GUHILAS】
+L144: 【84†CHUDA-SAMAS】
+L145: 【85†HABBARIDEMIRATE】【86†CHAHAMANAS】【87†TOMARAS】
+L146: 【88†MAKRANSULTANATE】【89†PARAMARAS】
+L147: 【90†SHILA-HARAS】
+L148: 【91†WESTERNCHALUKYAS】
+L149: 【92†EASTERNCHALUKYAS】【93†CHOLAS】【94†KADAMBAS】【95†CHANDELAS】【96†KALACHURIS】【97†SOMAVAMSHIS】【98†KALINGAS】【99†GUGE】 Location of the heartland of the Utpala dynasty, and neighboring polities circa 1000 CE
+L150: Capital  | 【100†Avantipur】
+L151: Common languages  | 【68†Sanskrit】 (official),【67†Kashmiri】 (common)
+L152: Religion  | 【101†Vaishnavism】
+L153: Government  | 【102†Monarchy】
+L154: Monarch  |
+L155: • 855–883  | 【103†Avantivarman】
+L156: • 885–902  | Shankaravarman
+L157: • 904–906  | 【104†Sugandha】
+L158: • 980–1003  | 【105†Didda】
+L159: Historical era  | 【106†Medieval India】
+L160: • Established  | 855
+L161: • Disestablished  | 1003
+L162: Preceded by Succeeded by
+L163: 【107†Image†upload.wikimedia.org】 【108†Karkoṭa Empire】
+L164: 【109†Lohara dynasty】 【107†Image†upload.wikimedia.org】
+L165: Today part of  | 【110†Afghanistan】
+L166: 【111†India】
+L167: 【112†Pakistan】
+L168: The Utpala Dynasty was a medieval 【113†Kashmiri Hindu】 dynasty that ruled over Kashmir from the 9th to 10th centuries. Founded by 【114†Avantivarman】 in 855, it replaced the 【115†Karkota dynasty】.
+L169: It came into existence in the northern region of the Indian subcontinent.^{【116†[4]】}^{【117†[5]】} The cities of 【100†Avantipur】 (Awantipora) and 【118†Suyapur】 (Sopore) were founded during the reign, and many 【119†Hindu temples】 dedicated to both 【120†Vishnu】 and 【121†Shiva】, and 【122†Buddhist monasteries】 were built, notable of which is the 【123†Avantiswara and Avantiswami】 temples.^{【124†[6]】}
+L170: ## Sources
+L171: 
+L172: [【125†edit】]
+L173: ### Literature
+L174: 
+L175: [【126†edit】]
+L176: 【127†Kalhana's Rajatarangini】, written in the 11th century, was meant to outline Kashmir's past. The book focused on the Utpala dynasty in its fifth section. The dynasty controlled the area from the 9th to 10th centuries, coming into existence in the northern part of the Indian subcontinent under 【114†Avantivarman】 in 855.^{【128†[7]】}^{【129†[8]】}^{【130†[a]】} He depended on a variety of material including earlier historical works, dynastic genealogies, inscriptions, coins and Puranas.^{【131†[10]】}
+L177: The work has a contested repute of being the only pre-modern work in Sanskrit resembling positivist notions of history; however, its accuracy is disputed—Zutshi and other scholars find the poem to be a blend of "mythical, political, social, spiritual, and geographical" narratives, which aimed at defining Kashmir as an idealized ethical space.^{【129†[8]】}^{【132†[11]】}^{【133†[12]】}^{【134†[13]】}^{【135†[9]】}^{【136†[14]】}^{【137†[15]】} Nonetheless, historical accuracy increases drastically from the fourth book onward, starting with the narration of Karkota dynasty; the book—typically the critical edition by 【138†Aurel Stein】—has been heavily cited to reconstruct Kashmiri history.^{【139†[16]】}^{【131†[10]】}^{【128†[7]】}^{【135†[9]】}^{【140†[b]】}
+L178: ### Coins
+L179: 
+L180: [【141†edit】]
+L181: 
+L182: Coins issued by all the major rulers of the Utpala dynasty have been found.^{【72†[3]】}
+L183: 
+L184: ## History
+L185: 
+L186: [【142†edit】]
+L187: ### Establishment
+L188: 
+L189: [【143†edit】]
+L190: Following the death of Cippatajayapida, the last significant king of the Karkota dynasty, around 840, a bitter power struggle erupted between his maternal uncles. The war between Padma, Utpala, Kalyana, Mamma, and Dharma to seize control of the empire grew increasingly bloody and the line of succession unclear. In the meantime, puppet kings were propped up and discarded, hailing from the Karkota lineage but failing to exert sufficient authority or establish stability.^{【128†[7]】}^{【144†[17]】}
+L191: Tribhuvanapida's son, Ajitapida was nominated by Utpala immediately after Cippatajayapida's death.^{【144†[17]】} A few years afterwards, Mamma waged a successful battle against Utpala, and installed Anangipida.^{【144†[17]】} Three years later, Utpala's son Sukhavarman rebelled successfully and installed Utpalapida, a son of Ajitapida.^{【144†[17]】} Within a few years, Sukhavarman set out to assume the throne for himself but was murdered by a relative; finally, his son Avantivarman deposed Utpalapida and claimed the throne c.
+L192: 855 with help from minister Sura, thus establishing the Utpala dynasty.^{【128†[7]】}^{【144†[17]】}
+L193: ### Avantivarman
+L194: 
+L195: [【145†edit】]
+L196: 
+L197: The 【146†Avantiswami Hindu Temple】 was built by Avantivarman.
+L198: 
+L199: 【114†Avantivarman of Kashmir】 was the founder of the dynasty, he ascended to the throne in about 855/856, and went on to rule for 27 years until 883.^{【144†[17]】} Rajatarangini records no military activity during his reign and frontier territories remained outside Kashmir sovereignty.^{【144†[17]】}
+L200: His minister Suyya was responsible for several innovations in the field of irrigation and water-management.^{【144†[17]】}^{【147†[18]】}
+L201: ### Sankaravarman
+L202: 
+L203: [【148†edit】]
+L204: 
+L205: Reliquary (?) with scenes from the Life of Buddha, Kashmir, at the time of the Utpala dynasty, 10th century CE. 【149†Metropolitan Museum of Art】.^{【150†[19]】}^{【151†[20]】}^{【152†[21]】}
+L206: #### Accession and early rule
+L207: 
+L208: [【153†edit】]
+L209: 
+L210: The death of Avantivarman led to a power struggle.^{【144†[17]】} 【154†Sankaravarman】 was placed at the helm of affairs by Ratnavardhana, the 【155†chamberlain】.^{【144†[17]】} However, counselor Karnapa throned Sukhavarman instead.^{【144†[17]】} Multiple battles were waged, before the latter emerged victorious.^{【144†[17]】}
+L211: Kalhana notes that Sankaravarman invaded 【156†Gujarat】 with an army composed of "nine lac infantrymen, three hundred elephants and one lac cavalry"; Alakhana, the local ruler had to gift a swath of territory to maintain his sovereignty.^{【144†[17]】}^{【157†[22]】}^{【158†[c]】} Samkaravarman was married to Sugandha, the daughter of a neighboring king and had at-least three other queens including one Surendravati.^{【144†[17]】} He is remarked to have brought cultural as well as economic prosperity.^{【144†[17]】}
+L212: #### Despotism and death
+L213: 
+L214: [【159†edit】]
+L215: 
+L216: However, the later years of his regime were cruel and marked by rampant oppression, especially from a fiscal perspective.^{【144†[17]】} Kalhana described him to be a "robber" who seized profits exacted by temples, plundered religious institutions and brought agraharas etc. under direct control of the crown whilst providing minimal compensations.^{【144†[17]】}
+L217: Forced labor were systematically legitimized in Kashmir for the first time and not rendering such services was made into an offense.^{【144†[17]】}^{【160†[23]】} New revenue offices were created and an elaborate taxation scheme was devised, which led to the employment of numerous Kayasthas in royal service.^{【144†[17]】} Kalhana blames these lowly Kayasthas for driving honest villagers to poverty and destroying all repute of Samkaravarman.^{【144†[17]】} Scholarship struggled to flourish and court-poets lived a pitiful existence, without pay.^{【144†[17]】} Famines and other calamities became commonplace.^{【144†[17]】}
+L218: These continued despite Gopalavarman accusing his father of unbound greed and inflicting terrible misfortune on the subjects.^{【144†[17]】} Finally, Shankaravarman died in 902 of a stray-arrow at a foreign territory, whilst returning from a successful conquest.^{【144†[17]】} His ministers guarded-back the corpse to Kashmir, where last respects were conferred and funeral rites organized; some of his queens and servants died by 【161†Sati】.^{【144†[17]】} Despite having thirty to forty issues, none other than Gopalavarman and Samkata survived past infancy, in what Kalhana ascribed to 【162†karma】.^{【144†[17]】}
+L219: ### Gopalavarman
+L220: 
+L221: [【163†edit】]
+L222: 
+L223: Gopalavarman was installed as the new king, with 【164†John Nemec】 noting that the labyrinthine series of coups to start with him would be worthy of a 【165†Mahabharata】-like epic.^{【166†[24]】} He had a short reign of two years (902–904) under the regency of Sugandha.^{【144†[17]】}
+L224: Gopalavarman led a famed 【167†expedition】 against a rebel Hindu Shahi king of 【168†Udabhanda】 c. 903 and bestowed the spoils on a "Toramana-Kamaluka."^{【144†[17]】} However, this victory however turned him haughty and the court became unapproachable for the commoners.^{【144†[17]】} Effective power began to wielded by Sugandha's paramour, Prabhakaradeva who was also the royal treasurer.^{【144†[17]】} This continued till he was caught in the act of embezzling state-coffers and a probe launched.^{【144†[17]】}
+L225: Prabhakaradeva employed Ramadeva—one of his relatives—to assassinate the king by practice of witchcraft.^{【144†[17]】} Gopalavarman died of a fever soon and Ramadeva died by suicide, after his conspiracy became public knowledge.^{【144†[17]】} Gopalavarman had at-least two consorts—Nanda, a child-girl and Jayalakshmi.^{【144†[17]】} He had no issue at the time of his death but Jayalakshmi was already pregnant.^{【144†[17]】} Consequently, Samkata ascended the throne only to die after ten days.^{【144†[17]】}
+L226: ### Sugandha
+L227: 
+L228: [【169†edit】]
+L229: 
+L230: Coinage of Queen 【104†Sugandha】. 'Sri Sugandha Deva' is written in 【170†Sharada script】.
+L231: 【104†Sugandha】 seized the throne after Samkata, apparently with an intention of securing it for her grandson (from Jayalakshmi); however, he died soon after birth.^{【144†[17]】} She took the throne for herself and ruled for two years—in an environment marked by upheaval of the Tantrins—before trying to install Nirjitavarman, a grandson of Suravarman as well as her blood-relative.^{【144†[17]】}
+L232: This was met with considerable resistance from the ministers as well as the Tantrins, on grounds of his lameness and they installed Nirjitavarman's child-son Partha instead.^{【144†[17]】} Thereafter, Nirjitavarman was retained as a regent but Sugandha and her counsel were ousted.^{【144†[17]】}^{【171†[d]】}
+L233: ### Partha and Nirjitavarman
+L234: 
+L235: [【172†edit】]
+L236: 
+L237: Crowned at an age of ten, his reign of ten years (906–921) were under the regency of Nirjitavarman, who in turn was a puppet at the hands of Tantrins and the ministers.^{【144†[17]】} The subjects were oppressed and heavy bribes were exacted.^{【144†[17]】}
+L238: Samkaravardhana, the eldest minister allied with another minister Sugandhaditya to plunder the royal finances; prime-minister Merubardhana's sons accrued riches as well.^{【144†[17]】} In 914, Sugandha sought to unsuccessfully regain the throne with help from Ekangas and clashed with the Tantrins in a battle; she was imprisoned and executed.^{【144†[17]】} In 917, Kalhana mentions of a flood which subsequently led to a cataclysmic famine; the ministers along with Tantrins made profits by selling hoarded rice at high prices.^{【144†[17]】}
+L239: Partha had multiple wives, a mistress Sambavati, and at-least two sons Unmattavanti and Samkaravarman II.^{【144†[17]】} Nirjitavarman had at-least two queens—Bappatadevi and Mrigavati, who was the daughter of Meruvardhana.^{【144†[17]】} Kalhana notes both of them to have entered into sexual relations with Sugandhaditya, in order to secure the throne for their respective sons—Cakravarman and Suravarman I.^{【144†[17]】} The entire span was marked by struggles for the throne between Partha and Nirjitavarman and in 921, Partha was finally overthrown by the Tantrins.^{【144†[17]】} Nothing is recorded by Kalhana about Nirjitavarman's rule of two years.^{【144†[17]】} He died, after having placed Cakravarman on the throne.^{【144†[17]】}
+L240: ### Cakravarman and others
+L241: 
+L242: [【173†edit】]
+L243: 
+L244: Four-Armed Goddess, possibly 【174†Sarada】, at the time of the Utpala dynasty, late 9th century CE. Jammu and Kashmir.^{【175†[25]】}^{【176†[26]】}
+L245: 
+L246: Cakravarman was yet another child-ruler; the Tantrins immediately tried to install back Partha but in vain.^{【144†[17]】} Cakravarman went on to rule for ten years (till 933/934), a few months under the regency of his mother and then, under grandmother Ksillika.^{【144†[17]】}
+L247: A new revolution by the Tantrins then installed Suravarman I; he ruled for about a year before being compelled to abdicate the throne, after failing to raise the demanded bribes.^{【144†[17]】} Partha was re-installed with Sambavati conciliating the Tantrins in his favor but deposed within a very short time-span, as Cakravarman promised the Tantrins with even greater riches.^{【144†[17]】} After restoration in 935, he installed Tantrins at important offices but had to flee again, after failing to raise enough taxes.^{【144†[17]】}
+L248: Following Cakravarman's abdication, Samkaravardhana dispatched his brother Sambhuvardhana to negotiate with the Tantrins on his behalf.^{【144†[17]】} In the negotiating tables, he promised even greater bribes and purchased the crown for himself, deceiving Samkaravardhana.^{【144†[17]】}
+L249: #### Cakravarman restored
+L250: 
+L251: [【177†edit】]
+L252: In the meanwhile, Cakravarman forged an alliance with the Damaras (led by Samgrama) in exile and their combined forces took on Sambhuvardhana in the spring of 936 near Padmapura—modern-day 【178†Pampore】.^{【144†[17]】} Samkaravardhana, who served as the war-commander for the tantrins was slain by Cakravarman himself, in what Kalhana described as a moment of impeccable valor and significance, as the rest were now easily routed.^{【144†[17]】} Cakravarman was reinstalled after a victory-parade through the city and he rejected pardoning Sambhuvardhana and a bunch of tantrins, who were caught whilst fleeing away.^{【144†[17]】}
+L253: His subsequent rule of about a year is held to be cruel and excessive, as Kalhana deems him to have been led astray by excessive praises and from intermingling with people from low castes.^{【144†[17]】}^{【179†[27]】} Particular criticism is reserved for his' granting an audience to Ranga, a famed singer from the lowly Domba caste; her daughters Hamsi and Nagalata are alleged to have ensnared the king in the process.^{【144†[17]】}^{【180†[28]】}^{【181†[29]】}
+L254: Hamsi soon became the chief-queen and began to control the affairs of state by installing fellow Dombas (and people who were subservient to them) at important offices: they became the king's closest friends and their oral commands were as powerful as royal decrees.^{【144†[17]】} Courtiers had to eat the remnants of 【182†food left over by the Dombas】 and ministers adorn clothes, bearing menstrual stains of Domba queens.^{【144†[17]】}^{【183†[30]】}^{【184†[31]】} Sacred spaces were regularly "polluted" by the low castes.^{【144†[17]】} Cakravarman's Domba counsel allegedly even made him rape a Brahmin wife during her ritualistic fast, on the pretext of 【185†atoning】 his sins for having engaged in sexual relations with out-caste women.^{【144†[17]】}
+L255: In the summer of 937, a group of Damara guards attacked Cakravarman in a privy at night and chased him into Hamsi's sleeping-chamber; Cakravarman—failing to locate any weapon—met with his end, in her embrace.^{【144†[17]】} Kalhana notes this to be a retaliation to his' killing numerous Damaras, in breach of the earlier alliance.^{【144†[17]】} Cakravarman's wives had allegedly urged the guards to 【186†stone】 his knees in his final dying moments.^{【144†[17]】}
+L256: ### Unmattavanti
+L257: 
+L258: [【187†edit】]
+L259: 
+L260: Unmattavanti ascended to the throne after Cakravarman, with help from minister Sarvata and others.^{【144†[17]】} In a regime marked by wanton violence, ridiculousness, and oppression, he was effectively controlled by a minister named Parvagupta, who desired for the throne.^{【144†[17]】} Unmattavanti employed Kayasthas in royal services and appointed Rakka, a Brahmin foot-soldier from the house of Samgrama, as the prime-minister.^{【144†[17]】}
+L261: At Parvagupta's behest, he had his brothers starved to death and his unarmed father (and step-mothers) assassinated.^{【144†[17]】} Kalhana mentions of Unmattavanti to have been delighted at seeing Partha's corpse, which was even dagger-ed by Parvagupta's son Devagupta in front of him.^{【144†[17]】} Kalhana also accuses Unmattavanti of engaging in a range of dastardly acts including mutilating pregnant women, 【188†amputating】 limbs of laborers, and hitting naked women at their 【189†cleavage】.^{【144†[17]】}
+L262: Unmattavanti has fourteen queens and probably no son.^{【144†[17]】} He died of a chronic disease in 939, suffering immense pain; before his death, he had Suravarman II (who was falsely proclaimed by the servants of his seraglio to be his own son) crowned.^{【144†[17]】}
+L263: ### Suravarman II and disintegration
+L264: 
+L265: [【190†edit】]
+L266: Suravarman II reigned for hardly a few days, before being ousted by his commander-in-chief Kamalvardhana, who had declared rebellion from his base in Madavarajya against the Damras (and by extension, the Utpalas).^{【144†[17]】} He fled the kingdom with his mother, bringing the Utpala Dynasty to an end.^{【144†[17]】} Kamalvardhana convened an assembly of Brahmins to appoint the next ruler, who rejected his self-nomination as well as a request from Suravarman II's mother.^{【144†[17]】}
+L267: Yasaskara, the son of Prabhakaradeva was instead chosen.^{【144†[17]】} This brought an end to the Utpala dynasty and would set the stage for 【105†Didda】's autocracy.^{【144†[17]】}
+L268: ## Society
+L269: 
+L270: [【191†edit】]
+L271: 
+L272: ### Religion
+L273: 
+L274: [【192†edit】]
+L275: 
+L276: Avantivarman was a devout Vaishnav in his private life but granted public patronage to Shiva.^{【193†[32]】} Vaikuntha Chaturmurti continued to be the 【194†tutelary deity】 of the Utpala dynasty. He was also venerated in adjoining regions.^{【195†[33]】}
+L277: 
+L278: ## Art and architecture
+L279: 
+L280: [【196†edit】]
+L281: ### Literature
+L282: 
+L283: [【197†edit】]
+L284: 
+L285: All surviving literature are traced from the court of Avantivarman, who was a famed patron of arts; 【198†Ratnākara】 and 【199†Ānandavardhana】 were his court-poets.^{【144†[17]】}
+L286: ### Shrines and cities
+L287: 
+L288: [【200†edit】]
+L289: Avantivarman along with his chief-minister Sura commissioned numerous temples and towns—Avantipura, Surapura and the 【146†Avantiswami Temple】.^{【144†[17]】} Suyya established the town of Suyyapura.^{【144†[17]】} Samkaravarman established Samkarapura (modern-day 【201†Pattan】) and, in conjunction with Sugandha, the Shiva-temples of Samkaragaurisa and Sugandhesa.^{【144†[17]】} Another Shiva-temple in Fattegarh has been dated to his times.^{【202†[34]】}^{【203†[e]】} Sugandha, during her rule, got constructed the towns of Sugandhapura and Gopalapura, the Vishnu temple Gopalakesava, and the monastery Gopalamatha.^{【144†[17]】} Nanda consecrated the shrines of Nandakesava and Nandamatha.^{【144†[17]】} Meruvardhana built the Vishnu shrine of Meruvardhanasvamin at Puranadhisthana (modern-day 【204†Pandrethan】).^{【144†[17]】} Sambavati was responsible for founding the Shiva-shrine of Sambveswara.^{【144†[17]】}
+L290:   * Remains of the 【146†Avantiswami Temple】 built by 【114†Avantivarman】, of the Utpala dynasty
+L291: 
+L292:   * Reliefs from the 【146†Avantiswami Temple】
+L293: ### Sculpture
+L294: 
+L295: [【205†edit】]
+L296: 
+L297:   * The Buddhist deity Chakrasamvara, 9th–10th century CE. LACMA.^{【206†[35]】}
+L298: 
+L299:   * Bodhisattva Padmapani, Kashmir, 10th century, 【207†Linden Museum】, Stuttgart
+L300: ## List of rulers
+L301: 
+L302: [【208†edit】]
+L303: Ruler  | Reign
+L304: --- | ---
+L305: 【103†Avantivarman】  | 855 – 883
+L306: 【154†Shankaravarman】  | 883 – 902
+L307: Gopalavarman  | 902 – 904
+L308: Sankata  | 904
+L309: 【104†Sugandha】  | 904 – 906
+L310: Partha  | 906 – 921
+L311: Nirjitavarman  | 921 – 922
+L312: Chakravarman  | 922 – 933
+L313: Shuravarman I  | 933 – 934
+L314: Partha (2nd reign)  | 934 – 935
+L315: Chakravarman (2nd reign)  | 935
+L316: Shankaravardhana (or Shambhuvardhana)  | 935 – 936
+L317: Chakravarman (3rd reign)  | 936 – 937
+L318: Unmattavanti ("Mad Avanti")  | 937 – 939
+L319: Shuravarman II  | 939
+L320: Yashaskara-deva  | 939
+L321: Varnata  | 948
+L322: Sangramadeva (Sanggrama I)  | 948
+L323: Parvagupta  | 948 – 950
+L324: Khemgupta  | 950 – 958
+L325: Abhimanyu II  | 958 – 972
+L326: Nandigupta  | 972 – 973
+L327: Tribhuvanagupta  | 973 – 975
+L328: Bhimagupta  | 975 – 980
+L329: 【105†Didda】  | 980 to 1009/1012
+L330: 【105†Didda】 (c. 980 – 1003) placed 【209†Samgrāmarāja】, son of her brother on the throne, who became founder of the 【109†Lohara dynasty】.
+L331: ## Notes
+L332: 
+L333: [【210†edit】]
