@@ -27,5 +27,6 @@ The income and R&D comparison at `/economy/income-and-research/` loads local sna
 
 The chart uses a vendored Plotly.js basic bundle in `assets/vendor/` (MIT license). The nominal GDP per capita chart has fixed axis ranges across years. Circle area represents total nominal GDP on a fixed size scale, with 2020 selected by default, and the trend checkbox controls an unweighted OLS fit against log10 GDP per capita. Data sources and snapshot dates are recorded in `data/income-and-research/README.md`. No external fonts, chart libraries, or data are requested by the browser.
 
+The second chart at `/economy/research-spending-and-output/` compares national R&D spending with four OECD publication and citation metrics across 27 research fields. It uses `data/research-output/output.json`, prepared offline with `python3 scripts/prepare-research-output.py`. Its source, coverage, and interpretation are documented in `data/research-output/README.md`.
 
 The homepage lists all `_posts/` entries and standalone pages with `listed: true`, sorted newest first. Listed pages need `date`, `section`, `title`, and `description` front matter. The two existing visualisations use this metadata and keep their original URLs.
